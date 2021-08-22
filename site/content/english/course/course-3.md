@@ -1,11 +1,11 @@
 ---
 title: "Promocija turističkih destinacija"
-date: 2019-07-06T15:27:17+06:00
+date: 2019-07-09T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Nudimo Vam mogućnost vođenja evidencije radnog vremena vozača, digitalizacije taho listića i izrade mesečnog plana veoma brzo i profesionalno po izuzetno povoljnim cenama."
+description : "Još jedna od naših usluga jeste i predstavljanje destinacije."
 # course thumbnail
 image: "images/courses/course-3.jpg"
 # taxonomy
@@ -24,13 +24,6 @@ apply_url : "contact"
 type: "course"
 ---
 
+Usluga predstavljanja turističkih destinacija je prvenstveno namenjena turističkim agencijama.
 
-### Uslužno vođenje evidencije radnog vremena vozača
-
-Nudimo Vam mogućnost vođenja evidencije radnog vremena vozača, digitalizacije taho listića i izrade mesečnog plana veoma brzo i profesionalno po izuzetno povoljnim cenama.
-
-- Digitalizacija taho listića
-- Obrada podataka sa taho listića
-- Kreiranje mesečnih izveštaja radnog vremena vozaca
-- Vođenje evidencije radnog vremena vozača u skladu sa zakonom o radnom vremenu vozača
-- Izveštaji na mesečnom nivou
+Ukoliko se radi o novoj destinaciji u ponudi, turističko mesto predstavljamo putnicima. Ako je ipak u pitanju poznata destinacija, fokusiramo se na zanimljivosti i podsećamo putnike. U skladu sa dogovorom, realizujemo i predstavljanje smeštajnih kapaciteta agencije.
