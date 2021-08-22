@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.png"
+  bg_image : "images/banner/banner.jpg"
   slider_item:
     # slider item loop
     - title : "Travel on bus way \n #travelonbusway"
@@ -40,7 +40,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.png"
+  image : "images/banner/banner-feature.jpeg"
   feature_item:
     # feature item loop
     - name : "Unapređenje"
@@ -74,7 +74,7 @@ blog:
 about:
   enable : true
   title : "O Balkan Transportu"
-  image : "images/about/about-us.jpg"
+  image : "images/logo_large.png"
   content : "Balkan Transport ima za cilj popularizaciju i unapređenje prevoza putnika autobusima, kako na tržištu  matične zemlje, Srbije, tako i šire. Tokom skoro decenijskog prisustva u javnosti, članovi Balkan Transport tima, svojim aktivnostima nastojali su da direktno utiču na kvalitet usluge autobuskih prevoznika.
 Osnivanjem i realizacijom mnogobrojnih projekata u skladu sa sopstvenim standardima, težimo da javnosti predočimo i približimo uslugu prevoza putnika u skladu sa potrebama savremenog čoveka. Upravo to je ono na čemu najaktivnije radimo, s obzirom na to da smo u većini slučajeva i sami svedoci najčešće nerazvijenosti usluge prevoza putnika kod nas.
 Balkan Transport je osnovan 2012. godine."
@@ -105,8 +105,8 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Naša misija"
-  content : " Prevoz putnika na našem tržištu danas, najčešće predstavlja samo prevoz od tačke A do tačke B. Čini se da, osim novijih voznih sredstava, usluga prevoza nimalo nije napredovala gotovo pet decenija, od 70-tih godina prošlog veka. Ovo se najjasnije može videti padom zadovoljstva putnika. Prema istraživanjima u Evropi, gotovo svaki drugi ispitanik nije potpuno zadovoljan uslugom prevoza. 
+  title : "Naša vizija"
+  content : " Prevoz putnika na našem tržištu danas, najčešće predstavlja samo prevoz od tačke A do tačke B. Čini se da, osim novijih voznih sredstava, usluga prevoza nimalo nije napredovala gotovo pet decenija, od 70-tih godina prošlog veka. Ovo se najjasnije može videti padom zadovoljstva putnika. Prema istraživanjima u Evropi, gotovo svaki drugi ispitanik nije potpuno zadovoljan uslugom prevoza.\n\n 
   Nećemo ispitivati koliki je procenat nezadovoljnih putnika kod nas, već ćemo se svojim angažmanom zalagati da i putnici koji su izbrisali autobus kao prevozno sredstvo, da se istom sa zadovoljstvom vrate.  Sa aspekta prevoznika, ovo nužno ne zahteva kupovinu novih, već najčešće predstavlja rad na usavršavanju postojećih voznih sredstava."
   # video link
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
@@ -124,19 +124,19 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "Godina sa Vama"
+    - name : "godina sa vama"
       count : "9"
 
     # funfact item loop
-    - name : "Pratilaca na Instagramu"
-      count : "2100"
+    - name : "pratilaca na Instagramu"
+      count : "2000"
 
     # funfact item loop
-    - name : "Pratilaca na Facebook-u"
+    - name : "pratilaca na Facebook-u"
       count : "13000"
 
     # funfact item loop
-    - name : "Maksimalan doseg objave"
+    - name : "maksimalan doseg objave"
       count : "100000"
 
 # funfact is for about page
