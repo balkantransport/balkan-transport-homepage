@@ -48,9 +48,9 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Balkan Transport"
 # contact info
-address = "Neka adresa 123/45"
-mobile = "061234567"
-email = "info@balkantransport.com"
+# address = "Neka adresa 123/45" - Ovo cemo vratiti u buducnosti kao i google maps
+mobile = "+381631341765"
+email = "balkantransportdoo@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -71,12 +71,12 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
-[params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png" # marker size 37*55 px
+# [params.map]
+# enable = true
+# gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# map_latitude = "51.5223477"
+# map_longitude = "-0.1622023"
+# map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
@@ -87,22 +87,22 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/BalkanTransport/"
 
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/BalkanTransport?s=09"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://instagram.com/balkan_transport?utm_medium=copy_link"
 
 [[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://youtube.com/c/BalkantransportNet"
 
 # [[params.social]]
 # title = "linkedin"
@@ -116,7 +116,7 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
-home = "Home"
+home = "Naslovna"
 # copyright
 copyright = "Copyright &copy; 2021 Balkan Transport"
 
@@ -126,12 +126,12 @@ copyright = "Copyright &copy; 2021 Balkan Transport"
 
 # main menu
 [[Languages.en.menu.main]]
-name = "About"
+name = "O nama"
 url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "course"
+name = "Usluge"
 url = "course"
 weight = 2
 
@@ -166,12 +166,12 @@ weight = 2
   # url = "research"
   
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Vesti"
 url = "blog"
 weight = 4
   
 [[Languages.en.menu.main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact"
 weight = 5
 

@@ -66,7 +66,7 @@ banner_feature:
 ############################# blog ################################
 blog:
   enable : true
-  title : "Blog"
+  title : "Vesti"
   # blog item comes from "content/**/blog" folder.
 
 
@@ -93,11 +93,11 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Jednim klikom do željenih informacija"
+  title : "Kontaktirajte nas"
   button:
     enable : true
-    label : "join now"
+    label : "PIŠITE NAM"
     link : "contact"
 
 
@@ -124,19 +124,19 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Godina sa Vama"
+      count : "9"
 
     # funfact item loop
-    - name : "COURSES"
-      count : "50"
+    - name : "Pratilaca na Instagramu"
+      count : "2100"
 
     # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+    - name : "Pratilaca na Facebook-u"
+      count : "13000"
 
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+    - name : "Maksimalan doseg objave"
+      count : "100000"
 
 # funfact is for about page
