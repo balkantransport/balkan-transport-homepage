@@ -1,11 +1,11 @@
 ---
-title: "Makete autobusa"
+title: "Izrada relacijskih tabli"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
+description : "Izrada relacijskih tabli u skladu sa sopstvenim zahtevima."
 # course thumbnail
 image: "images/courses/course-4.jpg"
 # taxonomy
@@ -13,20 +13,17 @@ category: ""
 # teacher
 teacher: ""
 # duration
-duration : "06 Month"
+duration : ""
 # weekly
-weekly : "03 hours"
+weekly : ""
 # course fee
-fee : "From: $699"
+fee : "Po dogovoru"
 # apply url
 apply_url : "#"
 # type
 type: "course"
 ---
 
+### Izrada relacijskih tabli
 
-### Makete autobusa
-
-Izrada maketa autobusa u skladu sa sopstvenim zahtevima.
-
-Bavimo se ručnom izradom maketa autobusa. Makete izrađujemo nalik pravom vozilu, ili sa dodatkom detalja po vašoj želji. Boju, šeme, registarske oznake, potpuno sve možete osmisliti i kontaktirati nas. Na nama je da Vašu ideju sprovedemo u delo. 
+Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije.
