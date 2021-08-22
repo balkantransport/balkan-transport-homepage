@@ -1,5 +1,5 @@
 ---
-title: "Promocija turističkih destinacija"
+title: "Uslužno vođenje evidencije radnog vremena vozača"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Nudimo Vam mogućnost vođenja evidencije radnog vremena vozača, digitalizacije taho listića i izrade mesečnog plana veoma brzo i profesionalno po izuzetno povoljnim cenama."
 # course thumbnail
-image: "images/courses/course-3.jpg"
+image: "images/courses/course-6.jpg"
 # taxonomy
 category: ""
 # teacher

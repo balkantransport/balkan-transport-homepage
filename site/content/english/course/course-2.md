@@ -13,11 +13,11 @@ category: ""
 # teacher
 teacher: ""
 # duration
-duration : "06 Month"
+duration : ""
 # weekly
-weekly : "03 hours"
+weekly : ""
 # course fee
-fee : "From: $699"
+fee : "Po dogovoru"
 # apply url
 apply_url : "#"
 # type

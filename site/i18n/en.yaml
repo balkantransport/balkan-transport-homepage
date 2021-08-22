@@ -59,7 +59,7 @@
   translation: weekly
 
 - id: fee
-  translation: fee
+  translation: Cena
 
 - id: teacher
   translation: teacher
@@ -111,3 +111,9 @@
 
 - id: download
   translation: Download
+
+- id: learn_more
+  translation: SAZNAJ VIŠE
+
+- id: posaljite_upit
+  translation: POŠALJITE UPIT

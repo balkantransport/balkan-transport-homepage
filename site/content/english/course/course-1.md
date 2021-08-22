@@ -1,5 +1,5 @@
 ---
-title: "Predstavljanje kompanije"
+title: "Promocija kompanije"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -13,11 +13,11 @@ category: ""
 # teacher
 teacher: ""
 # duration
-duration : "06 Month"
+duration : ""
 # weekly
-weekly : "03 hours"
+weekly : ""
 # course fee
-fee : "From: $699"
+fee : "Po dogovoru"
 # apply url
 apply_url : "#"
 # type
