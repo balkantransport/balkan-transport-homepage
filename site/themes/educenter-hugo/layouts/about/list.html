@@ -8,7 +8,7 @@
     <div class="row">
       <div class="col-12">
         {{ with .Params.image }}
-        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
+        <img class="img-fluid center-image mb-4" src="{{ . | relURL }}" alt="about image">
         {{ end }}
         {{ .Content }}
       </div>
@@ -27,6 +27,7 @@
       {{ range .funfact_item }}
       <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
         <div class="text-center">
+          <h5 class="text-white"> {{ i18n "over" }} </h5>
           <h2 class="count text-white" data-count="{{ .count }}">0</h2>
           <h5 class="text-white">{{ .name }}</h5>
         </div>
@@ -49,7 +50,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ i18n "our_teachers" }}</h2>
+        <h2 class="section-title">{{ i18n "our_team" }}</h2>
       </div>
     </div>
     <div class="row justify-content-center">

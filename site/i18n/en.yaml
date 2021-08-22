@@ -1,6 +1,9 @@
 - id: read_more
   translation: Read More
 
+- id: over
+  translation: Preko
+
 - id: contact_form
   translation: Contact Form
 
@@ -103,8 +106,8 @@
 - id: interest
   translation: SUMMARY OF ACTIVITIES/INTERESTS
 
-- id: our_teachers
-  translation: Our Teachers
+- id: our_team
+  translation: Naš tim
 
 - id: download
   translation: Download
