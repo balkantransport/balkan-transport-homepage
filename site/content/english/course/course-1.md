@@ -1,6 +1,6 @@
 ---
 title: "Promocija kompanije"
-date: 2019-07-06T15:27:17+06:00
+date: 2019-07-11T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -23,9 +23,6 @@ apply_url : "contact"
 # type
 type: "course"
 ---
-
-
-### Predstavljanje kompanije
 
 U skladu sa individualnim zahtevima, istorijat i priču vaše kompanije predstavljamo kroz foto i video materijal.
 

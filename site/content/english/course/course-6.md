@@ -24,9 +24,6 @@ apply_url : "contact"
 type: "course"
 ---
 
-
-### Uslužno vođenje evidencije radnog vremena vozača
-
 Nudimo Vam mogućnost vođenja evidencije radnog vremena vozača, digitalizacije taho listića i izrade mesečnog plana veoma brzo i profesionalno po izuzetno povoljnim cenama.
 
 - Digitalizacija taho listića
