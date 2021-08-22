@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-page.jpg"
 # meta description
-description : "(Svojim aktivnostima konstantno utičemo na uslove odvijanja prevoza putnika, a) Pod sloganom #travelonbusway aktivno promovišemo i popularizujemo prevoz putnika autobusima."
+description : "Svojim aktivnostima konstantno utičemo na uslove odvijanja prevoza putnika, a pod sloganom #travelonbusway aktivno promovišemo i popularizujemo prevoz putnika autobusima."
 ---
 
 ## Ko smo mi?
