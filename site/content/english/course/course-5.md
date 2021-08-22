@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
 # course thumbnail
-image: "images/courses/course-4.jpg"
+image: "images/courses/course-5.jpg"
 # taxonomy
 category: ""
 # teacher
@@ -19,7 +19,7 @@ weekly : ""
 # course fee
 fee : "Po dogovoru"
 # apply url
-apply_url : "#"
+apply_url : "contact"
 # type
 type: "course"
 ---

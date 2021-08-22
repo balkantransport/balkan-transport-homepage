@@ -1,32 +1,63 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
+title: "L&M Kostić Tours – porodična firma sa velikim ambicijama"
+date: 2020-10-12T15:27:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Tokom prethodnog meseca bili smo gosti firme L&M Kostić Tours iz Beograda, porodične firme sa velikim ambicijama i rezultatima iza sebe u prethodnom periodu."
 # post thumbnail
-image: "images/blog/post-2.jpg"
+image: "images/blog/post-2_1.jpg"
 # post author
-author: "John Doe"
+author: "Dušan Beraja"
 # taxonomy
-categories: ["Education System"]
-tags: ["Education", "Automation"]
+categories: ["Prevoznici"]
+tags: ["autobusi", "beograd", "iznajmljivanje autobusa", "kostić", "l&m", "l&m kostić tours", "lavli travel", "neoplan", "neoplan cityliner", "setra", "setra S415HD", "setra S431DT", "tours", "turizam", "van hool", "van hool astromega td927"]
 # type
 type: "post"
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+### L&M Kostić Tours – porodična firma sa velikim ambicijama
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Početkom meseca naša ekipa bila je gost firme “L&M Kostić Tours” iz Beograda, pružila se jedinstvena prilika za upoznavanje sa vlasnicima firme, sa glavnim ljudima u organizaciji ovog prevoznika, kao i upoznavanje sa voznim jedinicama kojima raspolažu.
 
+Nakon pandemije virusa “Covid 19” i određene normalizacije uslova putovanja, negde u prvi plan izbila je i ova firma, firma “L&M Kostić Tours” kao i njihovi saradnici iz turističke agencije “Lavli Travel”. Tokom letnjih meseci broj jedan su bile destinacije ka Grčkoj i Turskoj, ali ove godine zbog celokupne epidemiološke situacije, “morske destinacije” su uspešno zamenjene mnogim zanimljivim lokalitetima u Srbiji. Od iznuđenog rešenja, ubrzo su se razvijale i nove destinacije, naprosto, čovekova potreba za putovanjem i istraživanjem novog je jača i od svih okolnosti u kojima smo se našli prvi put posle jednog veka.
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+Ako se na muci poznaju junaci, slobodno se kao svetla tačka borbe u ovim teškim vremenima mogu predstaviti naši domaćini iz firme “L&M Kostić Tours” kao i njihovi partneri iz “Lavli Travela”.
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+Našu reportažu započećemo od onih najvažnijih, od slova L i od slova M, verujemo da je često i među korisnicima usluga bila dilema šta označavaju ova dva slova u imenu ovog prevoznika.
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+“L” i “M” su prva slova imena budućih naslednika firme “L&M Kostić Tours”, oslonac i najmlađa podrška roditeljima koji su glavni organizatori i dve osobe koje u najvećoj meri stoje iza ovog imena.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+#### Neoplan Cityliner
+Prvi i ujedno najupečatljiviji član voznog parka je Neoplan Cityliner u troosovinskoj verziji, koji prosto pleni svojim upečatljivim spoljnim izgledom. Savršen spoj jednostavnog i modernog dizajna uklopljeno je na često i ne baš omiljenu crnu boju vozila i predstavlja jedan od simbola prepoznavanja ove firme.
+
+Neoplan svojim jedinstvenim dizajnom prosto skuplja poglede gde god bi se pojavio, zbog svog izgleda i visokog paketa opreme neretko se koristi i za goste koji žele VIP uslugu.
+
+#### Setra S431DT
+
+Pored Neoplana, u voznom parku firme se nalaze i dva “dabl-dekera” marke Setra. Ova dva autobusa pružaju najviši nivo usluge velikim grupama i na najudaljenijim destinacijama, u različitim konfiguracijama sedišta.
+
+Setrin model S431DT je jedan od najprodavanijih autobusa na sprat u Evropi, radi se o modelu koji se proizvodi od 2002. godine i od tada je prodato više hiljada komada širom Evrope, iako je od prve Setre koja je izašla na drumove širom Evrope prošlo gotovo 18 godina i danas ovaj model predstavlja sam vrh kod turističkih autobusa. Ovaj model je kroz 18 godina doživeo nekoliko izmena, tzv. redizajn koji je rađen, doneo je sitne estetske nadogradnje kao i implementaciju modernih sigurnosnih sistema, modernih audio/video opreme, dodataka kojima je Setra išla u korak sa vremenom i pratila trendove i potrebe korisnika.
+
+U voznom parku firme L&M Kostić Tours, nalaze se dva primerka ovog modela, starija je u konfiguraciji 81+2 i sa Euro 5 motorom, kao i mlađa sa konfiguracijom 83+2. Oba su opremljena audio/video opremom, frižiderima, toaletom, A/C uređajem, kao i sa mogućnošću dodatnog prtljažnog prostora (tzv. skybox). Krasi ih takođe upečatljiva kombinacija slova i logotipa, na gotovo standardnoj beloj osnovnoj boji vozila. U nastavku malo hedonistiških detalja.
+
+#### Setra S415HD
+
+Nešto manji, ali ne i manje bitniji član voznog parka iz iste porodice proizvođača “Setra” je ujedno i jedan od najaktivnijih autobusa u prethodnom periodu, radi se o modelu S415HD koji smo prilikom posete zatekli odmah po dolasku sa jednog od mnogobrojnih radnih zadataka. Ujedno, jedinstvena prilika je bila i videti jedan od detalja spremanja vozila za neke naredne ture.
+
+Nakon detaljnog pranja i čišćenja, ostaju poslednje pripreme i sređivanje pred novu grupu i za neke nove putnike, vodi se računa o svakom detalju. Vozilo je opremljeno audio/video opremom, A/C, toaletom, kao i sa dodatnim prostorom za prtljag (skybox).
+
+#### Van Hool TD927 Astromega
+
+Najstariji član voznog parka, ujedno i najveći, dolazi iz porodice proizovđača “Van Hool” iz Belgije, radi se o modelu TD927 Astromega koji u ovoj izvedbi nudi konfiguraciju od 91+3 mesta. Namenjen je za najveće grupe i do najudaljenijih destinacija, opremljen je audio/video sistemom, A/C, toaletom.
+
+#### Mercedes Benz Sprinter
+
+Najmlađi, najmanji ali i najekskluzivniji je ostao za kraj, gotovo novi Mercedes Benz Sprinter je miljenik u voznom parku ovog prevoznika. Ovaj minibus je nadograđen u firmi “Munis Plast” radi se o najjačem modelu iz palete modela Mercedes Sprinter, sa 3.0 motorom od 190ks i automatskim menjačem, sa najvišim paketom opreme dostupan ovakvoj vrsti vozila, prvobitno zamišljen za klijente sa posebnim zahtevima, ali u novonastalim okolnostima primenu je našao u gotovo svakodnevnim radnim zadacima koji se za njega nalaze. Zbog celokupne situacije upravo su minibusevi i najtraženiji na tržištu prevoza. Opremljen je sa 21 sedištem za putnike, za velikim A/C uređajem, webasto predgrejačem, svako sedište je opremljeno sa usb priključcima za punjenje telefona, ambijentalno osvetljenje pruža potpuni ugođaj u vožnji za svakog putnika. U prilogu malo više o ovom “mališanu”.
+
+#### Za kraj...
+
+Preduzeće “L&M Kostić Tours” realizuje prevoz za veće i manje grupe kako u zemlji tako i u inostrastvu, firma poseduje licencu za obavljanje međunarodnog prevoza putnika. Vozni park je prilagođen potrebama svih vrsta putnika, u dogovoru sa vlasnicima može se prilagoditi potrebama i najzahtevnijih klijenata, visoka opremljenost svih vozila pružiće sve ono što je potrebno putniku kako na kraćim, tako i na dužim putovanjima.
+
+Naša ekipa želi da se zahvali na gostoprimstvu celokupnoj ekipi ove firme koja se potrudila da nam pruži sve potrebne informaciju i omogući nam adekvatne kadrove.
