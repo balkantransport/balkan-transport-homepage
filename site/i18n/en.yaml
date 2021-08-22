@@ -1,5 +1,5 @@
 - id: read_more
-  translation: Read More
+  translation: PROČITAJ VIŠE
 
 - id: over
   translation: Preko
@@ -23,13 +23,13 @@
   translation: Pišite nam
 
 - id: latest_article
-  translation: Latest Article
+  translation: Najnovije Vesti
 
 - id: categories
-  translation: Categories
+  translation: Kategorije
 
 - id: tags
-  translation: Tags
+  translation: Tagovi
 
 - id: see_all
   translation: See all
@@ -83,10 +83,10 @@
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: Kompanija
 
 - id: links
-  translation: links
+  translation: Linkovi
 
 - id: courses
   translation: Courses
@@ -117,3 +117,6 @@
 
 - id: posaljite_upit
   translation: POŠALJITE UPIT
+
+- id: most_read
+  translation: Najčitanije

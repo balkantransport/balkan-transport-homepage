@@ -19,7 +19,7 @@ weekly : ""
 # course fee
 fee : "Po dogovoru"
 # apply url
-apply_url : "#"
+apply_url : "contact"
 # type
 type: "course"
 ---
