@@ -31,7 +31,7 @@ p, .paragraph {
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
-  font-family: "futura-bold";
+  font-family: "Poppins", "futura-bold";
   font-weight: 700;
   line-height: 1.2; }
 
@@ -267,7 +267,7 @@ a h4:hover {
   color: #1e1e4b !important; }
 
 .font-secondary {
-  font-family: "futura-bold"; }
+  font-family: "Poppins", "futura-bold"; }
 
 .mb-10 {
   margin-bottom: 10px !important; }
@@ -454,6 +454,9 @@ textarea.form-control {
   height: 85px;
   width: 85px;
   object-fit: cover; }
+
+.height-100 {
+  height: 100%; }
 
 .top-header {
   font-size: 12px;
@@ -729,7 +732,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #0943A6;
-  font-family: "futura-bold";
+  font-family: "Poppins", "futura-bold";
   text-align: center;
   padding: 10px;
   color: #fff;
