@@ -365,13 +365,13 @@ textarea.form-control {
   margin-right: 28%; }
   @media (max-width: 767px) {
     #hashtag-list-item {
-      display: hidden !important; } }
+      display: none !important; } }
   @media (max-width: 575px) {
     #hashtag-list-item {
-      display: hidden !important; } }
+      display: none !important; } }
   @media (max-width: 370px) {
     #hashtag-list-item {
-      display: hidden !important; } }
+      display: none !important; } }
 .post-thumb-sm {
   max-width: 100px; }
 

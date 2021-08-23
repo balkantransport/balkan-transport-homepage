@@ -297,13 +297,13 @@ textarea.form-control{
 
   // TODO
   @include tablet {
-    display: hidden !important;
+    display: none !important;
   }
   @include mobile {
-    display: hidden !important;
+    display: none !important;
   }
   @include mobile-xs {
-    display: hidden !important;
+    display: none !important;
   }
 
 }
