@@ -30,7 +30,7 @@ Arriva je ponosni vlasnik nove generacije modela Tourisma u verziji sa dve osovi
 
 #### Mercedes – Benz Tourismo 16RHD/2, Arriva Litas Požarevac
 
-![Mercedes – Benz Tourismo 16RHD/2](images/blog/post-1_2.jpg "Mercedes – Benz Tourismo 16RHD/2")
+![Mercedes – Benz Tourismo 16RHD/2](/images/blog/post-1_2.jpg "Mercedes – Benz Tourismo 16RHD/2")
 
 Mercedes – Benz Tourismo 16RHD/2 je turistički autobus dugačak 13.1m, širok 2.55m, opremljen je motorom Mercedes OM470 od 10670cm3 koji isporučuje 265kw i ispunjava Euro VI D standard izduvnih gasova. Radi se o motoru sa šest cilindara (linijski raspoređeni), koji maksimalni obrtni momenat od 1700Nm dostiže pri 1200 obrtaja i isporučuje 265kW (360 konjskih snaga). Ovaj motor uparen je sa manuelnim menjačem (6 brzina + R) koji nosi oznaku Mercedes-Benz GO 210, prednja osovina je proizvođača ZF, dok je zadnja osovina proizvođača Mercedes Benz i nosi oznaku RO 440.
 
