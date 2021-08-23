@@ -458,6 +458,9 @@ textarea.form-control {
 .height-100 {
   height: 100%; }
 
+.space-around-card > img {
+  min-height: 47.3%; }
+
 .top-header {
   font-size: 12px;
   transition: transform .2s ease;
@@ -802,8 +805,7 @@ link:focus,
   padding-top: 275px;
   color: #8996a7; }
   .footer a {
-    color: #8996a7;
-    text-transform: capitalize; }
+    color: #8996a7; }
     .footer a:hover {
       text-decoration: underline;
       color: #fff; }
