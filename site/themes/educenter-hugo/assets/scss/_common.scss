@@ -292,6 +292,21 @@ textarea.form-control{
   height: 500px;
 }
 
+#hashtag-list-item{
+  margin-right: 28%;
+
+  // TODO
+  @include tablet {
+    display: hidden !important;
+  }
+  @include mobile {
+    display: hidden !important;
+  }
+  @include mobile-xs {
+    display: hidden !important;
+  }
+
+}
 
 
 .post-thumb-sm {
