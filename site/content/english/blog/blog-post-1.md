@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Početkom meseca naša ekipa bila je gost u Požarevcu, u okviru kompanije “Arriva Litas” predstavljena su nam najnovija pojačanja u voznom parku ove firme, ukupno sedam autobusa marke “Mercedes-Benz” već prevozi zadovoljne putnike."
 # post thumbnail
-image: "images/blog/post-1_1.jpg"
+image: "images/blog/blog1/post-1_1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -30,35 +30,63 @@ Arriva je ponosni vlasnik nove generacije modela Tourisma u verziji sa dve osovi
 
 #### Mercedes – Benz Tourismo 16RHD/2, Arriva Litas Požarevac
 
-![Mercedes – Benz Tourismo 16RHD/2](/images/blog/post-1_2.jpg "Mercedes – Benz Tourismo 16RHD/2")
-
 Mercedes – Benz Tourismo 16RHD/2 je turistički autobus dugačak 13.1m, širok 2.55m, opremljen je motorom Mercedes OM470 od 10670cm3 koji isporučuje 265kw i ispunjava Euro VI D standard izduvnih gasova. Radi se o motoru sa šest cilindara (linijski raspoređeni), koji maksimalni obrtni momenat od 1700Nm dostiže pri 1200 obrtaja i isporučuje 265kW (360 konjskih snaga). Ovaj motor uparen je sa manuelnim menjačem (6 brzina + R) koji nosi oznaku Mercedes-Benz GO 210, prednja osovina je proizvođača ZF, dok je zadnja osovina proizvođača Mercedes Benz i nosi oznaku RO 440.
+
+![Mercedes – Benz Tourismo 16RHD/2](/images/blog/blog1/post-1_2.jpg "Mercedes – Benz Tourismo 16RHD/2")
+
+![Mercedes – Benz Tourismo 16RHD/2](/images/blog/blog1/post-1_3.jpg "Mercedes – Benz Tourismo 16RHD/2")
 
 Ukupno tri komada ovog modela stigla su u Požarevac, opremljena su sa odličnim sedištima, kojih u ovoj izvedbi ima ukupno 55. U svakom redu sedišta sa obe strane nalaze se dva usb priključka za mobilne uređaje, vozilo je opremljeno i tolaetom kao i velikom kuhinjom i sa dva frižidera.
 
+![Mercedes – Benz Tourismo 16RHD/2](/images/blog/blog1/post-1_4.jpg "Mercedes – Benz Tourismo 16RHD/2")
+
 Opremljena su modernim sigurnosnim sistemima, kao što je EBS(Electro-pneumatic braking system), ABS (Anti-lock Braking System), SWR (Secondary Water Retarder), ASR (Acceleration Slip Regulation); BAS (Brake Assist System), sistem za regulaciju bezbednog rastojanja, sistemom za elektronsku nivelaciju vozila.
+
+![Mercedes – Benz Tourismo 16RHD/2](/images/blog/blog1/post-1_5.jpg "Mercedes – Benz Tourismo 16RHD/2")
 
 Takođe poseduje adaptivni tempomat, aktivni sistem asistencije prilikom kočenja, sistem automatskog kočenja (asistencije vozaču) prilikom rizičnih situacija, asistent za držanje saobraćajne trake (lane assist).
 
 #### Mercedes-Benz Tourismo 17RHD, Arriva Litas Požarevac
 
+![Mercedes-Benz Tourismo 17RHD](/images/blog/blog1/post-1_6.jpg "Mercedes-Benz Tourismo 17RHD")
+
 Mercedes – Benz Tourismo 17RHD je turistički autobus sa tri osovine, dužine 14 metara, širine 2.55 metara. Opremljen je motorom Mercedes OM470 od 10670cm3 koji isporučuje 290kw i ispunjava Euro VI D standard izduvnih gasova. Radi se o motoru sa šest cilindara (linijski raspoređeni), koji maksimalni obrtni momenat od 1900Nm dostiže pri 1100 obrtaja i isporučuje 290kW (395 konjskih snaga). Ovaj motor uparen je sa manuelnim menjačem (6 brzina + R) koji nosi oznaku Mercedes-Benz GO 210, prednja osovina je proizvođača ZF, zadnja osovina proizvođača Mercedes Benz i nosi oznaku RO 440, dok je treća, odnosno prateća osovina proizvođača ZF.
 
+![Mercedes-Benz Tourismo 17RHD](/images/blog/blog1/post-1_7.jpg "Mercedes-Benz Tourismo 17RHD")
+
+![Mercedes-Benz Tourismo 17RHD](/images/blog/blog1/post-1_8.jpg "Mercedes-Benz Tourismo 17RHD")
+
 Ukupno dva komada ovog modela stigla su u Požarevac, opremljena su sa odličnim sedištima, udobnim sedištima, kojih u ovoj izvedbi ima ukupno 59. U svakom redu sedišta sa obe strane nalaze se dva usb priključka za mobilne uređaje, vozilo je opremljeno i tolaetom kao i velikom kuhinjom i sa dva frižidera. Za razliku od svog “kraćeg” brata u ovom troosovinskom modelu značajno je veći razmak između sedišta, te je komfor i onim najzahtevnijim putnicima zagarantovan.
+
+![Mercedes-Benz Tourismo 17RHD](/images/blog/blog1/post-1_9.jpg "Mercedes-Benz Tourismo 17RHD")
 
 Kao i dvoosovinski model. opremljen je modernim sigurnosnim sistemima, kao što je EBS(Electro-pneumatic braking system), ABS (Anti-lock Braking System), SWR (Secondary Water Retarder), ASR (Acceleration Slip Regulation); BAS (Brake Assist System), sistem za regulaciju bezbednog rastojanja, sistemom za elektronsku nivelaciju vozila.
 
 Takođe poseduje adaptivni tempomat, aktivni sistem asistencije prilikom kočenja, sistem automatskog kočenja (asistencije vozaču) prilikom rizičnih situacija, asistent za držanje saobraćajne trake (lane assist).
 
+![Mercedes-Benz Tourismo 17RHD](/images/blog/blog1/post-1_10.jpg "Mercedes-Benz Tourismo 17RHD")
+
 #### Mercedes-Benz Tourismo 17RHD, Arriva Litas Požarevac
+
+![Mercedes-Benz Intouro L](/images/blog/blog1/post-1_11.jpg "Mercedes-Benz Intouro L")
 
 Mercedes – Benz Intouro L je međugradski autobus sa dve osovine, dužine 13,3 metara, širine 2.55 metara. Opremljen je motorom Mercedes OM936 od 7700cm3 koji isporučuje 220kw i ispunjava Euro VI standard izduvnih gasova. Radi se o motoru sa šest cilindara (linijski raspoređeni), koji maksimalni obrtni momenat od 1200Nm dostiže između 1200 i 1600 obrtaja i isporučuje 220kW (300 konjskih snaga). Ovaj motor uparen je sa manuelnim menjačem (6 brzina + R) koji nosi oznaku GO190, prednja osovina je proizvođača ZF, zadnja osovina proizvođača Mercedes Benz i nosi oznaku RO 440.
 
+![Mercedes-Benz Intouro L](/images/blog/blog1/post-1_12.jpg "Mercedes-Benz Intouro L")
+
+![Mercedes-Benz Intouro L](/images/blog/blog1/post-1_13.jpg "Mercedes-Benz Intouro L")
+
 Ukupno dva komada ovog modela stigla su u Požarevac, opremljena su sa turističkim sedištima, kojih u ovoj izvedbi ima ukupno 59. Ovaj autobus je shodno nameni, za međugradski saobraćaj (kraće distance) i nešto skromnije opreme u odnosu na turističke autobuse. Novost u odnosu na prethodne generacije koje su se odlično pokazale u Arrivi je i prisustvo frižidera, kao i sedišta za suvozača, koje u ranijim generacijama nije bilo prisutno.
+
+![Mercedes-Benz Intouro L](/images/blog/blog1/post-1_14.jpg "Mercedes-Benz Intouro L")
 
 Opremljen je modernim sigurnosnim sistemima, kao što je EBS(Electro-pneumatic braking system), ABS (Anti-lock Braking System), SWR (Secondary Water Retarder), ASR (Acceleration Slip Regulation); BAS (Brake Assist System), sistem za regulaciju bezbednog rastojanja, sistemom za elektronsku nivelaciju vozila.
 
 Takođe poseduje adaptivni tempomat, aktivni sistem asistencije prilikom kočenja, sistem automatskog kočenja (asistencije vozaču) prilikom rizičnih situacija, asistent za držanje saobraćajne trake (lane assist).
+
+![Mercedes-Benz Intouro L](/images/blog/blog1/post-1_15.jpg "Mercedes-Benz Intouro L")
+
+![Mercedes-Benz Intouro L](/images/blog/blog1/post-1_16.jpg "Mercedes-Benz Intouro L")
 
 Celokupan utisak o ovoj nabavci je pozitivan, nadamo se da će celokupna situacija sa virusom Covid 19 u što skorijem periodu prestati i da će se ova vozila koristiti u okruženju koje im najbolje pristaje na putevima širom Evrope i naše lepe Srbije.
 

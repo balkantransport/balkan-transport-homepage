@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Od petka 08.05.2020. ponovo se uspostavlja gradski prevoz na teritoriji grada Beograda i grada Niša."
 # post thumbnail
-image: "images/blog/post-3_1.jpg"
+image: "images/blog/blog3/post-3_1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -19,6 +19,8 @@ type: "post"
 
 ### Uspostavlja se gradski prevoz u Beogradu i Nišu
 
+![Arriva gradski](/images/blog/blog3/post-3_2.jpg "Arriva gradski")
+
 Shodno odlukama Vlade Republike Srbije koje su donete u cilju ublažavanja restriktivnih mera usled epidemije virusa Covid 19, od petka 08. maja, od 4 časova ujutru, ponovo se uspostavlja gradski i prigradski prevoz na teritoriji grada Beograda. Obzirom da je na teritoriji države još uvek aktuelna epidemija virusa korona, utvrđena su nova pravila, u cilju očuvanja zdravlja osoblja i korisnika gradskog prevoza. 
 
 **Vozno osoblje** će biti zaštićeno u okviru svog radnog mesta staklenim, plastičnim ili drugim transparentnim barijerama, u cilju smanjenja kontakata.
@@ -26,6 +28,8 @@ Shodno odlukama Vlade Republike Srbije koje su donete u cilju ublažavanja restr
 **Ulaz i izlaz** će se vršiti po uputstvima koja će biti vidno istaknuta na vratima. Jedna vrata će se koristiti samo za izlaz tj. ulaz putnika. Za svako vozilo je određen maksimalni broj putnika koji se može istovremeno nalaziti u vozilu. Shodno tome, za smeštaj putnika u vozilima, koristiće se samo mesta do prozora, dok će mesta do prolaza biti jasno obeležena da su van upotrebe. Ukoliko ne budete našli mesto za sedenje, možete koristiti jedno od obeleženih mesta za stajanje.
 
 **Upotreba klima uređaja će biti onemogućena**, već će se za provetravanje vozila koristiti prozori, vozači će na svakom terminusu biti dužni da provetre vozilo otvaranjem svih vrata. Ukoliko vozilo nema mogućnost za otvaranje prozora, upotreba klima uređaja biće moguća kada temperatura pređe 25 stepeni. Svim operaterima u Beogradu naloženo je čišćenje i osposobljavanje sistema klima uređaja, kao i dezinfekcija svih delova sistema za rashlađivanje putničkog prostora.
+
+![GSP Beograd](/images/blog/blog3/post-3_3.jpg "GSP Beograd")
 
 Dezinfekcija unutrašnjosti vozila će se vršiti na svakom terminusnom stajalištu ukoliko bude mogućnosti. Vozno i pomoćno osoblje biće opremljeno zaštitnom opremom u vidu maski i rukavica, a u zavisnosti od raspoloživosti i vizirima.
 
@@ -41,11 +45,15 @@ U najmanju ruku, nadležni iz sekretarijata i gradske uprave igraju se sa dva mi
 
 Shodno odlukama Vlade Republike Srbije koje su donete u cilju ublažavanja restriktivnih mera usled epidemije virusa Covid 19, od petka 08. maja, ponovo se uspostavlja gradski i prigradski prevoz na teritoriji grada Niša.
 
+![Gradski prevoz Niš](/images/blog/blog3/post-3_4.jpg "Gradski prevoz Niš")
+
 Na teritoriji grada Niša, javni prevoz će se odvijati po gotovo istim uslovima kao i u Beogradu. Dakle, upotreba javnog prevoza biće omogućena samo zaposlenim licima, uz posedovanje polumesečne ili mesečne karte, prilikom ulaska u vozilo kondukteru je neophodno pokazati, pored karte i radničku legitimaciju ili potvrdu iz kompanije.
 
 **Kupovina karata je moguća i u vozilu**, ali iz Direkcije za javni prevoz grada Niša apeluju da se ta mogućnost ne koristi iz razloga smanjenja kontakata i mogućnosti širenja virusa.
 
 **Ulaz i izlaz** će takođe biti omogućen samo na obeleženim vratima. Svaka vrata će imati isključivo jednu namenu. Upotreba klima uređaja će biti onemogućena, već će se za provetravanje vozila koristiti prozori.
+
+![Gradski prevoz Niš](/images/blog/blog3/post-3_5.jpg "Gradski prevoz Niš")
 
 Ulazak u vozila je zabranjen bez zaštitne opreme, maski i rukavica.
 
