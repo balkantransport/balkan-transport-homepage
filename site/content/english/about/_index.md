@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
-image: "images/logo_large.png"
+image: "images/logo_large_black.png"
 # meta description
 description : "Svojim aktivnostima konstantno utičemo na uslove odvijanja prevoza putnika, a pod sloganom #travelonbusway aktivno promovišemo i popularizujemo prevoz putnika autobusima."
 ---
