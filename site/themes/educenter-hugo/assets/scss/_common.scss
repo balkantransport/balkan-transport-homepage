@@ -293,7 +293,8 @@ textarea.form-control{
 }
 
 #hashtag-list-item{
-  margin-right: 28%;
+  //28% kada se prikazuje telefon
+  margin-right: 40%;
 
   // TODO
   @include tablet {

@@ -362,7 +362,7 @@ textarea.form-control {
   height: 500px; }
 
 #hashtag-list-item {
-  margin-right: 28%; }
+  margin-right: 40%; }
   @media (max-width: 767px) {
     #hashtag-list-item {
       display: none !important; } }
