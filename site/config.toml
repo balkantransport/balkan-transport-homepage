@@ -49,7 +49,7 @@ description = "This is meta description"
 author = "Balkan Transport"
 # contact info
 # address = "Neka adresa 123/45" - Ovo cemo vratiti u buducnosti kao i google maps
-mobile = "+381631341765"
+# mobile = "+381631341765"
 email = "balkantransportdoo@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
