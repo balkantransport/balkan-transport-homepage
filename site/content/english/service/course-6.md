@@ -21,7 +21,7 @@ fee : "Po dogovoru"
 # apply url
 apply_url : "contact"
 # type
-type: "course"
+type: "service"
 ---
 
 Nudimo Vam mogućnost vođenja evidencije radnog vremena vozača, digitalizacije taho listića i izrade mesečnog plana veoma brzo i profesionalno po izuzetno povoljnim cenama.

@@ -21,7 +21,7 @@ fee : "Po dogovoru"
 # apply url
 apply_url : "contact"
 # type
-type: "course"
+type: "service"
 ---
 
 U skladu sa individualnim zahtevima, istorijat i priču vaše kompanije predstavljamo kroz foto i video materijal.

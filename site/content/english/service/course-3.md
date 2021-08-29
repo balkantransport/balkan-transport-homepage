@@ -21,7 +21,7 @@ fee : "Po dogovoru"
 # apply url
 apply_url : "contact"
 # type
-type: "course"
+type: "service"
 ---
 
 Usluga predstavljanja turističkih destinacija je prvenstveno namenjena turističkim agencijama.

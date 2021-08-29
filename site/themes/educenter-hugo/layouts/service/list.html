@@ -1,20 +1,20 @@
 {{ define "main" }}
 
-<!-- courses -->
+<!-- services -->
 <section class="section">
   <div class="container">
-    <!-- course list -->
+    <!-- services list -->
     <div class="row justify-content-center">
-      <!-- course item -->
+      <!-- service item -->
       {{ range .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
-        {{ .Render "course" }}
+        {{ .Render "service" }}
       </div>
       {{ end }}
     </div>
-    <!-- /course list -->
+    <!-- /services list -->
   </div>
 </section>
-<!-- /courses -->
+<!-- /services -->
 
 {{ end }}
