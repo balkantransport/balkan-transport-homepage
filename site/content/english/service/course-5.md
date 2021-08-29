@@ -21,7 +21,7 @@ fee : "Po dogovoru"
 # apply url
 apply_url : "contact"
 # type
-type: "course"
+type: "service"
 ---
 
 Bavimo se ručnom izradom maketa autobusa. Makete izrađujemo nalik pravom vozilu, ili sa dodatkom detalja po vašoj želji. Boju, šeme, registarske oznake, potpuno sve možete osmisliti i kontaktirati nas. Na nama je da Vašu ideju sprovedemo u delo. 

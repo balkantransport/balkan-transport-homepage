@@ -21,7 +21,7 @@ fee : "Po dogovoru"
 # apply url
 apply_url : "contact"
 # type
-type: "course"
+type: "service"
 ---
 
 Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije.

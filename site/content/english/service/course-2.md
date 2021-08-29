@@ -21,7 +21,7 @@ fee : "Po dogovoru"
 # apply url
 apply_url : "contact"
 # type
-type: "course"
+type: "service"
 ---
 
 Promovišemo vašu liniju i predstavljamo vašu uslugu. Takođe, bavimo se i uslužnim marketingom i vođenjem profila na društvenim mrežama.

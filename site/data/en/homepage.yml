@@ -23,7 +23,7 @@ slider:
       button:
         enable : true
         label : "Više"
-        link : "course"
+        link : "service"
 
     # slider item loop
     - title : "Predstavljanje turističkih destinacija i agencija"
@@ -34,7 +34,7 @@ slider:
       button:
         enable : true
         label : "Više"
-        link : "course"
+        link : "service"
 
 
 ############################### Banner feature ###############################
