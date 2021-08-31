@@ -76,5 +76,5 @@ Gradski saobraćaj u Subotici počeće sa radom od 04.05.2020. godine, Rad javno
 Međugradski saobraćaj uspostavlja se delimično od ponedeljka 04.05.2020. godine, većina prevoznika počeće sa redukovanim brojem polazaka, zbog aktuelnog vandrednog stanja na teritoriji Republike Srbije, uzrokovanog epidemijom virusa “Covid 19”.\
 Pre nego što krenete na put, informišite se direktno kod prevoznika sa kojim bi trebalo da putujete, nadamo se normalizaciji međugradskog prevoza od sledeće nedelje.
 
-Izvor: JGSP NS; KGBus, direkcijaue
+**Izvor: JGSP NS; KGBus, direkcijaue**
 

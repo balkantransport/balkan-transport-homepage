@@ -69,4 +69,4 @@ Po otvaranju granica biće potreban niz mera kako bi se putovalo, pored testiran
 
 Po dostupnosti prvih informacija o otpočinjanju saobraćanja linija međunarodnog saobraćaja, blagovremeno ćemo obaveštavati o svim merama i detaljima neophodnim za korišćenje ovog vida prevoza.
 
-Foto: Balkan Transport; Lasta.rs; Niške Vesti; Niš Ekspres.
+**Foto: Balkan Transport; Lasta.rs; Niške Vesti; Niš Ekspres.**
