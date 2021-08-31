@@ -17,7 +17,7 @@ tags: ["bamiron", "gradski prevoz", "sejari doo", "autoprevoznici", "isuzu", "ja
 type: "post"
 ---
 
-Radi se o klasičnom niskopodnom gradskom autobusu dugačkom 12m, pokreće ga Cummins turbo-dizel motor radne zapremine 6.700 cm3, snage 220 kW/300 KS, koji ispunjava Euro 6D ekološku normu, upareni sa ZF automatskim šestostepenim menjačem. Vozilo je opremljeno klima uređajem, rampom za olakšani ulaz osobama sa invaliditetom, posebnim mesto za osobe u kolicima, kao i malu decu u kolicima. 
+Radi se o klasičnom niskopodnom gradskom autobusu dugačkom 12m, pokreće ga Cummins-ov turbo-dizel motor radne zapremine 6.700 cm3, snage 220 kW/300 KS, koji ispunjava Euro 6D ekološku normu, upareni sa ZF automatskim šestostepenim menjačem. Vozilo je opremljeno klima uređajem, rampom za olakšani ulaz osobama sa invaliditetom, posebnim mesto za osobe u kolicima, kao i malu decu u kolicima. 
 
 ![Isuzu Cityport za Bamiron BG](/images/blog/dva-isuzu-cityporta-za-bamiron/img2.jpg "Isuzu Cityport za Bamiron BG")
 

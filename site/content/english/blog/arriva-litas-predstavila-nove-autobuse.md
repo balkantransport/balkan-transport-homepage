@@ -66,7 +66,7 @@ Takođe poseduje adaptivni tempomat, aktivni sistem asistencije prilikom kočenj
 
 ![Mercedes-Benz Tourismo 17RHD](/images/blog/arriva-litas-predstavila-nove-autobuse/post-1_10.jpg "Mercedes-Benz Tourismo 17RHD")
 
-#### Mercedes-Benz Tourismo 17RHD, Arriva Litas Požarevac
+#### Mercedes-Benz Intouro L, Arriva Litas Požarevac
 
 ![Mercedes-Benz Intouro L](/images/blog/arriva-litas-predstavila-nove-autobuse/post-1_11.jpg "Mercedes-Benz Intouro L")
 
