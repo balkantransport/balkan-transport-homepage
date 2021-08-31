@@ -1,5 +1,5 @@
 ---
-title: "TURIZAM U DOBA KORONE: Kako preživljavaju prevoznici, turističke agencije, vodiči…"
+title: "TURIZAM U DOBA KORONE: prevoznici, vodiči…"
 date: 2020-05-11T15:27:17+06:00
 draft: false
 # page title background image
@@ -11,7 +11,7 @@ image: "images/blog/turizam-u-doba-korone/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
-categories: ["Turizam"]
+categories: ["Turizam", "Putnički saobraćaj"]
 tags: ["autoprevoznici", "covid19", "turizam"]
 # type
 type: "post"

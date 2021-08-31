@@ -88,5 +88,5 @@ U okviru autobuske stanice koja je u vlasništvu Arriva Litasa nalazi se i perio
 
 Postavlja se pitanje koje to kapacitete ima konzorcijum “Duga – Continental” ukoliko Arriva Litas ne ispunjava tehničke i poslovne kapacitete…
 
-Foto: Balkan Transport; EBraničevo.com\
-Izvor: EBraničevo; arriva.rs; Balkan Transport
+**Foto: Balkan Transport; EBraničevo.com**\
+**Izvor: EBraničevo; arriva.rs; Balkan Transport**

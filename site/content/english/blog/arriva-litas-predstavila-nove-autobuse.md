@@ -11,7 +11,7 @@ image: "images/blog/arriva-litas-predstavila-nove-autobuse/post-1_1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
-categories: ["Autobusi"]
+categories: ["Autobusi", "Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija", "mercedes-benz", "Turistički autobusi"]
 # type
 type: "post"
@@ -92,4 +92,4 @@ Celokupan utisak o ovoj nabavci je pozitivan, nadamo se da će celokupna situaci
 
 Za sam kraj veliku zahvalnost dugujemo direktoru saobraćaja kompanija Arriva Litas, gospodinu Krstiću, kao i celokupnoj ekipi iz Požarevca koji su bili pravi domaćini našoj ekipi, pre svega zahvaljujemo se Branku koji se potrudio da nam pruži što bolje kadrove novih vozila.
 
-Foto; Info: Balkan Transport
+**Foto&Info: Balkan Transport**
