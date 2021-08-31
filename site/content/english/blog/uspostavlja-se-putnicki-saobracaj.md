@@ -1,5 +1,5 @@
 ---
-title: "Uspostavlja se putnički saobraćaj, ostaju otvorena mnoga pitanja"
+title: "Uspostavlja se putnički saobraćaj"
 date: 2020-04-26T15:27:17+06:00
 draft: false
 # page title background image
@@ -17,7 +17,7 @@ tags: ["covid19", "gradski prevoz", "javni prevoz", "turizam", "prevoz putnika"]
 type: "post"
 ---
 
-Vandredno stanje na teritoriji Republike Srbije uvedeno je 16. marta 2020. godine, uzrokovanom globalnom pandemijom virusa “Covid 19”, redukovani su polasci u gradskom, međumesnom i međugradskom saobraćaju, da bi pet dana kasnije nastupila potpuna obustava javnog prevoza putnika na teritoriji cele zemlje, a zatvorene su i sve državne granice.
+Vandredno stanje na teritoriji Republike Srbije uvedeno je 16. marta 2020 godine, uzrokovanom globalnom pandemijom virusa “Covid 19”, redukovani su polasci u gradskom, međumesnom i međugradskom saobraćaju, da bi pet dana kasnije nastupila potpuna obustava javnog prevoza putnika na teritoriji cele zemlje, a zatvorene su i sve državne granice.
 
 Virus “Covid 19” (Korona virus) pojavio se u Srbiji početkom meseca marta, činjenica je da se o samom virusu na globalnom i ne zna mnogo, same mere prevencije sastoje se u socijalnom distanciranju, nošenju maski, zaštitnih rukavica, ne postoji šablon za to ko i na koji način može da se zarazi. Dosta informacija koje su dostupne javnosti zasnivaju se na pretpostavkama, tokom ove pandemije na globalnom nivou, svakodnevno se susrećemo sa novim slučajevima koji odudaraju od već poznatih činjenica, sa izuzecima.
 
