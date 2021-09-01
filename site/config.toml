@@ -45,7 +45,7 @@ link = "plugins/google-map/gmap.js"
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
+description = "Sve o aktuelnostima iz sveta saobraćaja, transporta i turizma."
 author = "Balkan Transport"
 # contact info
 # address = "Neka adresa 123/45" - Ovo cemo vratiti u buducnosti kao i google maps
