@@ -11,7 +11,7 @@ image: "images/blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
-categories: ["Prevoznic"]
+categories: ["Prevoznici"]
 tags: ["lasta", "Srbija"]
 # type
 type: "post"
