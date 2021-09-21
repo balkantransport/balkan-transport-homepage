@@ -21,4 +21,6 @@ Prema prvim informacijama, u autobusu su sa napadačem i tri vozača, zahvaljuju
 
 Specijalna jedinica Nemačke policije opkolila je autobus, prema navodima bild.de. Nakon dva sata talačke krize, specijalci su uhapsili naoružanog muškarca. Hapšenju su prethodile tri detonacije, nije poznato za sada da li ima povređenih u ovom napadu.
 
+Kako navodi Nemačka policija regije Srednje Franconie, u autobusu **nema povređenih**. Uskoro se očekuje deblokada autoputa.
+
 **Izvor: [https://www.bild.de/](https://m.bild.de/regional/nuernberg/nuernberg-news/greding-bayern-sek-einsatz-auf-a9-bewaffneter-mann-in-reisebus-77745496.bildMobile.html)**
