@@ -5,9 +5,9 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Izrada relacijskih tabli u skladu sa sopstvenim zahtevima."
+description : "Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije."
 # course thumbnail
-image: "images/courses/course-4.jpg"
+image: "images/courses/rel_table.jpg"
 # taxonomy
 category: ""
 # teacher
@@ -24,4 +24,14 @@ apply_url : "contact"
 type: "service"
 ---
 
-Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije.
+Izrada relacijskih tabli vrši u formatu 50x30cm sa dizajnom prilagođenom svakom kupcu.
+
+Izrada je moguća na dva materijala: 
+
+1. **Foreks** 3mm (tvrda plastika) sa glanc plastifikacijom koja služi kao zaštita štampi i zaštita od grebanja i spoljašnjih uticaja na tablu. Sam materijal je termootporan i dugotrajan. (Moguća izrada i u drugim formatima)
+
+2. **Kunstdruk** (premazani papir za štampu) štampa na ovom materijalu, predstavlja jeftinije, ali ne manje kvalitetno rešenje, vrši se glanc plastifikacija koja će štampi biti dugotrajna zaštita relacijskoj tabli, materijal je termootporan i dugotrajan. (Moguća izrada i u drugim formatima.) 
+
+Štampa se vrši obostrano ili jednostrano u zavisnosti od zahteva kupca. 
+
+Na veću količinu, mogući popusti.
