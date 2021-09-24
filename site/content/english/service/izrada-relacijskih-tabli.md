@@ -30,7 +30,7 @@ Izrada je moguća na dva materijala:
 
 1. **Foreks** 3mm (tvrda plastika) sa glanc plastifikacijom koja služi kao zaštita štampi i zaštita od grebanja i spoljašnjih uticaja na tablu. Sam materijal je termootporan i dugotrajan. (Moguća izrada i u drugim formatima)
 
-2. **Kunstdruk** (premazani papir za štampu) štampa na ovom materijalu, predstavlja jeftinije, ali ne manje kvalitetno rešenje, vrši se glanc plastifikacija koja će štampi biti dugotrajna zaštita relacijskoj tabli, materijal je termootporan i dugotrajan. (Moguća izrada i u drugim formatima.) 
+2. **Kunstdruk** (premazani papir za štampu) štampa na ovom materijalu, predstavlja jeftinije, ali ne manje kvalitetno rešenje, vrši se glanc plastifikacija koja će štampi biti dugotrajna zaštita, materijal je termootporan i dugotrajan. (Moguća izrada i u drugim formatima.) 
 
 Štampa se vrši obostrano ili jednostrano u zavisnosti od zahteva kupca. 
 
