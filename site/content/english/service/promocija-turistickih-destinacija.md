@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Još jedna od naših usluga jeste i predstavljanje destinacije."
 # course thumbnail
-image: "images/courses/course-3.jpg"
+image: "images/courses/nasl-destinacije.jpg"
 # taxonomy
 category: ""
 # teacher
