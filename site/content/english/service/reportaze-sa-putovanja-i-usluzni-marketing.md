@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Promovišemo vašu liniju i predstavljamo vašu uslugu. Takođe, bavimo se i uslužnim marketingom i vođenjem profila na društvenim mrežama."
 # course thumbnail
-image: "images/courses/course-2.jpg"
+image: "images/courses/nasl-reportaze.jpg"
 # taxonomy
 category: ""
 # teacher

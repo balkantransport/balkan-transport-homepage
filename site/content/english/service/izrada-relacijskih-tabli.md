@@ -1,5 +1,5 @@
 ---
-title: "Izrada relacijskih tabli"
+title: "Izrada relacijskih tabli ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌  "
 date: 2019-07-08T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije."
 # course thumbnail
-image: "images/courses/rel_table.jpg"
+image: "images/courses/nasl-rel_table.jpg"
 # taxonomy
 category: ""
 # teacher

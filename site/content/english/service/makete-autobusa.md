@@ -1,5 +1,5 @@
 ---
-title: "Makete autobusa"
+title: "Makete autobusa ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌  ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌"
 date: 2019-07-07T15:27:17+06:00
 draft: false
 # page title background image
@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
 # course thumbnail
-image: "images/courses/course-5.jpg"
+image: "images/courses/nasl-makete.jpg"
 # taxonomy
 category: ""
 # teacher

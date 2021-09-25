@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "U skladu sa individualnim zahtevima, istorijat i priču vaše kompanije predstavljamo kroz foto i video materijal."
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/nasl-promocia-kompanije.jpg"
 # taxonomy
 category: ""
 # teacher
