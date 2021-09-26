@@ -25,7 +25,7 @@ Futura u svojoj solo porodici nudi veliki broj različitih modela, sa različiti
 
 ![VDL Futura FDD2 eksterijer 2](/images/blog/ecs2021-vdl-futura-fdd2/img3.jpg "VDL Futura FDD2 eksterijer 2")
 
-U zavisnosti od želja kupca, kapacitet ovog autobusa na sprat može ići do 96 sedišta. U standardnom paketu, oba autobusa dolaze sa Daf motorom, MX-13 2600 sa 390kW, odnosno 530ks, radne zampremine od 12.9l, sa maksimalnim obrtnim momentum od 2600Nm pri 1000-1400 obrtaja. Dafov motor je uparen sa ZF Traxon automatskim menjačem, model TX 2811 BO sa dvanaest brzina.
+U zavisnosti od želja kupca, kapacitet ovog autobusa na sprat može ići do 96 sedišta. U standardnom paketu, oba autobusa dolaze sa Daf motorom, MX-13 2600 sa 390kW, odnosno 530ks, radne zampremine od 12.9l, sa maksimalnim obrtnim momentom od 2600Nm pri 1000-1400 obrtaja. Dafov motor je uparen sa ZF Traxon automatskim menjačem, model TX 2811 BO sa dvanaest brzina.
 
 Opciona je I ugradnja nešto slabijeg motora DAF MX-11, od 330kW (450ks) od 10,8l sa 2300Nm pri 900-1125 obrtaja, a kao opcija se nudi šestostepeni automatski ZF Ecolife menjač, model AP 2300 B.
 
