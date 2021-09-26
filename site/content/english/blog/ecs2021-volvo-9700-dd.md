@@ -3,7 +3,7 @@ title: "Euro Coach Test 2021: Volvo 9700DD"
 date: 2021-09-26T09:30:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/ech2021-volvo-background.jpg"
+bg_image: "images/backgrounds/blog/ecs2021-volvo-background.jpg"
 # meta description
 description : "Prošlo je oko 9 meseci od zvaničnog pojavljivanja prvog autobusa na sprat iz fabrike Volvo, početkom 2021. godine Volvo je javnosti predstavio Volvo 9700DD. Pre zvaničnog predstavljanja za tržište Evrope, nekolicina autobusa je svoje mesto našla na tržištu Švedske i Finske, kao neka vrsta test modela."
 # post thumbnail
