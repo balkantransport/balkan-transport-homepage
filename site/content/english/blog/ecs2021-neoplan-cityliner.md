@@ -39,10 +39,10 @@ Model na testu, dugačak je nepunih 13m, visine 3.7m i standardne širine 2.55m.
 
 Sedišta kojim je opremljen autobus kreirana su pre oko 2 godine, moguće ih je prilagoditi željama kupca, na svakom sedištu nalazi se usb port, kao i utičnice od 220v, a svako sedište ima prilagodljiv naslon za glavu putnika. Ovaj model opremljen je sa 42 sedišta, velikom kuhinjom sa mikrotalasnom pećnicom, aparatom za espreso kafu, velikim frižiderom.
 
-![Setra S511HD eksterijer 1](/images/blog/ecs2021-neoplan-cityliner/img8.jpg "Setra S511HD eksterijer 1")
+![Neoplan Cityliner eksterijer 1](/images/blog/ecs2021-neoplan-cityliner/img8.jpg "Neoplan Cityliner eksterijer 1")
 
-![Setra S511HD eksterijer 2](/images/blog/ecs2021-neoplan-cityliner/img9.jpg "Setra S511HD eksterijer 2")
+![Neoplan Cityliner eksterijer 2](/images/blog/ecs2021-neoplan-cityliner/img9.jpg "Neoplan Cityliner eksterijer 2")
 
-![Setra S511HD eksterijer 3](/images/blog/ecs2021-neoplan-cityliner/img10.jpg "Setra S511HD eksterijer 3")
+![Neoplan Cityliner eksterijer 3](/images/blog/ecs2021-neoplan-cityliner/img10.jpg "Neoplan Cityliner eksterijer 3")
 
 **Izvor: [www.bussmagasinet.no](https://bussmagasinet.no/)**

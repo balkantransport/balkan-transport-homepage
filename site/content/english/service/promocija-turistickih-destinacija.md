@@ -3,7 +3,7 @@ title: "Promocija turističkih destinacija"
 date: 2019-07-09T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/service/promocija-destinacija-background.jpg"
 # meta description
 description : "Još jedna od naših usluga jeste i predstavljanje destinacije."
 # course thumbnail
