@@ -3,7 +3,7 @@ title: "Reportaže sa putovanja i uslužni marketing"
 date: 2019-07-10T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/service/reportaze-background.jpg"
 # meta description
 description : "Promovišemo vašu liniju i predstavljamo vašu uslugu. Takođe, bavimo se i uslužnim marketingom i vođenjem profila na društvenim mrežama."
 # course thumbnail
