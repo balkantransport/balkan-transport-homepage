@@ -2,7 +2,7 @@
 title: "O nama"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title-o-nama.jpg"
 # about image
 image: "images/logo_large_black.png"
 # meta description
