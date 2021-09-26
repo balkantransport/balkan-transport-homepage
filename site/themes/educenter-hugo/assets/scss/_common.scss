@@ -67,6 +67,17 @@ a.text-light:hover {
   color: $primary-color!important;
 }
 
+// Dodato da bi tekst u page-header-u bio plav kad se hover-uje preko njega
+// Kada se ne hover-uje preko tog teksta, on je bele boje (klasa text-primary-white)
+a.text-primary-white:hover {
+  color: $primary-color!important;
+}
+
+a.text-light-white:hover {
+  color: $primary-color!important;
+}
+// Obrisati ove komentare kada u potpunosti zavrsim sa ovom klasom
+
 h4{
   transition: .2s ease;
 }
@@ -143,6 +154,10 @@ a h4{
 
 .text-primary {
   color: $primary-color !important;
+}
+
+.text-primary-white {
+  color: $white !important;
 }
 
 .text-color {
