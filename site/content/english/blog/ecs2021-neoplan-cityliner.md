@@ -1,5 +1,5 @@
 ---
-title: "Euro Coach Test 2021: Neoplan Cityliner"
+title: "Coach Euro Test 2021: Neoplan Cityliner"
 date: 2021-09-25T18:50:00+06:00
 draft: false
 # page title background image
@@ -12,7 +12,7 @@ image: "images/blog/ecs2021-neoplan-cityliner/img1.jpg"
 author: "Igor Nikolić"
 # taxonomy
 categories: ["Autobusi"]
-tags: ["neoplan", "euro coach test 2021"]
+tags: ["neoplan", "coach euro test 2021"]
 # type
 type: "post"
 ---

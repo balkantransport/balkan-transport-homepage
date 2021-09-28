@@ -1,5 +1,5 @@
 ---
-title: "Euro Coach Test 2021: Volvo 9700DD"
+title: "Coach Euro Test 2021: Volvo 9700DD"
 date: 2021-09-26T09:30:00+06:00
 draft: false
 # page title background image
@@ -12,7 +12,7 @@ image: "images/blog/ecs2021-volvo-9700-dd/img1.jpg"
 author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
-tags: ["volvo", "euro coach test 2021"]
+tags: ["volvo", "coach euro test 2021"]
 # type
 type: "post"
 ---
@@ -31,7 +31,7 @@ Već viđeno na gotovo svim novim autobusima, klasične retrovizore zamenjeni su
 
 Što se tiče enterijera, Volvo u ovom modelu nudi različite konfiguracije sedišta, sa različitim nivoima udobnosti i komfora, počevši od sedišta za kraće relacije, pa do udobnih sedišta za duža putovanja.
 
-Model koji se pojavio na testu „Euro Coach 2021“ ima 79 sedišta kao i Kielova sedišta koja pripadaju Volvo Comfort 3 seriji sedišta, koja su druga kategorija po udobnosti sedišta u ponudi Volvoa. Sedišta su ergonomska, pružaju odličnu potporu za leđa, međutim utisak koji se stiče da su sedišta previše uska i da nema dovoljan razmak između njih. Takođe, zamerka na testu ide na račun toaleta, gde kada se zatvore vrata, jednostavno postaje previše klaustrofobično, odnosno prostora gotovo da nema.
+Model koji se pojavio na testu „Coach Euro 2021“ ima 79 sedišta kao i Kielova sedišta koja pripadaju Volvo Comfort 3 seriji sedišta, koja su druga kategorija po udobnosti sedišta u ponudi Volvoa. Sedišta su ergonomska, pružaju odličnu potporu za leđa, međutim utisak koji se stiče da su sedišta previše uska i da nema dovoljan razmak između njih. Takođe, zamerka na testu ide na račun toaleta, gde kada se zatvore vrata, jednostavno postaje previše klaustrofobično, odnosno prostora gotovo da nema.
 
 ![Volvo 9700DD enterijer 1](/images/blog/ecs2021-volvo-9700-dd/img4.jpg "Volvo 9700DD enterijer 1")
 

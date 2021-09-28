@@ -1,5 +1,5 @@
 ---
-title: "Euro Coach Test 2021: Setra S 511 HD"
+title: "Coach Euro Test 2021: Setra S 511 HD"
 date: 2021-09-25T00:00:00+06:00
 draft: false
 # page title background image
@@ -12,12 +12,12 @@ image: "images/blog/ecs2021-setra-s511hd/img1.jpg"
 author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
-tags: ["setra", "euro coach test 2021"]
+tags: ["setra", "coach euro test 2021"]
 # type
 type: "post"
 ---
  
-Predstavnik jednog od najpoznatijeg proizvođača autobusa na izboru *"Euro Coach 2021"* je dakle, **Setra S511HD**, dužine od "svega" 10.5m. Ovaj model pokreće agregat proizvođača *"Mercedes"* OM470 sa 290 kW (394 konjske snage). Radi se o linijskom motoru koji je na ovom modelu uparen sa automatskim menjačem, proizvođača "Mercedes-Benz", model GO250 (PowerShift) sa 8 brzina.
+Predstavnik jednog od najpoznatijeg proizvođača autobusa na izboru *"Coach Euro 2021"* je dakle, **Setra S511HD**, dužine od "svega" 10.5m. Ovaj model pokreće agregat proizvođača *"Mercedes"* OM470 sa 290 kW (394 konjske snage). Radi se o linijskom motoru koji je na ovom modelu uparen sa automatskim menjačem, proizvođača "Mercedes-Benz", model GO250 (PowerShift) sa 8 brzina.
 
 Obzirom na dužinu, raspolaže neobično "velikim" brojem sedišta za putnike i može ih biti do 43. Model na takmičenju bio je opremljen sa 34 sedišta, tipa *Setra Voyage Ambassador*, sa luksuznim zaglavljem, kao i vezenim logom Setre na samom sedištu.
 
