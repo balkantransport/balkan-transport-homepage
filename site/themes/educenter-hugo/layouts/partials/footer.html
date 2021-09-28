@@ -77,7 +77,7 @@
         <div class="col-md-5 text-md-right text-center">
           <ul class="list-inline">
             {{ range site.Params.social }}
-            <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer"><i class="{{ .icon }} text-primary"></i></a></li>
+            <li class="list-inline-item"><a class="d-inline-block p-2" href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer"><i class="{{ .icon }} text-primary-white"></i></a></li>
             {{ end }}
           </ul>
         </div>
@@ -125,7 +125,7 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+	Ovaj sajt koristi kolačiće. Nastavkom korišćenja ove web stranice, pristajete na njihovu upotrebu. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">Prihvatam</span>
 </div>
 <script>
 	(function ($) {
@@ -153,9 +153,9 @@
   text-align: center;
   z-index: 9999;
   padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
+  background: rgb(248, 248, 248);
   transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
+  color: #0943A6;
 }
 
 .cookie-box-hide {
