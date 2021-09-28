@@ -490,13 +490,13 @@ section > .container .col-lg-8 .col-12 img {
     .navigation {
       background: #1a1a37; }
       .navigation .navbar-brand {
-        padding: 12px 0; } }
+        padding: 0px 0; } }
 @media (max-width: 991px) {
   .navbar-collapse {
     background: #1a1a37; } }
 
 .navbar-nav {
-  padding-left: 50px;
+  padding-left: 0;
   background: #0943A6; }
   @media (max-width: 991px) {
     .navbar-nav {
