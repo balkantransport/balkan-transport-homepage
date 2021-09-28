@@ -1,5 +1,5 @@
 ---
-title: "Euro Coach Test 2021: VDL Futura FDD2"
+title: "Coach Euro Test 2021: VDL Futura FDD2"
 date: 2021-09-26T09:30:00+06:00
 draft: false
 # page title background image
@@ -12,7 +12,7 @@ image: "images/blog/ecs2021-vdl-futura-fdd2/img1.jpg"
 author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
-tags: ["vdl", "euro coach test 2021"]
+tags: ["vdl", "coach euro test 2021"]
 # type
 type: "post"
 ---
