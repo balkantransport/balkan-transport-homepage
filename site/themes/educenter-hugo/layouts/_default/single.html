@@ -30,15 +30,16 @@
             <div class="border-bottom"></div>
           </div>
           <!-- blog contect -->
-          <div class="col-12 mb-5">
+          <!-- Nekada bila i klasa mb5 koji je dodavao marginu od 50px na kraju svakog bloga (uklonjen) -->
+          <div class="col-12">
             {{ .Content }}
           </div>
           <!-- comments -->
-          {{ if site.DisqusShortname }}
+          <!-- {{ if site.DisqusShortname }}
           <div class="col-12">
             {{ template "_internal/disqus.html" . }}
           </div>
-          {{ end }}
+          {{ end }} -->
         </div>
       </div>
       {{ partial "blog-sidebar.html" . }}
