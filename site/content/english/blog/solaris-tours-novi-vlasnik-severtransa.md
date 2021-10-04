@@ -1,6 +1,6 @@
 ---
 title: "Solaris Group novi vlasnik Severtransa iz Sombora"
-date: 2021-10-01T00:00:17+06:00
+date: 2021-10-04T00:00:17+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/blog/severtrans-solaris-background.jpg"
