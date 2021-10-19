@@ -16,8 +16,7 @@
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Vaš email">
           <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Naslov">
           <textarea name="message" id="message" class="form-control mb-3" placeholder="Poruka"></textarea>
-          <button data-sitekey="6LftD94cAAAAABAcRYYDkDCYfqkkEhc7dCievEcg" data-callback='onSubmit' data-action='submit'
-                  class="g-recaptcha btn btn-primary" type="submit" value="send" id="posalji_button">{{ i18n "send" }}</button>
+          <button class="btn btn-primary" type="submit" value="send" id="posalji_button">{{ i18n "send" }}</button>
         </form>
       </div>
       <div class="col-lg-5 content">
@@ -29,12 +28,6 @@
     </div>
   </div>
 </section>
-
-<script>
-  function onSubmit(token) {
-    document.getElementById("posalji_button").submit();
-  }
-</script>
 
 <!-- /contact -->
 
