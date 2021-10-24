@@ -8,16 +8,26 @@
         <h2 class="section-title">{{ i18n "contact_us" }}</h2>
       </div>
     </div>
+
+    <!-- Google reCAPTCHAv2 -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+     <script>
+       function onSubmit(token) {
+         document.getElementById("kontakt_forma").submit();
+       }
+    </script>
+
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
         <!-- <form action="{{ site.Params.contact_form_action | safeURL }}" method="POST" data-netlify="true"> -->
-        <form method="POST" data-netlify="true">
+        <form method="POST" data-netlify="true" id="kontakt_forma">
           <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Vaše ime">
           <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Vaš email">
           <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Naslov">
           <textarea name="message" id="message" class="form-control mb-3" placeholder="Poruka"></textarea>
-          <div class="g-recaptcha mb-3" data-sitekey="6LcTSO4cAAAAAJtTUKZ2kIiB_kra7ZWj4M-utxU9"></div>
-          <button class="btn btn-primary" type="submit" value="send" id="posalji_button">{{ i18n "send" }}</button>
+          <button class="btn btn-primary g-recaptcha" data-sitekey="6LcTSO4cAAAAAJtTUKZ2kIiB_kra7ZWj4M-utxU9" 
+                  data-callback='onSubmit' type="submit" value="send">{{ i18n "send" }}
+          </button>
         </form>
       </div>
       <div class="col-lg-5 content">
