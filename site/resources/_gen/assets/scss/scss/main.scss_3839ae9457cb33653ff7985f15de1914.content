@@ -157,7 +157,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center; }
-
+  @media (max-width: 575px) {
+    .preloader img {
+      width: 50%;
+      height: 50%; } }
 ol,
 ul {
   list-style-type: none;
@@ -654,7 +657,7 @@ link:focus,
   margin-left: 0px;
   margin-right: 0px;
   padding-left: 70px;
-  padding-top: 80px;
+  padding-top: 40px;
   padding-right: 30%; }
   @media (max-width: 1400px) {
     .feature-blocks {
