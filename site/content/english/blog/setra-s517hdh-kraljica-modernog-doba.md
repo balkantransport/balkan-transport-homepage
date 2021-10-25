@@ -53,4 +53,5 @@ Tu je važno napomenuti novi sistem filtracije vazduha kroz klima uređaj, koji 
 
 ![Setra S517HDH Enterijer 3](/images/blog/setra-s517hdh-kraljica-modernog-doba/img9.jpg "Setra S517HDH Enterijer 3")
 
-**Foto&Info: Balkan Transport**
+**Izvor: [Daimler Benz Media](https://www.setra-bus.com/en_DE/models/tc-hdh-models/models.html)**\
+**Deo fotografija: @247busspoting na Instagramu**
