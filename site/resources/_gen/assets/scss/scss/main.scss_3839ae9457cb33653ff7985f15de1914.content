@@ -159,8 +159,8 @@ body {
   justify-content: center; }
   @media (max-width: 575px) {
     .preloader img {
-      width: 50%;
-      height: 50%; } }
+      max-width: 100%;
+      height: auto; } }
 ol,
 ul {
   list-style-type: none;
