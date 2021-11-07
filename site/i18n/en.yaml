@@ -118,5 +118,5 @@
 - id: posaljite_upit
   translation: POŠALJITE UPIT
 
-- id: most_read
-  translation: Najčitanije
+- id: actual
+  translation: Aktuelno
