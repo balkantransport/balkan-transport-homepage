@@ -215,6 +215,9 @@ a h4:hover {
 .section {
   padding-top: 90px;
   padding-bottom: 90px; }
+  .section-news {
+    padding-top: 40px;
+    padding-bottom: 0px; }
   .section-sm {
     padding-top: 40px;
     padding-bottom: 40px; }
@@ -389,7 +392,8 @@ textarea.form-control {
 
 /* pagination */
 .pagination {
-  justify-content: center; }
+  justify-content: center;
+  margin-bottom: 70px; }
   .pagination .page-item {
     margin: 0 10px; }
     .pagination .page-item.active .page-link {
