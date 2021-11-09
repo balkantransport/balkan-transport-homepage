@@ -102,6 +102,11 @@ a h4{
   padding-top: 90px;
   padding-bottom: 90px;
 
+  &-news {
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+
   &-sm {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -340,6 +345,7 @@ textarea.form-control{
 /* pagination */
 .pagination {
   justify-content: center;
+  margin-bottom: 70px;
   .page-item {
     margin: 0 10px;
 
