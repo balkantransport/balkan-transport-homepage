@@ -1,0 +1,95 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <!-- event image -->
+      <div class="col-12">
+        <img style="object-fit: cover;" src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1-test.jpg" alt="{{ .Title }}" class="img-fluid">
+      </div>
+    </div>
+    <!-- event info -->
+    <div class="row align-items-center mb-5">
+    </div>
+    <!-- event details -->
+    <div class="row">
+      <div class="col-12 mb-30 content">
+        <button type="button" class="collapsible">VDL Grupa</button>
+        <div class="collapsible-category-content">
+          <p>VDL Grupa je osnovana 1953. godine u Ajndhovenu u Holandiji. U sklopu VDL Grupe poslovale su podružnice koje su imale najveći vid autonomije i samostalnosti u poslovanju. Delatnosti kompanije obuhvatao je širi spektar usluga automobilske industrije. Odeljenje autobusa se sastojalo od autobusa, gradskih autobusa, šasija za autobuse, polovnih i mini i midi autobusa. Sa druge strane, odeljenje gotovih proizvoda je bilo obimno, pa je tako postojala mogućnost da se u ponudi VDL-a nađu proizvodi od sistema vešanja za automobilsku industriju, sistema automatizacije proizvodnje, sistema za grejanje, hlađenje i vazdušno-tehničkih sistema, pa do sistema za naftnu i petrohemijsku industriju, mašina za proizvodnju cigareta i proizvodnih sistema za optičke medije i medicinske svrhe.</p>
+          <p>Kompaniju je osnovao Piter van der Legte, otuda i ime kompaniji VDL Grupa. </p>
+        </div>
+        <button type="button" class="collapsible mb-30">VDL Bus & Coach</button>
+        <div class="collapsible-category-content">
+          <p>Celokupni autobuski deo VDL Grupe, od 2012. godine posluje pod imenom VDL Bus & Coach. Proizvodni pogoni nalaze se u Holandiji i Belgiji, a pored fokusa na turistička i prigradska vozila sa tradicionalnim pogonom, VDL Bus & Coach značajno radi na usavršavanju i unapređenju svoje ponude električnih autobusa. U sklopu kompanije posluju nekadašnje podružnice VDL Grupe, od kojih su neke svojevremeno imale i svoje linije modela. Našem tržištu najpoznatiji proizvođači koji su sada deo ove kompanije su Berkhof, Bova i Jonckheere. U cilju racionalizacije, usavršavanja ponude i isticanja brenda, menadžment kompanije odlučuje da najbolje iz modela ovih kompanija implementira u modele Citea i Futura. U zavisnosti od želje kupaca, ova dva modela se svojim konfiguracijama mogu prilagoditi širokom spektru potreba kupca i putnika, od putovanja po gradu modelom Citea, do dugih i višednevnih turističkih tura modelom Futura u izvedbama na dve ili tri osovine, ili čak i u deker varijanti.</p>
+        </div>
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+  {{ if $data.homepage.funfactsvdl.enable }}
+  {{ with $data.homepage.funfactsvdl }}
+  <section class="section-sm bg-primary mb-70">
+    <div class="container">
+      <div class="row">
+        <!-- funfacts item -->
+        {{ range .funfact_item }}
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+          <div class="text-center">
+            <h1 class="count text-white" data-count="{{ .count }}">0</h2>
+            <h5 class="text-white">{{ .name }}</h5>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+  {{ end }}
+  <div class="container">
+    <!-- event partners -->
+    <div class="row">
+      <div class="col-12">
+        <h2 class="mb-4">{{ i18n "proud_partners"}}</h3>
+      </div>
+      <!-- partners -->
+      {{ range .Params.Speaker }}
+      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+        <div class="media">
+         {{ with .image }}<img class="mr-3 img-fluid" src="{{ . | relURL }}" alt="speaker">{{ end }}
+          <!-- <div class="media-body">
+            <h4 class="mt-0">{{ .name }}</h4>
+            {{ .designation }}
+          </div> -->
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("collapsible-active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+  </script>
+
+{{ end }}

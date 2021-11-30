@@ -74,7 +74,7 @@ blog:
 about:
   enable : true
   title : "O Balkan Transportu"
-  image : "images/logo_large_black.png"
+  image : "images/logo/logo_black.svg"
   content : "Balkan Transport ima za cilj popularizaciju i unapređenje prevoza putnika autobusima, kako na tržištu  matične zemlje, Srbije, tako i šire. Tokom skoro decenijskog prisustva u javnosti, članovi Balkan Transport tima, svojim aktivnostima nastojali su da direktno utiču na kvalitet usluge autobuskih prevoznika.
 Osnivanjem i realizacijom mnogobrojnih projekata u skladu sa sopstvenim standardima, težimo da javnosti predočimo i približimo uslugu prevoza putnika u skladu sa potrebama savremenog čoveka. Upravo to je ono na čemu najaktivnije radimo, s obzirom na to da smo u većini slučajeva i sami svedoci najčešće nerazvijenosti usluge prevoza putnika kod nas.
 Balkan Transport je osnovan 2012. godine."
@@ -138,5 +138,27 @@ funfacts:
     # funfact item loop
     - name : "maksimalan doseg objave"
       count : "100000"
+
+# funfact is for about page
+
+########################### funfacts ############################
+funfactsvdl:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "kompanija"
+      count : "7"
+
+    # funfact item loop
+    - name : "vozila"
+      count : "18"
+
+    # funfact item loop
+    - name : "generacije"
+      count : "3"
+
+    # funfact item loop
+    - name : "izvedbi"
+      count : "9"
 
 # funfact is for about page
