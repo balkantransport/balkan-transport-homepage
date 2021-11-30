@@ -11,7 +11,6 @@ disqusShortname = "educenter" # get your shortname form here : https://disqus.co
 # disable language
 disableLanguages = [] # desable language from here
 
-
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -134,11 +133,21 @@ weight = 1
 name = "Usluge"
 url = "service"
 weight = 2
+  
+[[Languages.en.menu.main]]
+name = "Vesti"
+url = "blog"
+weight = 3
+  
+[[Languages.en.menu.main]]
+name = "Kontakt"
+url = "contact"
+weight = 4
 
-# [[Languages.en.menu.main]]
-# weight = 3
-# name = "Pages"
-# hasChildren = true
+[[Languages.en.menu.main]]
+weight = 5
+name = "Projekti"
+hasChildren = true
 
   # [[Languages.en.menu.main]]
   # parent = "Pages"
@@ -146,14 +155,14 @@ weight = 2
   # url = "teacher"
 
   # [[Languages.en.menu.main]]
-  # parent = "Pages"
+  # parent = "teacher"
   # name = "notice"
   # url = "notice"
 
-  # [[Languages.en.menu.main]]
-  # parent = "Pages"
-  # name = "event"
-  # url = "event"
+  [[Languages.en.menu.main]]
+  parent = "Projekti"
+  name = "VDL Berkhof: Dve uspešne decenije"
+  url = "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/"
 
   # [[Languages.en.menu.main]]
   # parent = "Pages"
@@ -164,17 +173,6 @@ weight = 2
   # parent = "Pages"
   # name = "research"
   # url = "research"
-  
-[[Languages.en.menu.main]]
-name = "Vesti"
-url = "blog"
-weight = 4
-  
-[[Languages.en.menu.main]]
-name = "Kontakt"
-url = "contact"
-weight = 5
-
 
 # footer menu
 
@@ -188,7 +186,7 @@ url = "notice"
 
 [[Languages.en.menu.footer]]
 name = "event"
-url = "event"
+url = "project"
 
 [[Languages.en.menu.footer]]
 name = "scholarship"
