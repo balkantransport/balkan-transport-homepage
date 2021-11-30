@@ -61,7 +61,7 @@
       <!-- partners -->
       {{ range .Params.Speaker }}
       <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
-        <div class="media">
+        <div class="media" style="justify-content: center">
          {{ with .image }}<img class="mr-3 img-fluid" src="{{ . | relURL }}" alt="speaker">{{ end }}
           <!-- <div class="media-body">
             <h4 class="mt-0">{{ .name }}</h4>
