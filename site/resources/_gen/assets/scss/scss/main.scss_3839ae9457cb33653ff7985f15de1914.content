@@ -481,6 +481,9 @@ textarea.form-control {
 section > .container .col-lg-8 .col-12 img {
   width: 100%; }
 
+section > .container .col-12 img {
+  width: 100%; }
+
 .collapsible {
   color: #fff;
   background-color: #0943A6;
