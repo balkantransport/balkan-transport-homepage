@@ -19,9 +19,10 @@ image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1-test.jpg"
 # apply url
 # apply_url : "#"
 # event speaker
-speaker:
-  # speaker loop
+partners:
+  # partner loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo1.jpg"
+    partnerUrl : "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/presto"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo2.jpg"
