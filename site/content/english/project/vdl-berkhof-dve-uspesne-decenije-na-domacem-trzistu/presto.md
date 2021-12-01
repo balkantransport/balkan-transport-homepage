@@ -7,7 +7,7 @@ bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto
 # about image
 image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img1.jpg"
 # meta description
-description : "Kompanija Presto obavlja javni gradski prevoz na teritoriji glavnog grada, vanlinijski prevoz, kao i linijski prevoz. U našem projektu kompanija Presto učestvuju sa dva primerka modela Axial 70."
+description : "Kompanija Presto obavlja javni gradski prevoz na teritoriji glavnog grada, vanlinijski prevoz, kao i linijski prevoz. U našem projektu kompanija Presto učestvuje sa dva primerka modela Axial 70."
 type: "research"
 ---
 
