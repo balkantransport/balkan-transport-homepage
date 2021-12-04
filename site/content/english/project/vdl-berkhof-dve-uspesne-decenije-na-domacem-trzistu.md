@@ -36,7 +36,7 @@ partners:
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo6.jpg"
-    partnerUrl: "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/md-ouristic-international"
+    partnerUrl: "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/md-touristic-international"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo7.jpg"
