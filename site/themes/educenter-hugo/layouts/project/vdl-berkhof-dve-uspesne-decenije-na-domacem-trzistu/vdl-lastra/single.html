@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <!-- research image -->
+      <div class="col-12 mb-4">
+        <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+    </div>
+    <!-- research details -->
+    <div class="row" style="justify-content: center;">
+      <!-- Fali mb-20 na ovom dole divu (mozda i ne bude trebao) -->
+      <div class="col-12">
+        {{ .Content }}
+      </div>
+        <!-- <div class="content">
+          <button type="button" class="collapsible">VDL Berkhof Axial 70, III generacija, 12 m</button>
+          <div class="collapsible-category-content">
+            <p>VDL Berkhof Axial 70 treće generacije u vozni park kompanije Presto došao je u oktobru 2015. godine iz Veldhovena u Holandiji. U odnosu na prethodnu generaciju sa zakošenom stenom, prepoznatljiv je po ravnoj prednjoj steni, i kao takav predstavlja prvi primerak treće generacije u našoj zemlji.</p>
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img2.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img3.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img4.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img5.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img6.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img7.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <p>Na svojih 12 metara, ovaj Axial može smestiti 51 putnika i 2 člana posade. Pokreće ga Euro 5 agregat sa 410 KS. Proizveden je 2011. godine.</p>
+            <p>U ovom VDL Berkhofu se nalazi 51 Kielovo sedište za putnike, sa pojasevima na tri tačke, i dva sedišta za članove posade. Ergonomija prednjeg dela sedišta identična je sedištima koja se mogu naći i kod Axialove naslednice VDL Future. Vozilo poseduje 2 LCD TV-a, USB i utičnice od 220V i toalet.</p>
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img8.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img9.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img10.jpg" alt="VDL Berkhof Axial 70, III generacija, 12 m" title="VDL Berkhof Axial 70, III generacija, 12 m">
+          </div>
+          <button type="button" class="collapsible mb-30">VDL Berkhof Axial 70, II generacija, 14.1 m</button>
+          <div class="collapsible-category-content">
+            <p>Druga po dužini model Axiala koji se našao u serijskoj proizvodnji kada je reč o solo vozilima je upravo verzija od 14.1 m. Ovo je ujedno jedno od najdužih vozila u našem projektu, koje može smestiti 63 putnika i 2 člana posade. Model iz projekta proizveden je 2006. godine. Pokreće ga motor Euro 3 norme sa 430 KS.</p>
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img11.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img12.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img13.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img14.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img15.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img16.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <p>Ovaj VDL Berkhof opremljen je sedištima proizvođača Vogel. Sedišta imaju oboriv naslon, držače za noge kao i zaklopivi stočić. Vozilo poseduje 3 LCD monitora, kafe aparat, frižider, toalet i krevet za članove posade. Pored zadnje kamere, vozilo poseduje i bočnu kameru koja je pozicionirana iznad prednjih vrata.</p>
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img17.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img18.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <img src="/images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img19.jpg" alt="VDL Berkhof Axial 70, II generacija, 14.1 m" title="VDL Berkhof Axial 70, II generacija, 14.1 m">
+            <p>Ukoliko zanemarimo dekere, troosovinske izvedbe modela Axial su retke kod nas.</p>
+        </div>
+        </div>
+      </div>
+      <iframe width="1000" height="563" src="https://www.youtube.com/embed/l8Atme64l4k" title="VDL Berkhof: #1 Presto doo Beograd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("collapsible-active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+  </script>
+
+{{ end }}
