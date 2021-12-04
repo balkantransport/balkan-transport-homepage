@@ -12,12 +12,6 @@ bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img3.jpg"
 description : "VDL Grupa je osnovana 1953. godine u Ajndhovenu u Holandiji. U sklopu VDL Grupe poslovale su podružnice koje su imale najveći vid autonomije i samostalnosti u poslovanju."
 # Event image
 image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1-test.jpg"
-# location
-# location: "Dhanmondi, Dhaka"
-# entry fee
-# fee: "From: $699"
-# apply url
-# apply_url : "#"
 # event speaker
 partners:
   # partner loop
@@ -26,27 +20,33 @@ partners:
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo2.jpg"
+    partnerUrl : "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/janjusevic"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo3.jpg"
+    partnerUrl : "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/lastra"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo4.jpg"
+    partnerUrl : "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/severtrans"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo5.jpg"
+    partnerUrl : "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/autokodeks"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo6.jpg"
+    partnerUrl: "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/md-ouristic-international"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo7.jpg"
+    partnerUrl : "https://www.balkantransport.net/project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/lasta"
 
   # speaker loop
   - image : "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo8.jpg"
 
 # type
-type: "project"
+type: "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"
 ---
 
 ### VDL Berkhof: Dve uspešne decenije na domaćem tržištu
