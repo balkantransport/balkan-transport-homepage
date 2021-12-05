@@ -535,7 +535,7 @@ section > .container .col-12 img {
     transform-origin: top; }
 
 .navigation {
-  background: linear-gradient(to right, transparent 47%, #0943A6 47%);
+  background: linear-gradient(to right, transparent 45%, #0943A6 45%);
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
@@ -634,6 +634,7 @@ link:focus,
         visibility: visible;
         display: block; } }
 .navbar .dropdown-item {
+  padding: .20rem .20rem;
   position: relative;
   color: #1e1e4b;
   transition: .2s ease;
