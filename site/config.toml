@@ -125,29 +125,19 @@ copyright = "Copyright &copy; 2021 Balkan Transport"
 
 # main menu
 [[Languages.en.menu.main]]
-name = "O nama"
-url = "about"
+name = "Vesti"
+url = "blog"
 weight = 1
 
 [[Languages.en.menu.main]]
 name = "Usluge"
 url = "service"
 weight = 2
-  
-[[Languages.en.menu.main]]
-name = "Vesti"
-url = "blog"
-weight = 3
-  
-[[Languages.en.menu.main]]
-name = "Kontakt"
-url = "contact"
-weight = 4
 
 [[Languages.en.menu.main]]
-weight = 5
+weight = 3
 name = "Projekti"
-hasChildren = true
+hasChildren = true  
 
   # [[Languages.en.menu.main]]
   # parent = "Pages"
@@ -173,6 +163,16 @@ hasChildren = true
   # parent = "Pages"
   # name = "research"
   # url = "research"
+
+[[Languages.en.menu.main]]
+name = "O nama"
+url = "about"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Kontakt"
+url = "contact"
+weight = 5
 
 # footer menu
 
