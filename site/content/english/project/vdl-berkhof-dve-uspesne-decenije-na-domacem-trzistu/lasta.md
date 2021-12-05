@@ -11,6 +11,6 @@ description : "Kompanija Lasta jedan je od 7 ponosnih partnera koji učestvuju u
 type: "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/vdl-lasta"
 ---
 
-## Lasta Beograd
+## Saobraćajno Preduzeće Lasta Beograd
 
 Uskoro opširnije...
