@@ -55,11 +55,20 @@
             <li class="mb-3"><a class="text-color" href="https://www.abs.gov.rs/" target="_blank" rel="noopener noreferrer">Agencija za bezdednost saobraćaja</a></li>
           </ul>
         </div>
-        <!-- support -->
+        <!-- actual -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "actual" }}</h4>
           <ul class="list-unstyled">
             {{ range first 3 (where site.RegularPages "Type" "post")}}
+            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <!-- Projects -->
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">{{ i18n "our_projects" }}</h4>
+          <ul class="list-unstyled">
+            {{ range first 3 (where site.RegularPages "Type" "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
