@@ -408,6 +408,9 @@ textarea.form-control {
 .content * {
   margin-bottom: 20px; }
 
+.content img {
+  margin-bottom: 0; }
+
 .content a {
   text-decoration: underline; }
 
