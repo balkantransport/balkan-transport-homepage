@@ -15,6 +15,17 @@ slider:
         link : "blog"
 
     # slider item loop
+    - title : "VDL Berkhof: Dve uspešne decenije na domaćem tržištu"
+      content : "U saradnji sa VDL Bus & Coach Serbia predstavljamo vam 18 različitih primeraka modela koji je napravio revoluciju na domaćem tržištu od početka 21. veka, VDL Berkhof Axial modela iz 7 kompanija, koje su ponosni partneri projekta."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Više"
+        link : "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"
+
+    # slider item loop
     - title : "Promocija autobuskog saobraćaja i kompanija"
       content : "U skladu sa individualnim zahtevima vršimo promociju autobuskih kompanija i linijskog saobraćaja"
       animation_in : "left"
