@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <!-- research image -->
+      <div class="col-12 mb-4">
+        <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+    </div>
+    <!-- research details -->
+    <div class="row" style="justify-content: center;">
+      <div class="col-12">
+        <h2>MD Touristic International</h2>
+        <p>Jedan od 7 ponosnih partnera našeg projekta o VDL Berkhofu koji realizujemo u saradnji sa VDL Bus & Coach Serbia je i kompanija MD Touristic International iz Beograda. Počeci rada ove kompanije vezuju se za 1994. godinu, kada je kompanija i osnovana sa primarnom delatnošću prevoza putnika u kopnenom drumskom saobraćaju. Sa dugogodišnjim iskustvom predmetnoj delatnosti, ovaj prevoznik je jedan od glavnih poslovnih partnera stranih organizacija i turističkih agencija kada je reč o prevozu putnika koji brodovima dolaze u Beograd i Novi Sad. Upoznavanje turista sa znamenitostima Beograda i Novog Sada, ali i ostalih gradova širom naše zemlje, je ono po čemu je ova kompanija poznata.</p>
+        <p>Sveobuhvatnost i temeljitost je osnova na kojoj se definišu svi nivoi usluge ovog prevoznika. Zahvaljujući ovome kompanija uspeva da održi dominantni položaj u saradnji sa inostranim kompanijama koje imaju potrebe za ovakvim tipom usluge na našem tržištu.</p>
+        <p>U kompaniji imaju dugogodišnje iskustvo sa VDL Berkhof modelima, za koje ih vezuju samo pozitivni utisci i lepe reči. Trenutno, u voznom parku kompanije se nalaze tri primerka VDL Berkhofa, i to u izvedbi Axial 50 12.9 m i Axial 70 12 m.</p>
+        <p>U sklopu našeg projekta, iz ove kompanije vam predstavljamo model Axial 50 od 12.9 m.</p>
+        <p class="mb-20">Zahvaljujemo se nadležnima iz kompanije na izdvojenom vremenu i prepoznavanju potencijala našeg projekta.</p>
+        <div class="content">
+          <button type="button" class="collapsible">Više o modelima iz projekta</button>
+          <div class="collapsible-category-content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+      <iframe width="1000" height="563" src="https://www.youtube.com/embed/a6K87Sjeq1U" title="VDL Berkhof: #6 MD Touristic International" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+<script>
+  var coll = document.getElementsByClassName("collapsible");
+  var i;
+  
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("collapsible-active");
+      var content = this.nextElementSibling;
+      if (content.style.display === "block") {
+        content.style.display = "none";
+      } else {
+        content.style.display = "block";
+      }
+    });
+  }
+  </script>
+
+{{ end }}
