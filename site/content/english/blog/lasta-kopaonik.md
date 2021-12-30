@@ -50,13 +50,13 @@ Poseban doprinos realizaciji naše priče, reportaže, videa, dali su momci koji
 
 ![Lasta Kopaonik](/images/blog/lasta-kopaonik/img8.jpg "Lasta Kopaonik")
 
-### Lasta Travel&Tourism Beograd
-+381116641251
+#### Lasta Travel&Tourism Beograd
+**+381116641251**
 
-### Lasta Travel&Tourism
-+38121444822
+#### Lasta Travel&Tourism
+**+38121444822**
 
-### Informacije I rezervacije Kopaonik
-+381648323085
+#### Informacije I rezervacije Kopaonik
+**+381648323085**
 
 **[www.lasta.rs](www.lasta.rs)**
