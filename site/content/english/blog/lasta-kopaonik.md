@@ -3,7 +3,7 @@ title: "Sa kompanijom “Lasta” na Kopaniku"
 date: 2021-12-30T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/vdl-logo-background.jpg"
+bg_image: "images/backgrounds/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/lasta-background.jpg"
 # meta description
 description : "Ekipa portala Balkan Transport imala je tu čast da među prvima u sezoni 2021/2022. putuje na Kopaonik u organizaciji kompanije “Lasta” iz Beograda."
 # post thumbnail
@@ -11,13 +11,13 @@ image: "images/blog/lasta-kopaonik/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
-categories: ["Prevoznici", "Turizam", "Putnički saobraćaj"]
+categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "kopaonik"]
 # type
 type: "post"
 ---
 
-SP “Lasta” a.d. Beograd saobraća na liniji ka Kopaoniku od 25.12.2021. do 31.03.2022. Naš tim imao je prilike da se upozna sa pogodnostima i celokupnom uslugom koju nudi kompanija Lasta na ovoj pomenutoj sezonskoj liniji ka jednom od najposećenijih zimskih turističkih centara, kako u našoj zemlji, tako i u regionu.
+SP “Lasta” a.d. Beograd saobraća na liniji ka Kopaoniku od 25/12/2021 do 31/03/2022. Naš tim imao je prilike da se upozna sa pogodnostima i celokupnom uslugom koju nudi kompanija Lasta na ovoj pomenutoj sezonskoj liniji ka jednom od najposećenijih zimskih turističkih centara, kako u našoj zemlji, tako i u regionu.
 
 Kompanija “Lasta” je društveno odgovorna kompanija i pouzdan partner za bezbedna I sigurna putovanja. SP “Lasta” je jedna od najstarijih kompanija u našoj zemlji, 1.aprila 2022. godine obeležiće svoj veliki jubilej – 75 godina postojanja.
 
