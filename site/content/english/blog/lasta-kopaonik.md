@@ -54,7 +54,7 @@ Poseban doprinos realizaciji naše priče, reportaže, videa, dali su momci koji
 #### Lasta Travel&Tourism Beograd
 **+381116641251**
 
-#### Lasta Travel&Tourism
+#### Lasta Travel&Tourism Novi Sad
 **+38121444822**
 
 #### Informacije I rezervacije Kopaonik
