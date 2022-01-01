@@ -5,8 +5,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 order-2 order-lg-1">
-        <div class="row">
-          <div class="col-12 mb-4">
+        <div class="row mb-30">
+          <div class="col-12 mb-20">
             <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
           </div>
           <div class="col-12">
@@ -30,9 +30,12 @@
             <div class="border-bottom"></div>
           </div>
           <!-- blog contect -->
-          <div class="col-12 mb-5">
+          <div class="col-12 mb-2">
             {{ .Content }}
           </div>
+          {{ with .Params.withvideo }}
+          <iframe width="760" height="500" src="https://www.youtube.com/embed/ekb4VhhdKp4" title="Lasta Kopaonik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ end }}
           <!-- comments -->
           <!-- {{ if site.DisqusShortname }}
           <div class="col-12">
