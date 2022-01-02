@@ -13,7 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "kopaonik"]
-withvideo: true
+withVideo: true
+ytlink: "https://www.youtube.com/embed/ekb4VhhdKp4"
 # type
 type: "post"
 ---
@@ -60,6 +61,6 @@ Poseban doprinos realizaciji naše priče, reportaže, videa, dali su momci koji
 #### Informacije I rezervacije Kopaonik
 **+381648323085**
 
-**[www.lasta.rs](www.lasta.rs)**
+**[www.lasta.rs](https://www.lasta.rs)**
 
 ### Video reportaža
