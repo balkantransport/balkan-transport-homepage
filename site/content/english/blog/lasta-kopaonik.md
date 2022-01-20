@@ -13,13 +13,14 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "kopaonik"]
-withVideo: true
+withVideoKop: true
+withvideoTara: false
 ytlink: "https://www.youtube.com/embed/ekb4VhhdKp4"
 # type
 type: "post"
 ---
 
-SP “Lasta” a.d. Beograd saobraća na liniji ka Kopaoniku od 25/12/2021 do 31/03/2022. Naš tim imao je prilike da se upozna sa pogodnostima i celokupnom uslugom koju nudi kompanija Lasta na ovoj pomenutoj sezonskoj liniji ka jednom od najposećenijih zimskih turističkih centara, kako u našoj zemlji, tako i u regionu.
+Od 25. decembra do 31. marta SP “Lasta” a.d. Beograd saobraća na liniji ka Kopaoniku. Naš tim imao je prilike da se upozna sa pogodnostima i celokupnom uslugom koju nudi kompanija Lasta na ovoj pomenutoj sezonskoj liniji ka jednom od najposećenijih zimskih turističkih centara, kako u našoj zemlji, tako i u regionu.
 
 Kompanija “Lasta” je društveno odgovorna kompanija i pouzdan partner za bezbedna I sigurna putovanja. SP “Lasta” je jedna od najstarijih kompanija u našoj zemlji, 1.aprila 2022. godine obeležiće svoj veliki jubilej – 75 godina postojanja.
 
