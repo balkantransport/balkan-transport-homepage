@@ -30,17 +30,21 @@ U godinama pandemije Covid 19 ova kompanija modifikovala je svoj rad i uspešno 
 
 ![Lasta Tara](/images/blog/lasta-tara/img3.jpg "Lasta Tara")
 
-![Lasta Tara](/images/blog/lasta-tara/img4.jpg "Lasta Tara")
-
 Planina Tara nalazi se u zapadnoj Srbiji. Sa severozapadne strane sam masiv definisan je dubokim kanjonom reke Drine, dok sa druge strane svojim obroncima spušta ka kremanskoj dolini i dolini reke Đetinje. Zahvaljujući netaknutoj prirodi, i širokom spektru prirodnih lepota koje se retko gde drugde mogu videti, 1981. Tara biva proglašena nacionalnim parkom. Tara je najčešći izbor avanturista i ljubitelja istraživanja netaknute prirode i nestvarnih prirodnih lepota. Najviši vrh planine Tara u Srbiji je Zborište 1544m nv.
+
+![Lasta Tara](/images/blog/lasta-tara/img4.jpg "Lasta Tara")
 
 ![Lasta Tara](/images/blog/lasta-tara/img5.jpg "Lasta Tara")
 
-Kvalitet putovanja primeren je savremenim standardima, a povoljne cene i popusti za široku populaciju putnika (studente, penzionere, lica starija od 65 godina, omladinu, decu i novinare), razlog su više da krenete i uživate u zadivljujućim lepotama reke Drine, stoletnih šuma i bistrih jezerskih voda.
+Kompanija Lasta povezuje Beograd i Taru svakog dana tokom zimske sezone. Polazak iz Beograda je u 08h sa BAS-a (Beogradske autobuske stanice), a povratak sa Tare je rezervisan za 16:15h. Lasta do Tare saobraća preko Lajkovca, Valjeva i Bajine Bašte. Polazak iz Lajkovca je u 09:15h, iz Valjeva u 10h a iz Bajine Bašte u 12:35h. Karte se mogu kupiti u Lastinoj turističkoj agenciji i hotelu „Omorika“ na Tari, kao i u samom autobusu.
 
 ![Lasta Tara](/images/blog/lasta-tara/img6.jpg "Lasta Tara")
 
-Pored polazaka na redovnoj liniji, kompanija Lastina turistička agencija nudi mogućnost odmora i rekreacije na Tari. Zainteresovani putnici u poslovnicama Lastine turističke agencije mogu kupiti aranžmane sa smeštajem u hotelima Omorika i Beli bor. Kupovinom aranžmana obezbeđen je popust od 20% na prevoz Lastinim polaskom za Taru.
+Kvalitet putovanja primeren je savremenim standardima, a povoljne cene i popusti za široku populaciju putnika (studente, penzionere, lica starija od 65 godina, omladinu, decu i novinare), razlog su više da krenete i uživate u zadivljujućim lepotama reke Drine, stoletnih šuma i bistrih jezerskih voda.
+
+![Lasta Tara](/images/blog/lasta-tara/img7.jpg "Lasta Tara")
+
+Pored polazaka na redovnoj liniji, Lastina turistička agencija nudi mogućnost odmora i rekreacije na Tari. Zainteresovani putnici u poslovnicama Lastine turističke agencije mogu kupiti aranžmane sa smeštajem u hotelima Omorika i Beli bor. Kupovinom aranžmana obezbeđen je popust od 20% na prevoz Lastinim polaskom za Taru.
 
 Zahvaljujemo se zaposlenima iz kompanije „Lasta“ na tehničkoj podršci i značajnom doprinosu realizacije zimske patrole ka Tari.
 
