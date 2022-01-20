@@ -48,14 +48,14 @@ Pored polazaka na redovnoj liniji, Lastina turistička agencija nudi mogućnost 
 
 Zahvaljujemo se zaposlenima iz kompanije „Lasta“ na tehničkoj podršci i značajnom doprinosu realizacije zimske patrole ka Tari.
 
-#### Lasta Travel&Tourism Beograd
-**+381116641251**
+#### Lasta Travel & Tourism Beograd
+**+381 (0) 11 6641 251**
 
-#### Lasta Travel&Tourism Novi Sad
-**+38121444822**
+#### Lasta Info Centar
+**+381 (0) 11 3348 555**
 
-#### Informacije I rezervacije Kopaonik
-**+381648323085**
+#### Informacije I rezervacije Tara
+**+381 (0) 64 8257 152**
 
 **[www.lasta.rs](https://www.lasta.rs)**
 
