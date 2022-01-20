@@ -33,8 +33,11 @@
           <div class="col-12 mb-2">
             {{ .Content }}
           </div>
-          {{ with .Params.withvideo }}
+          {{ with .Params.withvideoKop }}
           <iframe width="760" height="500" src="https://www.youtube.com/embed/ekb4VhhdKp4" title="Lasta Kopaonik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ end }}
+          {{ with .Params.withvideoTara }}
+          <iframe width="760" height="500" src="https://www.youtube.com/embed/-JiCWjzmf20" title="Lasta Kopaonik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           {{ end }}
           <!-- comments -->
           <!-- {{ if site.DisqusShortname }}
