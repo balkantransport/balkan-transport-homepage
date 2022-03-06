@@ -13,9 +13,8 @@ author: "Luka Kalinić"
 # taxonomy
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]
-withVideoKop: false
-withvideoTara: false
-ytlink: "https://www.youtube.com/embed/-JiCWjzmf20"
+withVideo: "false"
+pageUrl: "prag-prestonica-dvozglobnih-trolejbusa"
 # type
 type: "post"
 ---

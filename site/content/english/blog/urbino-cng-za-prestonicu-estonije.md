@@ -13,9 +13,7 @@ author: "Luka Kalinić"
 # taxonomy
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris", "cng"]
-withVideoKop: false
-withvideoTara: false
-ytlink: "https://www.youtube.com/embed/-JiCWjzmf20"
+withVideo: "false"
 # type
 type: "post"
 ---

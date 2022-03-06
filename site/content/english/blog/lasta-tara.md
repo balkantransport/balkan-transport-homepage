@@ -13,9 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "tara"]
-withVideoKop: false
-withvideoTara: true
-ytlink: "https://www.youtube.com/embed/-JiCWjzmf20"
+withVideo: "true"
+videoUrl: "https://www.youtube.com/embed/-JiCWjzmf20"
 # type
 type: "post"
 ---
