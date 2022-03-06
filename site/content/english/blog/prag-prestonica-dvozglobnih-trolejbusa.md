@@ -14,7 +14,7 @@ author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]
 withVideo: "false"
-pageUrl: "prag-prestonica-dvozglobnih-trolejbusa"
+pageUrl: "blog/prag-prestonica-dvozglobnih-trolejbusa"
 # type
 type: "post"
 ---
