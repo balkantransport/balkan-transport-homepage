@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Gradski prevoz"]
 tags: ["covid19", "gradski prevoz", "gradski prevoz novi sad", "gsp kragujevac", "gsp subotica", "gsp užice", "međugradski prevoz", "javni prevoz"]
+withVideo: "false"
+pageUrl: "blog/uspostavlja-se-gradski-prevoz-ns-i-kg"
 # type
 type: "post"
 ---

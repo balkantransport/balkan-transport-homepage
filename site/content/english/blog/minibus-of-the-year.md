@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["iveco", "mercedes benz", "man", "minibus"]
+withVideo: "false"
+pageUrl: "blog/minibus-of-the-year"
 # type
 type: "post"
 ---

@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["GPS Beograd", "BMC", "Beograd"]
+withVideo: "false"
+pageUrl: "blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG"
 # type
 type: "post"
 ---

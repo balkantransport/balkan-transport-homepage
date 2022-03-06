@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici"]
 tags: ["Lasta", "turisticki autobusi"]
+withVideo: "false"
+pageUrl: "blog/talacka-kriza-u-nemackoj-lasta"
 # type
 type: "post"
 ---

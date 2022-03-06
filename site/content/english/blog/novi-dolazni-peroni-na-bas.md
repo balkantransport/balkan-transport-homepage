@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Putnički saobraćaj"]
 tags: ["BAS Beograd", "beograd"]
+withVideo: "false"
+pageUrl: "blog/novi-dolazni-peroni-na-bas"
 # type
 type: "post"
 ---

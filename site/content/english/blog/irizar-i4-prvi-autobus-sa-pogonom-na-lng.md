@@ -13,6 +13,8 @@ author: "Luka Kalinić"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["irizar", "medjugradski prevoz"]
+withVideo: "false"
+pageUrl: "blog/irizar-i4-prvi-autobus-sa-pogonom-na-lng"
 # type
 type: "post"
 ---

@@ -13,6 +13,8 @@ author: "Igor Nikolić"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["MAN"]
+withVideo: "false"
+pageUrl: "blog/cetvrt-veka-modela-lions-coach"
 # type
 type: "post"
 ---

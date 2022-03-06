@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["setra", "coach euro test 2021"]
+withVideo: "false"
+pageUrl: "blog/ecs2021-setra-s511hd"
 # type
 type: "post"
 ---

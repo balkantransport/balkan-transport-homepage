@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Putnički saobraćaj"]
 tags: ["flixbus", "fudeks", "europabus valjevo", "sirmiumbus"]
+withVideo: "false"
+pageUrl: "blog/flixbus-mreza-stigla-do-srbije"
 # type
 type: "post"
 ---

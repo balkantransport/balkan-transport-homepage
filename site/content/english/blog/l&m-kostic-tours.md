@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "iznajmljivanje autobusa", "l&m kostić tours", "lavli travel", "neoplan", "setra", "turizam", "van hool"]
+withVideo: "false"
+pageUrl: "blog/l&m-kostic-tours"
 # type
 type: "post"
 ---

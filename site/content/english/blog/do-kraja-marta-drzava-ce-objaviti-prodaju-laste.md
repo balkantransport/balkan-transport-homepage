@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici"]
 tags: ["lasta", "Srbija"]
+withVideo: "false"
+pageUrl: "blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste"
 # type
 type: "post"
 ---

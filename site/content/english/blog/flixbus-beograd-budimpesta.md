@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Putnički saobraćaj", "Turizam"]
 tags: ["fudeks", "setra", "flixbus", "turizam", "javni prevoz", "prevoz putnika"]
+withVideo: "false"
+pageUrl: "blog/flixbus-beograd-budimpesta"
 # type
 type: "post"
 ---

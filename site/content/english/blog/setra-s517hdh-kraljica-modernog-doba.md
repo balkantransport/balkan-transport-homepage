@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["setra", "Turistički autobusi"]
+withVideo: "false"
+pageUrl: "blog/setra-s517hdh-kraljica-modernog-doba"
 # type
 type: "post"
 ---

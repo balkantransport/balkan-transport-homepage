@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Turizam", "Prevoznici"]
 tags: ["fudeks"]
+withVideo: "false"
+pageUrl: "blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro"
 # type
 type: "post"
 ---

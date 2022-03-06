@@ -14,6 +14,7 @@ author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris", "cng"]
 withVideo: "false"
+pageUrl: "blog/urbino-cng-za-prestonicu-estonije"
 # type
 type: "post"
 ---

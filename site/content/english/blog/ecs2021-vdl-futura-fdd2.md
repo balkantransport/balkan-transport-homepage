@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["vdl", "coach euro test 2021"]
+withVideo: "false"
+pageUrl: "blog/ecs2021-vdl-futura-fdd2"
 # type
 type: "post"
 ---

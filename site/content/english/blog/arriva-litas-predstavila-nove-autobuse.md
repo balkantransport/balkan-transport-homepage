@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi", "Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija", "mercedes-benz", "Turistički autobusi"]
+withVideo: "false"
+pageUrl: "blog/arriva-litas-predstavila-nove-autobuse"
 # type
 type: "post"
 ---

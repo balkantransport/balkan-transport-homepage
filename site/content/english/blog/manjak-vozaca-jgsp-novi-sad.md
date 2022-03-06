@@ -13,6 +13,8 @@ author: "Igor Nikolić"
 # taxonomy
 categories: ["Gradski prevoz"]
 tags: ["Gradski prevoz novi sad"]
+withVideo: "false"
+pageUrl: "blog/manjak-vozaca-jgsp-novi-sad"
 # type
 type: "post"
 ---

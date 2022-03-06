@@ -13,6 +13,8 @@ author: "Luka Kalinić"
 # taxonomy
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["Solaris"]
+withVideo: "false"
+pageUrl: "blog/solaris-trolino-24-debituje-na-trzistu"
 # type
 type: "post"
 ---

@@ -13,6 +13,8 @@ author: "Igor Nikolić"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["neoplan", "coach euro test 2021"]
+withVideo: "false"
+pageUrl: "blog/ecs2021-neoplan-cityliner"
 # type
 type: "post"
 ---

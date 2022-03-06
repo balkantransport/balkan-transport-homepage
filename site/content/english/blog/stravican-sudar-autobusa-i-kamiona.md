@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Putnički saobraćaj"]
 tags: ["Gradski prevoz niš", "Niš Ekspres", "sudar"]
+withVideo: "false"
+pageUrl: "blog/stravican-sudar-autobusa-i-kamiona"
 # type
 type: "post"
 ---

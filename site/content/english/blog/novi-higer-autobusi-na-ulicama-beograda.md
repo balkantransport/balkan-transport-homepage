@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["javni prevoz", "beograd", "gradski prevoz", "gradski autobus", "gsp beograd", "higer"]
+withVideo: "false"
+pageUrl: "blog/novi-higer-autobusi-na-ulicama-beograda"
 # type
 type: "post"
 ---
