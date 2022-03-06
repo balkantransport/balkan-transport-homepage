@@ -15,6 +15,7 @@ categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "tara"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/-JiCWjzmf20"
+pageUrl: "blog/lasta-tara"
 # type
 type: "post"
 ---

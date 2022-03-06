@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija"]
+withVideo: "false"
+pageUrl: "blog/arriva-litas-borba-za-pozarevac"
 # type
 type: "post"
 ---

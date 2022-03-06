@@ -13,6 +13,8 @@ author: "Igor Nikolić"
 # taxonomy
 categories: ["Gradski prevoz"]
 tags: ["javni prevoz", "beograd", "izmene na linijama"]
+withVideo: "false"
+pageUrl: "blog/delimicno-ukidanje-tramvajskog-saobracaja"
 # type
 type: "post"
 ---

@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Vozači"]
 tags: ["profesionalni vozači", "agencija za bezbednost saobraćaja", "licenca"]
+withVideo: "false"
+pageUrl: "blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica"
 # type
 type: "post"
 ---

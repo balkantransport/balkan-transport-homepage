@@ -15,6 +15,7 @@ categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "kopaonik"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/ekb4VhhdKp4"
+pageUrl: "blog/lasta-kopaonik"
 # type
 type: "post"
 ---

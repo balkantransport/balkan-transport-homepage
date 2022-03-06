@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["volvo", "coach euro test 2021"]
+withVideo: "false"
+pageUrl: "blog/ecs2021-volvo-9700-dd"
 # type
 type: "post"
 ---

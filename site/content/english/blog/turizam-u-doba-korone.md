@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Turizam", "Putnički saobraćaj"]
 tags: ["autoprevoznici", "covid19", "turizam"]
+withVideo: "false"
+pageUrl: "blog/turizam-u-doba-korone"
 # type
 type: "post"
 ---

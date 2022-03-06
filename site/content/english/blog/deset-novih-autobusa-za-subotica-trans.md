@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi", "Gradski prevoz", "Prevoznici"]
 tags: ["gradski prevoz subotica", "gradski prevoz", "JP Subotica Trans", "otokar"]
+withVideo: "false"
+pageUrl: "blog/deset-novih-autobusa-za-subotica-trans"
 # type
 type: "post"
 ---

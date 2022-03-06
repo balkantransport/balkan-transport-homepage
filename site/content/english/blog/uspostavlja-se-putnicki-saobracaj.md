@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Putnički saobraćaj"]
 tags: ["covid19", "gradski prevoz", "javni prevoz", "turizam", "prevoz putnika"]
+withVideo: "false"
+pageUrl: "blog/uspostavlja-se-putnicki-saobracaj"
 # type
 type: "post"
 ---

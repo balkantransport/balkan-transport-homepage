@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici"]
 tags: ["severtrans", "javni prevoz", "srbija"]
+withVideo: "false"
+pageUrl: "blog/solaris-tours-novi-vlasnik-severtransa"
 # type
 type: "post"
 ---

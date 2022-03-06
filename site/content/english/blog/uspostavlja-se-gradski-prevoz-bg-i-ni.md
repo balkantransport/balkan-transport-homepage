@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Gradski prevoz"]
 tags: ["covid19", "gradski prevoz", "gradski prevoz niš", "gsp beograd", "javni prevoz"]
+withVideo: "false"
+pageUrl: "blog/uspostavlja-se-gradski-prevoz-bg-i-ni"
 # type
 type: "post"
 ---

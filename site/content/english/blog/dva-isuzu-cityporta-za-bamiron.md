@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Gradski prevoz", "Autobusi", "Prevoznici"]
 tags: ["bamiron", "gradski prevoz", "sejari doo", "autoprevoznici", "isuzu", "javni prevoz", "gradski autobus"]
+withVideo: "false"
+pageUrl: "blog/dva-isuzu-cityporta-za-bamiron"
 # type
 type: "post"
 ---

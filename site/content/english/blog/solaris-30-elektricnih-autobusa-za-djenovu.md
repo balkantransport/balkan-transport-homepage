@@ -13,6 +13,8 @@ author: "Luka Kalinić"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["solaris"]
+withVideo: "false"
+pageUrl: "blog/solaris-30-elektricnih-autobusa-za-djenovu"
 # type
 type: "post"
 ---

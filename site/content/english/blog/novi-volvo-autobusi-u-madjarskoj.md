@@ -13,6 +13,8 @@ author: "Luka Kalinić"
 # taxonomy
 categories: ["Prevoznici"]
 tags: ["volvo"]
+withVideo: "false"
+pageUrl: "blog/novi-volvo-autobusi-u-madjarskoj"
 # type
 type: "post"
 ---

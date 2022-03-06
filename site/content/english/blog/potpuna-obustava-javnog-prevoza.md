@@ -13,6 +13,8 @@ author: "Igor Nikolić"
 # taxonomy
 categories: ["Turizam", "Gradski prevoz"]
 tags: ["gradski prevoz", "javni prevoz"]
+withVideo: "false"
+pageUrl: "blog/potpuna-obustava-javnog-prevoza"
 # type
 type: "post"
 ---

@@ -13,6 +13,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi"]
 tags: ["volvo"]
+withVideo: "false"
+pageUrl: "blog/predstavljeni-novi-volvo-9700-i-9900"
 # type
 type: "post"
 ---

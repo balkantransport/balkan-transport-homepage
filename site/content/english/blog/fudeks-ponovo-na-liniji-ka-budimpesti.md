@@ -14,6 +14,8 @@ author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Turizam"]
 tags: ["fudeks", "setra", "flixbus", "turizam", "javni prevoz", "prevoz putnika"]
+withVideo: "false"
+pageUrl: "blog/fudeks-ponovo-na-liniji-ka-budimpesti"
 # type
 type: "post"
 ---
