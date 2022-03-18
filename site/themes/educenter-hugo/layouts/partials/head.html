@@ -22,24 +22,18 @@
   })(window,document,'script','dataLayer','GTM-WP5HNSV');</script>
   <!-- End Google Tag Manager -->
 
-  
+  <!-- Open graph meta -->
   <meta property="og:site_name" content="balkantransport.net" />
   <meta property=“og:title” content="{{ .Params.title }}" />
   <meta property="og:description" content="{{ .Params.description }}"/>
   <meta property="og:url" content="{{ .Permalink }}"/>
   <meta property="og:type" content="{{ .Params.type }}" />
   <meta property="article:publisher" content="{{ .Params.author }}" />
-  <!-- <meta property="article:section" content="Coding" /> -->
-  <!-- <meta property="article:tag" content="Coding" /> -->
   <meta property="og:image" content="{{ .Params.image | relURL }}"/>
-  <!-- <meta property="og:image:secure_url" content="https://res.cloudinary.com/fay/image/upload/w_1280,h_640,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:232129,g_west,x_80,y_-60,l_text:Source%20Sans%20Pro_70_line_spacing_-10_semibold:Anyone%20Can%20Map!%20Inspiration%20and%20an%20introduction%20to%20the%20world%20of%20mapping/blog-social-card-1.1" />
-  <meta property="og:image:width" content="1280" />
-  <meta property="og:image:height" content="640" /> -->
   <meta property="twitter:card" content="summary_large_image" />
-  <!-- <meta property="twitter:image" content="https://res.cloudinary.com/fay/image/upload/w_1280,h_640,c_fill,q_auto,f_auto/w_860,c_fit,co_rgb:232129,g_west,x_80,y_-60,l_text:Source%20Sans%20Pro_70_line_spacing_-10_semibold:Anyone%20Can%20Map!%20Inspiration%20and%20an%20introduction%20to%20the%20world%20of%20mapping/blog-social-card-1.1" />
-  <meta property="twitter:site" content="@colbyfayock" /> -->
-
-
+  <meta property="twitter:title”" content="{{ .Params.title }}" />
+  <meta property="twitter:description" content="{{ .Params.description }}" />
+  <meta property="twitter:image" content="{{ .Params.image | relURL }}" />
 
   {{ hugo.Generator }}
   {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
