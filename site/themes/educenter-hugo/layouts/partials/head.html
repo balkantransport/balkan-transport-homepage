@@ -30,10 +30,10 @@
   <meta property="og:type" content="{{ .Params.type }}" />
   <meta property="article:publisher" content="{{ .Params.author }}" />
   <meta property="og:image" content="{{ .Params.image | relURL }}"/>
-  <meta property="twitter:title”" content="{{ .Params.title }}" />
-  <meta property="twitter:description" content="{{ .Params.description }}" />
-  <meta property="twitter:image" content="{{ .Params.image | relURL }}" />
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title”" content="{{ .Params.title }}" />
+  <meta name="twitter:description" content="{{ .Params.description }}" />
+  <meta name="twitter:image" content="{{ .Params.image | relURL }}" />
+  <meta name="twitter:card" content="summary_large_image" />
 
   {{ hugo.Generator }}
   {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
