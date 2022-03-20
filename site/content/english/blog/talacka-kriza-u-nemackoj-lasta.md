@@ -12,7 +12,7 @@ image: "images/blog/talacka-kriza-u-nemackoj-lasta/img1.jpg"
 author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici"]
-tags: ["Lasta", "turisticki autobusi"]
+tags: ["Lasta", "Turistički autobusi"]
 withVideo: "false"
 pageUrl: "blog/talacka-kriza-u-nemackoj-lasta"
 # type
