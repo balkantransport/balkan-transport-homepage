@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <!-- research image -->
+      <div class="col-12 mb-4">
+        <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+    </div>
+    <!-- research details -->
+    <div class="row" style="justify-content: center;">
+      <div class="col-12 mb-20">
+        {{ .Content }}
+      </div>
+      <iframe src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="1024" height="683"></iframe>
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+
+{{ end }}
