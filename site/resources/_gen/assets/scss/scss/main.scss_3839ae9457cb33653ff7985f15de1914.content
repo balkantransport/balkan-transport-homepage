@@ -326,6 +326,9 @@ a h4:hover {
   margin-right: auto;
   width: 25%; }
 
+.center-content {
+  text-align: center; }
+
 @media (max-width: 991px) {
   .overflow-md-hidden {
     overflow: hidden; } }
