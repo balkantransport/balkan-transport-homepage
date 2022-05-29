@@ -13,11 +13,22 @@
     <div class="row" style="justify-content: center;">
       <div class="col-12 mb-20">
         <div class="center-content">
-          <h2>SRB -> AU</h2>
-          <iframe src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="640" height="480"></iframe>
+          <h2 class="mb-10">Red vožnje: Bela Crkva -> Beč</h2>
+          <img style="width: auto" src="{{ .Params.red_voznje_smer1 | relURL }}" alt="{{ .Title }}" class="mb-30">
+          <h2 class="mb-10">Mapa linije</h2>
+          <iframe class="mb-40" src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="640" height="480"></iframe>
 
-          <h2>AU -> SRB</h2>
-          <iframe src="https://www.google.com/maps/d/embed?mid=1Hw16WxI7YjXtBwyR3HwsPU34rmcGq7I&ehbc=2E312F" width="640" height="480"></iframe>
+          <hr class="mb-40">
+
+          <h2 class="mb-10">Red vožnje: Beč -> Bela Crkva</h2>
+          <img style="width: auto" src="{{ .Params.red_voznje_smer2 | relURL }}" alt="{{ .Title }}" class="mb-30">
+          <h2 class="mb-10">Mapa linije</h2>
+          <iframe class="mb-40" src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="640" height="480"></iframe>
+
+          <hr class="mb-40">
+
+          <h2 class="mb-10">Kontakt</h2>
+          <img style="width: auto" src="{{ .Params.kontakt | relURL }}" alt="{{ .Title }}">
         </div>
 
         {{ if site.DisqusShortname }}
