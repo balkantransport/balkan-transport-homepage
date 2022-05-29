@@ -12,12 +12,20 @@
     <!-- research details -->
     <div class="row" style="justify-content: center;">
       <div class="col-12 mb-20">
-        {{ .Content }}
+        <div class="center-content">
+          <h2>SRB -> AU</h2>
+          <iframe src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="640" height="480"></iframe>
+
+          <h2>AU -> SRB</h2>
+          <iframe src="https://www.google.com/maps/d/embed?mid=1Hw16WxI7YjXtBwyR3HwsPU34rmcGq7I&ehbc=2E312F" width="640" height="480"></iframe>
+        </div>
+
+        {{ if site.DisqusShortname }}
+        <div class="col-12">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
       </div>
-      <h2>SRB -> AU</h2>
-      <iframe src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="1024" height="683"></iframe>
-      <h2>AU -> SRB</h2>
-      <iframe src="https://www.google.com/maps/d/embed?mid=1Hw16WxI7YjXtBwyR3HwsPU34rmcGq7I&ehbc=2E312F" width="1024" height="683"></iframe>
     </div>
   </div>
 </section>

@@ -251,6 +251,10 @@ a h4{
   width: 25%;
 }
 
+.center-content {
+  text-align: center; 
+}
+
 .overflow-md-hidden {
   @include desktop {
     overflow: hidden;
