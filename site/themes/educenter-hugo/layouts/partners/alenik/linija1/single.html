@@ -1,34 +1,34 @@
 {{ define "main" }}
 
-<!-- event single -->
+<!-- line single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <!-- research image -->
+      <!-- naslovna slika -->
       <div class="col-12 mb-4">
         <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
       </div>
     </div>
-    <!-- research details -->
+    <!-- telo stranice-->
     <div class="row" style="justify-content: center;">
       <div class="col-12 mb-20">
         <div class="center-content">
-          <h2 class="mb-10">Red vožnje: Bela Crkva -> Beč</h2>
-          <img style="width: auto" src="{{ .Params.red_voznje_smer1 | relURL }}" alt="{{ .Title }}" class="mb-30">
+          <h2 class="mb-10">Red vožnje: Bela Crkva ⇒ Beč</h2>
+          <img class="img-fluid mb-30" style="width: 60%" src="{{ .Params.red_voznje_smer1 | relURL }}" alt="{{ .Title }}">
           <h2 class="mb-10">Mapa linije</h2>
           <iframe class="mb-40" src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="640" height="480"></iframe>
 
           <hr class="mb-40">
 
-          <h2 class="mb-10">Red vožnje: Beč -> Bela Crkva</h2>
-          <img style="width: auto" src="{{ .Params.red_voznje_smer2 | relURL }}" alt="{{ .Title }}" class="mb-30">
+          <h2 class="mb-10">Red vožnje: Beč ⇒ Bela Crkva</h2>
+          <img class="img-fluid mb-30" style="width: 60%" src="{{ .Params.red_voznje_smer2 | relURL }}" alt="{{ .Title }}">
           <h2 class="mb-10">Mapa linije</h2>
           <iframe class="mb-40" src="https://www.google.com/maps/d/embed?mid=1Z-9_zbAKC0xSM9l7iqJxDKe0mZ2iUY0&ehbc=2E312F" width="640" height="480"></iframe>
 
           <hr class="mb-40">
 
           <h2 class="mb-10">Kontakt</h2>
-          <img class="mb-40" style="width: auto" src="{{ .Params.kontakt | relURL }}" alt="{{ .Title }}">
+          <img class="mb-40" style="width: 50%" src="{{ .Params.kontakt | relURL }}" alt="{{ .Title }}">
         </div>
 
         {{ if site.DisqusShortname }}
@@ -40,6 +40,6 @@
     </div>
   </div>
 </section>
-<!-- /event single -->
+<!-- /line single -->
 
 {{ end }}
