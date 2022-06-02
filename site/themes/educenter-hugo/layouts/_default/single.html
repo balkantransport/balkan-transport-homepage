@@ -35,15 +35,15 @@
           </div>
 
           {{ if (eq .Params.withVideo "true") }}
-            <iframe width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            
+            <iframe class="mb-30" width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            
           {{end}}
 
           <!-- comments -->
-          <!-- {{ if site.DisqusShortname }}
+          {{ if site.DisqusShortname }}
           <div class="col-12">
             {{ template "_internal/disqus.html" . }}
           </div>
-          {{ end }} -->
+          {{ end }}
           
         </div>
       </div>
