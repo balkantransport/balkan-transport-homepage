@@ -35,8 +35,10 @@
           </div>
 
           {{ if (eq .Params.withVideo "true") }}
-            <iframe class="mb-30" width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            
+            <iframe class="border-bottom border-top border-color pt-4 pb-4 mb-30" width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            
           {{end}}
+
+          <hr class="mb-40">
 
           <!-- comments -->
           {{ if site.DisqusShortname }}
