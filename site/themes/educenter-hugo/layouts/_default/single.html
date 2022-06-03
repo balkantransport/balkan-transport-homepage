@@ -30,15 +30,17 @@
             <div class="border-bottom"></div>
           </div>
           <!-- blog contect -->
-          <div class="col-12 mb-2">
+          <div class="col-12">
             {{ .Content }}
+            {{ if (eq .Params.withVideo "false") }}
+              <hr class="mb-20">
+            {{end}}
           </div>
 
           {{ if (eq .Params.withVideo "true") }}
-            <iframe class="border-bottom border-top border-color pt-4 pb-4 mb-30" width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            
+            <hr class="mb-40">
+            <iframe class="border-bottom border-top border-color pt-4 pb-4 mb-20" width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
           {{end}}
-
-          <hr class="mb-40">
 
           <!-- comments -->
           {{ if site.DisqusShortname }}
