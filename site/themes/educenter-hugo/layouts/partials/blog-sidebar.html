@@ -50,10 +50,12 @@
   </div>
 
   <!-- Your share button code -->
-  <div class="media fb-share-button mb-20" 
-    data-href="{{ .Params.pageUrl | absURL }}"
-    data-layout="box_count"
-    data-size="large">
+  <div class=" mb-20">
+    <div class="fb-share-button" 
+      data-href="{{ .Params.pageUrl | absURL }}"
+      data-layout="box_count"
+      data-size="large">
+    </div>
   </div>
 </aside>
 {{ "<!-- /sidebar -->" | safeHTML }}
