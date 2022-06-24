@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2 class="section-title">{{ .Title }}</h2>
+      </div>
+      <!-- event image -->
+      <div class="col-12">
+        <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
+      </div>
+    </div>
+    <!-- event info -->
+    <div class="row align-items-center mb-5">
+    </div>
+    <!-- event details -->
+    <div class="row">
+      <div class="col-12 mb-20 content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
