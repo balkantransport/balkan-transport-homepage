@@ -13,7 +13,7 @@ type: "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/vdl-presto"
 
 ## Presto Beograd
 
-Kompanija Presto na osnovana je 2001. godine u Beogradu. Počeci rada kompanije vezuju se za obavljanje javnog gradskog prevoza na teritoriji grada Beograda. Tokom poslovanja, menadžment kompanije aktivno je radio na usavršavanju i unapređenju voznog parka, procesu održavanja i primenjivanja najviših standarda u poslovanju. 
+Kompanija Presto osnovana je 2001. godine u Beogradu. Počeci rada kompanije vezuju se za obavljanje javnog gradskog prevoza na teritoriji grada Beograda. Tokom poslovanja, menadžment kompanije aktivno je radio na usavršavanju i unapređenju voznog parka, procesu održavanja i primenjivanja najviših standarda u poslovanju. 
 
 Nakon 9 godina uspešnog rada u gradskom prevozu, kompanija Presto počinje da se bavi i vanlinijskim prevozom od 2010. godine, prvenstveno minibus vozilima, a od 2013. godine i turističkim autobusima.
 
