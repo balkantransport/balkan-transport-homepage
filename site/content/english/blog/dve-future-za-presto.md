@@ -26,7 +26,7 @@ Posredstvom *VDL Bus & Coacha*, taj plan je i realizovan tokom maja 2022. godine
 
 Pogon ovom modernom turističkom autobusu daje Dafov motor sa oznakom MX-11 sa 270kw, odnosno 370 konjskih snaga, radi se o motoru koji ima radnu zapreminu od 10.8l, koji ispunjava Euro 6 normu.
 
-### VDL Futura FHD2 120-370, #16 (BG 2384-UG)
+### VDL Futura FHD2 120-370 (BG 2384-UG)
 
 ![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img2.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
 
@@ -46,7 +46,7 @@ Vozilo je opremljeno krevetom za vozača, frižiderom, toaletom, USB priključci
 
 ![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img7.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
 
-### VDL Futura FHD 129-370, #17 (BG 2395-DH)
+### VDL Futura FHD 129-370 (BG 2395-DH)
 
 ![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img8.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
 
