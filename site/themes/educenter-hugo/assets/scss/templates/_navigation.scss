@@ -11,7 +11,7 @@
 }
 
 .navigation {
-  background: linear-gradient(90deg, transparent 40%, $primary-color 20%);
+  background: linear-gradient(to right, transparent 45%, #0943A6 45%);
   transition: .2s ease;
 
   @include desktop {
