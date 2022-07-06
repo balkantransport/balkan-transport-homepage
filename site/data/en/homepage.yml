@@ -150,9 +150,6 @@ funfacts:
     - name : "maksimalan doseg objave"
       count : "100000"
 
-# funfact is for about page
-
-########################### funfacts ############################
 funfactsvdl:
   enable : true
   funfact_item:
@@ -172,4 +169,22 @@ funfactsvdl:
     - name : "izvedbi"
       count : "9"
 
+funfactspresto:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "Test1"
+      count : "7"
+
+    # funfact item loop
+    - name : "Test2"
+      count : "18"
+
+    # funfact item loop
+    - name : "Test3"
+      count : "3"
+
+    # funfact item loop
+    - name : "Test4"
+      count : "9"
 # funfact is for about page
