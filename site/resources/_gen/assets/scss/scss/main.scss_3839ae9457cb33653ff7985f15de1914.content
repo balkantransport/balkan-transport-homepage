@@ -545,7 +545,7 @@ section > .container .col-12 img {
     transform-origin: top; }
 
 .navigation {
-  background: linear-gradient(90deg, transparent 40%, #0943A6 20%);
+  background: linear-gradient(to right, transparent 45%, #0943A6 45%);
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {

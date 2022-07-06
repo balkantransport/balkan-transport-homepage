@@ -135,16 +135,6 @@ url = "service"
 weight = 2
 
 [[Languages.en.menu.main]]
-weight = 3
-name = "Partneri"
-hasChildren = true  
-
-  [[Languages.en.menu.main]]
-  parent = "Partneri"
-  name = "Presto"
-  url = "partners/presto/"
-
-[[Languages.en.menu.main]]
 weight = 4
 name = "Projekti"
 hasChildren = true  
