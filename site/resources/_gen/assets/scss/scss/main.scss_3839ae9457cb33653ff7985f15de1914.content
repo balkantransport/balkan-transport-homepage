@@ -408,9 +408,6 @@ textarea.form-control {
     .pagination .page-item .page-link {
       color: #5c5c77; }
 
-.content * {
-  margin-bottom: 20px; }
-
 .content img {
   margin-bottom: 0; }
 

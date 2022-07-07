@@ -2,7 +2,7 @@
 <aside class="col-lg-4 order-2 order-lg-2">
   {{ "<!-- categories -->" | safeHTML }}
   <div class="bg-white mb-3">
-    <button type="button" class="collapsible">{{ i18n "categories" }}</button>
+    <button type="button" class="collapsible mb-20">{{ i18n "categories" }}</button>
     <!-- <h4 class="mb-4">{{ i18n "categories" }}</h4> -->
     {{- if isset site.Taxonomies "categories" }}
     {{- if not (eq (len site.Taxonomies.categories) 0) }}
@@ -18,7 +18,7 @@
   </div>
   {{ "<!-- tags -->" | safeHTML }}
   <div class="bg-white mb-5">
-    <button type="button" class="collapsible">{{ i18n "tags" }}</button>
+    <button type="button" class="collapsible mb-20">{{ i18n "tags" }}</button>
     <!-- <h4 class="mb-4">{{ i18n "tags" }}</h4> -->
     {{- if isset site.Taxonomies "tags" }}
     {{- if not (eq (len site.Taxonomies.tags) 0) }}
