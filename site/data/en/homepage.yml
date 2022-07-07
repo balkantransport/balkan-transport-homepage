@@ -14,6 +14,16 @@ slider:
         label : "Više"
         link : "blog"
 
+    - title : "Presto Beograd"
+      content : "Kompanija Presto osnovana je 2001. godine i dugogodišnji je partner našeg tima. Danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Više"
+        link : "partners/presto"
+
     # slider item loop
     - title : "VDL Berkhof: Dve uspešne decenije na domaćem tržištu"
       content : "U saradnji sa VDL Bus & Coach Serbia predstavljamo vam 18 različitih primeraka modela koji je napravio revoluciju na domaćem tržištu od početka 21. veka, VDL Berkhof Axial modela iz 7 kompanija, koje su ponosni partneri projekta."

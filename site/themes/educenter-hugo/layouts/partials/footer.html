@@ -47,14 +47,6 @@
             {{ end }}
           </ul>
         </div>
-        <!-- links -->
-        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
-          <h4 class="text-white mb-5 text-uppercase">{{ i18n "links" }}</h4>
-          <ul class="list-unstyled">
-            <li class="mb-3"><a class="text-color" href="https://www.mgsi.gov.rs/" target="_blank" rel="noopener noreferrer">Ministarstvo građevinarstva, saobraćaja i infrastrukture</a></li>
-            <li class="mb-3"><a class="text-color" href="https://www.abs.gov.rs/" target="_blank" rel="noopener noreferrer">Agencija za bezdednost saobraćaja</a></li>
-          </ul>
-        </div>
         <!-- actual -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "actual" }}</h4>
@@ -71,6 +63,13 @@
             {{ range first 3 (where site.RegularPages "Type" "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu")}}
             <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
+          </ul>
+        </div>
+        <!-- partners -->
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-5 text-uppercase">{{ i18n "partners" }}</h4>
+          <ul class="list-unstyled">
+            <li class="mb-3"><a class="text-color" href="https://www.balkantransport.net/partners/presto/" rel="noopener noreferrer">Presto Beograd</a></li>
           </ul>
         </div>
       </div>
