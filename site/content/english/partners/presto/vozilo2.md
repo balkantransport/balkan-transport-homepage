@@ -7,6 +7,7 @@ bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto
 # about image
 image: "images/partners/presto/vozilo2/img1.jpg"
 seatConfig: "images/partners/presto/vozilo2/seatConfig.jpg"
+vehicleStats: "images/partners/presto/vozilo2/stats.jpg"
 plates: "(BG 2395-DH)"
 
 symbols:
