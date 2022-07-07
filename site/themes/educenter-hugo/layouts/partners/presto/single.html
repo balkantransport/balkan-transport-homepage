@@ -32,7 +32,9 @@
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <div class="text-center">
             <h5 class="text-white">{{ .above }}</h5>
-            <h1 class="count text-white" data-count="{{ .count }}">0</h1>
+            <div class="row" style="justify-content: center;">
+              <h1 class="count text-white" data-count="{{ .count }}">0</h1><h1 class="text-white">{{ .exponent }}</h1>
+            </div>
             <h5 class="text-white">{{ .under }}</h5>
           </div>
         </div>

@@ -176,20 +176,24 @@ funfactspresto:
     - under : "turističkih autobusa"
       above : "Ukupno "
       count : "8"
+      exponent: ""
 
     # funfact item loop
     - under : "vozila"
       above : "Preko"
       count : "30"
+      exponent: ""
 
     # funfact item loop
     - under : "putnika godišnje"
       above : "Više od"
-      count : "100000"
+      count : "100"
+      exponent: "K"
 
     # funfact item loop
     - under : "pređenih km godišnje"
       above : "Preko"
-      count : "1000000"
+      count : "1"
+      exponent: "M"
 
 # funfact is for about page
