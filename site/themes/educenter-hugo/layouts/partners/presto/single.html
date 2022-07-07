@@ -31,8 +31,9 @@
         {{ range .funfact_item }}
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <div class="text-center">
-            <h1 class="count text-white" data-count="{{ .count }}">0</h2>
-            <h5 class="text-white">{{ .name }}</h5>
+            <h5 class="text-white">{{ .above }}</h5>
+            <h1 class="count text-white" data-count="{{ .count }}">0</h1>
+            <h5 class="text-white">{{ .under }}</h5>
           </div>
         </div>
         {{ end }}
@@ -42,13 +43,30 @@
   {{ end }}
   {{ end }}
 
+  <!-- Pasusi ispod counter-a -->
   <div class="container">
     <div class="row" style="justify-content: center;">
-      <div class="col-12 content">
+      <div class="col-12 content mb-20">
         <p>Turistički deo voznog parka kompanije Presto u najvećoj meri se temelji na vozilima VDL Bus & Coach grupe. Nakon dugogodišnjeg iskustva sa VDL Berkhof modelima, pred letnju sezonu 2022. u vozni park ovog preduzeća stižu prvi primerci veoma nagrađivanog modela modela VDL Futura. Reč je o dva primerka koji su značajno unapredili vozni park kompanije i učvrstili njenu lidersku poziciju.</p>
         <p>Presto D.O.O. iz Beograda dugogodišnji je partner našeg tima. Želje za unapređenjem, usavršavanjem, popularizacijom i omasovljenjem prevoza putnika autobusima zajednički su interes menadžmenta kompanije i našeg tima, zbog čega već dug period realizujemo uspešnu saradnju.</p>
       </div>
     </div>
+
+    <!-- Vozni park header -->
+    <div class="d-flex align-items-center section-title justify-content-between">
+      <h2 class="mb-0 text-nowrap mr-3">Vozila</h2>
+      <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+    </div>
+
+    <!-- Vozni park -->
+    <div class="row justify-content-center">
+      {{ range where site.RegularPages "Type" "partners/presto/vozilo"}}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "vehicle" }}
+      </div>
+      {{ end }}
+    </div>
+
   </div>
 
 </section>

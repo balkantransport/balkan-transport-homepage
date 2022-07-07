@@ -490,6 +490,15 @@ section > .container .col-lg-8 .col-12 img {
 section > .container .col-12 img {
   width: 100%; }
 
+.vehicle-icons-flex {
+  display: flex;
+  justify-content: center; }
+
+section > .container .vehicle-icons-flex img {
+  align-self: center;
+  padding: 0 10px;
+  width: unset; }
+
 .collapsible {
   color: #fff;
   background-color: #0943A6;

@@ -173,18 +173,23 @@ funfactspresto:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "Test1"
-      count : "7"
+    - under : "turističkih autobusa"
+      above : "Ukupno "
+      count : "8"
 
     # funfact item loop
-    - name : "Test2"
-      count : "18"
+    - under : "vozila"
+      above : "Preko"
+      count : "30"
 
     # funfact item loop
-    - name : "Test3"
-      count : "3"
+    - under : "putnika godišnje"
+      above : "Više od"
+      count : "100000"
 
     # funfact item loop
-    - name : "Test4"
-      count : "9"
+    - under : "pređenih km godišnje"
+      above : "Preko"
+      count : "1000000"
+
 # funfact is for about page
