@@ -1,0 +1,13 @@
+<div class="card height-100 p-0 border-primary rounded-0 hover-shadow space-around-card">
+  <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+  <div class="card-body ">
+    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <h4 class="card-title mb-3">{{ .Params.Plates }}</h4>
+    <ul class="list-inline mb-3">
+      {{ range .Params.Symbols }}
+        <li class="list-inline-item mb-2"><img style="max-width: 22px;" src="{{ .image | relURL }}" title="{{ .desc }}"></li>
+      {{ end }}
+    </ul>
+    <a href="{{ .Permalink }}" class="btn btn-primary btn-sm">{{ i18n "learn_more"}}</a>
+  </div>
+</div>
