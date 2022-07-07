@@ -14,29 +14,26 @@ symbols:
   - image : "images/partners/symbols/klima.png"
     desc : "Klima"
 
+  - image: "images/partners/symbols/tv.png"
+    desc: "TV"
+
   - image: "images/partners/symbols/audio_video.png"
     desc: "Audio-Video"
-
-  - image: "images/partners/symbols/kafe_aparat.png"
-    desc: "Kafe aparat"
+  
+  - image: "images/partners/symbols/toalet.png"
+    desc: "Toalet"
 
   - image: "images/partners/symbols/frizider.png"
     desc: "Frižider"
 
-  - image: "images/partners/symbols/navigacija.png"
-    desc: "Navigacija"
+  - image: "images/partners/symbols/kafe_aparat.png"
+    desc: "Kafe aparat"
 
   - image: "images/partners/symbols/wifi.png"
     desc: "WiFi"
 
-  - image: "images/partners/symbols/udobna_sedista.png"
-    desc: "Udobna sedišta"
-
-  - image: "images/partners/symbols/tv.png"
-    desc: "TV"
-
-  - image: "images/partners/symbols/toalet.png"
-    desc: "Toalet"
+  - image: "images/partners/symbols/navigacija.png"
+    desc: "Navigacija"
 
 galery:
   - image: "images/partners/presto/vozilo1/img2.jpg"
