@@ -10,6 +10,8 @@ seatConfig: "images/partners/presto/vozilo2/seatConfig.jpg"
 vehicleStats: "images/partners/presto/vozilo2/stats.jpg"
 plates: "(BG 2395-DH)"
 
+kontakt: "images/partners/presto/vozilo2/kontakt.jpg"
+
 symbols:
   - image : "images/partners/symbols/klima.png"
     desc : "Klima"
