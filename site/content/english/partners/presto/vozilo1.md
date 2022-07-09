@@ -31,6 +31,9 @@ symbols:
   - image: "images/partners/symbols/kafe_aparat.png"
     desc: "Kafe aparat"
 
+  - image: "images/partners/symbols/220v.png"
+    desc: "Utičnica (220V)"
+
   - image: "images/partners/symbols/wifi.png"
     desc: "WiFi"
 
