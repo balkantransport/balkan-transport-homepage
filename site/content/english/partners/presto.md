@@ -4,6 +4,8 @@ title: "Presto Beograd"
 bg_image: "images/backgrounds/partners/presto-future-background.jpg"
 # about image
 image: "images/partners/presto/img1.jpg"
+
+kontakt: "images/partners/presto/kontakt.jpg"
 # meta description
 description : "Kompanija Presto osnovana je 2001. godine i dugogodišnji je partner našeg tima. Kompanija Presto danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao."
 type: "partners/presto"

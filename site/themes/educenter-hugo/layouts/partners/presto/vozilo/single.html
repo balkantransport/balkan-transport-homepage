@@ -25,10 +25,9 @@
       </div>
 
       <div class="row" style="justify-content: center;">
-        <div class="col-12 content" style="margin-bottom: unset;">
+        <div class="col-12 content mb-20" style="margin-bottom: unset;">
           <div class="center-content">
             <img src="{{ .Params.vehicleStats | relURL }}" alt="blog-thumb" class="img-fluid w-100 mb-20" style="max-width: 75%;">
-            <hr class="mb-20">
           </div>
         </div>
       </div>
@@ -56,7 +55,22 @@
               <img src="{{ .image | relURL }}" title="{{ .Params.title }}">
             {{ end }}
           </div>
-          <hr class="mb-20">
+
+          <!-- Kontakt -->
+          <div class="d-flex align-items-center section-title justify-content-between">
+            <h2 class="mb-0 text-nowrap mr-3">Kontakt</h2>
+            <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          </div>
+
+          <div class="row" style="justify-content: center;">
+            <div class="col-12 content mb-20" style="margin-bottom: unset;">
+              <div class="center-content">
+                <img src="{{ .Params.kontakt | relURL }}" alt="blog-thumb" class="img-fluid w-100" style="max-width: 80%;">
+              </div>
+            </div>
+          </div>
+
+          <hr class="mb-30">
 
           {{ if site.DisqusShortname }}
           <div class="col-12">

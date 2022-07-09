@@ -10,6 +10,8 @@ seatConfig: "images/partners/presto/vozilo1/seatConfig.jpg"
 vehicleStats: "images/partners/presto/vozilo1/stats.jpg"
 plates: "(BG 2384-UG)"
 
+kontakt: "images/partners/presto/vozilo1/kontakt.jpg"
+
 symbols:
   - image : "images/partners/symbols/klima.png"
     desc : "Klima"
