@@ -46,6 +46,11 @@ galery:
   - image: "images/partners/presto/vozilo1/img4.jpg"
   - image: "images/partners/presto/vozilo1/img5.jpg"
   - image: "images/partners/presto/vozilo1/img6.jpg"
+  - image: "images/partners/presto/vozilo1/img7.jpg"
+  - image: "images/partners/presto/vozilo1/img8.jpg"
+  - image: "images/partners/presto/vozilo1/img9.jpg"
+  - image: "images/partners/presto/vozilo1/img10.jpg"
+  - image: "images/partners/presto/vozilo1/img11.jpg"
 
 type: "partners/presto/vozilo"
 ---

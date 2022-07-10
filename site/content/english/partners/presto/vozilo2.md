@@ -31,6 +31,9 @@ symbols:
   - image: "images/partners/symbols/kafe_aparat.png"
     desc: "Kafe aparat"
 
+  - image: "images/partners/symbols/220v.png"
+    desc: "Utičnica (220V)"
+
   - image: "images/partners/symbols/wifi.png"
     desc: "WiFi"
 
@@ -43,6 +46,11 @@ galery:
   - image: "images/partners/presto/vozilo2/img4.jpg"
   - image: "images/partners/presto/vozilo2/img5.jpg"
   - image: "images/partners/presto/vozilo2/img6.jpg"
+  - image: "images/partners/presto/vozilo2/img7.jpg"
+  - image: "images/partners/presto/vozilo2/img8.jpg"
+  - image: "images/partners/presto/vozilo2/img9.jpg"
+  - image: "images/partners/presto/vozilo2/img10.jpg"
+  - image: "images/partners/presto/vozilo2/img11.jpg"
 
 type: "partners/presto/vozilo"
 ---
