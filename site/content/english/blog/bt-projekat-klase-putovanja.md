@@ -13,8 +13,8 @@ author: "Igor Nikolić"
 # taxonomy
 categories: ["Autobusi", "Turizam"]
 tags: ["QR code", "presto", "turistički autobusi"]
-withVideo: "false"
-videoUrl: ""
+withVideo: "true"
+videoUrl: "https://www.youtube.com/embed/HwAzcuTXCXA"
 pageUrl: ""
 # type
 type: "post"
