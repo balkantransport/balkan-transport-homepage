@@ -154,6 +154,11 @@ hasChildren = true
   name = "VDL Berkhof: Dve uspešne decenije"
   url = "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/"
 
+  [[Languages.en.menu.main]]
+  parent = "Projekti"
+  name = "Klase putovanja"
+  url = "project/klase-putovanja/"
+
 [[Languages.en.menu.main]]
 name = "O nama"
 url = "about"

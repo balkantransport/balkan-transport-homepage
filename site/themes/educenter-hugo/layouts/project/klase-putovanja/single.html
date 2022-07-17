@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <!-- event image -->
+      <div class="col-12">
+        <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100 mb-20">
+      </div>
+    </div>
+    
+    <div class="container">
+        <div class="d-flex align-items-center section-title justify-content-between mb-20">
+          <h2 class="mb-0 text-nowrap mr-3">Klase putovanja</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+        </div>
+
+        <div class="row" style="justify-content: center;">
+          <div class="col-12 content" style="margin-bottom: unset;">
+            {{ .Content }}
+          </div>
+        </div>
+
+        <div class="d-flex align-items-center section-title justify-content-between mb-20">
+            <h2 class="mb-0 text-nowrap mr-3">Video</h2>
+            <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+        </div>
+
+        <div class="row" style="justify-content: center;">
+            {{ if (eq .Params.withVideo "true") }}
+                <iframe class="mb-20" width="800" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+            {{end}}
+        </div>
+
+        <hr class="mb-30">
+
+        {{ if site.DisqusShortname }}
+        <div class="col-12">
+        {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
