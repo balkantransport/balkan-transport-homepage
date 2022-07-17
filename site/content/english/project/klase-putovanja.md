@@ -1,5 +1,5 @@
 ---
-title: "Balkan Transport projekat: Klase putovanja"
+title: "Klase putovanja"
 # Schedule page publish date
 publishDate: "2022-07-17T00:00:00+06:00"
 # post save as draft
