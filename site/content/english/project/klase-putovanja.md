@@ -27,6 +27,7 @@ High Class podrazumeva vozila koja omogućavaju adekvatnu udobnost za osnovna i 
 
 - Turistička sedišta (sa mogućnošću dodatne opreme)
 - Savremeni sistem grejanja i hlađenja
+- Audio i video oprema
 
 ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌
 ![High Class](/images/blog/bt-projekat-klase-putovanja/highClass.jpeg "High Class")
@@ -41,6 +42,7 @@ Top Class podrazumeva vozila koja u skladu sa svojom opremom putnicima omogućav
 
 - Turistička sedišta sa sklopivim stočićima i držačima za noge
 - Savremeni sistem grejanja i hlađenja
+- TV, audio i video oprema
 - Toalet
 - Kafe aparat
 
@@ -57,6 +59,7 @@ Royal Class podrazumeva vozila koja putnicima pružaju veći stepen komfora i ud
 
 - Turistička sedišta sa sklopivim stočićima i držačima za noge
 - Savremeni sistem grejanja i hlađenja
+- TV, audio i video oprema
 - Toalet
 - Kafe aparat/mini kuhinja
 - USB/220V utičnice
