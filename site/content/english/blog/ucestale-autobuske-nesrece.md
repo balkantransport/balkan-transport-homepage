@@ -1,7 +1,7 @@
 ---
 title: "Zašto su autobuske nesreće sve učestalije leti?"
 date: 2022-08-21T00:00:00+06:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/blog/autobuske-nesrece-background.jpg"
 # meta description
@@ -27,11 +27,15 @@ Leto donosi veliki obim posla svim prevoznicima, bilo da se radi o linijskom pre
 
 Problem nastaje kada se iz ture u turu, vreme pauza skraćuje, čak i da zamislimo da vozači između svake vožnje imaju zakonski zagarantovanu pauzu (od minimum 9h), što naravno u velikom broju kompanija nije slučaj, izuzetno je diskutabilno da li vozač zaista može da se odmori u toku te pauze. Tokom sezone dolazi i do problema smeštaja voznog osoblja, zbog prebukiranja smeštaja, nije isto odmoriti 9h u smeštaju ili na sedištu u autobusu, bunkeru autobusa i slično. Sve i da uzmemo u obzir minimalnu pauzu od 9h između dve vožnje, u tih 9 sati dok autobus miruje ulazi i čišćenje vozila, pripremanje za narednu vožnju, pranje, potencijalno i neka mehanička korekcija, što vreme odmora vozača dodatno skraćuje. U turističkim autobusima, postoje kreveti za vozače, samo što tokom vožnje u krevetu, postaje diskutabilno koliko se zapravo može i odmoriti. 
 
+![Spavanje u box-u](/images/blog/ucestale-autobuske-nesrece/img14.jpg "Spavanje u box-u")
+
 Dolazimo do činjenice da se na ovaj način radi iz dana u dan, iz ture u turu, te umor prelazi u hroničan, kao i nedostatak redovnog sna, na tome dodajemo i noćnu vožnju kao dodatni stepen opterećenja.
 
 Mali broj kompanija koje striktno poštuju zakon o radnom vremenu vozača, nažalost, postoji veliki broj zloupotreba i manipulacija tahograf uređaja koji beleže podatke o radnom vremenu vozača i kretanju vozila, to već godinama nije tajna, niti bilo kakva novina koja je prisutna kod nas, ali je u delu godine sa prevelikim obimom posla jako veliki problem koji može dovesti do fatalnih posledica.
 
 Problem nije na jednom polju, problem se nalazi sa više strana, prvi i osnovni problem je nedostatak profesionalnih vozača, ovaj problem je globalni, nije lokalni, ovo zanimanje je jednostavno deficitarno, kao i gomila drugih, osim teških uslova rada, malih primanja u odnosu na odgovornost, jako veliki problem predstavlja gomila protokola, polaganja, licenci koje je neophodno prikupiti da bi se došlo do vozačke dozvole i mogućnosti za upravljanje autobusom. Svake godine se dodaju neki novi izazovi pred vozače, novi zahtevi, novi uslovi, kontrole na putu, mogućnost visokih kazni i za najmanji prekršaj itd. Sve su to razlozi zašto sve manje ljudi bira ovaj poziv.
+
+![Nedostatak profesionalnih vozača](/images/blog/ucestale-autobuske-nesrece/img17.jpg "Nedostatak profesionalnih vozača")
 
 Što se tiče Srbije, izuzetno veliki broj vozača je dolazio kroz vojnu obuku, gde je bilo omogućeno polaganje kategorija tokom vojnog roka, nakon gubitka te škole, došlo je do reformi auto škola, gde su pooštreni uslovi, gde su se profiltrirale auto škole i ono što su one pružale, samim tim i cena usluge je drastično skočila. Ipak, da to ne bi bilo sve, od pre par godina država Srbija je uvela kao obavezu i tzv. CPC licencu, odnosno licenca za osposobljenost profesionalnih vozača za upravljanje vozilom određene kategorije. Licenca kao licenca bi bila odlično zamišljena, prati trendove EU, međutim, licenca tek svršene vozače košta oko 1400 evra, što sa cenama polaganja vozačkih ispita od B do D kategorije, uključujući C i E, lekarske preglede, izlaske na ispite dovodi cenu polaganja do cifre od blizu 4000 evra. Uzmimo u obzir da prosečna plata vozača autobusa iznosi između 500-600 evra, a u velikom delu države je i mnogo niža, jasno je zašto se retko ko odlučuje uopšte da se uhvati u koštac sa polaganjem vozačkih ispita.
 
@@ -42,12 +46,18 @@ Bilo kako bilo, živimo u 2022. godini, cena prevoza putnika u Srbiji je i dalje
 Kako bi opstali, što pod pritiskom dospelih obaveza, što pod pritiskom tržišta, vozi se po cenama daleko od realnih, što utiče i na bezbednost putnika i saobraćaja. Ako prevoznik vozi vožnju na ivici isplativosti, to se oseti i na mnogim drugim poljima, izbor vozača se smanjuje, štedi se na smeštaju, traži se ušteda i na ruti putovanja radi smanjenja troškova, štedi se na održavanju i sve je to jedan lanac koji spletom raznih okolnosti može doći do fatalnih posledica.
 
 Ali, postoje i neplanski faktori, koje retko ko sagledava kada se desi saobraćajna nesreća. 
-Tokom putovanja u inostranstvo granični prelazi, radovi, neplanska zadržavanja koja remete plan putovanja koji je vrlo često jako stisnut i prenatrpan da bi se u što kraćem roku obišlo što je moguće više, pružilo više putnicima itd. Svako ko je tokom letnje sezone putovao negde, suočio je sa neorganizacijom na graničnim prelazima, višesatnim čekanjima, kontrolama koje predugo traju, suočio se sa radovima koji su ostavljeni za letnju sezonu kada je najveća frekvencija vozila, tokom tog vremena, radno vreme vozača otkucava, pauze se skraćuju, umor stiže, a odgovnost je samo na onom čoveku koji u tom momentu upravlja autobusom i životima svih ljudi. Granična policija će nakon smene otići kući, carinici i putari takođe, a vozači će nakon izgubljenih par sati ostati jedini odgovorni za sve ljude u vozilu, ali i oko njega, onda kada sve prođe u redu, ali i onda kada ih umor stigne, oni su ti koji snose sav teret. 
+Tokom putovanja u inostranstvo granični prelazi, radovi, neplanska zadržavanja koja remete plan putovanja koji je vrlo često jako stisnut i prenatrpan da bi se u što kraćem roku obišlo što je moguće više, pružilo više putnicima itd. Svako ko je tokom letnje sezone putovao negde, suočio je sa neorganizacijom na graničnim prelazima, višesatnim čekanjima, kontrolama koje predugo traju, suočio se sa radovima koji su ostavljeni za letnju sezonu kada je najveća frekvencija vozila, tokom tog vremena, radno vreme vozača otkucava, pauze se skraćuju, umor stiže, a odgovnost je samo na onom čoveku koji u tom momentu upravlja autobusom i životima svih ljudi. Granična policija će nakon smene otići kući, carinici i putari takođe, a vozači će nakon izgubljenih par sati ostati jedini odgovorni za sve ljude u vozilu, ali i oko njega, onda kada sve prođe u redu, ali i onda kada ih umor stigne, oni su ti koji snose sav teret.
+
+![Gužve na autoputevima](/images/blog/ucestale-autobuske-nesrece/img16.jpg "Gužve na autoputevima")
 
 U ranu zoru, 21. avgusta. nedaleko od mesta Pečenjevce, desila se teška saobraćajna nesreća u kojoj je učestvovalo vozilo domaćih tablica, na povratku iz Grčke, došlo je do prevrtanja autobusa na bok, tom prilikom je povređeno 35 osoba, a jedna osoba je smrtno stradala. Kroz medije se već provlači priča o umoru vozača kao potencijalnom uzroku, ali hajde da sagledamo sve faktore.
 
+![Nesreća kod Leskovca](/images/blog/ucestale-autobuske-nesrece/img13.jpg "Nesreća kod Leskovca")
+
 Autobus koji je u petak krenuo put Grčke, susreo se sa višesatnim čekanjem na izlazu iz Srbije zbog pada sistema na granici, za to vreme radno vreme vozača ide, umor stiže, ali vozilo se ne pomera, vozači su istini za volju, pre povratka za Srbiju napravili pauzu od 9h, ali, u povratku ogromne gužve, velike smena turista, kraj avgusta, poštovao se zakon, vozači su se menjali, pred samu nezgodu su pravili i pauzu, ali nije se dalo da ovaj autobus stigne na svoje odredište, ugašen je jedan mladi život, trajno uništeni životi vozača, trajne traume za sve putnike, odgovornost nose dva čoveka, a mnogi su imali učepće. 
 U danima koji su prethodili, kilometarske kolone na deonici autoputa od Niša ka Paraćinu (smer ka Beograd), autoput koji se istovremeno radi na nekoliko lokacija, u periodu najveće frekvencije vozila od juna do septembra je zatvoren, opet će se kola lomiti na običnim smrtnicima koji ne uspeju da izdrže ritam turističke sezone.
+
+![Gužve na graničnim prelazima](/images/blog/ucestale-autobuske-nesrece/img15.jpg "Gužve na graničnim prelazima")
 
 I tako iz godine u godinu, prevoznici vode svoju bitku, vozači bitke sa snom, radovima, granicama, putnici borbu da zarade novac da otputuju, agencije borbu za svakog putnika i stvari „funkcionišu“, preseče nas tu i tamo poneka strašna nesreća, svi se onda pitamo, kako, zašto, ali na kraju, najlakše je pripisati vozaču, on je jedan za volanom, a ostalih problema koji se ne rešavaju je mnogo. Prođe par dana, zaboravimo i šta nas je potreslo, šta nas je mučilo, vrati se svako od nas svojim ličnim problemima, do neke naredne vožnje, do neke naredne ture, do neke naredne granice, narednih radova, a i do neke nove nesreće. Pa onda idemo iznova, pitaćemo se kako i zašto, ali nijedan od višegodišnjih problema neće se rešiti, naprotiv, sve dok ide preko leđa običnih ljudi, problemi mogu biti samo veći.
 
