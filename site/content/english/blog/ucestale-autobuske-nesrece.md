@@ -140,4 +140,3 @@ U Crnoj Gori se 2013. godine, krajem juna, desila jedna od najtežih nesreća u 
 **U prethodnih 10 godina u autobusima prevoznika sa Balkana stradalo je više 100 ljudi**, svake godine nesreće su sve učestalije, ritam koji nosi smanjeni broj raspoloživih radnika svake godine je sve veći, a sistemski se nijedan od problema ne rešava. Ostaje nam samo da se nadamo da će putnici i vozači biti bezbedni zahvaljujući nekoj višoj sili, budući da ovozemaljske sile nemaju u planu rešavanje problema iz ove branše. 
 
 **Foto: [Kurir.rs](http://kurir.rs/), [Danas.rs](http://danas.rs/), [Dnevnik.hr](http://dnevnik.hr/), [Mondo.rs](http://mondo.rs/), [rts.rs](http://rts.rs/)**\
-**Tekst: Dušan Beraja**
