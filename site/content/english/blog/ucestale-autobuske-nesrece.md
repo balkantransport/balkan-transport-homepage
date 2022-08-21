@@ -45,12 +45,12 @@ Bilo kako bilo, živimo u 2022. godini, cena prevoza putnika u Srbiji je i dalje
 
 Kako bi opstali, što pod pritiskom dospelih obaveza, što pod pritiskom tržišta, vozi se po cenama daleko od realnih, što utiče i na bezbednost putnika i saobraćaja. Ako prevoznik vozi vožnju na ivici isplativosti, to se oseti i na mnogim drugim poljima, izbor vozača se smanjuje, štedi se na smeštaju, traži se ušteda i na ruti putovanja radi smanjenja troškova, štedi se na održavanju i sve je to jedan lanac koji spletom raznih okolnosti može doći do fatalnih posledica.
 
-Ali, postoje i neplanski faktori, koje retko ko sagledava kada se desi saobraćajna nesreća. 
+Ali, postoje i neplanski faktori, koje retko ko sagledava kada se desi saobraćajna nezgoda. 
 Tokom putovanja u inostranstvo granični prelazi, radovi, neplanska zadržavanja koja remete plan putovanja koji je vrlo često jako stisnut i prenatrpan da bi se u što kraćem roku obišlo što je moguće više, pružilo više putnicima itd. Svako ko je tokom letnje sezone putovao negde, suočio je sa neorganizacijom na graničnim prelazima, višesatnim čekanjima, kontrolama koje predugo traju, suočio se sa radovima koji su ostavljeni za letnju sezonu kada je najveća frekvencija vozila, tokom tog vremena, radno vreme vozača otkucava, pauze se skraćuju, umor stiže, a odgovnost je samo na onom čoveku koji u tom momentu upravlja autobusom i životima svih ljudi. Granična policija će nakon smene otići kući, carinici i putari takođe, a vozači će nakon izgubljenih par sati ostati jedini odgovorni za sve ljude u vozilu, ali i oko njega, onda kada sve prođe u redu, ali i onda kada ih umor stigne, oni su ti koji snose sav teret.
 
 ![Gužve na autoputevima](/images/blog/ucestale-autobuske-nesrece/img16.jpg "Gužve na autoputevima")
 
-U ranu zoru, 21. avgusta. nedaleko od mesta Pečenjevce, desila se teška saobraćajna nesreća u kojoj je učestvovalo vozilo domaćih tablica, na povratku iz Grčke, došlo je do prevrtanja autobusa na bok, tom prilikom je povređeno 35 osoba, a jedna osoba je smrtno stradala. Kroz medije se već provlači priča o umoru vozača kao potencijalnom uzroku, ali hajde da sagledamo sve faktore.
+U ranu zoru, 21. avgusta. nedaleko od mesta Pečenjevce, desila se teška saobraćajna nezgoda u kojoj je učestvovalo vozilo domaćih tablica, na povratku iz Grčke, došlo je do prevrtanja autobusa na bok, tom prilikom je povređeno 35 osoba, a jedna osoba je smrtno stradala. Kroz medije se već provlači priča o umoru vozača kao potencijalnom uzroku, ali hajde da sagledamo sve faktore.
 
 ![Nesreća kod Leskovca](/images/blog/ucestale-autobuske-nesrece/img13.jpg "Nesreća kod Leskovca")
 
@@ -61,7 +61,9 @@ U danima koji su prethodili, kilometarske kolone na deonici autoputa od Niša ka
 
 I tako iz godine u godinu, prevoznici vode svoju bitku, vozači bitke sa snom, radovima, granicama, putnici borbu da zarade novac da otputuju, agencije borbu za svakog putnika i stvari „funkcionišu“, preseče nas tu i tamo poneka strašna nesreća, svi se onda pitamo, kako, zašto, ali na kraju, najlakše je pripisati vozaču, on je jedan za volanom, a ostalih problema koji se ne rešavaju je mnogo. Prođe par dana, zaboravimo i šta nas je potreslo, šta nas je mučilo, vrati se svako od nas svojim ličnim problemima, do neke naredne vožnje, do neke naredne ture, do neke naredne granice, narednih radova, a i do neke nove nesreće. Pa onda idemo iznova, pitaćemo se kako i zašto, ali nijedan od višegodišnjih problema neće se rešiti, naprotiv, sve dok ide preko leđa običnih ljudi, problemi mogu biti samo veći.
 
-Najteže nesreće koje su potresle Balkan:
+## Najteže nesreće koje su potresle Balkan
+
+---
 
 ### U prevrtanju autobusa u Bugarskoj, na sreću bez poginulih
 
