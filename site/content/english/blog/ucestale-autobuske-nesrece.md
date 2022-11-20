@@ -11,8 +11,8 @@ image: "images/blog/ucestale-autobuske-nesrece/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy
-categories: ["Prevoznici", "Vozaci"]
-tags: ["Profesionalni vozaci", "Prevoz putnika", "Srbija", "Saobracajna nesreca"]
+categories: ["Prevoznici", "Vozači"]
+tags: ["Profesionalni vozači", "Prevoz putnika", "Srbija", "Saobraćajna nesreća"]
 withVideo: "false"
 pageUrl: ""
 # type
