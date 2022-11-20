@@ -23,9 +23,10 @@ Prvih 45 autobusa su već isporučeni prevozniku **Arriva Slovenia** tokom oktob
 
 Veliki broj sedišta, sa dovoljnim razmakom između svakog sedišta, dovoljno prostora za prtljag, kao I dodatna oprema koja pomaže ekonomičnosti i bezbednosti tokom vožnje nešto su čime se ponose u Mercedesu. Osim toga, ovi visokopodni međugradski autobusi pružaju komfor svakom putniku.
 
+![Mercedes Benz Intouro Arriva Slovenia](/images/blog/novi-mb-intouro-za-arrivu-slovenia/img2.jpg "Mercedes Benz Intouro Arriva Slovenia")
+
 U ovom kontigentu vozila stiglo je 35 autobusa Mercedes-Benz Intouro sa dužinom od 12m, kao i 10 autobusa Mercedes-Benz Intouro K, sa dužinom od 10.75m koji su namenjeni za uslove vožnje gde je “provlačenje” 12m autobusa nije moguće.
 
-![Mercedes Benz Intouro Arriva Slovenia](/images/blog/novi-mb-intouro-za-arrivu-slovenia/img2.jpg "Mercedes Benz Intouro Arriva Slovenia")
 ![Mercedes Benz Intouro Arriva Slovenia](/images/blog/novi-mb-intouro-za-arrivu-slovenia/img3.jpg "Mercedes Benz Intouro Arriva Slovenia")
 
 Osim, 1.25m kraće šasije, manje međuosovinsko rastojaje omogućava da vozilo koristi manje prostora za skretanje, što je za neke linije koje obavlja Arriva Slovenija više nego neophodno.
