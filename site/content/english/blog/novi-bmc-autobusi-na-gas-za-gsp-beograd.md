@@ -40,8 +40,6 @@ U saopštenju se navodi da su nova vozila na gas niskopodna i zglobna, s maksima
 
 Gradonačelnik je naglasio i to da će se vozila puniti kao i sva ostala vozila ovakvog tipa na gasnim stanicama *Kriogasa*, a da će izgradnja javno-privatne gasne stanice u pogonu GSP, koja je predviđena za kraj marta, mnogo značiti za sva buduća vozila s gasnim pogonom.
 
-**Izvor: [bhbus.ba](https://www.bhbus.ba/2022/11/23/sto-novih-vozila-na-gas-uskoro-na-ulicama-beograda/)**;
-**Foto: [bhbus.ba](https://www.bhbus.ba/2022/11/23/sto-novih-vozila-na-gas-uskoro-na-ulicama-beograda/)**;
 **Video: [video.24sedam.rs](https://video.24sedam.rs/)**
 
 ### Video
