@@ -15,7 +15,7 @@ categories: ["Prevoznici", "Autobusi"]
 tags: ["GSP", "Beograd", "BMC"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/wPyC4P4ywZM"
-pageUrl: ""
+pageUrl: "blog/novi-bmc-autobusi-na-gas-za-gsp-beograd"
 # type
 type: "post"
 ---

@@ -14,7 +14,7 @@ author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["Van Hool"]
 withVideo: "false"
-pageUrl: ""
+pageUrl: "blog/nova-generacija-van-hoola"
 # type
 type: "post"
 ---

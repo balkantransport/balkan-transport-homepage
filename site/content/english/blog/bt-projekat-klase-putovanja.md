@@ -15,7 +15,7 @@ categories: ["Autobusi", "Turizam"]
 tags: ["QR code", "presto", "turistički autobusi"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/HwAzcuTXCXA"
-pageUrl: ""
+pageUrl: "blog/bt-projekat-klase-putovanja"
 # type
 type: "post"
 ---

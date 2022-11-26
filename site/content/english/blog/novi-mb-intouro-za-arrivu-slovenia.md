@@ -14,7 +14,7 @@ author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Arriva", "Slovenija", "Mercedes Benz"]
 withVideo: "false"
-pageUrl: ""
+pageUrl: "blog/novi-mb-intouro-za-arrivu-slovenia"
 # type
 type: "post"
 ---
