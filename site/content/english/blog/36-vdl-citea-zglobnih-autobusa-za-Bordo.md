@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/vdl-logo-background.jpg"
 description : "Prvi *VDL Bus & Coach* projekat e-mobilnosti u Francuskoj biće pokrenut prvog kvartala 2024. godine. Bordou, gradu u Francuskoj sa 800.000 stanovnika koji se rapidno širi, VDL će isoručiti 36 autobusa Citea nove generacije operateru Bus Rapid Transit (BRT) kojem je u fokusu međugradski saobraćaj."
 # post thumbnail
 image: "images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

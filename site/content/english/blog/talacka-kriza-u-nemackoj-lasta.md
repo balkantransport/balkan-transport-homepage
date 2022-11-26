@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Na autoputu A9 između *Hilpolteseina* i *Gredinga* došlo je do potpune obustave saobraćaja zbog talačke krize u autobusu Laste iz Beograda."
 # post thumbnail
 image: "images/blog/talacka-kriza-u-nemackoj-lasta/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/talacka-kriza-u-nemackoj-lasta/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

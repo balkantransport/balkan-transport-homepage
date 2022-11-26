@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/severtrans-solaris-background.jpg"
 description : "Nakon jedne neuspešne privatizacije, restrukturiranja, gomile incidenata, oduzimanja autobusa, štrajkova, Severtrans iz Sombora ima novog vlasnika. Kompanija Solaris Tours je novi vlasnik firme iz Sombora."
 # post thumbnail
 image: "images/blog/solaris-tours-novi-vlasnik-severtransa/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/solaris-tours-novi-vlasnik-severtransa/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

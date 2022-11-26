@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Od juče je u saobraćaju trideset autobusa kineskog proizvođača “Higer”. Prvih 30 od ukupno 174 autobusa, raspodeljena su u tri saobraćajna pogona preduzeća “GSP Beograd."
 # post thumbnail
 image: "images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Nakon kupovine dva Isuzu Cityporta krajem januara, autoprevoznik “Bamiron” iz Beograda ponosni je vlasnik još dva autobusa istog proizvođača."
 # post thumbnail
 image: "images/blog/dva-isuzu-cityporta-za-bamiron/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/dva-isuzu-cityporta-za-bamiron/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

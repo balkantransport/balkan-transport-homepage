@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Nakon linija ka Hrvatskoj i Sloveniji, Flixbus mreža od 03.10.2019. godine povezuje Srbiju i sa Mađarskom."
 # post thumbnail
 image: "images/blog/flixbus-beograd-budimpesta/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/flixbus-beograd-budimpesta/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/ecs2021-vdl-background.jpg"
 description : "Pre 6 godina, predstavljen je model Futura FDD2, razvijen od solo verzije Future koja je u tom period doživela veliku popularnost u Evropi."
 # post thumbnail
 image: "images/blog/ecs2021-vdl-futura-fdd2/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/ecs2021-vdl-futura-fdd2/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

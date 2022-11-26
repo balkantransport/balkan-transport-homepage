@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Najmanji učesnik ovog takmičenja, pomalo iznenađujuće za mnoge koji prate ovo takmičenje, Setra se pojavila na ovom takmičenju sa najkraćim modelom iz ComfortClass-e serije 500."
 # post thumbnail
 image: "images/blog/ecs2021-setra-s511hd/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/ecs2021-setra-s511hd/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

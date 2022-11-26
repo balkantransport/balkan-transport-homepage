@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-trollino24-background.jpg"
 description : "Prag postaje prestonica dvozglobnih trolejbusa! Dvadeset Solaris Trollino 24 trolejbusa za gradskog prevoznika DPP (Dopravní podnik)."
 # post thumbnail
 image: "images/blog/prag-prestonica-dvozglobnih-trolejbusa/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/prag-prestonica-dvozglobnih-trolejbusa/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Kompanija “Fudeks” iz Beograda tokom februara meseca nudi mogućnost putovanja do Beča i Skoplja za samo 1 euro!"
 # post thumbnail
 image: "images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

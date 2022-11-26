@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Epidemija virusa Covid 19 uzrokovala je velike gubitke u sektoru saobraćaja i turizma, kako posle epidemije korona virusa?"
 # post thumbnail
 image: "images/blog/turizam-u-doba-korone/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/turizam-u-doba-korone/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

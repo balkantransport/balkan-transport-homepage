@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Prema najavama nadležnih službi, delimično uspostavljanje međugradskog saobraćaja najavljeno je za ponedeljak 27. april, uspostavljanje gradskog prevoza očekuje se posle 4. maja 2020. godine."
 # post thumbnail
 image: "images/blog/uspostavlja-se-putnicki-saobracaj/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-putnicki-saobracaj/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

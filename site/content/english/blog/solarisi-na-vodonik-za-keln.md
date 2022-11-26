@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-keln-background.jpg"
 description : "Nemački javni prevoznik *RVK* naručio je 20 Solaris Urbino 12 autobusa sa pogonom na vodonik. Nakon završene isporuke, ulicama Kelna putnike će prevoziti 35 Solaris autobusa na vodonik. Ugovor takođe predviđa opciju naručivanja dodatnih 20 vozila istog tipa."
 # post thumbnail
 image: "images/blog/solarisi-na-vodonik-za-keln/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/solarisi-na-vodonik-za-keln/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

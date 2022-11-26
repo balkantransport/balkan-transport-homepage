@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-talin-tlt.jpg"
 description : "Talin proširuje porudžbinu – još 50 autobusa Solaris Urbino CNG autobusa pridružiće se floti u glavnom gradu Estonije!"
 # post thumbnail
 image: "images/blog/urbino-cng-za-prestonicu-estonije/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/urbino-cng-za-prestonicu-estonije/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

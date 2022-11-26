@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Tokom prethodnog meseca bili smo gosti firme L&M Kostić Tours iz Beograda, porodične firme sa velikim ambicijama i rezultatima iza sebe u prethodnom periodu."
 # post thumbnail
 image: "images/blog/l&m-kostic-tours/post-2_1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/l&m-kostic-tours/post-2_1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

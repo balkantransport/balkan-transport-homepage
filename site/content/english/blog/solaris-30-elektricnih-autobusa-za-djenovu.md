@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-djenova-background.jpg"
 description : "Solaris je neprikosnoveni lider u prodaji električnih autobusa u Italiji. Poslednjih dana, proizvođač je postigao još jedan uspeh u ovom segmentu, pobedivši na tenderu za isporuku čak 30 e-autobusa AMT-u u Đenovi. Priobalni grad želi da zameni svoju flotu električnim autobusima do 2025. Vrednost novog govora premašuje 15 miliona evra."
 # post thumbnail
 image: "images/blog/solaris-30-elektricnih-autobusa-za-djenovu/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/solaris-30-elektricnih-autobusa-za-djenovu/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

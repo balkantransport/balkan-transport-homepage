@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-djenova-background.jpg"
 description : "Novi Sad, Evropska prestonica kulture, postaće prvi grad u Srbiji čije će građane prevoziti električni Solaris autobusi."
 # post thumbnail
 image: "images/blog/elektricni-solarisi-za-novi-sad/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/elektricni-solarisi-za-novi-sad/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

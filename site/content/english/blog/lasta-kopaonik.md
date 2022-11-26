@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/l
 description : "Ekipa portala Balkan Transport imala je tu čast da među prvima u sezoni 2021/2022. putuje na Kopaonik u organizaciji kompanije “Lasta” iz Beograda."
 # post thumbnail
 image: "images/blog/lasta-kopaonik/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/lasta-kopaonik/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

@@ -9,6 +9,7 @@ description : "Nakon obustave uzrokovane epidemijom virusa Covid 19, marta 2020.
 Flixbusom ponovo saobraća na liniji Beograd – Novi Sad – Budimpešta od 28.10.2021."
 # post thumbnail
 image: "images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

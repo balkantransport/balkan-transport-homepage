@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/presto-future-background.jpg"
 description : "U skladu sa predstojećim jubilejom, 10 godina od osnivanja Balkan Transport portala, jedna od novosti koju smo pripremili jesu klase putovanja za turističke autobuse."
 # post thumbnail
 image: "images/blog/bt-projekat-klase-putovanja/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/bt-projekat-klase-putovanja/img1.jpg"
 # post author
 author: "Igor Nikolić"
 # taxonomy

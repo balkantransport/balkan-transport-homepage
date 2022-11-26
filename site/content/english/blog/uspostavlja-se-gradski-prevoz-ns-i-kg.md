@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Od ponedeljka 04.05.2020. ponovo se uspostavljaju linije gradskog prevoza u Novom Sadu i Kragujevcu, uspostavljaju se i prvi polasci na međugradskim linijama u Srbiji."
 # post thumbnail
 image: "images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

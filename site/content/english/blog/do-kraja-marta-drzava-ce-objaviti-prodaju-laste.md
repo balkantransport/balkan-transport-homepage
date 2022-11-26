@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Država planira da do kraja marta objavi prodaju 77 odsto udela u najstarijem transportnom preduzeću u Srbiji – kompaniji “Lasta”."
 # post thumbnail
 image: "images/blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

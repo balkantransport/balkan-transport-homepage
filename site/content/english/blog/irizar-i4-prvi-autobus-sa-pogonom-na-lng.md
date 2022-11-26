@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/irizar-i4-lng-background.jpg"
 description : "Irizar je proizveo prvi autobus sa pogonom na prirodni gas, **Irizar i4**, koji sa punim rezervoarom može da pređe više od 1000km i samim tim je pogodan za međugradske rute. Ova opcija je dodatak širokom spektru tehnologija i održivih goriva koje irizar trenutno nudi."
 # post thumbnail
 image: "images/blog/irizar-i4-prvi-autobus-sa-pogonom-na-lng/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/irizar-i4-prvi-autobus-sa-pogonom-na-lng/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

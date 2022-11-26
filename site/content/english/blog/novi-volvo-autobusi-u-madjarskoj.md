@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Volánbusz, najveći autoprevoznik u Mađarskoj, izabrao je Volvo kao partnera za isporuku 50 novih autobusa Volvo 8900 LE nakon tendera na kojem je učestvovalo nekoliko potencijalnih partnera. Isporuka je zakazana za četvrti kvartal 2021. godine"
 # post thumbnail
 image: "images/blog/novi-volvo-autobusi-u-madjarskoj/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/novi-volvo-autobusi-u-madjarskoj/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy
