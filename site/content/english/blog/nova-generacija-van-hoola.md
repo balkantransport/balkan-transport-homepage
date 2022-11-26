@@ -29,11 +29,13 @@ Van Hool javnosti je predstavio modele T Alicron, T Acron i T Astron. Izrada nov
 
 Jednostavan i sveden dizajn prednje i zadnje maske omogućavaju maksimalnu efikasnost (smanjenje potrošnje goriva) i posebnu brigu o životnoj sredini (nizak nivo emisije CO2 čestica).
 
+![Van Hool T17 Astron](/images/blog/nova-generacija-van-hoola/img12.jpg "Van Hool T17 Astron")
+
 Dizajn prednje I zadnje maske, uključujući i dodatne spojlere omogućava smanjenje vibracija i otpora vazduha prilikom kretanja vozila, sa tim u vezi možemo videti i svetla za maglu, svetla za krivine su integrisana u samu prednju masku, kako bi se maksimalno doprinelo aerodinamici vozila. Sa istim ciljem se na novoj T seriji mogu videti I krovni spojleri, sa ciljem usmeravanja vazduha ka nazad, čime se vibracije I otpor vazduha smanjuju do krajnjih granica. Sam dizajn zadnje stene je takođe u potpunosti usmeren na optimalnu aerodinamiku.
 
-![Van Hool T17 Astron](/images/blog/nova-generacija-van-hoola/img2.jpg "Van Hool T17 Astron")
-
 Najupečatljivija karakteristika dizajna Van Hool T-a je posebno konveksno vetrobransko staklo, čiji je oblik i nagib u potpunosti u skladu sa maksimalnim protokom vazduha. Na prednjem delu vozila, donja strana ima glatku završnu obradu kako bi se i ovde minimizirala turbulencija vazduha. Važno je napomenuti da je zahvaljujući dizajnu, buka od vetra svedena na minimum, što dodatno omogućava da novi Van Hool daje opšti osećaj udobnosti I komfora.
+
+![Van Hool T17 Astron](/images/blog/nova-generacija-van-hoola/img2.jpg "Van Hool T17 Astron")
 
 Van Hool u novoj generaciji T modela nudi mogućnost klasičnih retrovizora, koji su takođe pretrpeli značajne promene, ali opciono nudi mogućnost kamera koji zamenjuju retrovizore (MirrorCams). 
 
@@ -129,7 +131,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Menjač: ZF Traxon
 - •	Broj sedišta: 55+1+1 (standardna oprema)
 
-![Van Hool T15 Alicron](/images/blog/nova-generacija-van-hoola/t15-alicron.jpg "Van Hool T15 Alicron")
+<!-- ![Van Hool T15 Alicron](/images/blog/nova-generacija-van-hoola/t15-alicron.jpg "Van Hool T15 Alicron") -->
 
 ---
 
@@ -142,7 +144,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Menjač: ZF Traxon
 - •	Broj sedišta: 59+1+1 (standardna oprema)
 
-![Van Hool T16 Alicron](/images/blog/nova-generacija-van-hoola/t16-alicron.jpg "Van Hool T16 Alicron")
+<!-- ![Van Hool T16 Alicron](/images/blog/nova-generacija-van-hoola/t16-alicron.jpg "Van Hool T16 Alicron") -->
 
 ---
 
@@ -155,7 +157,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Menjač: ZF Traxon
 - •	Broj sedišta: 47+1+1 (standardna oprema)
 
-![Van Hool T11 Acron](/images/blog/nova-generacija-van-hoola/t11-acron.jpg "Van Hool T11 Acron")
+<!-- ![Van Hool T11 Acron](/images/blog/nova-generacija-van-hoola/t11-acron.jpg "Van Hool T11 Acron") -->
 
 ---
 
@@ -168,7 +170,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Menjač: ZF Traxon
 - •	Broj sedišta: 55+1+1 (standardna oprema)
 
-![Van Hool T15 Acron](/images/blog/nova-generacija-van-hoola/t15-acron.jpg "Van Hool T15 Acron")
+<!-- ![Van Hool T15 Acron](/images/blog/nova-generacija-van-hoola/t15-acron.jpg "Van Hool T15 Acron") -->
 
 ---
 
@@ -181,7 +183,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Menjač: ZF Traxon
 - •	Broj sedišta: 59+1+1 (standardna oprema)
 
-![Van Hool T16 Acron](/images/blog/nova-generacija-van-hoola/t16-acron.jpg "Van Hool T16 Acron")
+<!-- ![Van Hool T16 Acron](/images/blog/nova-generacija-van-hoola/t16-acron.jpg "Van Hool T16 Acron") -->
 
 ---
 
@@ -194,7 +196,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Menjač: ZF Traxon
 - •	Broj sedišta: 65+1+1 (standardna oprema)
 
-![Van Hool T17 Acron](/images/blog/nova-generacija-van-hoola/t17-acron.jpg "Van Hool T17 Acron")
+<!-- ![Van Hool T17 Acron](/images/blog/nova-generacija-van-hoola/t17-acron.jpg "Van Hool T17 Acron") -->
 
 ---
 
@@ -208,7 +210,7 @@ Van Hool T generacija nudi sledeće modele:
 - •	Broj sedišta: 59+1+1 (standardna oprema)
 
 
-![Van Hool T16 Astron](/images/blog/nova-generacija-van-hoola/t16-astron.jpg "Van Hool T16 Astron")
+<!-- ![Van Hool T16 Astron](/images/blog/nova-generacija-van-hoola/t16-astron.jpg "Van Hool T16 Astron") -->
 
 ---
 
@@ -222,3 +224,5 @@ Van Hool T generacija nudi sledeće modele:
 - •	Broj sedišta: 67+1+1 (standardna oprema)
 
 ![Van Hool T17 Astron](/images/blog/nova-generacija-van-hoola/t17-astron.jpg "Van Hool T17 Astron")
+
+**Izvor: [vanhool.com](https://www.vanhool.com/), [bertiewillemsen.piwigo.com](https://bertiewillemsen.piwigo.com/)**
