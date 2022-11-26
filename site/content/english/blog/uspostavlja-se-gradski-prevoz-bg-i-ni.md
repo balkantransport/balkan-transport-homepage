@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Od petka 08.05.2020. ponovo se uspostavlja gradski prevoz na teritoriji grada Beograda i grada Niša."
 # post thumbnail
 image: "images/blog/uspostavlja-se-gradski-prevoz-bg-i-ni/post-3_1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-bg-i-ni/post-3_1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

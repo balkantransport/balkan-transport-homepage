@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Danas su u Austriji prezentovani novi modeli Volvo autobusa, modeli 9700 i 9900."
 # post thumbnail
 image: "images/blog/predstavljeni-novi-volvo-9700-i-9900/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/predstavljeni-novi-volvo-9700-i-9900/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

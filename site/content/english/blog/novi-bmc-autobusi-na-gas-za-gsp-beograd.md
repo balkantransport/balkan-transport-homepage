@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/gsp-background-2.jpg"
 description : "Sto novih zglobnih autobusa s pogonom na komprimovani prirodni gas (CNG) BMC Procity 18 CNG pušteno je u saobraćaj u Beogradu."
 # post thumbnail
 image: "images/blog/novi-bmc-autobusi-na-gas-za-gsp-beograd/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/novi-bmc-autobusi-na-gas-za-gsp-beograd/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

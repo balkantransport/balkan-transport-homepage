@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/fudeks-budimpesta-background.jpg"
 description: "Nedelju dana pred početak najveće turističke smotre u zemlji i regionu, **43. Međunarodnog beogradskog sajma turizma**, na Beogradskom sajmu održana je konferencija za medije na kojoj su najavljeni učesnici i program manifestacije."
 # post thumbnail
 image: "images/blog/sajam-turizma-2022/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/sajam-turizma-2022/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

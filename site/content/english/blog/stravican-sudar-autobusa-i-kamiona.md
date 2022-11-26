@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "U jutarnjim časovima na putu između Kuršumlije i Prokuplja, kod mesta Barlovo, došlo je do čeonog sudara između autobusa firme “Niš Ekspres” i kamiona sa prikolicom."
 # post thumbnail
 image: "images/blog/stravican-sudar-autobusa-i-kamiona/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/stravican-sudar-autobusa-i-kamiona/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

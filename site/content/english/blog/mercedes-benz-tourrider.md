@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/mercedes-tourrider-background.png"
 description : "Tourrider je, po navodima iz Nemačke, posebno skrojen za Severnu Ameriku, i ovo je jedino tržište gde će on biti u zvaničnoj ponudi."
 # post thumbnail
 image: "images/blog/mercedes-benz-tourrider/img1.png"
+metaImage: "https://www.balkantransport.net/images/blog/mercedes-benz-tourrider/img1.png"
 # post author
 author: "Igor Nikolić"
 # taxonomy

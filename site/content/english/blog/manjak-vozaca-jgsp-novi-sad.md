@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/jgsp-ns-background.jpg"
 description : "GSP ima problema da obezbedi dovoljan broj vozača autobusa kako bi se ispoštovao red vožnje, jer je nikad veći broj njih na bolovanju zbog zaražavanja korona virusom ili izolacije, saznaje 021.rs."
 # post thumbnail
 image: "images/blog/manjak-vozaca-jgsp-novi-sad/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/manjak-vozaca-jgsp-novi-sad/img1.jpg"
 # post author
 author: "Igor Nikolić"
 # taxonomy

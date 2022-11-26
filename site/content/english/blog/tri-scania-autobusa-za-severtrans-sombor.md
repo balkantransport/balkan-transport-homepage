@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/scania-irizar-background.jpg"
 description : "Kompanija Severtrans Sombor AD novi je vlasnik tri moderna Scania Irizar autobusa, radi se o jednom Irizar i6s u dvoosovinkoj izvedbi, dva troosovinska autobusa Irizar i6s, kao i prvi Irizar i8 u Srbiji."
 # post thumbnail
 image: "images/blog/tri-scania-autobusa-za-severtrans-sombor/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/tri-scania-autobusa-za-severtrans-sombor/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

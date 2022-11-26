@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Beogradska Autobuska Stanica (BAS) doživeće nove promene, posle premeštanja parkinga autobusa, od nedelje dobija i nove dolazne perone i novu perionicu."
 # post thumbnail
 image: "images/blog/novi-dolazni-peroni-na-bas/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/novi-dolazni-peroni-na-bas/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

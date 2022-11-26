@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/s517hdh-background.jpg"
 description : "Setra S517HDH je predstavljena u jesen 2013. godine, ovaj autobus je predstavljen kao deo TopClass ponude nemačke Setre"
 # post thumbnail
 image: "images/blog/setra-s517hdh-kraljica-modernog-doba/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/setra-s517hdh-kraljica-modernog-doba/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

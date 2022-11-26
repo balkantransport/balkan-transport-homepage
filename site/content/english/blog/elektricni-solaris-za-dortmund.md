@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-dortmund-background.jpg"
 description : "Solaris će Dortmundu isporučiti 30 najsavremenijih električnih autobusa. Zglobni Urbino 18 u električnoj izvedbi na ulicama Dortmunda pojaviće se krajem 2022. godine. Ova investicija gradskog saobraćajnog preduzeća Dortmunder Stadtwerke AG u nove Solarise, samo je jedan deo dugoročnog plana koji je izrađen u cilju smanjenja zagađenja vazduha i buke u urbanim sredinama."
 # post thumbnail
 image: "images/blog/elektricni-solaris-za-dortmund/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/elektricni-solaris-za-dortmund/img1.jpg"
 # post author
 author: "Igor Nikolić"
 # taxonomy

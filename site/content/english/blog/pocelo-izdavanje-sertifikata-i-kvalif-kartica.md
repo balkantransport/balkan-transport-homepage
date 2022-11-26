@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Agencija za bezbednost saobraćaja Republike Srbije, u okviru poslova poverenih Zakonom o bezbednosti saobraćaja na putevima 31. januara 2019. godine otpočela je proces sertifikacije profesionalnih vozača."
 # post thumbnail
 image: "images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

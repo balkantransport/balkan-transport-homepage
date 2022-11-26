@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Članovi “International Bus of the Year” žirija na Minibus Euro Testu u Madridu su Mercedesu Sprinter City 75 dodelili titulu “Minibus of the Year 2019”."
 # post thumbnail
 image: "images/blog/minibus-of-the-year/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/minibus-of-the-year/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/solaris-trollino24-background.jpg"
 description : "*Solaris Bus & Coach* isporučiće 16 vozila *Solaris Trollino 24* slovačkom operateru *Dopravný Podnik Bratislava*. U pitanju su prvi Solaris trolejbusi dužine preko 24 metra koji su izašli na tržište. Pojaviće se na ulicama Bratislave za manje od dve godine a vrednost ugovora iznosi blizu 17 miliona evra."
 # post thumbnail
 image: "images/blog/solaris-trolino-24-debituje-na-trzistu/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/solaris-trolino-24-debituje-na-trzistu/img1.jpg"
 # post author
 author: "Luka Kalinić"
 # taxonomy

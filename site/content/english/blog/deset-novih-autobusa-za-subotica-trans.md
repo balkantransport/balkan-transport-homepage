@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Zahvaljujući pomoći grada Subotice, vozni park javnog preduzeća “Subotica Trans” od danas je bogatiji za 10 autobusa."
 # post thumbnail
 image: "images/blog/deset-novih-autobusa-za-subotica-trans/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/deset-novih-autobusa-za-subotica-trans/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

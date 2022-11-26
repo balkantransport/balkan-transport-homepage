@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/ecs2021-neoplan-background.jpg"
 description : "Predstavnik Neoplana je sada već legendarni model *Cityliner*, radi se o troosovinskom autobusu, koji je na testu došao u *Platinum* izvedbi, u čast 50 godina od nastanka prvog modela Citylinera iz fabrike Neoplan."
 # post thumbnail
 image: "images/blog/ecs2021-neoplan-cityliner/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/ecs2021-neoplan-cityliner/img1.jpg"
 # post author
 author: "Igor Nikolić"
 # taxonomy

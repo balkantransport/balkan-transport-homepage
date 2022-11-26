@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/autobuske-nesrece-background.jpg"
 description : "Od početka leta svedočili smo dešavanju nekoliko saobraćajnih nezgoda u kojima su učesnici bili autobusi, uključujući i one sa najtežim posledicama. Nažalost, ovo leto nije izuzetak, a situacija je slična godinama unazad."
 # post thumbnail
 image: "images/blog/ucestale-autobuske-nesrece/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/ucestale-autobuske-nesrece/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

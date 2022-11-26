@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Početkom meseca naša ekipa bila je gost u Požarevcu, u okviru kompanije “Arriva Litas” predstavljena su nam najnovija pojačanja u voznom parku ove firme, ukupno sedam autobusa marke “Mercedes-Benz” već prevozi zadovoljne putnike."
 # post thumbnail
 image: "images/blog/arriva-litas-predstavila-nove-autobuse/post-1_1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/arriva-litas-predstavila-nove-autobuse/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

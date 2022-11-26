@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/gsp-background.jpg"
 description : "Grad Beograd je krajem prethodnog meseca na ponovljenom procesu tendera za nabavku 100 vozila sa pogonom na gas odabrao ponudu zastupnika proizvođača BMC u Srbiji, kompanije M.P.N. iz Beograda i S-Leasing kuće."
 # post thumbnail
 image: "images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

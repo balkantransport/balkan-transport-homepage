@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : ""
 # post thumbnail
 image: "images/blog/potpuna-obustava-javnog-prevoza/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/potpuna-obustava-javnog-prevoza/img1.jpg"
 # post author
 author: "Igor Nikolić"
 # taxonomy

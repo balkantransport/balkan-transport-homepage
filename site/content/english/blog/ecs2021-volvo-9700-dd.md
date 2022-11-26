@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/blog/ecs2021-volvo-background.jpg"
 description : "Prošlo je oko 9 meseci od zvaničnog pojavljivanja prvog autobusa na sprat iz fabrike Volvo, početkom 2021. godine Volvo je javnosti predstavio Volvo 9700DD. Pre zvaničnog predstavljanja za tržište Evrope, nekolicina autobusa je svoje mesto našla na tržištu Švedske i Finske, kao neka vrsta test modela."
 # post thumbnail
 image: "images/blog/ecs2021-volvo-9700-dd/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/ecs2021-volvo-9700-dd/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

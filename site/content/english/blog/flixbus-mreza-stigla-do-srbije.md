@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Flixbus mreža konačno je stigla i u Srbiju, Srbija će biti 29. zemlja koja je deo mreže FlixBus sistema."
 # post thumbnail
 image: "images/blog/flixbus-mreza-stigla-do-srbije/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/flixbus-mreza-stigla-do-srbije/img1.jpg"
 # post author
 author: "Dušan Beraja"
 # taxonomy

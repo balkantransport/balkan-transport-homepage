@@ -8,6 +8,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "Aktivne izmene na linijama 6, 7, 9, 12…"
 # post thumbnail
 image: "images/blog/delimicno-ukidanje-tramvajskog-saobracaja/img1.jpg"
+metaImage: "https://www.balkantransport.net/images/blog/delimicno-ukidanje-tramvajskog-saobracaja/img1.jpg"
 # post author
 author: "Igor Nikolić"
 # taxonomy
