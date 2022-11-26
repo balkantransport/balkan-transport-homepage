@@ -14,7 +14,7 @@ author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Severtrans", "Scania"]
 withVideo: "false"
-pageUrl: ""
+pageUrl: "blog/tri-scania-autobusa-za-severtrans-sombor"
 # type
 type: "post"
 ---

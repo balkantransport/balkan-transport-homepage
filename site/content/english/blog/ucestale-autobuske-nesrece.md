@@ -14,7 +14,7 @@ author: "Dušan Beraja"
 categories: ["Prevoznici", "Vozači"]
 tags: ["Profesionalni vozači", "Prevoz putnika", "Srbija", "Saobraćajna nesreća"]
 withVideo: "false"
-pageUrl: ""
+pageUrl: "blog/ucestale-autobuske-nesrece"
 # type
 type: "post"
 ---
