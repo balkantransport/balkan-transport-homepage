@@ -3,7 +3,7 @@ title: "Novi Volvo 9700 za Severtrans Sombor"
 date: 2022-12-26T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/scania-irizar-background.jpg"
+bg_image: "images/backgrounds/blog/volvo-9700-severtrans-background.jpg"
 # meta description
 description : "Direktno iz fabrike u Švedskoj u Sombor je stigao potpuno novi Volvo 9700 poslednje generacije."
 # post thumbnail
