@@ -20,7 +20,7 @@ pageUrl: "blog/nova-setra-s516hd2-za-brisnik-bus-tomislavgrad"
 type: "post"
 ---
 
-Vozilo je kupljeno u Beogradu, posredstvom zastupnika za Mercedes-Benz i Setra autobuse, kompanije **Star Import doo** iz Beograda. Zanimljivo ovo je drugi novi autobus koji iz Beograda ide put Tomislavgrada, prethodno je vlasnik novog *Mercedes Benz Tourisma 16RHD/2* postala kompanija **Ćićko Comerce** iz Tomislavgrada.
+Vozilo je kupljeno u Beogradu, posredstvom zastupnika za Mercedes-Benz i Setra autobuse za Srbiju, Crnu Goru, Bosnu i Hercegovinu i Albaniju, kompanije **Star Import doo** iz Beograda. Zanimljivo ovo je drugi novi autobus koji iz Beograda ide put Tomislavgrada, prethodno je vlasnik novog *Mercedes Benz Tourisma 16RHD/2* postala kompanija **Ćićko Comerce** iz Tomislavgrada.
 
 ![Nova Setra S516HD/2 za Brišnik Bus Tomislavgrad](/images/blog/nova-setra-s516hd2-za-brisnik-bus-tomislavgrad/img2.jpg "Nova Setra S516HD/2 za Brišnik Bus Tomislavgrad")
 
