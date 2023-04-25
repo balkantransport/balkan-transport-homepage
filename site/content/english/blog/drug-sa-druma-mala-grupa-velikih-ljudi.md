@@ -10,7 +10,7 @@ metaImage: "https://www.balkantransport.net/images/blog/drug-sa-druma-mala-grupa
 # post author
 author: "Dušan Beraja"
 # taxonomy
-categories: ["Vozaci"]
+categories: ["Vozači"]
 tags: ["Kamioni", "Humanitarna organizcija"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/zp_yeRhuy2A"
