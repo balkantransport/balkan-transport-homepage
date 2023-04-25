@@ -128,29 +128,6 @@
 </script>
 {{ end }}
 
-
-<!-- cookie -->
-{{ if site.Params.cookies.enable }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	Ovaj sajt koristi kolačiće. Nastavkom korišćenja ove web stranice, pristajete na njihovu upotrebu. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">Prihvatam</span>
-</div>
-<script>
-	(function ($) {
-		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
-			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
-					expires: {{ site.Params.cookies.expire_days }}
-				});
-				cookieBox.classList.add('cookie-box-hide');
-			};
-		}
-	})(jQuery);
-</script>
-
 <!-- cookie style -->
 <style>
 .cookie-box {
