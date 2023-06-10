@@ -36,5 +36,5 @@ Spoljašnji izgled je zaista impresivan, ali tek unutrašnjost ostavlja bez daha
 
 Gospodin Miloš Marijić, direktor kompanije Sejari Beograd, izrazio je svoje zadovoljstvo što su na listu uspešnih isporuka dodali i još jedan sportski kolektiv te istakao oduševljenje tom prilikom kako on i njegova kompanija rade na jednom ovako bitnom projektu.
 
-**Izvor: [bhbus.ba](https://www.bhbus.ba)**
+**Izvor: [Sejari Beograd](https://sejari.co.rs/), [bhbus.ba](https://www.bhbus.ba)**
 
