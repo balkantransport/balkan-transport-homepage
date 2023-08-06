@@ -1,6 +1,6 @@
 ---
 title: "Deset Mercedes Benz Citara C2 za Strelu iz Obrenovca"
-date: 2023-08-06T00:00:00+06:00
+date: 2023-08-11T00:00:00+06:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/blog/citaro-c2-strela-obrenovac-background.jpg"
@@ -13,7 +13,7 @@ metaImage: "https://www.balkantransport.net/images/blog/mercedes-benz-citaro-c2-
 author: "Dušan Beraja"
 # taxonomy
 categories: ["Autobusi", "Gradski prevoz"]
-tags: ["mercedes-benz"]
+tags: ["mercedes-benz", "autoprevoznici", "Strela obrenovac", "gradski prevoz Beograd", "javni prevoz", "prevoz putnika", "Beograd", "star import"]
 withVideo: "false"
 pageUrl: "blog/mercedes-benz-citaro-c2-za-strelu-obrenovac"
 # type
