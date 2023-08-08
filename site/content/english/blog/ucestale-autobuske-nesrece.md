@@ -130,8 +130,6 @@ Motociklista je poginuo na licu mesta, dve devojčice su lakše povređena, a la
 
 Pored ovih nezgoda u letnjem periodu, nikako ne smemo zaboraviti nesreću u Bugarskoj, tokom novembra 2021. kada je autobus iz Makedonije  izleteo sa kolovoza i tom prilikom se zapalio, u smrt je odveo 46 ljudi koji su ostali zarobljeni u autobusu, nakon istrage kroz medije su se provlačili natpisi o švercu goriva i pirotehnike koja je uzrokovala da autobus tako brzo izgori.
 
-![Nesreća u Bugarskoj](/images/blog/ucestale-autobuske-nesrece/img11.jpg "Nesreća u Bugarskoj")
-
 Jedna od teških nesreća desila se i u Makedoniji, tokom marta 2019. godine, kada je autobus izleteo sa autoputa i prevrnuo se, tom prilikom je stradalo 15 putnika, a istragom je utvrđeno da je vozač zbog neprilagođene brzine izleteo sa kolovoza, kao i neispravnost kočnica, upotreba uređaja za manipulacijom tahografa, zbog svega toga uhapšen je vlasnik kompanije čiji je autobus učestvovao u nesreći, kao i odgovorna lica tehničkog pregleda koji je pored utvrđenih propusta, par meseci pre nezgode izdao potvrdu o tehničkoj ispravnosti vozila.
 
 ![Nesreća u Makedoniji](/images/blog/ucestale-autobuske-nesrece/img12.jpg "Nesreća u Makedoniji")
