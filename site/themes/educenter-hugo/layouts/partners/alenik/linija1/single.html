@@ -33,7 +33,7 @@
           <hr class="mb-40">
         </div>
 
-        {{ if site.DisqusShortname }}
+        {{ if .Site.Config.Services.Disqus.Shortname }}
         <div class="col-12">
           {{ template "_internal/disqus.html" . }}
         </div>
