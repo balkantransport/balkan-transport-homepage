@@ -3,11 +3,13 @@ baseURL = "/"
 title = "Balkan Transport"
 theme = "educenter-hugo"
 # post pagination
-paginate = "6"
+pagination.pagerSize = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "balkantransport" # get your shortname form here : https://disqus.com
+[services]
+  [services.disqus]
+    shortname = "balkantransport" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -56,6 +58,12 @@ contact_form_action = "#" # contact form works with https://formspree.io
 google_analitycs_id = "G-WVWTWP21VK" # your id
 # top header
 top_header = true
+
+# turn off debug warnings
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Preloader
 [params.preloader]
