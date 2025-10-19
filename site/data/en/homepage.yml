@@ -14,6 +14,16 @@ slider:
         label : "Više"
         link : "blog"
 
+    - title : "Busworld 2025"
+      content : "Busworld 2025 – Sve novosti i aktuelnosti sa sajma na jednom mestu. Otkrijte premijere, inovacije i priče koje oblikuju budućnost autobuske industrije direktno sa najvećeg svetskog sajma – Busworld 2025."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Više"
+        link : "busworld2025/about-busworld"
+
     - title : "Presto Beograd"
       content : "Kompanija Presto osnovana je 2001. godine i dugogodišnji je partner našeg tima. Danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao."
       animation_in : "left"
@@ -178,6 +188,33 @@ funfactsvdl:
     # funfact item loop
     - name : "izvedbi"
       count : "9"
+
+funfactsbusworld2025:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - under : "izlagača"
+      above : "Preko "
+      count : "500"
+      exponent: ""
+
+    # funfact item loop
+    - under : "proizovođača autobusa"
+      above : "Ukupno"
+      count : "80"
+      exponent: ""
+
+    # funfact item loop
+    - under : "izloženih vozila"
+      above : "Više od"
+      count : "200"
+      exponent: ""
+
+    # funfact item loop
+    - under : "premijere"
+      above : "Predstavljene"
+      count : "23"
+      exponent: ""
 
 funfactspresto:
   enable : true
