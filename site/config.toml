@@ -135,15 +135,15 @@ copyright = "Copyright &copy; 2021 Balkan Transport"
 [[Languages.en.menu.main]]
 name = "Vesti"
 url = "blog"
-weight = 1
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "Usluge"
 url = "service"
-weight = 2
+weight = 3
 
 [[Languages.en.menu.main]]
-weight = 3
+weight = 4
 name = "Partneri"
 hasChildren = true  
 
@@ -153,7 +153,63 @@ hasChildren = true
   url = "partners/presto/"
 
 [[Languages.en.menu.main]]
-weight = 4
+weight = 5
+name = "Busworld 2025"
+hasChildren = true  
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "O sajmu"
+  url = "busworld2025/about-busworld/"
+  weight = -1
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "BMC"
+  url = "busworld2025/bmc/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Ayats"
+  url = "busworld2025/ayats/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Beulas"
+  url = "busworld2025/beulas/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Castrosua"
+  url = "busworld2025/castrosua/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Golden Dragon"
+  url = "busworld2025/golden-dragon/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Yutong"
+  url = "busworld2025/yutong/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Unvi"
+  url = "busworld2025/unvi/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "King Long"
+  url = "busworld2025/king-long/"
+
+  [[Languages.en.menu.main]]
+  parent = "Busworld 2025"
+  name = "Higer"
+  url = "busworld2025/higer/"
+
+[[Languages.en.menu.main]]
+weight = 6
 name = "Projekti"
 hasChildren = true  
 
@@ -170,12 +226,12 @@ hasChildren = true
 [[Languages.en.menu.main]]
 name = "O nama"
 url = "about"
-weight = 5
+weight = 7
 
 [[Languages.en.menu.main]]
 name = "Kontakt"
 url = "contact"
-weight = 6
+weight = 8
 
 # footer menu
 
