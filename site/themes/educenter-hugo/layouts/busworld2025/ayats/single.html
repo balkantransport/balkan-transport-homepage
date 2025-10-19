@@ -1,93 +1,55 @@
 {{ define "main" }}
 
-{{ $data := index site.Data site.Language.Lang }}
-
 <!-- event single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <!-- event image -->
-      <div class="col-12">
-        <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100 mb-20">
-        <div class="vehicle-icons-flex mb-50">
-          {{ range .Params.Symbols }}
-            <img src="{{ .image | relURL }}" title="{{ .desc }}">
-          {{ end }}
-        </div>
+      <!-- research image -->
+      <div class="col-12 mb-4">
+        <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
       </div>
     </div>
-    
-    <div class="container">
-        <!-- Konfiguracija sedista -->
-        <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">Podaci o vozilu</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
-        </div>
-
-        <div class="row" style="justify-content: center;">
-          <div class="col-12 content mb-20" style="margin-bottom: unset;">
-            <div class="center-content">
-              <img src="{{ .Params.vehicleStats | relURL }}" alt="blog-thumb" class="img-fluid w-100 mb-20" style="max-width: 75%;">
-            </div>
-          </div>
-        </div>
-
-        <!-- Konfiguracija sedista -->
-        <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">Konfiguracija sedišta</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
-        </div>
-
-        <div class="row" style="justify-content: center;">
-          <div class="col-12 content mb-20" style="margin-bottom: unset;">
-            <div class="center-content">
-              <img src="{{ .Params.seatConfig | relURL }}" alt="blog-thumb" class="img-fluid w-100 mb-20" style="max-width: 75%;">
-            </div>
-          </div>
-        </div>
-
-        <div class="d-flex align-items-center section-title justify-content-between mb-20">
-          <h2 class="mb-0 text-nowrap mr-3">O vozilu</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
-        </div>
-
-        <div class="row" style="justify-content: center;">
-          <div class="col-12 content" style="margin-bottom: unset;">
-            {{ .Content }}
-
-            <button type="button" class="collapsible mb-30">Više slika</button>
-            <div class="collapsible-category-content mb-20">
-              {{ range .Params.Galery }}
-                <img src="{{ .image | relURL }}" title="{{ .Params.title }}">
-              {{ end }}
-            </div>
-          </div>
-        </div>
-
-        <!-- Kontakt -->
-        <div class="d-flex align-items-center section-title justify-content-between">
-          <h2 class="mb-0 text-nowrap mr-3">Kontakt</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
-        </div>
-
-        <div class="row" style="justify-content: center;">
-          <div class="col-12 content mb-20" style="margin-bottom: unset;">
-            <div class="center-content">
-              <img src="{{ .Params.kontakt | relURL }}" alt="blog-thumb" class="img-fluid w-100" style="max-width: 80%;">
-            </div>
-          </div>
-        </div>
-
-          <hr class="mb-30">
-
-          {{ if .Site.Config.Services.Disqus.Shortname }}
-          <div class="col-12">
-            {{ template "_internal/disqus.html" . }}
-          </div>
-          {{ end }}
-        </div>
+    <div class="row" style="justify-content: center;">
+      <div class="col-12 content">
+        {{ .Content }}
       </div>
     </div>
+  </div>
+  <div class="container">
+    <div class="row" style="justify-content: center;">
+      <div class="col-12 content">
+        <ul class="mb-20">
+          <li>
+            Konfiguracija prilagođena <strong>kraćim relacijama i bržoj smeni putnika</strong>.
+          </li>
+          <li>
+            Konfiguracija namenjena <strong>turističkim i dugolinijskim putovanjima</strong>, sa luksuznim sedištima i
+            dodatnim komforom.
+          </li>
+        </ul>
+        <p>Najzanimljiviji deo izloženog modela svakako je Scania 13-litarski gasni motor koji koristi LNG kao pogonsko gorivo. Ovakav izbor donosi značajne ekološke prednosti, ali i tehničke izazove – zbog potrebe za velikim rezervoarom, deo zadnjeg prtljažnog prostora prilagođen je za smeštaj LNG tanka.</p>
+      </div>
+    </div>
+
+    <button type="button" class="collapsible mb-20">Galerija</button>
+    <div class="collapsible-category-content mb-20">
+      <img src="/images/busworld2025/ayats/img2.JPG">
+      <img src="/images/busworld2025/ayats/img3.JPG">
+      <img src="/images/busworld2025/ayats/img4.JPG">
+      <img src="/images/busworld2025/ayats/img5.JPG">
+      <img src="/images/busworld2025/ayats/img6.JPG">
+      <img src="/images/busworld2025/ayats/img7.JPG">
+      <img src="/images/busworld2025/ayats/img8.JPG">
+      <img src="/images/busworld2025/ayats/img9.JPG">
+      <img src="/images/busworld2025/ayats/img10.JPG">
+      <img src="/images/busworld2025/ayats/img11.JPG">
+    </div>
+
+    {{ if .Site.Config.Services.Disqus.Shortname }}
+    <div class="col-12">
+    {{ template "_internal/disqus.html" . }}
+    </div>
+    {{ end }}
   </div>
 </section>
 
