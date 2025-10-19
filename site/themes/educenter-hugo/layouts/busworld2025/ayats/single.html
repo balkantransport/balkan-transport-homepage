@@ -1,10 +1,8 @@
 {{ define "main" }}
 
-<!-- event single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <!-- research image -->
       <div class="col-12 mb-4">
         <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
       </div>
@@ -44,6 +42,7 @@
       <img src="/images/busworld2025/ayats/img10.JPG">
       <img src="/images/busworld2025/ayats/img11.JPG">
     </div>
+    <hr>
 
     {{ if .Site.Config.Services.Disqus.Shortname }}
     <div class="col-12">
