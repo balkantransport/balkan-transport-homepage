@@ -2,6 +2,7 @@
 title: Ayats
 draft: false
 bg_image: "images/busworld2025/ayats/ayats-background.JPG"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/ayats/img1.JPG"
 image: "images/busworld2025/ayats/img1.JPG"
 description : "Ayats je španska kompanija sa tradicijom dugom više od jednog veka – proizvodi autobuse još od 1905. godine."
 type: "busworld2025/ayats"
