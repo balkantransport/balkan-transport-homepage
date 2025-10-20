@@ -122,8 +122,6 @@ link = "https://youtube.com/c/BalkantransportNet"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
-home = "Naslovna"
 # copyright
 copyright = "Copyright &copy; 2021 Balkan Transport"
 
