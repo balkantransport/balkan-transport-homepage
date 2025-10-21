@@ -1,13 +1,11 @@
 {{ define "main" }}
 
-<!-- event single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <!-- research image -->
-      <!-- <div class="col-12 mb-4">
+      <div class="col-12 mb-4">
         <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div> -->
+      </div>
     </div>
     <div class="row" style="justify-content: center;">
       <div class="col-12 content">
@@ -16,34 +14,41 @@
     </div>
   </div>
   <div class="container">
-    <div class="row" style="justify-content: center;">
-      <!-- <div class="col-12 content">
-        <ul class="mb-20">
-          <li>
-            Konfiguracija prilagođena <strong>kraćim relacijama i bržoj smeni putnika</strong>.
-          </li>
-          <li>
-            Konfiguracija namenjena <strong>turističkim i dugolinijskim putovanjima</strong>, sa luksuznim sedištima i
-            dodatnim komforom.
-          </li>
-        </ul>
-        <p>Najzanimljiviji deo izloženog modela svakako je Scania 13-litarski gasni motor koji koristi LNG kao pogonsko gorivo. Ovakav izbor donosi značajne ekološke prednosti, ali i tehničke izazove – zbog potrebe za velikim rezervoarom, deo zadnjeg prtljažnog prostora prilagođen je za smeštaj LNG tanka.</p>
-      </div> -->
-    </div>
-
-    <!-- <button type="button" class="collapsible mb-20">Galerija</button>
+    <button type="button" class="collapsible mb-20">Hero – turistički autobus na Volvo šasiji, namenjen dužim relacijama.</button>
     <div class="collapsible-category-content mb-20">
-      <img src="/images/busworld2025/ayats/img2.JPG">
-      <img src="/images/busworld2025/ayats/img3.JPG">
-      <img src="/images/busworld2025/ayats/img4.JPG">
-      <img src="/images/busworld2025/ayats/img5.JPG">
-      <img src="/images/busworld2025/ayats/img6.JPG">
-      <img src="/images/busworld2025/ayats/img7.JPG">
-      <img src="/images/busworld2025/ayats/img8.JPG">
-      <img src="/images/busworld2025/ayats/img9.JPG">
-      <img src="/images/busworld2025/ayats/img10.JPG">
-      <img src="/images/busworld2025/ayats/img11.JPG">
-    </div> -->
+      <img src="/images/busworld2025/castrosua/img2.jpg">
+      <img src="/images/busworld2025/castrosua/img3.jpg">
+      <img src="/images/busworld2025/castrosua/img4.jpg">
+      <img src="/images/busworld2025/castrosua/img5.jpg">
+      <img src="/images/busworld2025/castrosua/img6.jpg">
+      <img src="/images/busworld2025/castrosua/img7.jpg">
+      <img src="/images/busworld2025/castrosua/img8.jpg">
+      <img src="/images/busworld2025/castrosua/img9.jpg">
+      <img src="/images/busworld2025/castrosua/img10.jpg">
+    </div>
+    <button type="button" class="collapsible mb-20">75 CS Low Entry – prigradsko/međugradski model na Scania šasiji</button>
+    <div class="collapsible-category-content mb-20">
+      <img src="/images/busworld2025/castrosua/img11.jpg">
+      <img src="/images/busworld2025/castrosua/img12.jpg">
+      <img src="/images/busworld2025/castrosua/img13.jpg">
+      <img src="/images/busworld2025/castrosua/img14.jpg">
+    </div>
+    <button type="button" class="collapsible mb-20">Nelec – gradski električni autobus na BYD šasiji, dužine 12 metara</button>
+    <div class="collapsible-category-content mb-20">
+      <img src="/images/busworld2025/castrosua/img15.jpg">
+      <img src="/images/busworld2025/castrosua/img16.jpg">
+      <img src="/images/busworld2025/castrosua/img17.jpg">
+      <img src="/images/busworld2025/castrosua/img18.jpg">
+      <img src="/images/busworld2025/castrosua/img19.jpg">
+      <img src="/images/busworld2025/castrosua/img20.jpg">
+      <img src="/images/busworld2025/castrosua/img21.jpg">
+    </div>
+    <hr>
+    {{ if .Site.Config.Services.Disqus.Shortname }}
+    <div class="col-12">
+    {{ template "_internal/disqus.html" . }}
+    </div>
+    {{ end }}
   </div>
 </section>
 
