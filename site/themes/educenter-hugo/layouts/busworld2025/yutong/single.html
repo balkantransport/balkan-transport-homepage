@@ -1,13 +1,11 @@
 {{ define "main" }}
 
-<!-- event single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <!-- research image -->
-      <!-- <div class="col-12 mb-4">
+      <div class="col-12 mb-4">
         <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div> -->
+      </div>
     </div>
     <div class="row" style="justify-content: center;">
       <div class="col-12 content">
@@ -16,34 +14,56 @@
     </div>
   </div>
   <div class="container">
-    <div class="row" style="justify-content: center;">
-      <!-- <div class="col-12 content">
-        <ul class="mb-20">
-          <li>
-            Konfiguracija prilagođena <strong>kraćim relacijama i bržoj smeni putnika</strong>.
-          </li>
-          <li>
-            Konfiguracija namenjena <strong>turističkim i dugolinijskim putovanjima</strong>, sa luksuznim sedištima i
-            dodatnim komforom.
-          </li>
-        </ul>
-        <p>Najzanimljiviji deo izloženog modela svakako je Scania 13-litarski gasni motor koji koristi LNG kao pogonsko gorivo. Ovakav izbor donosi značajne ekološke prednosti, ali i tehničke izazove – zbog potrebe za velikim rezervoarom, deo zadnjeg prtljažnog prostora prilagođen je za smeštaj LNG tanka.</p>
-      </div> -->
-    </div>
-
-    <!-- <button type="button" class="collapsible mb-20">Galerija</button>
+    <button type="button" class="collapsible mb-20">Yutong U12</button>
     <div class="collapsible-category-content mb-20">
-      <img src="/images/busworld2025/ayats/img2.JPG">
-      <img src="/images/busworld2025/ayats/img3.JPG">
-      <img src="/images/busworld2025/ayats/img4.JPG">
-      <img src="/images/busworld2025/ayats/img5.JPG">
-      <img src="/images/busworld2025/ayats/img6.JPG">
-      <img src="/images/busworld2025/ayats/img7.JPG">
-      <img src="/images/busworld2025/ayats/img8.JPG">
-      <img src="/images/busworld2025/ayats/img9.JPG">
-      <img src="/images/busworld2025/ayats/img10.JPG">
-      <img src="/images/busworld2025/ayats/img11.JPG">
-    </div> -->
+      <img src="/images/busworld2025/yutong/img3.jpg">
+      <img src="/images/busworld2025/yutong/img4.jpg">
+      <img src="/images/busworld2025/yutong/img5.jpg">
+      <img src="/images/busworld2025/yutong/img6.jpg">
+      <img src="/images/busworld2025/yutong/img7.jpg">
+    </div>
+    <button type="button" class="collapsible mb-20">Yutong U15</button> 
+    <div class="collapsible-category-content mb-20">
+      <img src="/images/busworld2025/yutong/img8.jpg">
+      <img src="/images/busworld2025/yutong/img9.jpg">
+      <img src="/images/busworld2025/yutong/img10.jpg">
+      <img src="/images/busworld2025/yutong/img11.jpg">
+      <img src="/images/busworld2025/yutong/img12.jpg">
+      <img src="/images/busworld2025/yutong/img13.jpg">
+    </div>
+    <button type="button" class="collapsible mb-20">Yutong IC12E</button>
+    <div class="collapsible-category-content mb-20">
+      <img src="/images/busworld2025/yutong/img14.jpg">
+      <img src="/images/busworld2025/yutong/img15.jpg">
+      <img src="/images/busworld2025/yutong/img16.jpg">
+      <img src="/images/busworld2025/yutong/img17.jpg">
+      <img src="/images/busworld2025/yutong/img18.jpg">
+      <img src="/images/busworld2025/yutong/img19.jpg">
+      <img src="/images/busworld2025/yutong/img20.jpg">
+    </div>
+    <button type="button" class="collapsible">Yutong T14E</button>
+    <div class="collapsible-category-content mb-20 mt-4">
+      <img src="/images/busworld2025/yutong/img21.jpg">
+      <img src="/images/busworld2025/yutong/img22.jpg">
+      <img src="/images/busworld2025/yutong/img23.jpg">
+      <img src="/images/busworld2025/yutong/img24.jpg">
+      <img src="/images/busworld2025/yutong/img25.jpg">
+      <img src="/images/busworld2025/yutong/img26.jpg">
+      <img src="/images/busworld2025/yutong/img27.jpg">
+      <img src="/images/busworld2025/yutong/img28.jpg">
+      <img src="/images/busworld2025/yutong/img29.jpg">
+      <img src="/images/busworld2025/yutong/img30.jpg">
+      <img src="/images/busworld2025/yutong/img31.jpg">
+      <img src="/images/busworld2025/yutong/img32.jpg">
+      <img src="/images/busworld2025/yutong/img33.jpg">
+      <img src="/images/busworld2025/yutong/img34.jpg">
+    </div>
+    <hr>
+    {{ if .Site.Config.Services.Disqus.Shortname }}
+    <div class="col-12">
+    {{ template "_internal/disqus.html" . }}
+    </div>
+    {{ end }}
   </div>
 </section>
 

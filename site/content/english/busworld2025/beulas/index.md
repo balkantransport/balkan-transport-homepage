@@ -38,9 +38,13 @@ Dvospratni turistički autobus koji može primiti do 99 putnika. Izloženi model
 
 ![Beulas Jewel](/images/busworld2025/beulas/img11.jpg "Beulas Jewel")
 
+---
+
 ### Beulas Glory
 
 Autobus namenjen dugim relacijama, prepoznatljiv po velikim prtljažnicima, prostranim rezervoarima i zanimljivoj unutrašnjoj konfiguraciji: putnici su smešteni na gornjem spratu, dok je donji deo rezervisan za bunkere za prtljag, mini-kuhinju i prostor za vozača i posadu. U ovoj verziji nalazi se ukupno 61 sedište, a iza drugih vrata smešten je prostran ležaj za odmor članova posade.
+
+---
 
 ![Beulas Glory](/images/busworld2025/beulas/img12.jpg "Beulas Glory")
 
@@ -56,9 +60,13 @@ Autobus namenjen dugim relacijama, prepoznatljiv po velikim prtljažnicima, pros
 
 ![Beulas Glory](/images/busworld2025/beulas/img18.jpg "Beulas Glory")
 
+---
+
 ### Beulas Cygnus
 
 Kompaktni model dužine 9,5 metara, idealan za regionalni prevoz, sa kapacitetom do 39 putnika.
+
+---
 
 ![Beulas Cygnus](/images/busworld2025/beulas/img19.jpg "Beulas Cygnus")
 

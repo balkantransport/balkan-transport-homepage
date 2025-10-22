@@ -22,6 +22,8 @@ Na sajmu Busworld Europe 2025, King Long se predstavio sa nekoliko vozila, uklju
 
 * MC13E – troosovinski električni turistički autobus dužine 14 metara, kapaciteta 59 putnika, sa baterijama od 704 kWh koje omogućavaju domet do 650 km u idealnim uslovima. Ovaj model je deo nove generacije električnih vozila predstavljene pod sloganom „EVolve Unlimited“.
 
+---
+
 ![King Long MC13E](/images/busworld2025/king-long/img2.JPG "King Long MC13E")
 
 ![King Long MC13E](/images/busworld2025/king-long/img3.JPG "King Long MC13E")
@@ -34,7 +36,11 @@ Na sajmu Busworld Europe 2025, King Long se predstavio sa nekoliko vozila, uklju
 
 ![King Long MC13E](/images/busworld2025/king-long/img7.JPG "King Long MC13E")
 
+---
+
 * Electric City Bus 12.2m – niskopodni gradski električni autobus dužine 12,2 metra, sa baterijom kapaciteta oko 466 kWh i autonomijom do 550 km. Opremljen je naprednim sigurnosnim sistemima, uključujući EAPM (asistenciju pri naglom pritisku na pedalu), EPS (upravljački sistem osetljiv na brzinu), Hill-Start Assist, 360° nadzor baterije i elektronsko ograničenje brzine.
+
+---
 
 ![King Long MU12E](/images/busworld2025/king-long/img8.JPG "King Long MU12E")
 
