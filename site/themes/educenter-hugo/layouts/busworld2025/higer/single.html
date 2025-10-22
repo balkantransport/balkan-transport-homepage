@@ -1,49 +1,61 @@
 {{ define "main" }}
 
-<!-- event single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
-      <!-- research image -->
-      <!-- <div class="col-12 mb-4">
+      <div class="col-12 mb-4">
         <img style="height: auto;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
-      </div> -->
+      </div>
     </div>
-    <div class="row" style="justify-content: center;">
+    <div class="row mb-10" style="justify-content: center;">
       <div class="col-12 content">
         {{ .Content }}
       </div>
     </div>
   </div>
   <div class="container">
-    <div class="row" style="justify-content: center;">
-      <!-- <div class="col-12 content">
-        <ul class="mb-20">
-          <li>
-            Konfiguracija prilagođena <strong>kraćim relacijama i bržoj smeni putnika</strong>.
-          </li>
-          <li>
-            Konfiguracija namenjena <strong>turističkim i dugolinijskim putovanjima</strong>, sa luksuznim sedištima i
-            dodatnim komforom.
-          </li>
-        </ul>
-        <p>Najzanimljiviji deo izloženog modela svakako je Scania 13-litarski gasni motor koji koristi LNG kao pogonsko gorivo. Ovakav izbor donosi značajne ekološke prednosti, ali i tehničke izazove – zbog potrebe za velikim rezervoarom, deo zadnjeg prtljažnog prostora prilagođen je za smeštaj LNG tanka.</p>
-      </div> -->
-    </div>
-
-    <!-- <button type="button" class="collapsible mb-20">Galerija</button>
+    <button type="button" class="collapsible mb-20">Higer Azure 12</button>
     <div class="collapsible-category-content mb-20">
-      <img src="/images/busworld2025/ayats/img2.JPG">
-      <img src="/images/busworld2025/ayats/img3.JPG">
-      <img src="/images/busworld2025/ayats/img4.JPG">
-      <img src="/images/busworld2025/ayats/img5.JPG">
-      <img src="/images/busworld2025/ayats/img6.JPG">
-      <img src="/images/busworld2025/ayats/img7.JPG">
-      <img src="/images/busworld2025/ayats/img8.JPG">
-      <img src="/images/busworld2025/ayats/img9.JPG">
-      <img src="/images/busworld2025/ayats/img10.JPG">
-      <img src="/images/busworld2025/ayats/img11.JPG">
-    </div> -->
+      <img src="/images/busworld2025/higer/img1.JPG">
+      <img src="/images/busworld2025/higer/img12.JPG">
+      <img src="/images/busworld2025/higer/img13.JPG">
+      <img src="/images/busworld2025/higer/img14.JPG">
+      <img src="/images/busworld2025/higer/img15.JPG">
+      <img src="/images/busworld2025/higer/img16.JPG">
+      <img src="/images/busworld2025/higer/img17.JPG">
+    </div>
+    <button type="button" class="collapsible mb-20">Higer V Series</button>
+    <div class="collapsible-category-content mb-20">
+      <img src="/images/busworld2025/higer/img2.JPG">
+      <img src="/images/busworld2025/higer/img3.JPG">
+      <img src="/images/busworld2025/higer/img4.JPG">
+      <img src="/images/busworld2025/higer/img5.JPG">
+      <img src="/images/busworld2025/higer/img6.JPG">
+      <img src="/images/busworld2025/higer/img7.JPG">
+      <img src="/images/busworld2025/higer/img8.JPG">
+      <img src="/images/busworld2025/higer/img9.JPG">
+      <img src="/images/busworld2025/higer/img10.JPG">
+      <img src="/images/busworld2025/higer/img11.JPG">
+      <img src="/images/busworld2025/higer/img25.JPG">
+      <img src="/images/busworld2025/higer/img26.JPG">
+      <img src="/images/busworld2025/higer/img27.JPG">
+      <img src="/images/busworld2025/higer/img28.JPG">
+      <img src="/images/busworld2025/higer/img29.JPG">
+      <img src="/images/busworld2025/higer/img30.JPG">
+      <img src="/images/busworld2025/higer/img18.JPG">
+      <img src="/images/busworld2025/higer/img19.JPG">
+      <img src="/images/busworld2025/higer/img20.JPG">
+      <img src="/images/busworld2025/higer/img21.JPG">
+      <img src="/images/busworld2025/higer/img22.JPG">
+      <img src="/images/busworld2025/higer/img23.JPG">
+      <img src="/images/busworld2025/higer/img24.JPG">
+    </div>
+    <hr>
+    {{ if .Site.Config.Services.Disqus.Shortname }}
+    <div class="col-12">
+      {{ template "_internal/disqus.html" . }}
+    </div>
+    {{ end }}
   </div>
 </section>
 
