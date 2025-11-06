@@ -23,8 +23,6 @@ type: "post"
 
 Ovaj moderni turistički autobus pojačao je vozni park prevoznika L&M Kostić Tours iz Beograda, radi se o autobusu visokoturističke klase, o modelu koji predstavlja sam vrhunac u autobuskom luksuzu i komforu.
 
-![L&M Kostić Tours Setra S517HDH](/images/blog/l&m-kostic-tours-setra-s517hdh/img1.jpg "L&M Kostić Tours Setra S517HDH")
-
 ![L&M Kostić Tours Setra S517HDH](/images/blog/l&m-kostic-tours-setra-s517hdh/img2.jpg "L&M Kostić Tours Setra S517HDH")
 
 ![L&M Kostić Tours Setra S517HDH](/images/blog/l&m-kostic-tours-setra-s517hdh/img3.jpg "L&M Kostić Tours Setra S517HDH")
