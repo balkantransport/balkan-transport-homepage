@@ -15,7 +15,7 @@ author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "iznajmljivanje autobusa", "severtrans", "scania", "irizar"]
 withVideo: "true"
-videoUrl: "https://www.youtube.com/embed/hsxOyIuA0K4"
+videoUrl: "https://www.youtube.com/embed/D2OGFN9w_4A"
 pageUrl: "blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor"
 # type
 type: "post"
