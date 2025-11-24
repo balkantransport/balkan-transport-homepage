@@ -1,0 +1,43 @@
+{{ $html := .Inner | .Page.RenderString }}
+{{ $imgs := findRE `<img[^>]+>` $html }}
+
+{{ if gt (len $imgs) 0 }}
+
+<div class="pswp-wrapper">
+  <div class="pswp-gallery">
+
+    {{/* HERO slika */}}
+    {{ $first := index $imgs 0 }}
+    {{ $src := replaceRE `.*src="([^"]+)".*` `$1` $first }}
+    {{ $alt := replaceRE `.*alt="([^"]*)".*` `$1` $first }}
+
+    <a 
+      href="{{ $src }}"
+      data-pswp-width="2000"
+      data-pswp-height="1500"
+      class="pswp-hero"
+    >
+      <img src="{{ $src }}" alt="{{ $alt }}" class="pswp-hero-img">
+    </a>
+
+    <div class="pswp-thumbs">
+      {{ range after 1 $imgs }}
+        {{ $img := . }}
+        {{ $src := replaceRE `.*src="([^"]+)".*` `$1` $img }}
+        {{ $alt := replaceRE `.*alt="([^"]*)".*` `$1` $img }}
+
+        <a 
+          href="{{ $src }}"
+          data-pswp-width="2000"
+          data-pswp-height="1500"
+          class="pswp-thumb-item"
+        >
+          <img src="{{ $src }}" alt="{{ $alt }}" class="pswp-thumb-img">
+        </a>
+      {{ end }}
+    </div>
+
+  </div>
+</div>
+
+{{ end }}

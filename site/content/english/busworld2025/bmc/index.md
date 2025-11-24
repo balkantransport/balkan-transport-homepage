@@ -27,7 +27,11 @@ Kompaktan električni autobus idealan za gradski prevoz.
 
 ---
 
-![BMC Neocity 8.5M EV](/images/busworld2025/bmc/img11.JPG "BMC Neocity 8.5M EV")
+{{< photoswipe >}}
+
+![BMC Neocity 8.5M EV](/images/busworld2025/bmc/img11.JPG)
+
+{{< /photoswipe >}}
 
 ---
 
@@ -45,15 +49,14 @@ Redizajnirana električna verzija popularnog modela Procity, razvijena u saradnj
 
 ---
 
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img2.JPG "PROCITY+ 12M EV")
+{{< photoswipe >}}
 
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img4.JPG "PROCITY+ 12M EV")
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img2.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img4.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img5.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img6.JPG)
 
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img5.JPG "PROCITY+ 12M EV")
-
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img6.JPG "PROCITY+ 12M EV")
-
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img6.JPG "PROCITY+ 12M EV")
+{{< /photoswipe >}}
 
 ---
 
@@ -69,11 +72,13 @@ Pouzdani dizel autobus namenjen svakodnevnom gradskom prevozu.
 
 ---
 
-![PROCITY 12M Diesel](/images/busworld2025/bmc/img8.JPG "PROCITY 12M Diesel")
+{{< photoswipe >}}
 
-![PROCITY 12M Diesel](/images/busworld2025/bmc/img9.JPG "PROCITY 12M Diesel")
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img8.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img9.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img10.JPG)
 
-![PROCITY 12M Diesel](/images/busworld2025/bmc/img10.JPG "PROCITY 12M Diesel")
+{{< /photoswipe >}}
 
 ---
 
@@ -86,4 +91,8 @@ Zglobni električni autobus za visoku frekvenciju putnika – spoj snage i efika
 
 ---
 
-![PROCITY+ 18M EV](/images/busworld2025/bmc/img3.JPG "PROCITY+ 18M EV")
+{{< photoswipe >}}
+
+![PROCITY+ 18M EV](/images/busworld2025/bmc/img3.JPG)
+
+{{< /photoswipe >}}
