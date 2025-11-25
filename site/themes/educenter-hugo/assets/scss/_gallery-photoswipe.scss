@@ -1,62 +1,50 @@
-/* WRAPPER */
-.pswp-wrapper {
-  margin: 0;
-  padding: 0;
-}
+.pswp-wrapper { margin: 0; padding: 0; }
 
-/* ===========================
-   HERO IMAGE — CELO i ZAOBLJENO
-   =========================== */
+/* HERO */
 .pswp-hero {
+  display: block;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  margin-bottom: 24px;
-  border-radius: 16px !important;
-  overflow: hidden !important; 
+  overflow: hidden;
+  border-radius: 22px;
 }
-
 .pswp-hero-img {
   width: 100%;
-  height: auto !important;
-  max-height: 520px;     /* poveća ili smanji visinu hero slike */
-  object-fit: contain !important;
-  border-radius: 16px !important;   /* sada ista zaobljenja kao thumbnail */
-  display: block;
+  max-height: 650px;
+  object-fit: contain;
+  border-radius: 22px;
 }
 
-/* ===========================
-   THUMBNAILI — MANJI + BEZ CROPA
-   =========================== */
+/* Divider */
+.pswp-divider {
+  height: 1px;
+  background: #e1e1e1;
+  margin: 20px 0;
+}
+
+/* Thumbs */
 .pswp-thumbs {
   display: flex;
-  justify-content: center;
   gap: 12px;
-  flex-wrap: wrap;
-}
-
-/* veličina jednog minijaturnog thumbnaila */
-.pswp-thumb-item {
-  width: 22%;            /* SMANJENO! ranije 30% */
-  min-width: 180px;      /* lepo izgleda i na manjim ekranima */
-  display: flex;
   justify-content: center;
-  background: none !important;
-  border-radius: 16px;   /* isto zaobljenje kao hero */
-  overflow: hidden;
+  overflow-x: auto;
+  white-space: nowrap;
+  padding: 10px 20px;
 }
 
-/* Thumbnail slika — cela, bez croppovanja */
+.pswp-thumb-item {
+  width: 120px;
+  height: 90px;
+  border-radius: 14px;
+  overflow: hidden;
+  flex: 0 0 auto;
+}
+
 .pswp-thumb-img {
   width: 100%;
-  height: auto !important;
-  object-fit: contain !important;
-  border-radius: 16px;  /* isto zaobljenje */
-  display: block;
-  transition: transform 0.25s ease;
+  height: 100%;
+  object-fit: contain;
+  transition: transform .25s;
 }
-
-/* Hover efekat — mali zoom */
 .pswp-thumb-item:hover .pswp-thumb-img {
-  transform: scale(1.03);
+  transform: scale(1.05);
 }
