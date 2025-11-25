@@ -553,3 +553,37 @@ section > .container .vehicle-icons-flex img {
   overflow: hidden;
   background-color: $white;
 }
+
+.card {
+  height: 100%;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.card-text {
+  flex-grow: 1;
+}
+
+.card-body .btn {
+  margin-top: auto;
+}
+
+.card-body .btn {
+  margin-top: auto;
+  padding: 0.66rem 1rem;
+  font-size: 0.85rem;
+  border-radius: 6px;
+}
+
+.card-body .service-btn {
+  min-height: 55px;
+  text-align: center;
+  padding: 1rem 1.35rem;
+  font-size: 0.9rem;
+  border-radius: 6px;
+  margin-bottom: 30px;
+}
