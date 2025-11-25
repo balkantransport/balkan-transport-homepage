@@ -25,15 +25,11 @@ Kompaktan električni autobus idealan za gradski prevoz.
 * Suspenzija: vazdušni jastuci napred i nazad sa teleskopskim amortizerima
 * Opcije: LED osvetljenje, LED displeji za destinaciju, izolovana vozačka kabina, rampa za osobe sa smanjenom pokretljivošću i ergonomski dizajnirano radno mesto za vozača.
 
----
-
 {{< photoswipe >}}
 
 ![BMC Neocity 8.5M EV](/images/busworld2025/bmc/img11.JPG)
 
 {{< /photoswipe >}}
-
----
 
 ### PROCITY+ 12M EV
 

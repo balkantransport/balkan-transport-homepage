@@ -1,4 +1,7 @@
-.pswp-wrapper { margin: 0; padding: 0; }
+.pswp-wrapper { 
+  margin: 0; 
+  padding: 0; 
+}
 
 /* HERO */
 .pswp-hero {
@@ -7,6 +10,7 @@
   overflow: hidden;
   border-radius: 22px;
 }
+
 .pswp-hero-img {
   width: 100%;
   max-height: 650px;
@@ -14,23 +18,24 @@
   border-radius: 22px;
 }
 
-/* Divider */
-.pswp-divider {
-  height: 1px;
-  background: #e1e1e1;
-  margin: 20px 0;
-}
-
-/* Thumbs */
+/* Thumbs container */
 .pswp-thumbs {
   display: flex;
   gap: 12px;
-  justify-content: center;
   overflow-x: auto;
   white-space: nowrap;
-  padding: 10px 20px;
+  padding: 10px 0;
+  scrollbar-width: thin;
+  margin-bottom: 20px;
 }
 
+/* Kada nema overflow-a → centriraj */
+.pswp-thumbs.no-scroll {
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Single thumb */
 .pswp-thumb-item {
   width: 120px;
   height: 90px;
@@ -45,6 +50,7 @@
   object-fit: contain;
   transition: transform .25s;
 }
+
 .pswp-thumb-item:hover .pswp-thumb-img {
   transform: scale(1.05);
 }
