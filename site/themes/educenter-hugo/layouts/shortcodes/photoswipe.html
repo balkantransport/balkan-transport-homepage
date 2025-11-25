@@ -39,72 +39,63 @@
 
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("DOMContentLoaded", () => {
 
-  document.querySelectorAll(".pswp-wrapper").forEach(gallery => {
+    document.querySelectorAll(".pswp-wrapper").forEach(gallery => {
+      const hero = gallery.querySelector(".pswp-hero-img");
+      const heroLink = gallery.querySelector(".pswp-hero");
 
-    const hero = gallery.querySelector(".pswp-hero-img");
-    const heroLink = gallery.querySelector(".pswp-hero");
+      gallery.querySelectorAll(".pswp-thumb-item").forEach(thumb => {
+        thumb.addEventListener("click", e => {
+          e.preventDefault();
 
-    gallery.querySelectorAll(".pswp-thumb-item").forEach(thumb => {
+          // Promeni HERO sliku
+          const newSrc = thumb.getAttribute("href");
+          hero.src = newSrc;
 
-      thumb.addEventListener("click", e => {
-        e.preventDefault();
-
-        // Promeni HERO sliku
-        const newSrc = thumb.getAttribute("href");
-        hero.src = newSrc;
-
-        // Promeni HERO data-index kako bi fullscreen otvorio pravu sliku
-        const newIndex = thumb.dataset.pswpOpen;
-        heroLink.dataset.pswpOpen = newIndex;
-        heroLink.href = newSrc;
+          // Promeni HERO data-index kako bi fullscreen otvorio pravu sliku
+          const newIndex = thumb.dataset.pswpOpen;
+          heroLink.dataset.pswpOpen = newIndex;
+          heroLink.href = newSrc;
+        });
       });
-
     });
-
   });
-
-});
 </script>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("DOMContentLoaded", () => {
+    // Hero image switch on thumbnail click
+    document.querySelectorAll(".pswp-wrapper").forEach(gallery => {
+      const hero = gallery.querySelector(".pswp-hero-img");
+      const heroLink = gallery.querySelector(".pswp-hero");
 
-  // Hero image switch on thumbnail click
-  document.querySelectorAll(".pswp-wrapper").forEach(gallery => {
+      gallery.querySelectorAll(".pswp-thumb-item").forEach(thumb => {
+        thumb.addEventListener("click", e => {
+          e.preventDefault();
 
-    const hero = gallery.querySelector(".pswp-hero-img");
-    const heroLink = gallery.querySelector(".pswp-hero");
+          const newSrc = thumb.getAttribute("href");
+          hero.src = newSrc;
 
-    gallery.querySelectorAll(".pswp-thumb-item").forEach(thumb => {
-      thumb.addEventListener("click", e => {
-        e.preventDefault();
-
-        const newSrc = thumb.getAttribute("href");
-        hero.src = newSrc;
-
-        const newIndex = thumb.dataset.pswpOpen;
-        heroLink.dataset.pswpOpen = newIndex;
-        heroLink.href = newSrc;
+          const newIndex = thumb.dataset.pswpOpen;
+          heroLink.dataset.pswpOpen = newIndex;
+          heroLink.href = newSrc;
+        });
       });
     });
 
+    // Detect overflow for centering thumbnails
+    const checkOverflow = () => {
+      document.querySelectorAll(".pswp-thumbs").forEach(el => {
+        if (el.scrollWidth > el.clientWidth) {
+          el.classList.remove("no-scroll");
+        } else {
+          el.classList.add("no-scroll");
+        }
+      });
+    };
+
+    checkOverflow();
+    window.addEventListener("resize", checkOverflow);
   });
-
-  // Detect overflow for centering thumbnails
-  const checkOverflow = () => {
-    document.querySelectorAll(".pswp-thumbs").forEach(el => {
-      if (el.scrollWidth > el.clientWidth) {
-        el.classList.remove("no-scroll");
-      } else {
-        el.classList.add("no-scroll");
-      }
-    });
-  };
-
-  checkOverflow();
-  window.addEventListener("resize", checkOverflow);
-
-});
 </script>
