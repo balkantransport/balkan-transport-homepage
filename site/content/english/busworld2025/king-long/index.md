@@ -5,7 +5,7 @@ bg_image: "images/busworld2025/king-long/king-long-background.jpg"
 metaImage: "https://www.balkantransport.net/images/busworld-2025/king-long/img1.jpg"
 image: "images/busworld2025/king-long/img1.jpg"
 description : "King Long je jedan od vodećih kineskih proizvođača autobusa, minibuseva i vozila za javni prevoz, sa snažnim fokusom na tehnologiju, razvoj tržišta i širinu ponude. Kompanija je osnovana 1988. godine, a danas poseduje četiri proizvodne baze – za autobuse, midibuseve, minivanove i specijalna vozila."
-type: "busworld2025/king-long"
+type: "busworld2025/post"
 ---
 
 ## King Long
