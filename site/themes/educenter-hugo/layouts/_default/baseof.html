@@ -26,22 +26,22 @@
 	</script>
 	<!-- End Load Facebook SDK for JavaScript -->
 
-	<!-- PhotoSwipe -->
+	<!-- PhotoSwipe CSS -->
 	<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
 
+	<!-- PhotoSwipe Lightbox INIT -->
 	<script type="module">
 		import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
+		import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js';
 
 		const lightbox = new PhotoSwipeLightbox({
-			gallery: '.pswp-gallery',
-			children: 'a',
-			pswpModule: () => import('https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js'),
-			captionContent: (slide) => slide.data.caption || '',
+			gallery: '.pswp-wrapper',
+			children: 'a.pswp-item',
+			pswpModule: PhotoSwipe
 		});
 
 		lightbox.init();
 	</script>
-	<!-- End PhotoSwipe -->
 
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
