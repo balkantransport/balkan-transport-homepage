@@ -10,63 +10,15 @@
     <div class="row" style="justify-content: center;">
       <div class="col-12 content">
         {{ .Content }}
+        <hr>
+        {{ if .Site.Config.Services.Disqus.Shortname }}
+        <div class="col-12">
+        {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
-  <div class="container">
-    <button type="button" class="collapsible mb-20">Hero – turistički autobus na Volvo šasiji, namenjen dužim relacijama</button>
-    <div class="collapsible-category-content mb-20">
-      <img src="/images/busworld2025/castrosua/img2.jpg">
-      <img src="/images/busworld2025/castrosua/img3.jpg">
-      <img src="/images/busworld2025/castrosua/img4.jpg">
-      <img src="/images/busworld2025/castrosua/img5.jpg">
-      <img src="/images/busworld2025/castrosua/img6.jpg">
-      <img src="/images/busworld2025/castrosua/img7.jpg">
-      <img src="/images/busworld2025/castrosua/img8.jpg">
-      <img src="/images/busworld2025/castrosua/img9.jpg">
-      <img src="/images/busworld2025/castrosua/img10.jpg">
-    </div>
-    <button type="button" class="collapsible mb-20">75 CS Low Entry – prigradsko/međugradski model na Scania šasiji</button>
-    <div class="collapsible-category-content mb-20">
-      <img src="/images/busworld2025/castrosua/img11.jpg">
-      <img src="/images/busworld2025/castrosua/img12.jpg">
-      <img src="/images/busworld2025/castrosua/img13.jpg">
-      <img src="/images/busworld2025/castrosua/img14.jpg">
-    </div>
-    <button type="button" class="collapsible">Nelec – gradski električni autobus na BYD šasiji, dužine 12 metara</button>
-    <div class="collapsible-category-content mb-20 mt-4">
-      <img src="/images/busworld2025/castrosua/img15.jpg">
-      <img src="/images/busworld2025/castrosua/img16.jpg">
-      <img src="/images/busworld2025/castrosua/img17.jpg">
-      <img src="/images/busworld2025/castrosua/img18.jpg">
-      <img src="/images/busworld2025/castrosua/img19.jpg">
-      <img src="/images/busworld2025/castrosua/img20.jpg">
-      <img src="/images/busworld2025/castrosua/img21.jpg">
-    </div>
-    <hr>
-    {{ if .Site.Config.Services.Disqus.Shortname }}
-    <div class="col-12">
-    {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
-  </div>
 </section>
-
-<script>
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-  
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("collapsible-active");
-      var content = this.nextElementSibling;
-      if (content.style.display === "block") {
-        content.style.display = "none";
-      } else {
-        content.style.display = "block";
-      }
-    });
-  }
-  </script>
 
 {{ end }}

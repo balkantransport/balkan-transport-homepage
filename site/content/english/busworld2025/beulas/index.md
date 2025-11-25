@@ -18,6 +18,8 @@ Kompanija je 1990-ih započela širenje na međunarodna tržišta — najpre u N
 
 Dvospratni turistički autobus koji može primiti do 99 putnika. Izloženi model, postavljen na Scania K450 šasiji dužine 13,5 metara, ima 82 sedišta. Ovaj model je dostupan i u električnoj verziji (ZED) sa HTM 3500 motorom i baterijom kapaciteta do 543 kWh, koja omogućava domet do 402 km u idealnim uslovima.
 
+---
+
 {{< photoswipe >}}
 
 ![Beulas Jewel](/images/busworld2025/beulas/img2.jpg)
@@ -33,9 +35,13 @@ Dvospratni turistički autobus koji može primiti do 99 putnika. Izloženi model
 
 {{< /photoswipe >}}
 
+---
+
 ### Beulas Glory
 
 Autobus namenjen dugim relacijama, prepoznatljiv po velikim prtljažnicima, prostranim rezervoarima i zanimljivoj unutrašnjoj konfiguraciji: putnici su smešteni na gornjem spratu, dok je donji deo rezervisan za bunkere za prtljag, mini-kuhinju i prostor za vozača i posadu. U ovoj verziji nalazi se ukupno 61 sedište, a iza drugih vrata smešten je prostran ležaj za odmor članova posade.
+
+---
 
 {{< photoswipe >}}
 
@@ -49,9 +55,13 @@ Autobus namenjen dugim relacijama, prepoznatljiv po velikim prtljažnicima, pros
 
 {{< /photoswipe >}}
 
+---
+
 ### Beulas Cygnus
 
 Kompaktni model dužine 9,5 metara, idealan za regionalni prevoz, sa kapacitetom do 39 putnika.
+
+---
 
 {{< photoswipe >}}
 

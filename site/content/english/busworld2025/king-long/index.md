@@ -20,21 +20,22 @@ Na sajmu Busworld Europe 2025, King Long se predstavio sa nekoliko vozila, uklju
 
 ### Istaknuti modeli
 
+---
+
 * MC13E – troosovinski električni turistički autobus dužine 14 metara, kapaciteta 59 putnika, sa baterijama od 704 kWh koje omogućavaju domet do 650 km u idealnim uslovima. Ovaj model je deo nove generacije električnih vozila predstavljene pod sloganom „EVolve Unlimited“.
 
 ---
 
-![King Long MC13E](/images/busworld2025/king-long/img2.JPG "King Long MC13E")
+{{< photoswipe >}}
 
-![King Long MC13E](/images/busworld2025/king-long/img3.JPG "King Long MC13E")
+![King Long MC13E](/images/busworld2025/king-long/img2.JPG)
+![King Long MC13E](/images/busworld2025/king-long/img3.JPG)
+![King Long MC13E](/images/busworld2025/king-long/img4.JPG)
+![King Long MC13E](/images/busworld2025/king-long/img5.JPG)
+![King Long MC13E](/images/busworld2025/king-long/img6.JPG)
+![King Long MC13E](/images/busworld2025/king-long/img7.JPG)
 
-![King Long MC13E](/images/busworld2025/king-long/img4.JPG "King Long MC13E")
-
-![King Long MC13E](/images/busworld2025/king-long/img5.JPG "King Long MC13E")
-
-![King Long MC13E](/images/busworld2025/king-long/img6.JPG "King Long MC13E")
-
-![King Long MC13E](/images/busworld2025/king-long/img7.JPG "King Long MC13E")
+{{< /photoswipe >}}
 
 ---
 
@@ -42,8 +43,10 @@ Na sajmu Busworld Europe 2025, King Long se predstavio sa nekoliko vozila, uklju
 
 ---
 
-![King Long MU12E](/images/busworld2025/king-long/img8.JPG "King Long MU12E")
+{{< photoswipe >}}
 
-![King Long MU12E](/images/busworld2025/king-long/img9.JPG "King Long MU12E")
+![King Long MU12E](/images/busworld2025/king-long/img8.JPG)
+![King Long MU12E](/images/busworld2025/king-long/img9.JPG)
+![King Long MU12E](/images/busworld2025/king-long/img10.JPG)
 
-![King Long MU12E](/images/busworld2025/king-long/img10.JPG "King Long MU12E")
+{{< /photoswipe >}}

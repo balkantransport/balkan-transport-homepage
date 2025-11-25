@@ -10,44 +10,15 @@
     <div class="row" style="justify-content: center;">
       <div class="col-12 content">
         {{ .Content }}
+        <hr>
+        {{ if .Site.Config.Services.Disqus.Shortname }}
+        <div class="col-12">
+        {{ template "_internal/disqus.html" . }}
+        </div>
+        {{ end }}
       </div>
     </div>
   </div>
-  <div class="container">
-    <button type="button" class="collapsible">Galerija</button>
-    <div class="collapsible-category-content mb-20 mt-4">
-      <img src="/images/busworld2025/unvi/img2.JPG">
-      <img src="/images/busworld2025/unvi/img3.JPG">
-      <img src="/images/busworld2025/unvi/img4.JPG">
-      <img src="/images/busworld2025/unvi/img5.JPG">
-      <img src="/images/busworld2025/unvi/img6.JPG">
-      <img src="/images/busworld2025/unvi/img7.JPG">
-      <img src="/images/busworld2025/unvi/img8.JPG">
-    </div>
-    <hr>
-    {{ if .Site.Config.Services.Disqus.Shortname }}
-    <div class="col-12">
-    {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
-  </div>
 </section>
-
-<script>
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-  
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("collapsible-active");
-      var content = this.nextElementSibling;
-      if (content.style.display === "block") {
-        content.style.display = "none";
-      } else {
-        content.style.display = "block";
-      }
-    });
-  }
-  </script>
 
 {{ end }}

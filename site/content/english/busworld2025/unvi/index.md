@@ -22,3 +22,17 @@ Ovaj pionirski model poseduje baterije kapaciteta oko 484,5 kWh i omogućava dom
 Odlikuje ga fleksibilna konfiguracija (low-floor ili low-entry), mogućnost različitih pogonskih rešenja (električni, gasni, dizel ili vodonični), kao i fokus na održivost, udobnost, reciklirane materijale i optimizaciju težine.
 
 UNVI snažno ulaže u digitalizaciju, inovacije i održivi razvoj. Njihov pristup obuhvata razvoj lakših karoserija, upotrebu ekoloških materijala i modernih dizajnerskih rešenja. Poseban primer je saradnja sa poznatim dizajnerom Héctorom Serranom na konceptu modela C26, koji spaja funkcionalnost, estetiku i ekološku svest.
+
+---
+
+{{< photoswipe >}}
+
+![Unvi](/images/busworld2025/unvi/img2.JPG)
+![Unvi](/images/busworld2025/unvi/img3.JPG)
+![Unvi](/images/busworld2025/unvi/img4.JPG)
+![Unvi](/images/busworld2025/unvi/img5.JPG)
+![Unvi](/images/busworld2025/unvi/img6.JPG)
+![Unvi](/images/busworld2025/unvi/img7.JPG)
+![Unvi](/images/busworld2025/unvi/img8.JPG)
+
+{{< /photoswipe >}}
