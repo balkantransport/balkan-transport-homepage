@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 title = "Balkan Transport"
-theme = "educenter-hugo"
+theme = "balkantransport"
 # post pagination
 pagination.pagerSize = "6"
 # post excerpt
