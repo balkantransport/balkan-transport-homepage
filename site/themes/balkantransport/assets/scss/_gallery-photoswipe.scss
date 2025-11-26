@@ -29,7 +29,6 @@
   margin-bottom: 20px;
 }
 
-/* Kada nema overflow-a → centriraj */
 .pswp-thumbs.no-scroll {
   justify-content: center;
   margin-bottom: 20px;
@@ -42,6 +41,8 @@
   border-radius: 14px;
   overflow: hidden;
   flex: 0 0 auto;
+  cursor: pointer;
+  transition: border-color .25s ease, transform .25s ease;
 }
 
 .pswp-thumb-img {
@@ -53,4 +54,15 @@
 
 .pswp-thumb-item:hover .pswp-thumb-img {
   transform: scale(1.05);
+}
+
+/* Active (selected) thumbnail */
+.pswp-thumb-item.active {
+  border: 3px solid #007bff; /* promeni boju ako želiš */
+  padding: 2px;
+  border-radius: 14px;
+}
+
+.pswp-thumb-item.active .pswp-thumb-img {
+  transform: scale(1.0);
 }

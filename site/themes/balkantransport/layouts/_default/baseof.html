@@ -36,10 +36,14 @@
 
 		const lightbox = new PhotoSwipeLightbox({
 			gallery: '.pswp-wrapper',
-			children: 'a.pswp-item',
-			pswpModule: PhotoSwipe
+			children: '.pswp-item',
+			pswpModule: PhotoSwipe,
+			wheelToZoom: true,
+			zoom: true,
+			maxZoomPixelRatio: 4,
+			initialZoomLevel: 'fit',
+			secondaryZoomLevel: 2,
 		});
-
 		lightbox.init();
 	</script>
 
