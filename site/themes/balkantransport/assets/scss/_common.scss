@@ -587,3 +587,10 @@ section > .container .vehicle-icons-flex img {
   border-radius: 6px;
   margin-bottom: 30px;
 }
+
+@media (min-width: 1200px) {
+  .wide-container {
+    max-width: 1500px !important;
+  }
+}
+

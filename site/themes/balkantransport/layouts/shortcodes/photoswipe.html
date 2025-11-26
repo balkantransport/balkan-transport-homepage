@@ -10,11 +10,7 @@
   {{ $src := replaceRE `.*src="([^"]+)".*` `$1` $first }}
   {{ $alt := replaceRE `.*alt="([^"]*)".*` `$1` $first }}
 
-  <a href="{{ $src }}"
-     class="pswp-item pswp-hero"
-     data-pswp-open="0"
-     data-pswp-width="2000"
-     data-pswp-height="1500">
+  <a href="{{ $src }}" class="pswp-hero">
     <img src="{{ $src }}" alt="{{ $alt }}" class="pswp-hero-img">
   </a>
 
@@ -25,9 +21,7 @@
 
       <a href="{{ $src }}"
          class="pswp-item pswp-thumb-item"
-         data-pswp-open="{{ $index }}"
-         data-pswp-width="2000"
-         data-pswp-height="1500">
+         data-pswp-open="{{ $index }}">
         <img src="{{ $src }}" alt="{{ $alt }}" class="pswp-thumb-img">
       </a>
     {{ end }}
@@ -37,54 +31,61 @@
 
 {{ end }}
 
-
 <script>
   document.addEventListener("DOMContentLoaded", () => {
 
     document.querySelectorAll(".pswp-wrapper").forEach(gallery => {
+
       const hero = gallery.querySelector(".pswp-hero-img");
       const heroLink = gallery.querySelector(".pswp-hero");
+      const thumbs = gallery.querySelectorAll(".pswp-thumb-item");
 
-      gallery.querySelectorAll(".pswp-thumb-item").forEach(thumb => {
-        thumb.addEventListener("click", e => {
-          e.preventDefault();
-
-          // Promeni HERO sliku
-          const newSrc = thumb.getAttribute("href");
-          hero.src = newSrc;
-
-          // Promeni HERO data-index kako bi fullscreen otvorio pravu sliku
-          const newIndex = thumb.dataset.pswpOpen;
-          heroLink.dataset.pswpOpen = newIndex;
-          heroLink.href = newSrc;
-        });
-      });
-    });
-  });
-</script>
-
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    // Hero image switch on thumbnail click
-    document.querySelectorAll(".pswp-wrapper").forEach(gallery => {
-      const hero = gallery.querySelector(".pswp-hero-img");
-      const heroLink = gallery.querySelector(".pswp-hero");
-
-      gallery.querySelectorAll(".pswp-thumb-item").forEach(thumb => {
+      // ===========================================
+      // 1) Thumbnail klik menja HERO i selektuje thumbnail
+      // ===========================================
+      thumbs.forEach(thumb => {
         thumb.addEventListener("click", e => {
           e.preventDefault();
 
           const newSrc = thumb.getAttribute("href");
           hero.src = newSrc;
 
-          const newIndex = thumb.dataset.pswpOpen;
-          heroLink.dataset.pswpOpen = newIndex;
-          heroLink.href = newSrc;
+          // Aktivna klasa (selected)
+          thumbs.forEach(t => t.classList.remove("active"));
+          thumb.classList.add("active");
         });
       });
+
+      // Inicijalno selektovan prvi thumbnail
+      if (thumbs.length > 0) {
+        thumbs[0].classList.add("active");
+      }
+
+      // ===========================================
+      // 2) Klik na HERO otvara PhotoSwipe na TAČNOJ slici
+      // ===========================================
+      heroLink.addEventListener("click", e => {
+        e.preventDefault();
+
+        const currentSrc = hero.getAttribute("src");
+
+        // Pronađi thumbnail koji odgovara trenutnom HERO
+        const match = Array.from(thumbs).find(
+          t => t.getAttribute("href") === currentSrc
+        );
+
+        if (match) {
+          thumbs.forEach(t => t.classList.remove("active"));
+          match.classList.add("active");
+          match.click();
+        }
+      });
+
     });
 
-    // Detect overflow for centering thumbnails
+    // ===========================================
+    // 3) Centriranje thumbnailova ako nema overflow-a
+    // ===========================================
     const checkOverflow = () => {
       document.querySelectorAll(".pswp-thumbs").forEach(el => {
         if (el.scrollWidth > el.clientWidth) {
@@ -97,5 +98,19 @@
 
     checkOverflow();
     window.addEventListener("resize", checkOverflow);
+
+    // ===========================================
+    // 4) Učitavanje realnih dimenzija za PhotoSwipe (zoom fix)
+    // ===========================================
+    document.querySelectorAll(".pswp-item").forEach(item => {
+      const img = new Image();
+      img.src = item.getAttribute("href");
+
+      img.onload = () => {
+        item.dataset.pswpWidth = img.naturalWidth;
+        item.dataset.pswpHeight = img.naturalHeight;
+      };
+    });
+
   });
 </script>
