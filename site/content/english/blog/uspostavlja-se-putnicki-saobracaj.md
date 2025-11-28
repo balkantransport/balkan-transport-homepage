@@ -3,7 +3,7 @@ title: "Uspostavlja se putnički saobraćaj"
 date: 2020-04-26T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Prema najavama nadležnih službi, delimično uspostavljanje međugradskog saobraćaja najavljeno je za ponedeljak 27. april, uspostavljanje gradskog prevoza očekuje se posle 4. maja 2020. godine."
 # post thumbnail

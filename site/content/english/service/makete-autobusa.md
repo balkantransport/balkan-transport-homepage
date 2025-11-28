@@ -3,7 +3,7 @@ title: "Makete autobusa ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ �
 date: 2019-07-07T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
 # course thumbnail

@@ -3,7 +3,7 @@ title: "Uspostavlja se gradski prevoz u Novom Sadu i Kragujevcu"
 date: 2020-05-03T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Od ponedeljka 04.05.2020. ponovo se uspostavljaju linije gradskog prevoza u Novom Sadu i Kragujevcu, uspostavljaju se i prvi polasci na međugradskim linijama u Srbiji."
 # post thumbnail

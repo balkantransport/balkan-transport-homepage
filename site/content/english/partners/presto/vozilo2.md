@@ -3,7 +3,7 @@ title: "VDL Futura FHD2 129-370‌‌"
 description : "(BG 2395-DH)"
 draft: false
 # page title background image
-bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.jpg"
+bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
 # about image
 image: "images/partners/presto/vozilo2/img1.jpg"
 seatConfig: "images/partners/presto/vozilo2/seatConfig.jpg"

@@ -3,7 +3,7 @@ title: "Talačka kriza u Nemačkoj u autobusu Laste"
 date: 2021-09-21T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Na autoputu A9 između *Hilpolteseina* i *Gredinga* došlo je do potpune obustave saobraćaja zbog talačke krize u autobusu Laste iz Beograda."
 # post thumbnail

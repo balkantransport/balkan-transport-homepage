@@ -3,7 +3,7 @@ title: "Izrada relacijskih tabli ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌
 date: 2019-07-08T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije."
 # course thumbnail

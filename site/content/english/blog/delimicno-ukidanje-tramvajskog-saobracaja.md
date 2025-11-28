@@ -3,7 +3,7 @@ title: "Delimično ukidanje tramvajskog saobraćaja"
 date: 2020-03-08T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Aktivne izmene na linijama 6, 7, 9, 12…"
 # post thumbnail

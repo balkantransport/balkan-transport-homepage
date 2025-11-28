@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner.jpg"
+  bg_image : "images/banner/banner.webp"
   slider_item:
     # slider item loop
     - title : "Travel on bus way \n #travelonbusway"
@@ -71,7 +71,7 @@ slider:
 ############################### Banner feature ###############################
 banner_feature:
   enable : true
-  image : "images/banner/banner-feature.jpeg"
+  image : "images/banner/banner-feature.webp"
   feature_item:
     # feature item loop
     - name : "Unapređenje"
@@ -135,7 +135,7 @@ cta:
 ######################## Success story #############################
 success_story:
   enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
+  bg_image : "images/backgrounds/success-story.webp"
   title : "Naša vizija"
   content : " Prevoz putnika na našem tržištu danas, najčešće predstavlja samo prevoz od tačke A do tačke B. Čini se da, osim novijih voznih sredstava, usluga prevoza nimalo nije napredovala gotovo pet decenija, od 70-tih godina prošlog veka. Ovo se najjasnije može videti padom zadovoljstva putnika. Prema istraživanjima u Evropi, gotovo svaki drugi ispitanik nije potpuno zadovoljan uslugom prevoza.\n\n 
   Nećemo ispitivati koliki je procenat nezadovoljnih putnika kod nas, već ćemo se svojim angažmanom zalagati da i putnici koji su izbrisali autobus kao prevozno sredstvo, da se istom sa zadovoljstvom vrate.  Sa aspekta prevoznika, ovo nužno ne zahteva kupovinu novih, već najčešće predstavlja rad na usavršavanju postojećih voznih sredstava."

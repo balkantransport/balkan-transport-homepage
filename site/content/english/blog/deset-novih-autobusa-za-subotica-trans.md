@@ -3,7 +3,7 @@ title: "Deset novih autobusa za Subotica Trans"
 date: 2019-10-02T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Zahvaljujući pomoći grada Subotice, vozni park javnog preduzeća “Subotica Trans” od danas je bogatiji za 10 autobusa."
 # post thumbnail

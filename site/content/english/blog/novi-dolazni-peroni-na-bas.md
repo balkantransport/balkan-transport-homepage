@@ -3,7 +3,7 @@ title: "Novi dolazni peroni Bgd autobuske stanice"
 date: 2019-06-21T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Beogradska Autobuska Stanica (BAS) doživeće nove promene, posle premeštanja parkinga autobusa, od nedelje dobija i nove dolazne perone i novu perionicu."
 # post thumbnail

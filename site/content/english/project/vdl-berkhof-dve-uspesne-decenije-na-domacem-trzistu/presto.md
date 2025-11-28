@@ -3,7 +3,7 @@ title: Presto Beograd
 # title: "O nama"
 draft: false
 # page title background image
-bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.jpg"
+bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
 # about image
 image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img1.jpg"
 # meta description

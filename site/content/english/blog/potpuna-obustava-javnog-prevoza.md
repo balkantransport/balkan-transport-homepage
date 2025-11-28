@@ -3,7 +3,7 @@ title: "Potpuna obustava javnog prevoza"
 date: 2020-03-20T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : ""
 # post thumbnail

@@ -3,7 +3,7 @@ title: "Počelo je izdavanje sertifikata i kvalifikacionih kartica"
 date: 2019-02-01T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Agencija za bezbednost saobraćaja Republike Srbije, u okviru poslova poverenih Zakonom o bezbednosti saobraćaja na putevima 31. januara 2019. godine otpočela je proces sertifikacije profesionalnih vozača."
 # post thumbnail

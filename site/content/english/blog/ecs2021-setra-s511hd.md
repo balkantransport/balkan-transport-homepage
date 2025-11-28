@@ -3,7 +3,7 @@ title: "Coach Euro Test 2021: Setra S 511 HD"
 date: 2021-09-25T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Najmanji učesnik ovog takmičenja, pomalo iznenađujuće za mnoge koji prate ovo takmičenje, Setra se pojavila na ovom takmičenju sa najkraćim modelom iz ComfortClass-e serije 500."
 # post thumbnail
