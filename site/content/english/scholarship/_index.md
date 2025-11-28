@@ -2,7 +2,7 @@
 title: "Scholarship"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # image
 image: "images/about/about-page.jpg"
 # meta description

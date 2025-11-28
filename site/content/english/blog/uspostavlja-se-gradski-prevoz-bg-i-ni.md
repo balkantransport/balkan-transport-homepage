@@ -3,7 +3,7 @@ title: "Uspostavlja se gradski prevoz u Beogradu i Nišu"
 date: 2020-05-08T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Od petka 08.05.2020. ponovo se uspostavlja gradski prevoz na teritoriji grada Beograda i grada Niša."
 # post thumbnail

@@ -3,7 +3,7 @@ title: "L&M Kostić Tours – porodična firma sa velikim ambicijama"
 date: 2020-10-12T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Tokom prethodnog meseca bili smo gosti firme L&M Kostić Tours iz Beograda, porodične firme sa velikim ambicijama i rezultatima iza sebe u prethodnom periodu."
 # post thumbnail

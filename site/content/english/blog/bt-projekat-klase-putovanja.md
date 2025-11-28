@@ -3,7 +3,7 @@ title: "Balkan Transport projekat: Klase putovanja"
 date: 2022-07-16T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/presto-future-background.jpg"
+bg_image: "images/backgrounds/partners/presto-future-background.webp"
 # meta description
 description : "U skladu sa predstojećim jubilejom, 10 godina od osnivanja Balkan Transport portala, jedna od novosti koju smo pripremili jesu klase putovanja za turističke autobuse."
 # post thumbnail

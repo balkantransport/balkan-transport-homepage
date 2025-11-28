@@ -3,7 +3,7 @@ title: "Novi Higer autobusi na ulicama Beograda"
 date: 2019-10-23T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Od juče je u saobraćaju trideset autobusa kineskog proizvođača “Higer”. Prvih 30 od ukupno 174 autobusa, raspodeljena su u tri saobraćajna pogona preduzeća “GSP Beograd."
 # post thumbnail

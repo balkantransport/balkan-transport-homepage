@@ -1,7 +1,7 @@
 ---
 title: "Presto Beograd"
 # page title background image
-bg_image: "images/backgrounds/partners/presto-future-background.jpg"
+bg_image: "images/backgrounds/partners/presto-future-background.webp"
 # about image
 image: "images/partners/presto/img1.jpg"
 

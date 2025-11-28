@@ -3,7 +3,7 @@ title: "Promocija kompanije ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌�
 date: 2019-07-11T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/service/promocija-kompanije-background.jpg"
+bg_image: "images/backgrounds/service/promocija-kompanije-background.webp"
 # meta description
 description : "U skladu sa individualnim zahtevima, istorijat i priču vaše kompanije predstavljamo kroz foto i video materijal."
 # course thumbnail

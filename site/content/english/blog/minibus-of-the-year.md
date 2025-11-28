@@ -3,7 +3,7 @@ title: "Mercedes Benz Sprinter City 75 - Minibus of the Year 2019"
 date: 2019-04-13T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Članovi “International Bus of the Year” žirija na Minibus Euro Testu u Madridu su Mercedesu Sprinter City 75 dodelili titulu “Minibus of the Year 2019”."
 # post thumbnail

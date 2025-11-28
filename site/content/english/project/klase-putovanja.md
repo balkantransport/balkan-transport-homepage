@@ -5,7 +5,7 @@ publishDate: "2022-07-17T00:00:00+06:00"
 # post save as draft
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "U cilju unapređenja, popularizacije, omasovljenja i standardizacije autobuskog prevoza putnika, Balkan Transport definiše tri osnovne klase putovanja za turistička vozila."
 # Event image

@@ -3,7 +3,7 @@ title: "Predstavljeni novi Volvo 9700 i 9900"
 date: 2019-01-17T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Danas su u Austriji prezentovani novi modeli Volvo autobusa, modeli 9700 i 9900."
 # post thumbnail

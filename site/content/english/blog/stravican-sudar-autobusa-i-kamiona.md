@@ -3,7 +3,7 @@ title: "Stravičan sudar kamiona i autobusa, četvoro poginulih"
 date: 2019-04-30T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "U jutarnjim časovima na putu između Kuršumlije i Prokuplja, kod mesta Barlovo, došlo je do čeonog sudara između autobusa firme “Niš Ekspres” i kamiona sa prikolicom."
 # post thumbnail
