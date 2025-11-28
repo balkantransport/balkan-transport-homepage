@@ -1,0 +1,133 @@
+.mission-section {
+  width: 100%;
+  margin-top: 80px;
+}
+
+.mission-wrapper {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: nowrap;
+}
+
+/* ========================= */
+/*  LEVA STRANA – SLIKA      */
+/* ========================= */
+
+.mission-image {
+  display: flex;
+}
+
+.mission-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: bottom; 
+  min-height: 550px;
+}
+
+/* ========================= */
+/*  DESNA STRANA – SADRŽAJ   */
+/* ========================= */
+
+.mission-content {
+  display: flex;
+  flex-direction: column;
+  padding: 60px 80px;
+  justify-content: center;
+}
+
+.mission-title-wrapper {
+  margin-bottom: 40px;
+}
+
+.mission-title {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+/* ========================= */
+/* GRID 2x2 ZA 4 BLOKA        */
+/* ========================= */
+
+.mission-grid {
+  width: 100%;
+}
+
+.mission-item-title {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.mission-item-text {
+  font-size: 17px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.feature-icon {
+  font-size: 45px;
+  color: #162447;
+}
+
+/* ========================= */
+/*  TABLET / SREDNJI EKRANI  */
+/* ========================= */
+
+@media (max-width: 1200px) and (min-width: 1000px) {
+
+  /* Najbitnije: Prebacujemo na 50/50 raspored */
+  .mission-image {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+
+  .mission-content {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    padding: 40px;
+  }
+
+  .mission-item {
+    flex: 0 0 48%;
+    max-width: 48%;
+  }
+
+  .mission-img {
+    min-height: 450px;
+  }
+}
+
+/* ========================= */
+/*  MOBILNI – TEKST PRVI!    */
+/* ========================= */
+
+@media (max-width: 800px) {
+
+  .mission-wrapper {
+    flex-direction: column;
+  }
+
+  .mission-content {
+    order: 1;
+    padding: 30px 20px;
+  }
+
+  .mission-image {
+    order: 2;
+  }
+
+  .mission-img {
+    height: 260px;
+    min-height: 260px;
+    object-position: bottom;
+  }
+
+  .mission-title {
+    font-size: 32px;
+    margin-bottom: 25px;
+  }
+
+  .mission-item {
+    text-align: left !important;
+  }
+}

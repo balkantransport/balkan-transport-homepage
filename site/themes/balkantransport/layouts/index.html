@@ -33,26 +33,30 @@
 <!-- banner-feature -->
 {{ if $data.homepage.banner_feature.enable }}
 {{ with $data.homepage.banner_feature }}
-<section class="bg-gray overflow-md-hidden">
+<section class="mission-section bg-gray overflow-md-hidden">
   <div class="container-fluid p-0">
-    <div class="row no-gutters">
-      <div class="col-xl-4 col-lg-5">
-        <img class="img-fluid w-100" src="{{ .image | absURL }}" alt="banner-feature">
+    <div class="mission-wrapper row no-gutters">
+      <div class="mission-image col-xl-4 col-lg-5 p-0">
+        <img class="img-fluid w-100 mission-img" src="{{ .image | absURL }}" alt="banner-feature">
       </div>
-      <div class="col-xl-8 col-lg-7">
-        <div class="row feature-blocks bg-gray justify-content-between">
-          <div class="col-sm-12 col-xl-12 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
-            <h2>Naša misija</h2>
+      <div class="mission-content col-xl-8 col-lg-7 p-0">
+        <div class="feature-blocks bg-gray">
+          <div class="mission-title-wrapper text-center text-sm-left">
+            <h2 class="mission-title">Naša misija</h2>
           </div>
-          {{ range .feature_item }}
-          <div class="col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
-            <i class="{{ .icon }} mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
-            <h3 class="mb-xl-4 mb-lg-3 mb-4">{{ .name | markdownify }}</h3>
-            <p>{{ .content | markdownify }}</p>
+          <div class="mission-grid row justify-content-between">
+            {{ range .feature_item }}
+            <div class="mission-item col-sm-6 col-xl-5 mb-xl-5 mb-lg-3 mb-4 text-center text-sm-left">
+              <i class="{{ .icon }} mb-xl-4 mb-lg-3 mb-4 feature-icon"></i>
+              <h3 class="mission-item-title mb-xl-4 mb-lg-3 mb-4">{{ .name | markdownify }}</h3>
+              <p class="mission-item-text">{{ .content | markdownify }}</p>
+            </div>
+            {{ end }}
           </div>
-          {{ end }}
+
         </div>
       </div>
+
     </div>
   </div>
 </section>
