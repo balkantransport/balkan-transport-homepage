@@ -1,9 +1,9 @@
 ---
 title: BMC
 draft: false
-bg_image: "images/busworld2025/bmc/bmc-background.JPG"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/bmc/img1.JPG"
-image: "images/busworld2025/bmc/img1.JPG"
+bg_image: "images/busworld2025/bmc/bmc-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/bmc/img1.webp"
+image: "images/busworld2025/bmc/img1.webp"
 description : "BMC Otomotiv je renomirani turski proizvođač komercijalnih vozila, poznat po širokom asortimanu putničkih i gradskih autobusa. U ponudi imaju modele različitih dužina – 8,5 m, 9 m, 10 m, 12 m, 14 m i 18 m, dostupne u solo i zglobnoj konfiguraciji."
 type: "busworld2025/post"
 ---
@@ -27,7 +27,7 @@ Kompaktan električni autobus idealan za gradski prevoz.
 
 {{< photoswipe >}}
 
-![BMC Neocity 8.5M EV](/images/busworld2025/bmc/img11.JPG)
+![BMC Neocity 8.5M EV](/images/busworld2025/bmc/img11.webp)
 
 {{< /photoswipe >}}
 
@@ -47,10 +47,10 @@ Redizajnirana električna verzija popularnog modela Procity, razvijena u saradnj
 
 {{< photoswipe >}}
 
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img2.JPG)
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img4.JPG)
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img5.JPG)
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img6.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img2.webp)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img4.webp)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img5.webp)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img6.webp)
 
 {{< /photoswipe >}}
 
@@ -70,9 +70,9 @@ Pouzdani dizel autobus namenjen svakodnevnom gradskom prevozu.
 
 {{< photoswipe >}}
 
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img8.JPG)
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img9.JPG)
-![PROCITY+ 12M EV](/images/busworld2025/bmc/img10.JPG)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img8.webp)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img9.webp)
+![PROCITY+ 12M EV](/images/busworld2025/bmc/img10.webp)
 
 {{< /photoswipe >}}
 
@@ -89,6 +89,6 @@ Zglobni električni autobus za visoku frekvenciju putnika – spoj snage i efika
 
 {{< photoswipe >}}
 
-![PROCITY+ 18M EV](/images/busworld2025/bmc/img3.JPG)
+![PROCITY+ 18M EV](/images/busworld2025/bmc/img3.webp)
 
 {{< /photoswipe >}}

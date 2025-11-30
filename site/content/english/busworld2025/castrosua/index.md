@@ -1,9 +1,9 @@
 ---
 title: Castrosua
 draft: false
-bg_image: "images/busworld2025/castrosua/castrosua-background.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/castrosua/img1.jpg"
-image: "images/busworld2025/castrosua/img1.jpg"
+bg_image: "images/busworld2025/castrosua/castrosua-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/castrosua/img1.webp"
+image: "images/busworld2025/castrosua/img1.webp"
 description : "Castrosua Group, poznati španski karoserista i proizvođač autobusa, iskoristio je Busworld Europe 2025 da predstavi niz novih modela i tehnologija, sa snažnim fokusom na elektrifikaciju i održivost."
 type: "busworld2025/post"
 ---
@@ -26,16 +26,16 @@ Na štandu ovog proizvođača predstavljena su tri autobusa u različitim konfig
 
 {{< photoswipe >}}
 
-![Castrosua Hero](/images/busworld2025/castrosua/img2.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img3.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img4.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img5.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img6.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img7.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img8.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img9.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img10.jpg)
-![Castrosua Hero](/images/busworld2025/castrosua/img11.jpg)
+![Castrosua Hero](/images/busworld2025/castrosua/img2.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img3.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img4.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img5.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img6.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img7.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img8.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img9.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img10.webp)
+![Castrosua Hero](/images/busworld2025/castrosua/img11.webp)
 
 {{< /photoswipe >}}
 
@@ -47,10 +47,10 @@ Na štandu ovog proizvođača predstavljena su tri autobusa u različitim konfig
 
 {{< photoswipe >}}
 
-![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img11.jpg)
-![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img12.jpg)
-![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img13.jpg)
-![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img14.jpg)
+![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img11.webp)
+![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img12.webp)
+![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img13.webp)
+![Castrosua 75 CS Low Entry](/images/busworld2025/castrosua/img14.webp)
 
 {{< /photoswipe >}}
 
@@ -62,12 +62,12 @@ Na štandu ovog proizvođača predstavljena su tri autobusa u različitim konfig
 
 {{< photoswipe >}}
 
-![Castrosua Nelec](/images/busworld2025/castrosua/img15.jpg)
-![Castrosua Nelec](/images/busworld2025/castrosua/img16.jpg)
-![Castrosua Nelec](/images/busworld2025/castrosua/img17.jpg)
-![Castrosua Nelec](/images/busworld2025/castrosua/img18.jpg)
-![Castrosua Nelec](/images/busworld2025/castrosua/img19.jpg)
-![Castrosua Nelec](/images/busworld2025/castrosua/img20.jpg)
-![Castrosua Nelec](/images/busworld2025/castrosua/img21.jpg)
+![Castrosua Nelec](/images/busworld2025/castrosua/img15.webp)
+![Castrosua Nelec](/images/busworld2025/castrosua/img16.webp)
+![Castrosua Nelec](/images/busworld2025/castrosua/img17.webp)
+![Castrosua Nelec](/images/busworld2025/castrosua/img18.webp)
+![Castrosua Nelec](/images/busworld2025/castrosua/img19.webp)
+![Castrosua Nelec](/images/busworld2025/castrosua/img20.webp)
+![Castrosua Nelec](/images/busworld2025/castrosua/img21.webp)
 
 {{< /photoswipe >}}

@@ -1,9 +1,9 @@
 ---
 title: Beulas
 draft: false
-bg_image: "images/busworld2025/beulas/beulas-background.JPG"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/beulas/img1.jpg"
-image: "images/busworld2025/beulas/img1.jpg"
+bg_image: "images/busworld2025/beulas/beulas-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/beulas/img1.webp"
+image: "images/busworld2025/beulas/img1.webp"
 description : "Beulas je španska fabrika autobusa sa sedištem u Gironi, osnovana davne 1934. godine."
 type: "busworld2025/post"
 ---
@@ -22,16 +22,16 @@ Dvospratni turistički autobus koji može primiti do 99 putnika. Izloženi model
 
 {{< photoswipe >}}
 
-![Beulas Jewel](/images/busworld2025/beulas/img2.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img3.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img4.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img5.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img6.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img7.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img8.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img9.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img10.jpg)
-![Beulas Jewel](/images/busworld2025/beulas/img11.jpg)
+![Beulas Jewel](/images/busworld2025/beulas/img2.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img3.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img4.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img5.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img6.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img7.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img8.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img9.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img10.webp)
+![Beulas Jewel](/images/busworld2025/beulas/img11.webp)
 
 {{< /photoswipe >}}
 
@@ -45,13 +45,13 @@ Autobus namenjen dugim relacijama, prepoznatljiv po velikim prtljažnicima, pros
 
 {{< photoswipe >}}
 
-![Beulas Glory](/images/busworld2025/beulas/img12.jpg)
-![Beulas Glory](/images/busworld2025/beulas/img13.jpg)
-![Beulas Glory](/images/busworld2025/beulas/img14.jpg)
-![Beulas Glory](/images/busworld2025/beulas/img15.jpg)
-![Beulas Glory](/images/busworld2025/beulas/img16.jpg)
-![Beulas Glory](/images/busworld2025/beulas/img17.jpg)
-![Beulas Glory](/images/busworld2025/beulas/img18.jpg)
+![Beulas Glory](/images/busworld2025/beulas/img12.webp)
+![Beulas Glory](/images/busworld2025/beulas/img13.webp)
+![Beulas Glory](/images/busworld2025/beulas/img14.webp)
+![Beulas Glory](/images/busworld2025/beulas/img15.webp)
+![Beulas Glory](/images/busworld2025/beulas/img16.webp)
+![Beulas Glory](/images/busworld2025/beulas/img17.webp)
+![Beulas Glory](/images/busworld2025/beulas/img18.webp)
 
 {{< /photoswipe >}}
 
@@ -65,7 +65,7 @@ Kompaktni model dužine 9,5 metara, idealan za regionalni prevoz, sa kapacitetom
 
 {{< photoswipe >}}
 
-![Beulas Cygnus](/images/busworld2025/beulas/img19.jpg)
-![Beulas Cygnus](/images/busworld2025/beulas/img20.jpg)
+![Beulas Cygnus](/images/busworld2025/beulas/img19.webp)
+![Beulas Cygnus](/images/busworld2025/beulas/img20.webp)
 
 {{< /photoswipe >}}

@@ -1,9 +1,9 @@
 ---
 title: Golden Dragon
 draft: false
-bg_image: "images/busworld2025/golden-dragon/golden-dragon-background.JPG"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/golden-dragon/img1.jpg"
-image: "images/busworld2025/golden-dragon/img1.jpg"
+bg_image: "images/busworld2025/golden-dragon/golden-dragon-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/golden-dragon/img1.webp"
+image: "images/busworld2025/golden-dragon/img1.webp"
 description : "Golden Dragon je jedan od vodećih kineskih proizvođača autobusa, osnovan 1992. godine. Tokom više od tri decenije rada kompanija se pozicionirala kao globalni brend, poznat po širokom spektru vozila – od gradskih i prigradskih autobusa, preko turističkih (coach) i minibus modela, pa sve do električnih i specijalizovanih vozila."
 type: "busworld2025/post"
 ---
@@ -24,14 +24,14 @@ Najveću pažnju posetilaca privukao je upravo GC15, luksuzni turistički autobu
 
 {{< photoswipe >}}
 
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img2.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img3.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img4.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img5.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img6.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img7.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img8.jpg)
-![Golden Dragon GC15](/images/busworld2025/golden-dragon/img9.jpg)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img2.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img3.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img4.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img5.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img6.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img7.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img8.webp)
+![Golden Dragon GC15](/images/busworld2025/golden-dragon/img9.webp)
 
 {{< /photoswipe >}}
 
@@ -43,10 +43,10 @@ Najveću pažnju posetilaca privukao je upravo GC15, luksuzni turistički autobu
 
 {{< photoswipe >}}
 
-![Golden Pivot](/images/busworld2025/golden-dragon/img10.jpg)
-![Golden Pivot](/images/busworld2025/golden-dragon/img11.jpg)
-![Golden Pivot](/images/busworld2025/golden-dragon/img12.jpg)
-![Golden Pivot](/images/busworld2025/golden-dragon/img13.jpg)
-![Golden Pivot](/images/busworld2025/golden-dragon/img14.jpg)
+![Golden Pivot](/images/busworld2025/golden-dragon/img10.webp)
+![Golden Pivot](/images/busworld2025/golden-dragon/img11.webp)
+![Golden Pivot](/images/busworld2025/golden-dragon/img12.webp)
+![Golden Pivot](/images/busworld2025/golden-dragon/img13.webp)
+![Golden Pivot](/images/busworld2025/golden-dragon/img14.webp)
 
 {{< /photoswipe >}}
