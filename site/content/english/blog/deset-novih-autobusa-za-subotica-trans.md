@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Zahvaljujući pomoći grada Subotice, vozni park javnog preduzeća “Subotica Trans” od danas je bogatiji za 10 autobusa."
 # post thumbnail
-image: "images/blog/deset-novih-autobusa-za-subotica-trans/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/deset-novih-autobusa-za-subotica-trans/img1.jpg"
+image: "images/blog/deset-novih-autobusa-za-subotica-trans/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/deset-novih-autobusa-za-subotica-trans/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -27,9 +27,12 @@ Vozni park JP “Subotica Trans” od danas je bogatiji za dva gradska autobusa 
 
 Otokar Kent C je gradski autobus, dužine 12 metara, opremljen motorom koji ispunjava “EURO 6” normu, proizvođača Cummins ISB6.7E6 , koji isporučuje 300 konjskih snaga.
 
-![Otokar Kent C](/images/blog/deset-novih-autobusa-za-subotica-trans/img2.jpg "Otokar Kent C")
+{{< photoswipe >}}
 
-![Otokar Kent C](/images/blog/deset-novih-autobusa-za-subotica-trans/img3.jpg "Otokar Kent C")
+![Otokar Kent C](/images/blog/deset-novih-autobusa-za-subotica-trans/img2.webp "Otokar Kent C")
+![Otokar Kent C](/images/blog/deset-novih-autobusa-za-subotica-trans/img3.webp "Otokar Kent C")
+
+{{< /photoswipe >}}
 
 Podrška lokalne samouprave je dragocena kada je u pitanju poslovanje subotičkog javnog prevoznika, a po rečima **Aleksandra Aleksića**, direktora preduzeća, ovom nabavkom Subotica staje u red ozbiljnih gradova kao što su Novi Sad i Beograd.
 
@@ -37,13 +40,13 @@ Podrška lokalne samouprave je dragocena kada je u pitanju poslovanje subotičko
 
 Otokar Territo U je autobus namenjen prigradskom i međugradskom saobraćaju, opremljen motorom sa “Euro 6” normom, proizvođača Cummins ISBE 6,7 koji isporučuje 320 konjskih snaga, sa 55 sedišta za putnike.
 
-![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img4.jpg "Otokar Territo U")
+{{< photoswipe >}}
 
-![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img5.jpg "Otokar Territo U")
+![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img4.webp "Otokar Territo U")
+![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img5.webp "Otokar Territo U")
+![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img6.webp "Otokar Territo U")
+![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img7.webp "Otokar Territo U")
 
-![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img6.jpg "Otokar Territo U")
-
-![Otokar Territo U](/images/blog/deset-novih-autobusa-za-subotica-trans/img7.jpg "Otokar Territo U")
-
+{{< /photoswipe >}}
 
 **Izvor: [Subotica.com](https://www.subotica.com/)**

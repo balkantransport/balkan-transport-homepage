@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
 # course thumbnail
-image: "images/courses/nasl-makete.jpg"
+image: "images/courses/nasl-makete.webp"
 # taxonomy
 category: ""
 # teacher
@@ -24,4 +24,4 @@ apply_url : "contact"
 type: "service"
 ---
 
-Bavimo se ručnom izradom maketa autobusa. Makete izrađujemo nalik pravom vozilu, ili sa dodatkom detalja po vašoj želji. Boju, šeme, registarske oznake, potpuno sve možete osmisliti i kontaktirati nas. Na nama je da Vašu ideju sprovedemo u delo. 
+Bavimo se ručnom izradom maketa autobusa. Makete izrađujemo nalik pravom vozilu, ili sa dodatkom detalja po vašoj želji. Boju, šeme, registarske oznake, potpuno sve možete osmisliti i kontaktirati nas. Na nama je da Vašu ideju sprovedemo u delo.

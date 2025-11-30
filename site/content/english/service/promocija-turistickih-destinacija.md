@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/service/promocija-destinacija-background.webp"
 # meta description
 description : "Još jedna od naših usluga jeste i predstavljanje destinacije."
 # course thumbnail
-image: "images/courses/nasl-destinacije.jpg"
+image: "images/courses/nasl-destinacije.webp"
 # taxonomy
 category: ""
 # teacher

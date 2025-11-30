@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Arriva Litas od 01.09.2020. nakon 75 godina službe gradu Požarevcu, odlukom skuštine grada Požarevca više neće saobraćati na gradskim i prigradskim linijama u Požarevcu, ipak sam tender podigao je mnogo prašine i ostavio mnogo neodgovorenih pitanja."
 # post thumbnail
-image: "images/blog/arriva-litas-borba-za-pozarevac/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/arriva-litas-borba-za-pozarevac/img1.jpg"
+image: "images/blog/arriva-litas-borba-za-pozarevac/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/arriva-litas-borba-za-pozarevac/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -24,7 +24,11 @@ type: "post"
 
 Grad Požarevac je naručio studiju javnog gradskog i prigradskog prevoza putnika na teritoriji grada, a potom uradio i projekat javno – privatnog partnerstva, što je usvojila Skupština grada, a saglasila se i Vlada Srbije. U tim dokumentima piše da vozila kojima bi se obavljao prevoz **moraju biti starosti do 10 godina i da mogu biti evro 1,2, 3, 4, 5, 6 ili na “CNG” pogon.** U mišljenju Vlade Srbije kojim je data saglasnost na predlog projekta piše **“da je javno telo u obavezi da u daljem postupku dodeljivanja ugovora ne odstupi od uslova i rizika predviđenih Predlogom projekta”**. Međutim, grad je u konkursnoj dokumentaciji  kao uslov naveo 25 autobusa na “CNG” pogon starosti do devet godina.
 
-![Nova vozila “Arriva Litas”](/images/blog/arriva-litas-borba-za-pozarevac/img2.jpg "Nova vozila “Arriva Litas”")
+{{< photoswipe >}}
+
+![Nova vozila “Arriva Litas”](/images/blog/arriva-litas-borba-za-pozarevac/img2.webp "Nova vozila “Arriva Litas”")
+
+{{< /photoswipe >}}
 
 U Srbiji te uslove trenutno mogu da ispune dva preduzeća, JGSP Novi Sad i Duga doo Petlovača. JGSP je kao javno preduzeće čiji je osnivač grad Novi Sad zaduženo za gradski i prigradski prevoz u Novom Sadu te po statutu nije moguće da obavlja prevoz na teritoriji nekog drugog grada, samim tim indirektno je odabirom ovog uslova jasno naznačen pobednik tendera i pre nego što su dostavljene ponude. 
 
@@ -32,7 +36,11 @@ U Srbiji te uslove trenutno mogu da ispune dva preduzeća, JGSP Novi Sad i Duga 
 
 Navedeno je i da je komisija rangiranje ponuda vršila na osnovu kriterijuma:ponuđena cena po kilometru - najniži iznos ponuđene naknade koju bi javni partner plaćao privatnom partneru za svih 15 godina trajanja ugovornog perioda, kao i ekološka prednost, zaštita životne sredine i ekonomičnost – deklarisana prosečna potrošnja vozila na 100 kilometara.
 
-![Deo flote “Arriva Litas”](/images/blog/arriva-litas-borba-za-pozarevac/img3.jpg "Deo flote “Arriva Litas”")
+{{< photoswipe >}}
+
+![Deo flote “Arriva Litas”](/images/blog/arriva-litas-borba-za-pozarevac/img3.webp "Deo flote “Arriva Litas”")
+
+{{< /photoswipe >}}
 
 **“Netačni su navodi da je naručilac doneo odluku o dodeli ugovora a da nije sačekao odluku Republičke komisije za zaštitu prava u postupcima javnih nabavki jer je povodom podnetog zahteva od strane Arive Litas  Republička komisija donela Rešenje 20.08.2020. godine kojim se predmetni zahtev odbija kao neosnovan. Rešenje je dostavljeno zvanično naručiocu, Gradskoj upravi Grada Požarevca, 28. avgusta od kog dana se računaju rokovi za dalje postupanje naručioca u predmetnom postupku javne nabavke. Odluka o dodeli ugovora u predmetnom postupku doneta je 31. avgusta, dakle nakon prijema rešenja Republička komisija za zaštitu prava u postupcima javnih nabavki,”** navodi za portal E-Braničevo Aleksandar Simonović, načelnik Gradske uprave i potpisnik Odluke o dodeli ugovora.
 
@@ -42,7 +50,11 @@ Sam postupak javne nabavke za poveravanje komunalne delatnosti gradskog i prigra
 
 Arriva je u znak protesta po objavljivanju ove odluke na ulice Požarevca izašla sa svojih novih 7 autobusa vrednosti oko 1.5 milion eura renomiranog svetskog proizvođača “Mercedes-Benz” i time pokazala samo deo svojih kapaciteta.
 
-![Vozila Arriva Litasa na protestu](/images/blog/arriva-litas-borba-za-pozarevac/img4.jpg "Vozila Arriva Litasa na protestu")
+{{< photoswipe >}}
+
+![Vozila Arriva Litasa na protestu](/images/blog/arriva-litas-borba-za-pozarevac/img4.webp "Vozila Arriva Litasa na protestu")
+
+{{< /photoswipe >}}
 
 Arriva je deo Deutsche Bahn grupe, Arriva posluje u 14 zemalja i zapošljava 53000 ljudi, u Srbiji je nasledila Veolia grupaciju 2013. godine, koja je prethodno kupila požarevački “Litas”.
 
@@ -51,7 +63,11 @@ Većina kompanija i dalje radi sa polovinom kapaciteta, u periodu smo godine kad
 
 Da se sada vratimo u Požarevac, iako je ceo tender stopiran i nije potpisan ugovor o javno – privatnom partnerstvu, đake na teritoriji grada Požarevca prevoze autobusi konzorcijuma “Duga Petlovača – Kontinental”.
 
-![Man Lions City CNG – Duga doo Petlovača (Continental)](/images/blog/arriva-litas-borba-za-pozarevac/img5.jpg "Man Lions City CNG – Duga doo Petlovača (Continental)")
+{{< photoswipe >}}
+
+![Man Lions City CNG – Duga doo Petlovača (Continental)](/images/blog/arriva-litas-borba-za-pozarevac/img5.webp "Man Lions City CNG – Duga doo Petlovača (Continental)")
+
+{{< /photoswipe >}}
 
 Kako je potvrđeno portalu E-Braničevo, đaci se prevoze na “dobrovoljnoj” bazi, odnosno između grada Požarevca i prevoznika “Duga (Kontinental)” nije potpisan nikakav ugovor, niti se izvršena usluga naplaćuje. Situacija je više nego konfuzna, gradska uprava grada Požarevca se za to dobro potrudila, jasno je samo da će Arriva nastaviti da se bori za “svoj” Požarevac, danas u 10h ova kompanija radikalizuje proteste, te će se ovog puta 10 autobusa naći na ulicama grada Požarevca, zaposleni iz Požarevca kao i ostalih poslovnih jedinica pružiće podršku kolegama iz Požarevca i simbolično će se okupiti ispred skupštine grada Požarevca.
 
@@ -59,35 +75,31 @@ U saopštenju kompanije Arriva Litas, navodi se da je kompanija Arriva organizat
 
 Pored već viđenih modernih autobusa, kompanija “Arriva Litas” poseduje i autobusku stanicu u Požarevcu, kao i savremenu poslovnu tehničku zgradu, dve potpuno opremljene zatvorene hale za održavanje sa ukupno 8 kanala za rad na vozilima. Desetine radnika održavanja obezbeđuju svakog dana maksimalnu efikasnost u radu i ispravnost vozila u šta se naša ekipa tokom posete Arriva Litasu i uverila.
 
-![Zatvorena hala za održavanje vozila](/images/blog/arriva-litas-borba-za-pozarevac/img6.jpg "Zatvorena hala za održavanje vozila")
+{{< photoswipe >}}
 
-![Održavanje](/images/blog/arriva-litas-borba-za-pozarevac/img7.jpg "Održavanje")
+![Zatvorena hala za održavanje vozila](/images/blog/arriva-litas-borba-za-pozarevac/img6.webp "Zatvorena hala za održavanje vozila")
+![Održavanje](/images/blog/arriva-litas-borba-za-pozarevac/img7.webp "Održavanje")
+![Radionica opremljena dizalicama](/images/blog/arriva-litas-borba-za-pozarevac/img8.webp "Radionica opremljena dizalicama")
+![Radionica](/images/blog/arriva-litas-borba-za-pozarevac/img9.webp "Radionica")
+![Kanal za pregled vozila, dosipanje tečnosti](/images/blog/arriva-litas-borba-za-pozarevac/img10.webp "Kanal za pregled vozila, dosipanje tečnosti")
+![Pogled na kanal radionice](/images/blog/arriva-litas-borba-za-pozarevac/img11.webp "Pogled na kanal radionice")
+![Rad na vozilima](/images/blog/arriva-litas-borba-za-pozarevac/img12.webp "Rad na vozilima")
+![Autobus na dizalici](/images/blog/arriva-litas-borba-za-pozarevac/img13.webp "Autobus na dizalici")
+![Hala za kontrolne preglede](/images/blog/arriva-litas-borba-za-pozarevac/img14.webp "Hala za kontrolne preglede")
+![Ulazak u radionicu](/images/blog/arriva-litas-borba-za-pozarevac/img15.webp "Ulazak u radionicu")
 
-![Radionica opremljena dizalicama](/images/blog/arriva-litas-borba-za-pozarevac/img8.jpg "Radionica opremljena dizalicama")
-
-![Radionica](/images/blog/arriva-litas-borba-za-pozarevac/img9.jpg "Radionica")
-
-![Kanal za pregled vozila, dosipanje tečnosti](/images/blog/arriva-litas-borba-za-pozarevac/img10.jpg "Kanal za pregled vozila, dosipanje tečnosti")
-
-![Pogled na kanal radionice](/images/blog/arriva-litas-borba-za-pozarevac/img11.jpg "Pogled na kanal radionice")
-
-![Rad na vozilima](/images/blog/arriva-litas-borba-za-pozarevac/img12.jpg "Rad na vozilima")
-
-![Autobus na dizalici](/images/blog/arriva-litas-borba-za-pozarevac/img13.jpg "Autobus na dizalici")
-
-![Hala za kontrolne preglede](/images/blog/arriva-litas-borba-za-pozarevac/img14.jpg "Hala za kontrolne preglede")
-
-![Ulazak u radionicu](/images/blog/arriva-litas-borba-za-pozarevac/img15.jpg "Ulazak u radionicu")
+{{< /photoswipe >}}
 
 U okviru autobuske stanice koja je u vlasništvu Arriva Litasa nalazi se i perionica za vozila, čekaonica, šalter sala, turistička agencija.
 
-![Autobuska stanica Požarevac](/images/blog/arriva-litas-borba-za-pozarevac/img16.jpg "Autobuska stanica Požarevac")
+{{< photoswipe >}}
 
-![Peroni autobuske stanice](/images/blog/arriva-litas-borba-za-pozarevac/img17.jpg "Peroni autobuske stanice")
+![Autobuska stanica Požarevac](/images/blog/arriva-litas-borba-za-pozarevac/img16.webp "Autobuska stanica Požarevac")
+![Peroni autobuske stanice](/images/blog/arriva-litas-borba-za-pozarevac/img17.webp "Peroni autobuske stanice")
+![Parking](/images/blog/arriva-litas-borba-za-pozarevac/img18.webp "Parking")
+![Šalter sala](/images/blog/arriva-litas-borba-za-pozarevac/img19.webp "Šalter sala")
 
-![Parking](/images/blog/arriva-litas-borba-za-pozarevac/img18.jpg "Parking")
-
-![Šalter sala](/images/blog/arriva-litas-borba-za-pozarevac/img19.jpg "Šalter sala")
+{{< /photoswipe >}}
 
 Postavlja se pitanje koje to kapacitete ima konzorcijum “Duga – Continental” ukoliko Arriva Litas ne ispunjava tehničke i poslovne kapacitete…
 

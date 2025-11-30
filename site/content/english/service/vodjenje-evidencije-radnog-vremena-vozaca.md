@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/service/vodjenje-evidencije-background.webp"
 # meta description
 description : "Nudimo Vam mogućnost vođenja evidencije radnog vremena vozača, digitalizacije taho listića i izrade mesečnog plana veoma brzo i profesionalno po izuzetno povoljnim cenama."
 # course thumbnail
-image: "images/courses/nasl-usluzno-vodjenje-evidencije.jpg"
+image: "images/courses/nasl-usluzno-vodjenje-evidencije.webp"
 # taxonomy
 category: ""
 # teacher

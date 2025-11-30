@@ -3,12 +3,12 @@ title: "VDL: 36 VDL Citea e-autobusa nove generacije za Bordo"
 date: 2021-12-03T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/vdl-logo-background.jpg"
+bg_image: "images/backgrounds/blog/vdl-logo-background.webp"
 # meta description
 description : "Prvi *VDL Bus & Coach* projekat e-mobilnosti u Francuskoj biće pokrenut prvog kvartala 2024. godine. Bordou, gradu u Francuskoj sa 800.000 stanovnika koji se rapidno širi, VDL će isoručiti 36 autobusa Citea nove generacije operateru Bus Rapid Transit (BRT) kojem je u fokusu međugradski saobraćaj."
 # post thumbnail
-image: "images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img1.jpg"
+image: "images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img1.webp"
 # post author
 author: "Luka Kalinić"
 # taxonomy
@@ -28,7 +28,11 @@ Zglobni autobusi tipa Citea LF-181 su u potpunosti zasnovani na električnom pog
 
 U Bordou su već počeli radovi na implementaciji autobuske linije na kojoj će od 2024. godine saobraćati nova generacija Citea autobusa. To je potpuno nova operacija koja zamenjuje dve postojeće redovne autobuske linije. Bordo ima za cilj da obezbedi pouzdanu i kvalitetnu uslugu javnog prevoza za gradske putnike od naselja *Saint-Aubin de Médoc* do centralne železničke stanice *Saint-Jean* u istorijskom centru grada. Predviđene su namenske autobuske trake sa prioritetom semafora duž trase duge 21 kilometar.
 
-![VDL Cieta New Generation](/images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img2.jpg "VDL Cieta New Generation")
+{{< photoswipe >}}
+
+![VDL Cieta New Generation](/images/blog/36-vdl-citea-zglobnih-autobusa-za-Bordo/img2.webp "VDL Cieta New Generation")
+
+{{< /photoswipe >}}
 
 #### Bordeaux Métropole
 
