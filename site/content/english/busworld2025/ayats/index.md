@@ -1,9 +1,9 @@
 ---
 title: Ayats
 draft: false
-bg_image: "images/busworld2025/ayats/ayats-background.JPG"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/ayats/img1.JPG"
-image: "images/busworld2025/ayats/img1.JPG"
+bg_image: "images/busworld2025/ayats/ayats-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/ayats/img1.webp"
+image: "images/busworld2025/ayats/img1.webp"
 description : "Ayats je španska kompanija sa tradicijom dugom više od jednog veka – proizvodi autobuse još od 1905. godine."
 type: "busworld2025/post"
 ---
@@ -28,15 +28,15 @@ Najzanimljiviji deo izloženog modela svakako je Scania 13-litarski gasni motor 
 
 {{< photoswipe >}}
 
-![Ayats](/images/busworld2025/ayats/img2.JPG)
-![Ayats](/images/busworld2025/ayats/img3.JPG)
-![Ayats](/images/busworld2025/ayats/img4.JPG)
-![Ayats](/images/busworld2025/ayats/img5.JPG)
-![Ayats](/images/busworld2025/ayats/img6.JPG)
-![Ayats](/images/busworld2025/ayats/img7.JPG)
-![Ayats](/images/busworld2025/ayats/img8.JPG)
-![Ayats](/images/busworld2025/ayats/img9.JPG)
-![Ayats](/images/busworld2025/ayats/img10.JPG)
-![Ayats](/images/busworld2025/ayats/img11.JPG)
+![Ayats](/images/busworld2025/ayats/img2.webp)
+![Ayats](/images/busworld2025/ayats/img3.webp)
+![Ayats](/images/busworld2025/ayats/img4.webp)
+![Ayats](/images/busworld2025/ayats/img5.webp)
+![Ayats](/images/busworld2025/ayats/img6.webp)
+![Ayats](/images/busworld2025/ayats/img7.webp)
+![Ayats](/images/busworld2025/ayats/img8.webp)
+![Ayats](/images/busworld2025/ayats/img9.webp)
+![Ayats](/images/busworld2025/ayats/img10.webp)
+![Ayats](/images/busworld2025/ayats/img11.webp)
 
 {{< /photoswipe >}}

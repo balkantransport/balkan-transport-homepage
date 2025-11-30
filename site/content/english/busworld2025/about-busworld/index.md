@@ -3,35 +3,35 @@ title: "Busworld 2025"
 publishDate: "2025-10-19T00:00:00+06:00"
 date: "2025-10-19T00:00:00+06:00"
 draft: false
-bg_image: "images/busworld2025/busworld-background.png"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/img1.jpg"
+bg_image: "images/busworld2025/busworld-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/img1.webp"
 description : "Busworld je najveći i najstariji međunarodni sajam autobusa i prateće industrije na svetu. Ovaj događaj okuplja vodeće proizvođače, dobavljače delova, operatere javnog prevoza i stručnjake iz celog sveta, koji zajedno predstavljaju najnovije tehnologije, modele i inovacije u oblasti autobuske mobilnosti."
 partners:
-  - image : "images/busworld2025/ayats.png"
+  - image : "images/busworld2025/ayats.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/ayats"
 
-  - image : "images/busworld2025/beulas.png"
+  - image : "images/busworld2025/beulas.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/beulas"
 
-  - image : "images/busworld2025/bmc.png"
+  - image : "images/busworld2025/bmc.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/bmc"
 
-  - image : "images/busworld2025/castrosua.png"
+  - image : "images/busworld2025/castrosua.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/castrosua"
 
-  - image : "images/busworld2025/golden-dragon.png"
+  - image : "images/busworld2025/golden-dragon.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/golden-dragon"
 
-  - image : "images/busworld2025/higer.png"
+  - image : "images/busworld2025/higer.webp"
     partnerUrl: "https://www.balkantransport.net/busworld2025/higer"
 
-  - image : "images/busworld2025/king-long.png"
+  - image : "images/busworld2025/king-long.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/king-long"
 
-  - image : "images/busworld2025/unvi.png"
+  - image : "images/busworld2025/unvi.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/unvi"
 
-  - image : "images/busworld2025/yutong.png"
+  - image : "images/busworld2025/yutong.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/yutong"
 
 type: "busworld2025/about-busworld"

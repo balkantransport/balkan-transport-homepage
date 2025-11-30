@@ -1,9 +1,9 @@
 ---
 title: Higer
 draft: false
-bg_image: "images/busworld2025/higer/higer-background.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/higer/img1.jpg"
-image: "images/busworld2025/higer/img1.jpg"
+bg_image: "images/busworld2025/higer/higer-background.webp"
+metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/higer/img1.webp"
+image: "images/busworld2025/higer/img1.webp"
 description : "Higer je jedan od vodećih kineskih proizvođača autobusa i midibuseva, osnovan 1998. godine. Kompanija poseduje veliku proizvodnu bazu u okviru koje se nalaze i istraživački i razvojni centri, posvećeni razvoju novih generacija vozila i naprednih tehnologija."
 type: "busworld2025/post"
 ---
@@ -30,13 +30,13 @@ Na Busworld Europe 2025 sajmu, Higer je predstavio novu generaciju V Series, koj
 
 {{< photoswipe >}}
 
-![Higer Azure](/images/busworld2025/higer/img1.JPG)
-![Higer Azure](/images/busworld2025/higer/img12.JPG)
-![Higer Azure](/images/busworld2025/higer/img13.JPG)
-![Higer Azure](/images/busworld2025/higer/img14.JPG)
-![Higer Azure](/images/busworld2025/higer/img15.JPG)
-![Higer Azure](/images/busworld2025/higer/img16.JPG)
-![Higer Azure](/images/busworld2025/higer/img17.JPG)
+![Higer Azure](/images/busworld2025/higer/img1.webp)
+![Higer Azure](/images/busworld2025/higer/img12.webp)
+![Higer Azure](/images/busworld2025/higer/img13.webp)
+![Higer Azure](/images/busworld2025/higer/img14.webp)
+![Higer Azure](/images/busworld2025/higer/img15.webp)
+![Higer Azure](/images/busworld2025/higer/img16.webp)
+![Higer Azure](/images/busworld2025/higer/img17.webp)
 
 {{< /photoswipe >}}
 
@@ -48,28 +48,28 @@ Na Busworld Europe 2025 sajmu, Higer je predstavio novu generaciju V Series, koj
 
 {{< photoswipe >}}
 
-![Higer V Series](/images/busworld2025/higer/img2.JPG)
-![Higer V Series](/images/busworld2025/higer/img3.JPG)
-![Higer V Series](/images/busworld2025/higer/img4.JPG)
-![Higer V Series](/images/busworld2025/higer/img5.JPG)
-![Higer V Series](/images/busworld2025/higer/img6.JPG)
-![Higer V Series](/images/busworld2025/higer/img7.JPG)
-![Higer V Series](/images/busworld2025/higer/img8.JPG)
-![Higer V Series](/images/busworld2025/higer/img9.JPG)
-![Higer V Series](/images/busworld2025/higer/img10.JPG)
-![Higer V Series](/images/busworld2025/higer/img11.JPG)
-![Higer V Series](/images/busworld2025/higer/img25.JPG)
-![Higer V Series](/images/busworld2025/higer/img26.JPG)
-![Higer V Series](/images/busworld2025/higer/img27.JPG)
-![Higer V Series](/images/busworld2025/higer/img28.JPG)
-![Higer V Series](/images/busworld2025/higer/img29.JPG)
-![Higer V Series](/images/busworld2025/higer/img30.JPG)
-![Higer V Series](/images/busworld2025/higer/img18.JPG)
-![Higer V Series](/images/busworld2025/higer/img19.JPG)
-![Higer V Series](/images/busworld2025/higer/img20.JPG)
-![Higer V Series](/images/busworld2025/higer/img21.JPG)
-![Higer V Series](/images/busworld2025/higer/img22.JPG)
-![Higer V Series](/images/busworld2025/higer/img23.JPG)
-![Higer V Series](/images/busworld2025/higer/img24.JPG)
+![Higer V Series](/images/busworld2025/higer/img2.webp)
+![Higer V Series](/images/busworld2025/higer/img3.webp)
+![Higer V Series](/images/busworld2025/higer/img4.webp)
+![Higer V Series](/images/busworld2025/higer/img5.webp)
+![Higer V Series](/images/busworld2025/higer/img6.webp)
+![Higer V Series](/images/busworld2025/higer/img7.webp)
+![Higer V Series](/images/busworld2025/higer/img8.webp)
+![Higer V Series](/images/busworld2025/higer/img9.webp)
+![Higer V Series](/images/busworld2025/higer/img10.webp)
+![Higer V Series](/images/busworld2025/higer/img11.webp)
+![Higer V Series](/images/busworld2025/higer/img25.webp)
+![Higer V Series](/images/busworld2025/higer/img26.webp)
+![Higer V Series](/images/busworld2025/higer/img27.webp)
+![Higer V Series](/images/busworld2025/higer/img28.webp)
+![Higer V Series](/images/busworld2025/higer/img29.webp)
+![Higer V Series](/images/busworld2025/higer/img30.webp)
+![Higer V Series](/images/busworld2025/higer/img18.webp)
+![Higer V Series](/images/busworld2025/higer/img19.webp)
+![Higer V Series](/images/busworld2025/higer/img20.webp)
+![Higer V Series](/images/busworld2025/higer/img21.webp)
+![Higer V Series](/images/busworld2025/higer/img22.webp)
+![Higer V Series](/images/busworld2025/higer/img23.webp)
+![Higer V Series](/images/busworld2025/higer/img24.webp)
 
 {{< /photoswipe >}}

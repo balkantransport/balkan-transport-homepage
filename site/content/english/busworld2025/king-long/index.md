@@ -1,9 +1,9 @@
 ---
 title: King Long
 draft: false
-bg_image: "images/busworld2025/king-long/king-long-background.jpg"
-metaImage: "https://www.balkantransport.net/images/busworld-2025/king-long/img1.jpg"
-image: "images/busworld2025/king-long/img1.jpg"
+bg_image: "images/busworld2025/king-long/king-long-background.webp"
+metaImage: "https://www.balkantransport.net/images/busworld-2025/king-long/img1.webp"
+image: "images/busworld2025/king-long/img1.webp"
 description : "King Long je jedan od vodećih kineskih proizvođača autobusa, minibuseva i vozila za javni prevoz, sa snažnim fokusom na tehnologiju, razvoj tržišta i širinu ponude. Kompanija je osnovana 1988. godine, a danas poseduje četiri proizvodne baze – za autobuse, midibuseve, minivanove i specijalna vozila."
 type: "busworld2025/post"
 ---
@@ -28,12 +28,12 @@ Na sajmu Busworld Europe 2025, King Long se predstavio sa nekoliko vozila, uklju
 
 {{< photoswipe >}}
 
-![King Long MC13E](/images/busworld2025/king-long/img2.JPG)
-![King Long MC13E](/images/busworld2025/king-long/img3.JPG)
-![King Long MC13E](/images/busworld2025/king-long/img4.JPG)
-![King Long MC13E](/images/busworld2025/king-long/img5.JPG)
-![King Long MC13E](/images/busworld2025/king-long/img6.JPG)
-![King Long MC13E](/images/busworld2025/king-long/img7.JPG)
+![King Long MC13E](/images/busworld2025/king-long/img2.webp)
+![King Long MC13E](/images/busworld2025/king-long/img3.webp)
+![King Long MC13E](/images/busworld2025/king-long/img4.webp)
+![King Long MC13E](/images/busworld2025/king-long/img5.webp)
+![King Long MC13E](/images/busworld2025/king-long/img6.webp)
+![King Long MC13E](/images/busworld2025/king-long/img7.webp)
 
 {{< /photoswipe >}}
 
@@ -45,8 +45,8 @@ Na sajmu Busworld Europe 2025, King Long se predstavio sa nekoliko vozila, uklju
 
 {{< photoswipe >}}
 
-![King Long MU12E](/images/busworld2025/king-long/img8.JPG)
-![King Long MU12E](/images/busworld2025/king-long/img9.JPG)
-![King Long MU12E](/images/busworld2025/king-long/img10.JPG)
+![King Long MU12E](/images/busworld2025/king-long/img8.webp)
+![King Long MU12E](/images/busworld2025/king-long/img9.webp)
+![King Long MU12E](/images/busworld2025/king-long/img10.webp)
 
 {{< /photoswipe >}}
