@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/service/reportaze-background.webp"
 # meta description
 description : "Promovišemo vašu liniju i predstavljamo vašu uslugu. Takođe, bavimo se i uslužnim marketingom i vođenjem profila na društvenim mrežama."
 # course thumbnail
-image: "images/courses/nasl-reportaze.jpg"
+image: "images/courses/nasl-reportaze.webp"
 # taxonomy
 category: ""
 # teacher
@@ -26,6 +26,6 @@ type: "service"
 
 Promovišemo vašu liniju i predstavljamo vašu uslugu. Takođe, bavimo se i uslužnim marketingom i vođenjem profila na društvenim mrežama.
 
-Realizacijom naše usluge reportaže sa putovanja, prezentujemo uslugu konkretne kompanije. Ističemo jedinstvenost i posebnost, kao i prednosti putovanja konkretnom kompanijom. 
+Realizacijom naše usluge reportaže sa putovanja, prezentujemo uslugu konkretne kompanije. Ističemo jedinstvenost i posebnost, kao i prednosti putovanja konkretnom kompanijom.
 
 U skladu sa individualnim zahtevima, vršimo vođenje i upravljanje profilima na društvenim mrežama.

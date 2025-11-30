@@ -5,8 +5,8 @@ draft: false
 # meta description
 description : "Humanitarna organizacija pod nazivom **Drug sa druma**"
 # post thumbnail
-image: "images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img1.jpg"
+image: "images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -21,11 +21,15 @@ type: "post"
 
 Humanitarna organizacija pod nazivom **Drug sa druma** godinama unazad organizuje humanitarne akcije pomoći kolegama koji su zbog nekih loših životnih događaja sprečeni da dalje obavljaju svoj posao I prehranjuju svoju porodicu, kao i pomoći porodicama stradalih kolega vozača.
 
-Poslednjeg dana 2022. godine naša ekipa imala je tu čast da da svoj skroman doprinos, praveći video prilog o jednoj od akcija ovog udruženja, uz pomoć partnera iz Beograda osnivači ovog udruženja su ulicama Beograda delili paketiće deci kolega, od kojih nažalost, neki više nisu među živima. Na ovaj način, ljudi iz udruženja su želeli da još jednom pokažu da ne zaboravljaju svoje kolege ni članove njihovih porodica. 
+Poslednjeg dana 2022. godine naša ekipa imala je tu čast da da svoj skroman doprinos, praveći video prilog o jednoj od akcija ovog udruženja, uz pomoć partnera iz Beograda osnivači ovog udruženja su ulicama Beograda delili paketiće deci kolega, od kojih nažalost, neki više nisu među živima. Na ovaj način, ljudi iz udruženja su želeli da još jednom pokažu da ne zaboravljaju svoje kolege ni članove njihovih porodica.
 
 Udruženje učestvuje I u akcijama pomoći oko prikupljanja novca za članove porodica udruženja kojima je potrebna medicinska pomoć, u akcijama sakupljanja sredstava za pomoć porodica stradalih kolega, kao i u mnogo drugih humanitarnih akcija.
 
-![Drug sa druma](/images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img2.jpg "Drug sa druma")
+{{< photoswipe >}}
+
+![Drug sa druma](/images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img2.webp "Drug sa druma")
+
+{{< /photoswipe >}}
 
 U pitanju je poslednja generacija popularnog modela 9700, švedske fabrike „Volvo“, na 13.9m smešteno je svega 55 komercijalnih sedišta, što komfor podiže na najveći mogući nivo dostupan u toj klasi.
 
