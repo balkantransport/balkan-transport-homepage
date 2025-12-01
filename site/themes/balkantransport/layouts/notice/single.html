@@ -14,7 +14,7 @@
           <!-- notice content -->
           <div class="content">
             {{ .Content }}
-            {{ with .Params.Download_link }} <a href="{{ . | absURL }}" class="btn btn-primary">{{ i18n "download" }}</a>
+            {{ with .Params.Download_link }} <a href="{{ . | absURL }}" class="btn btn-card-solid-premium">{{ i18n "download" }}</a>
             {{ end }}
           </div>
         </div>
