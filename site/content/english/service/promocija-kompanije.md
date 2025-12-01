@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/service/promocija-kompanije-background.webp"
 # meta description
 description : "U skladu sa individualnim zahtevima, istorijat i priču vaše kompanije predstavljamo kroz foto i video materijal."
 # course thumbnail
-image: "images/courses/nasl-promocia-kompanije.webp"
+image: "images/service/nasl-promocia-kompanije.webp"
 # taxonomy
 category: ""
 # teacher

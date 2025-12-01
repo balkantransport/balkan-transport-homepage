@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije."
 # course thumbnail
-image: "images/courses/nasl-rel_table.webp"
+image: "images/service/nasl-rel_table.webp"
 # taxonomy
 category: ""
 # teacher

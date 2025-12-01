@@ -5,52 +5,52 @@ draft: false
 # page title background image
 bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
 # about image
-image: "images/partners/presto/vozilo2/img1.jpg"
-seatConfig: "images/partners/presto/vozilo2/seatConfig.jpg"
-vehicleStats: "images/partners/presto/vozilo2/stats.jpg"
+image: "images/partners/presto/vozilo2/img1.webp"
+seatConfig: "images/partners/presto/vozilo2/seatConfig.webp"
+vehicleStats: "images/partners/presto/vozilo2/stats.webp"
 plates: "(BG 2395-DH)"
 
-kontakt: "images/partners/presto/vozilo2/kontakt.jpg"
+kontakt: "images/partners/presto/vozilo2/kontakt.webp"
 
 symbols:
-  - image : "images/partners/symbols/klima.png"
+  - image : "images/partners/symbols/klima.webp"
     desc : "Klima"
 
-  - image: "images/partners/symbols/tv.png"
+  - image: "images/partners/symbols/tv.webp"
     desc: "TV"
 
-  - image: "images/partners/symbols/audio_video.png"
+  - image: "images/partners/symbols/audio_video.webp"
     desc: "Audio-Video"
   
-  - image: "images/partners/symbols/toalet.png"
+  - image: "images/partners/symbols/toalet.webp"
     desc: "Toalet"
 
-  - image: "images/partners/symbols/frizider.png"
+  - image: "images/partners/symbols/frizider.webp"
     desc: "Frižider"
 
-  - image: "images/partners/symbols/kafe_aparat.png"
+  - image: "images/partners/symbols/kafe_aparat.webp"
     desc: "Kafe aparat"
 
-  - image: "images/partners/symbols/220v.png"
+  - image: "images/partners/symbols/220v.webp"
     desc: "Utičnica (220V)"
 
-  - image: "images/partners/symbols/wifi.png"
+  - image: "images/partners/symbols/wifi.webp"
     desc: "WiFi"
 
-  - image: "images/partners/symbols/navigacija.png"
+  - image: "images/partners/symbols/navigacija.webp"
     desc: "Navigacija"
 
 galery:
-  - image: "images/partners/presto/vozilo2/img2.jpg"
-  - image: "images/partners/presto/vozilo2/img3.jpg"
-  - image: "images/partners/presto/vozilo2/img4.jpg"
-  - image: "images/partners/presto/vozilo2/img5.jpg"
-  - image: "images/partners/presto/vozilo2/img6.jpg"
-  - image: "images/partners/presto/vozilo2/img7.jpg"
-  - image: "images/partners/presto/vozilo2/img8.jpg"
-  - image: "images/partners/presto/vozilo2/img9.jpg"
-  - image: "images/partners/presto/vozilo2/img10.jpg"
-  - image: "images/partners/presto/vozilo2/img11.jpg"
+  - image: "images/partners/presto/vozilo2/img2.webp"
+  - image: "images/partners/presto/vozilo2/img3.webp"
+  - image: "images/partners/presto/vozilo2/img4.webp"
+  - image: "images/partners/presto/vozilo2/img5.webp"
+  - image: "images/partners/presto/vozilo2/img6.webp"
+  - image: "images/partners/presto/vozilo2/img7.webp"
+  - image: "images/partners/presto/vozilo2/img8.webp"
+  - image: "images/partners/presto/vozilo2/img9.webp"
+  - image: "images/partners/presto/vozilo2/img10.webp"
+  - image: "images/partners/presto/vozilo2/img11.webp"
 
 type: "partners/presto/vozilo"
 ---

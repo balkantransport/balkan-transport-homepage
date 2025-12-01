@@ -1,0 +1,52 @@
+---
+title: Auto Kodeks Beograd
+draft: false
+bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/autokodeks-background-2.webp"
+image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img1.webp"
+description : "Kompanija Auto Kodeks jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
+type: "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/vdl-autokodeks"
+---
+
+### VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)
+
+![VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img2.webp "VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)")
+
+U kompaniji Auto Kodeks, imali smo prilike upoznati se sa dva identična Axiala 70 u dužini od 12 m. Radi se o vozilima koja su proizvedena 2009. i 2010. godine sa Euro 5 motorima od 400 KS.
+
+![VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img3.webp "VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)")
+
+![VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img4.webp "VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)")
+
+![VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img5.webp "VDL Berkhof Axial 70, II generacija, 12 m (narandžasti)")
+
+### VDL Berkhof Axial 70, II generacija, 12 m (beli)
+
+![VDL Berkhof Axial 70, II generacija, 12 m (beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img6.webp "VDL Berkhof Axial 70, II generacija, 12 m (beli)")
+
+Kada je reč o kapacitetu vozila, radi se o kombinaciji od 49 sedišta za putnike i 2 za članove posade. Sedišta su nemačkog proizvođača Vogel, sa kombinacijom materijala uz usaglašavanje unutrašnjosti sa krem i bordo, tj. krem i teget bojama. Radi se o nešto bazičnijim turističkim sedištima, gde je izostavljen sklopivi stočić i držač za noge, ali obzirom da je strukturalno reč o istim sedištima, nedostatak navedenih elemenata nije uticao na udobnost sedišta. 
+
+![VDL Berkhof Axial 70, II generacija, 12 m (beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img7.webp "VDL Berkhof Axial 70, II generacija, 12 m (beli)")
+
+![VDL Berkhof Axial 70, II generacija, 12 m (beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img8.webp "VDL Berkhof Axial 70, II generacija, 12 m (beli)")
+
+![VDL Berkhof Axial 70, II generacija, 12 m (beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img9.webp "VDL Berkhof Axial 70, II generacija, 12 m (beli)")
+
+![VDL Berkhof Axial 70, II generacija, 12 m (beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img10.webp "VDL Berkhof Axial 70, II generacija, 12 m (beli)")
+
+Ovom prilikom bismo želeli da istaknemo i održavanje navedenih vozila, koja su u gotovo u besprekornom stanju.
+
+### Ostale fotografije
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img11.webp "VDL Berkhof")
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img12.webp "VDL Berkhof")
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img13.webp "VDL Berkhof")
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img14.webp "VDL Berkhof")
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img15.webp "VDL Berkhof")
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img16.webp "VDL Berkhof")
+
+![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/autokodeks/img17.webp "VDL Berkhof")

@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/service/reportaze-background.webp"
 # meta description
 description : "Promovišemo vašu liniju i predstavljamo vašu uslugu. Takođe, bavimo se i uslužnim marketingom i vođenjem profila na društvenim mrežama."
 # course thumbnail
-image: "images/courses/nasl-reportaze.webp"
+image: "images/service/nasl-reportaze.webp"
 # taxonomy
 category: ""
 # teacher
