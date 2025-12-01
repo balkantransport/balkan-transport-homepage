@@ -2,21 +2,15 @@
 title: "Do kraja marta država će objaviti prodaju “Laste”"
 date: 2019-01-14T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Država planira da do kraja marta objavi prodaju 77 odsto udela u najstarijem transportnom preduzeću u Srbiji – kompaniji “Lasta”."
-# post thumbnail
 image: "images/blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste/img1.webp"
-# post author
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Prevoznici"]
 tags: ["lasta", "Srbija"]
 withVideo: "false"
 pageUrl: "blog/do-kraja-marta-drzava-ce-objaviti-prodaju-laste"
-# type
 type: "post"
 ---
 

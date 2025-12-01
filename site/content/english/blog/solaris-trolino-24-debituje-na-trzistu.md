@@ -2,21 +2,15 @@
 title: "Solaris Trolino 24 debituje na tržištu"
 date: 2021-11-12T00:00:00+06:00
 draft: false
-# page title background image
-bg_image: "images/backgrounds/blog/solaris-trollino24-background.jpg"
-# meta description
+bg_image: "images/backgrounds/blog/solaris-trollino24-background.webp"
 description : "*Solaris Bus & Coach* isporučiće 16 vozila *Solaris Trollino 24* slovačkom operateru *Dopravný Podnik Bratislava*. U pitanju su prvi Solaris trolejbusi dužine preko 24 metra koji su izašli na tržište. Pojaviće se na ulicama Bratislave za manje od dve godine a vrednost ugovora iznosi blizu 17 miliona evra."
-# post thumbnail
-image: "images/blog/solaris-trolino-24-debituje-na-trzistu/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/solaris-trolino-24-debituje-na-trzistu/img1.jpg"
-# post author
+image: "images/blog/solaris-trolino-24-debituje-na-trzistu/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/solaris-trolino-24-debituje-na-trzistu/img1.webp"
 author: "Luka Kalinić"
-# taxonomy
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["Solaris"]
 withVideo: "false"
 pageUrl: "blog/solaris-trolino-24-debituje-na-trzistu"
-# type
 type: "post"
 ---
 
@@ -24,7 +18,11 @@ Sredinom 2023. godine **Solaris Trollino 24** debitovaće na ulicama Bratislave.
 
 Dvozglobno vozilo kompanije Solaris lansirano je 2019. godine na sajmu *Busworld* u Briselu. Pokreću ga dva vučna motora od po 160kW. Dodatne vučne baterije, postavljene na krovu druge sekcije, puniće se na putu prikupljanjem struje sa nadzemnog voda. Zahvaljujući njima, Trollino će takođe moći da putuje bez eksternog napajanja. Vozač će, pritiskom na jedno dugme, moći da pređe sa nadzemnog voda na pogon koji pokreću baterije.
 
-![Solaris Trollino 24](/images/blog/solaris-trolino-24-debituje-na-trzistu/img2.jpg "Solaris Trollino 24")
+{{< photoswipe >}}
+
+![Solaris Trollino 24](/images/blog/solaris-trolino-24-debituje-na-trzistu/img2.webp "Solaris Trollino 24")
+
+{{< /photoswipe >}}
 
 Ovi trolejbusi dužine preko 24 metra obezbediće prostor za 160 putnika, uključujući 60 sedećih mesta. Senzori za brojanje putnika biće postavljeni iznad vrata koja su raspoređena u rasporedu 2-2-2-2-2. Ovaj inovativni model imaće niz pogodnosti, povećavajući sigurnost i udobnost putovanja. Operater *Dopravný Podnik Bratislava* opredelio se za standardna rešenja kao što su digitalni relacioni displeji, klima uređaj, WiFi, LED osvetljenje u unutrašnjosti i lako dostupni USB portovi. Štaviše, biće instaliran video nadzor koji se sastoji od 7 eksternih kamera i 9 kamera koje nadgledaju unutrašnjost vozila kako bi pomogle vozaču i povećale bezbednost putnika.
 

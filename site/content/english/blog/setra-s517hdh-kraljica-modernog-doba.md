@@ -2,21 +2,15 @@
 title: "Setra S517HDH - kraljica modernog doba"
 date: 2021-10-25T00:00:00+06:00
 draft: false
-# page title background image
-bg_image: "images/backgrounds/blog/s517hdh-background.jpg"
-# meta description
+bg_image: "images/backgrounds/blog/s517hdh-background.webp"
 description : "Setra S517HDH je predstavljena u jesen 2013. godine, ovaj autobus je predstavljen kao deo TopClass ponude nemačke Setre"
-# post thumbnail
-image: "images/blog/setra-s517hdh-kraljica-modernog-doba/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/setra-s517hdh-kraljica-modernog-doba/img1.jpg"
-# post author
+image: "images/blog/setra-s517hdh-kraljica-modernog-doba/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/setra-s517hdh-kraljica-modernog-doba/img1.webp"
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Autobusi"]
 tags: ["setra", "Turistički autobusi"]
 withVideo: "false"
 pageUrl: "blog/setra-s517hdh-kraljica-modernog-doba"
-# type
 type: "post"
 ---
 
@@ -28,7 +22,12 @@ Setra S517HDH predstavljena je u jesen 2013. godine. Ovaj autobus predstavljen j
 
 Predstavljena je sa Euro 6, linijskim motorom proizvođača Mercedes Benz OM471 sa 350kw ili 375kw, odnosno 470ks ili 501ks. Osnovni model opremljen je automatskim osmostepenim menjačem, proizvođača Mercedes-Benz GO250-8.
 
-![Setra S517HDH Globus Despotovac](/images/blog/setra-s517hdh-kraljica-modernog-doba/img2.jpg "Setra S517HDH Globus Despotovac")
+{{< photoswipe >}}
+
+![Setra S517HDH Globus Despotovac](/images/blog/setra-s517hdh-kraljica-modernog-doba/img2.webp "Setra S517HDH Globus Despotovac")
+![Setra S517HDH Metro Star](/images/blog/setra-s517hdh-kraljica-modernog-doba/img3.webp "Setra S517HDH Metro Star")
+
+{{< /photoswipe >}}
 
 Setra S517HDH u standardnoj verziji nudi 59 sedećih mesta, sa toaletom i kuhinjom u vozilu. Setra u verziji sa 3* nudi varijantu sa 63 sedišta i toaletom, u izvedbi sa 4* tu su 54 sedišta, toalet, kuhinja, a u izvedbi sa 5* Setra nudi svega 50 sedišta za putnike uz najveći mogući razmak između sedišta, koja putniku pružaju najveći mogući komfor tokom putovanja.
 
@@ -36,25 +35,27 @@ Kako *TopClass* modeli predstavljaju najveći nivo luksuza na točkovima, tako j
 
 Prvi model Setra S517HDH isporučen je u Francusku, grupaciji *“Lacroix”* koja je stacionirana nedaleko od Pariza tokom 2014. godine. Od tada je ovaj model našao svoje mesto širom Evrope, a u Srbiju je stigao tek 2017. godine, u redove *Globusa* iz Despotovca. Danas u Srbiji ima ih jedva dvocifren broj. Najveći broj vozila Setra S517HDH u vlasništvu je firme *Srbija Tours International*, čak pet autobusa, još ih ima u vlasništvu *MetroStara* iz Novog Pazara, kao I *Gameksa* iz Novog Pazara.
 
-![Setra S517HDH Metro Star](/images/blog/setra-s517hdh-kraljica-modernog-doba/img3.jpg "Setra S517HDH Metro Star")
-
 Tokom osam godina razvoja modela, najviše se radilo na dodacima za putnike, sadržaji poput utičnica, usb ulaza, postali su standard, poboljšani audio/video sadržaji, a osim toga Setra je posebnu pažnju posvetila i samim sedištima za putnika.
 
-![Setra S517HDH Enterijer 1](/images/blog/setra-s517hdh-kraljica-modernog-doba/img4.jpg "Setra S517HDH Enterijer 1")
+{{< photoswipe >}}
 
-![Setra S517HDH Enterijer 2](/images/blog/setra-s517hdh-kraljica-modernog-doba/img5.jpg "Setra S517HDH Enterijer 2")
+![Setra S517HDH Enterijer 1](/images/blog/setra-s517hdh-kraljica-modernog-doba/img4.webp "Setra S517HDH Enterijer 1")
+![Setra S517HDH Enterijer 2](/images/blog/setra-s517hdh-kraljica-modernog-doba/img5.webp "Setra S517HDH Enterijer 2")
+![Setra S517HDH Enterijer 3](/images/blog/setra-s517hdh-kraljica-modernog-doba/img9.webp "Setra S517HDH Enterijer 3")
+![Setra S517HDH Toalet](/images/blog/setra-s517hdh-kraljica-modernog-doba/img6.webp "Setra S517HDH Toalet")
 
-![Setra S517HDH Toalet](/images/blog/setra-s517hdh-kraljica-modernog-doba/img6.jpg "Setra S517HDH Toalet")
+{{< /photoswipe >}}
 
 Osim toga, Setra S517HDH je opremljena sistemima *Anti-lock braking system* (ABS), *electronic vehicle level control* (ENR), *Electronic Stability Program* (ESP), *Brake Assist* (BAS), *ESP incl. ASR disengageable*, *Lane Assistant*, *Attention Assist* (ATAS), *adaptive cruise control with Active Brake Assist* (BAS PLUS), *additional function Stop-and-Go for adaptive cruise control*, *Predictive Powertrain Control* (PPC), *Eco Driver Feedback driving style assistant*.
 
-![Setra S517HDH kabina 1](/images/blog/setra-s517hdh-kraljica-modernog-doba/img7.jpg "Setra S517HDH kabina 1")
+{{< photoswipe >}}
 
-![Setra S517HDH kabina 2](/images/blog/setra-s517hdh-kraljica-modernog-doba/img8.jpg "Setra S517HDH kabina 2")
+![Setra S517HDH kabina 1](/images/blog/setra-s517hdh-kraljica-modernog-doba/img7.webp "Setra S517HDH kabina 1")
+![Setra S517HDH kabina 2](/images/blog/setra-s517hdh-kraljica-modernog-doba/img8.webp "Setra S517HDH kabina 2")
+
+{{< /photoswipe >}}
 
 Tu je važno napomenuti novi sistem filtracije vazduha kroz klima uređaj, koji je na neki način podstaknut rešavanjem problema uzrokovanim virusom Covid 19, Setra je brzo dala odgovor na tržištu i prilagodila se novonastaloj situaciji.
-
-![Setra S517HDH Enterijer 3](/images/blog/setra-s517hdh-kraljica-modernog-doba/img9.jpg "Setra S517HDH Enterijer 3")
 
 **Izvor: [Daimler Benz Media](https://www.setra-bus.com/en_DE/models/tc-hdh-models/models.html)**\
 **Deo fotografija: [247bussspotting](https://www.instagram.com/247bussspotting/)**

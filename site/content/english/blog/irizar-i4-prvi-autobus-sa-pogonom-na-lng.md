@@ -2,21 +2,15 @@
 title: "Irizar proizvodi prvi autobus sa pogonom na prirodni gas"
 date: 2021-09-28T00:00:01+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/blog/irizar-i4-lng-background.webp"
-# meta description
 description : "Irizar je proizveo prvi autobus sa pogonom na prirodni gas, **Irizar i4**, koji sa punim rezervoarom može da pređe više od 1000km i samim tim je pogodan za međugradske rute. Ova opcija je dodatak širokom spektru tehnologija i održivih goriva koje irizar trenutno nudi."
-# post thumbnail
 image: "images/blog/irizar-i4-prvi-autobus-sa-pogonom-na-lng/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/irizar-i4-prvi-autobus-sa-pogonom-na-lng/img1.webp"
-# post author
 author: "Luka Kalinić"
-# taxonomy
 categories: ["Autobusi"]
 tags: ["irizar", "medjugradski prevoz"]
 withVideo: "false"
 pageUrl: "blog/irizar-i4-prvi-autobus-sa-pogonom-na-lng"
-# type
 type: "post"
 ---
 

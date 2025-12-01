@@ -2,21 +2,15 @@
 title: "Flixbus mreža konačno stigla i u ‎‎Srbiju"
 date: 2019-07-24T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Flixbus mreža konačno je stigla i u Srbiju, Srbija će biti 29. zemlja koja je deo mreže FlixBus sistema."
-# post thumbnail
 image: "images/blog/flixbus-mreza-stigla-do-srbije/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/flixbus-mreza-stigla-do-srbije/img1.webp"
-# post author
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Prevoznici", "Putnički saobraćaj"]
 tags: ["flixbus", "fudeks", "europabus valjevo", "sirmiumbus"]
 withVideo: "false"
 pageUrl: "blog/flixbus-mreza-stigla-do-srbije"
-# type
 type: "post"
 ---
 

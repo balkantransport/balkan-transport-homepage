@@ -2,21 +2,15 @@
 title: "Potpuna obustava javnog prevoza"
 date: 2020-03-20T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : ""
-# post thumbnail
-image: "images/blog/potpuna-obustava-javnog-prevoza/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/potpuna-obustava-javnog-prevoza/img1.jpg"
-# post author
+image: "images/blog/potpuna-obustava-javnog-prevoza/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/potpuna-obustava-javnog-prevoza/img1.webp"
 author: "Igor Nikolić"
-# taxonomy
 categories: ["Turizam", "Gradski prevoz"]
 tags: ["gradski prevoz", "javni prevoz"]
 withVideo: "false"
 pageUrl: "blog/potpuna-obustava-javnog-prevoza"
-# type
 type: "post"
 ---
 

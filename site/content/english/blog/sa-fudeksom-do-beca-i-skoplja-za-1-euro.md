@@ -2,21 +2,15 @@
 title: "Sa Fudeksom do Beča i Skoplja za 1 euro!"
 date: 2019-02-10T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Kompanija “Fudeks” iz Beograda tokom februara meseca nudi mogućnost putovanja do Beča i Skoplja za samo 1 euro!"
-# post thumbnail
-image: "images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.jpg"
-# post author
+image: "images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.webp"
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Turizam", "Prevoznici"]
 tags: ["fudeks"]
 withVideo: "false"
 pageUrl: "blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro"
-# type
 type: "post"
 ---
 
@@ -26,7 +20,11 @@ Neophodno je da odete do jedne od poslovnica kompanije **Fudeks**, (adrese može
 
 Od **15. februara** do **31.03.2019. godine**, važi i promotivni period za liniju Beograd – Skoplje, karta u smeru **Beograd -> Skoplje** je samo **1 euro**, dok tokom tog perioda povratna karta košta **23 eura**.
 
-![Skoplje](/images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img2.jpg "Skoplje")
+{{< photoswipe >}}
+
+![Skoplje](/images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img2.webp "Skoplje")
+
+{{< /photoswipe >}}
 
 Od **10.02.2019.** godine do **10.03.2019.** godine važi i promo cena povratne karte do Firence i Bolonje, cena je samo 49 eura.
 
@@ -47,6 +45,5 @@ Telefon: 013/333-406
 
 * Adresa (**Požarevac**) Moše Pijade BB, Tržni centar “Novi Dom” – lokal 17,\
 Telefon: 012/400-453
-
 
 Iskoristite ovaj promotivni period i sjajne cene da posetite neki od ovih gradova.

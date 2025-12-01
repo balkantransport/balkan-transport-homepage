@@ -2,21 +2,15 @@
 title: "Električni Solaris Urbino 12 za Novi Sad"
 date: 2023-06-27T00:00:00+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/blog/solaris-djenova-background.webp"
-# meta description
 description : "Od danas se na ulicama Novog Sada u Srbiji može videti 10 novih električnih autobusa čiji je proizvođač Solaris. Uz vozila sa nultom emisijom štetnih gasova, gradski prevoznik JGSP Novi Sad naručio je i izgradnju moderne infrastrukture za brzo i noćno punjenje vozila. Ovo je prvi srpski grad koji se opredelio za Solaris Urbino vozila na električni pogon."
-# post thumbnail
 image: "images/blog/elektricni-solaris-za-novi-sad/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/elektricni-solaris-za-novi-sad/img1.webp"
-# post author
 author: "Luka Kalinić"
-# taxonomy
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]
 withVideo: "false"
 pageUrl: "blog/elektricni-solaris-za-novi-sad"
-# type
 type: "post"
 ---
 

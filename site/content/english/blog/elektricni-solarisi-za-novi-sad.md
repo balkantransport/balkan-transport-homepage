@@ -2,21 +2,15 @@
 title: "Električni Solarisi za Novi Sad‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌ "
 date: 2022-03-31T00:00:00+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/blog/solaris-djenova-background.webp"
-# meta description
 description : "Novi Sad, Evropska prestonica kulture, postaće prvi grad u Srbiji čije će građane prevoziti električni Solaris autobusi."
-# post thumbnail
 image: "images/blog/elektricni-solarisi-za-novi-sad/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/elektricni-solarisi-za-novi-sad/img1.webp"
-# post author
 author: "Luka Kalinić"
-# taxonomy
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris", "Novi Sad"]
 withVideo: "false"
 pageUrl: "blog/elektricni-solarisi-za-novi-sad"
-# type
 type: "post"
 ---
 

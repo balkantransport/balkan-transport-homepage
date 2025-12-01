@@ -2,21 +2,15 @@
 title: "Arriva Litas predstavila nove autobuse"
 date: 2020-10-23T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Početkom meseca naša ekipa bila je gost u Požarevcu, u okviru kompanije “Arriva Litas” predstavljena su nam najnovija pojačanja u voznom parku ove firme, ukupno sedam autobusa marke “Mercedes-Benz” već prevozi zadovoljne putnike."
-# post thumbnail
 image: "images/blog/arriva-litas-predstavila-nove-autobuse/post-1_1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/arriva-litas-predstavila-nove-autobuse/img1.webp"
-# post author
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Autobusi", "Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija", "mercedes-benz", "Turistički autobusi"]
 withVideo: "false"
 pageUrl: "blog/arriva-litas-predstavila-nove-autobuse"
-# type
 type: "post"
 ---
 
