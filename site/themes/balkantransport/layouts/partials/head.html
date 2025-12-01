@@ -1,10 +1,62 @@
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- ===================================================== -->
+  <!-- FAVICONS                                             -->
+  <!-- ===================================================== -->
+
+  <!-- Main multi-resolution favicon -->
+  <link rel="icon" type="image/x-icon" href="images/icons/favicon.ico">
+
+  <!-- Optional PNG favicons (pomažu modernim browserima) -->
+  <link rel="icon" type="image/png" sizes="16x16" href="images/icons/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/icons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="images/icons/favicon-48x48.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="images/icons/favicon-64x64.png">
+  <link rel="icon" type="image/png" sizes="128x128" href="images/icons/favicon-128x128.png">
+
+  <!-- ===================================================== -->
+  <!-- APPLE TOUCH ICONS                                     -->
+  <!-- ===================================================== -->
+
+  <link rel="apple-touch-icon" sizes="57x57" href="images/icons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="images/icons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/icons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="images/icons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="images/icons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="images/icons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="images/icons/apple-touch-icon-180x180.png">
+
+  <!-- iPhone X / modern iPhones safe area -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <!-- ===================================================== -->
+  <!-- SEO BASE                                              -->
+  <!-- ===================================================== -->
   <title>{{ .Title }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
 
-  <!-- {{ template "_internal/opengraph.html" . }} -->
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ .Permalink }}">
 
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ .Params.title }}">
+  <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ .Params.metaImage }}">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Params.title }}">
+  <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
+  <meta name="twitter:image" content="{{ .Params.metaImage }}">
+  
   <!-- Global site tag (gtag.js) - Google Analytics -->
+  {{ "<!-- Google Analytics -->" | safeHTML }}
+
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-WVWTWP21VK"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -24,38 +76,21 @@
   </script>
   <!-- End Google Tag Manager -->
 
-  <!-- Open graph meta -->
-  <meta property="og:site_name" content="balkantransport.net" />
-  <meta property="og:title" content="{{ .Params.title }}" />
-  <meta property="og:description" content="{{ .Params.description }}" />
-  <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:type" content="{{ .Params.type }}" />
-  <meta property="article:publisher" content="{{ .Params.author }}" />
-  <meta property="og:image" content="{{ .Params.metaImage }}" />
-  <meta name="twitter:title" content="{{ .Params.title }}" />
-  <meta name="twitter:description" content="{{ .Params.description }}" />
-  <meta name="twitter:image" content="{{ .Params.metaImage }}" />
-  <meta name="twitter:card" content="summary_large_image" />  
-
   {{ hugo.Generator }}
-  {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
+    {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
   
   {{ if .IsTranslated }}
-  {{ range .Page.AllTranslations }}
-  <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-  {{ end }}
+    {{ range .Page.AllTranslations }}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+    {{ end }}
   {{ end }}
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | absURL }}">
+    <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/main.scss" | toCSS | fingerprint "sha512" }}
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
-
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 </head>
