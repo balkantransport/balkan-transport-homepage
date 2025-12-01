@@ -3,13 +3,12 @@ title: "Fudeks ponovo na liniji ka Budimpešti"
 date: 2021-10-27T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/fudeks-budimpesta-background.jpg"
+bg_image: "images/backgrounds/blog/fudeks-budimpesta-background.webp"
 # meta description
-description : "Nakon obustave uzrokovane epidemijom virusa Covid 19, marta 2020. godine, Fudeks u kooperaciji sa 
-Flixbusom ponovo saobraća na liniji Beograd – Novi Sad – Budimpešta od 28.10.2021."
+description : "Nakon obustave uzrokovane epidemijom virusa Covid 19, marta 2020. godine, Fudeks u kooperaciji sa Flixbusom ponovo saobraća na liniji Beograd – Novi Sad – Budimpešta od 28.10.2021."
 # post thumbnail
-image: "images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.jpg"
+image: "images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -24,16 +23,22 @@ type: "post"
 Linija koju je Fudeks otpočeo o kooperaciju sa Flixbusom početkom oktobra 2019. godine, a o kojoj smo već pisali **[OVDE](https://www.balkantransport.net/blog/flixbus-beograd-budimpesta/)**, Fudeks je saobraćao na liniji 990 Beograd – Novi Sad – Budimpešta sa četiri polaska svakog dana. Ova linija je izuzetno značajna zbog toga što je Budimpešta jedno od najvećih čvorišta „Flix“ linija u Evropi, odnosno mesto odakle se može naći veza ka gotovo svakom delu Evrope sa nekim od prevoznika partnera Flixbusa.
 
 #### Polasci od 28.10.2021. iz Beograda
-<br></br>
 
-![Polasci iz Beograda](/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img2.jpg "Polasci iz Beograda")
+{{< photoswipe >}}
+
+![Polasci iz Beograda](/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img2.webp "Polasci iz Beograda")
+
+{{< /photoswipe >}}
 
 ***\* Vreme dolaska u Budimpeštu je okvirno, samo vreme dolaska zavisi od brzine završetka graničnih procedura.***
 
 #### Polasci od 28.10.2021. iz Budimpešte
-<br></br>
 
-![Polasci iz Budimpešte](/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img3.jpg "Polasci iz Budimpešte")
+{{< photoswipe >}}
+
+![Polasci iz Budimpešte](/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img3.webp "Polasci iz Budimpešte")
+
+{{< /photoswipe >}}
 
 ***\* Vreme dolaska u Novi Sad i Beograd je okvirno, vreme dolaska je zavisno od brzine završetka graničnih procedura.***
 

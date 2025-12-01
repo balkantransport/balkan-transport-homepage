@@ -3,12 +3,12 @@ title: "Setra S517HDH je novi član voznog parka L&M Kostić Tours-a iz Beograda
 date: 2025-11-05T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/l&m-kostic-tours-setra-s517hdh-background.jpg"
+bg_image: "images/backgrounds/blog/l&m-kostic-tours-setra-s517hdh-background.webp"
 # meta description
 description : "Krajem oktobra sa radom je krenulo najnovije pojačanje u voznom parku prevoznika L&M Kostić Tours iz Beograda – Setra S517HDH."
 # post thumbnail
-image: "images/blog/l&m-kostic-tours-setra-s517hdh/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/l&m-kostic-tours-setra-s517hdh/img1.jpg"
+image: "images/blog/l&m-kostic-tours-setra-s517hdh/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/l&m-kostic-tours-setra-s517hdh/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -25,9 +25,9 @@ Ovaj moderni turistički autobus pojačao je vozni park prevoznika L&M Kostić T
 
 {{< photoswipe >}}
 
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img2.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img3.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img4.jpg)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img2.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img3.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img4.webp)
 
 {{< /photoswipe >}}
 
@@ -37,13 +37,13 @@ Novi autobus u voznom parku prevoznika L&amp;M Kostić Tours, proizveden je 2018
 
 {{< photoswipe >}}
 
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img5.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img6.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img7.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img8.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img9.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img10.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img11.jpg)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img5.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img6.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img7.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img8.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img9.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img10.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img11.webp)
 
 {{< /photoswipe >}}
 
@@ -53,13 +53,13 @@ Ovaj model karakteriše još i veliki prtljažni prostor, izuzetna udobnost, kom
 
 {{< photoswipe >}}
 
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img12.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img13.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img14.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img15.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img16.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img17.jpg)
-![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img18.jpg)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img12.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img13.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img14.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img15.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img16.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img17.webp)
+![L&M Kostić Tours Setra S517HDH](/images/blog/l%26m-kostic-tours-setra-s517hdh/img18.webp)
 
 {{< /photoswipe >}}
 

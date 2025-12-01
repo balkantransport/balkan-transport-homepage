@@ -7,8 +7,8 @@ bg_image: "images/backgrounds/partners/presto-future-background.webp"
 # meta description
 description : "Kompanija Presto d.o.o. sa sedištem u Beogradu, kupila je dva solo autobusa marke VDL, sa oznakom Futura FHD2 129-370. Radi se o autobusima proizvedenim 2017. godine, sa motorima koji ispunjavaju Euro 6 normu."
 # post thumbnail
-image: "images/blog/dve-future-za-presto/img1.png"
-metaImage: "https://www.balkantransport.net/images/blog/dve-future-za-presto/img1.png"
+image: "images/blog/dve-future-za-presto/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/dve-future-za-presto/img1.webp"
 # post author
 author: "Igor Nikolić"
 # taxonomy
@@ -29,63 +29,70 @@ Pogon ovom modernom turističkom autobusu daje Dafov motor sa oznakom MX-11 sa 2
 
 ### VDL Futura FHD2 120-370 (BG 2384-UG)
 
-![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img2.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
-
 Ovaj primerak je prvi primpremljen i pušten u saobraćaj, radi se o modelu koji poseduje automatski menjač, sa 12 stepeni prenosa i oznakom ZF Traxon. Opremljen je sa 57 komercijalnih sedišta, na 12.9m dugačkoj šasiji, visine 3.7m. Međuosovinsko rastojanje kod ovog modela je 6.1m, potrebno m je oko 22m za okretanje, u fabričkoj izvedbi dolazi sa prtljažnikom kapaciteta 11.5 kubnih metara.
 
-![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img3.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+{{< photoswipe >}}
+
+![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img2.webp "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img3.webp "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+
+{{< /photoswipe >}}
 
 Euro 6 motor sa 370ks i automatskim menjačem odlično su ukombinovani i pružaju maksimalne performanse uz niske troškove ulaganja i potrošnje.
 
 Vozilo je opremljeno krevetom za vozača, frižiderom, toaletom, USB priključcima i pruža sve što se traži od modernog turističkog autobusa. Iako se radi o vozilu sa 57 mesta, razmak između sedišta je zadovoljavajući.
 
-![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img4.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+{{< photoswipe >}}
 
-![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img5.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img4.webp "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img5.webp "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img6.webp "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img7.webp "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
 
-![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img6.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
-
-![VDL Futura FHD2 120-370, #16 (BG 2384-UG)](/images/blog/dve-future-za-presto/img7.png "VDL Futura FHD2 120-370, #16 (BG 2384-UG)")
+{{< /photoswipe >}}
 
 ### VDL Futura FHD 129-370 (BG 2395-DH)
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img8.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
-
 Ovaj primerak je prvu vožnju imao za potrebe našeg snimanja, radi se o identičnom autobusu, sa 12.9m dužine, 3.7m visine, međuosovinskog rastojanja od 6.1m, te radijusom okretanja od oko 22m. Opremljen je takođe sa 57 komercijalnih sedišta, kuhinjom, toaletom, krevetom za vozača, frižiderom, USB priključcima za dopunjavanje uređaja, sa jedinom razlikom u odnosu na drugo vozilo, poseduje je manuelnim šestostepenim menjačem, ZF Ecoline.
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img9.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+{{< photoswipe >}}
+
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img8.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img9.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+
+{{< /photoswipe >}}
 
 Takođe, radi se o modernom turističkom autobusu pogodnom za sve vrste putovanja od jednodnevnih izleta do višednevnih putovanja, u autobusu se nalaze svi potrebni dodaci za udobno i bezbedno putovanje.
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img10.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+{{< photoswipe >}}
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img11.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img10.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img11.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img12.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img13.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img12.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+{{< /photoswipe >}}
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img13.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+Ono čime se VDL ponosi u novoj generaciji Future su bezbedonosni sistemi ABS, ACC, AEBS, LDWS, a ono što se posebno ističe su produženi serisni intervali, i do 100.000km.
 
-Ono čime se VDL ponosi u novoj generaciji Future su bezbedonosni sistemi ABS, ACC, AEBS, LDWS, a ono što se posebno ističe su produženi serisni intervali, i do 100.000km. 
-
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img14.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
-
-U okviru nabavke ovih autobusa posredstvom *VDL Bus & Coacha* i domaćim predstavništvom iz Beograda vozila su stigla iz Poljske, iz predstavništa VDLa. 
+U okviru nabavke ovih autobusa posredstvom *VDL Bus & Coacha* i domaćim predstavništvom iz Beograda vozila su stigla iz Poljske, iz predstavništa VDLa.
 
 Domaće predstavništvo VDL Bus & Coach se nalazi na Novom Beogradu, u Gandijevoj 99d, a omogućava nabavku svih rezervnih delova, uključujući i vetrobranska stakla, bočna stakla u što kraćem vremenskom roku.
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img15.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+{{< photoswipe >}}
 
-Snimanje je organizovano zahvaljujući kompanijama Presto doo Beograd i Zapeta Transport. 
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img14.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img15.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img16.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img17.webp "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
 
-Kompanija **Presto** na našem tržištu posluje od 2001. godine. Sami počeci rada kompanije vezuju se za gradski prevoz putnika na teritoriji glavnog grada naše zemlje. Nakon devetogodišnjeg rada na linijama na teritoriji grada Beograda, u kompaniju stiže turistički minibus. Kompanija Presto na svoju prvu vanlinijsku vožnju kreće 2010. godine. 
+{{< /photoswipe >}}
 
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img16.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+Snimanje je organizovano zahvaljujući kompanijama Presto doo Beograd i Zapeta Transport.
 
-Kompanija **Presto** danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao. Pored gradskog prevoza u Beogradu i vanlinijskog prevoza,kompanija održava i redovne linije, na taj način spaja Beograd sa Pirotom i Dimitrovgradom, kao i Pirot i Zlatibor.
+Kompanija **Presto** na našem tržištu posluje od 2001. godine. Sami počeci rada kompanije vezuju se za gradski prevoz putnika na teritoriji glavnog grada naše zemlje. Nakon devetogodišnjeg rada na linijama na teritoriji grada Beograda, u kompaniju stiže turistički minibus. Kompanija Presto na svoju prvu vanlinijsku vožnju kreće 2010. godine.
 
-Turistički deo voznog parka kompanije Presto u najvećoj meri se temelji na vozilima VDL Bus & Coach grupe.  Presto D.O.O. iz Beograda dugogodišnji je partner našeg tima.
-
-![VDL Futura FHD 129-370, #17 (BG 2395-DH)](/images/blog/dve-future-za-presto/img17.png "VDL Futura FHD 129-370, #17 (BG 2395-DH)")
+Kompanija **Presto** danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao. Pored gradskog prevoza u Beogradu i vanlinijskog prevoza,kompanija održava i redovne linije, na taj način spaja Beograd sa Pirotom i Dimitrovgradom, kao i Pirot i Zlatibor. Turistički deo voznog parka kompanije Presto u najvećoj meri se temelji na vozilima VDL Bus & Coach grupe.  Presto D.O.O. iz Beograda dugogodišnji je partner našeg tima.
 
 Kompanija **Zapeta Transport** osnovana je davne 1999. godine, preko dve decenije uspešno posluje na polju prevoza putnika u zemlji i inostranstvu. Godine poslovanja iza ove kompanije ispisane su trudom i zalaganjem za konstantnim unapređivanjem svojih usluga i pronalaženje novih klijenata. Sistematičan pristup tržištu, razvoj poslovne politike, doprineo je održavanje dobre pozicije na tržištu, u ponudi ove kompanije nalazi se usluga organizacije prevoza putnika u zemlji i inostranstvu, u ponudi se nalaze automobili, minivanovi, minibus vozila, midibus vozila i autobusi.
 

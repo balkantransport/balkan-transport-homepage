@@ -3,19 +3,19 @@ title: "Nova Setra S531DT isporučena agenciji Oktopod Travel"
 date: 2025-11-26T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/nova-setra-s531dt-oktopod-background.jpg"
+bg_image: "images/backgrounds/blog/nova-setra-s531dt-oktopod-background.webp"
 # meta description
 description : "Oktopod Travel je sredinom novembra postao vlasnik nove Setre S531DT, koja je sada dvanaesti član voznog parka Oktopod Travela."
 # post thumbnail
-image: "images/blog/nova-setra-s531dt-oktopod/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/nova-setra-s531dt-oktopod/img1.jpg"
+image: "images/blog/nova-setra-s531dt-oktopod/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/nova-setra-s531dt-oktopod/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "Iznajmljivanje autobusa", "oktopod", "setra"]
 withVideo: "true"
-videoUrl: "https://www.youtube.com/embed/G_GMe0ZWhYE"
+videoUrl: "https://www.youtube.com/embed/G_GMe0ZWhYE"   
 pageUrl: "blog/nova-setra-s531dt-oktopod"
 # type
 type: "post"
@@ -29,21 +29,21 @@ Radi se o modernom turističkom autobusu, koji je na dva nivoa opremljen sa 80 s
 
 {{< photoswipe >}}
 
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img2.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img3.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img5.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img6.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img7.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img8.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img9.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img10.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img11.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img16.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img17.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img18.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img19.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img20.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img21.jpg)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img2.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img3.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img5.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img6.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img7.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img8.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img9.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img10.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img11.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img16.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img17.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img18.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img19.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img20.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img21.webp)
 
 {{< /photoswipe >}}
 
@@ -53,10 +53,10 @@ Ovaj autobus pokreće Mercedesov OM471 motor, radi se o rednom šestocilindričn
 
 {{< photoswipe >}}
 
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img12.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img13.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img14.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img15.jpg)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img12.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img13.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img14.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img15.webp)
 
 {{< /photoswipe >}}
 
@@ -64,28 +64,28 @@ Putnički salon je opremljen sa modernim sedištima, koja imaju ojačanje sa str
 
 {{< photoswipe >}}
 
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img28.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img29.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img30.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img31.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img32.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img33.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img34.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img35.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img36.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img37.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img38.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img39.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img40.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img41.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img42.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img43.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img44.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img45.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img46.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img47.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img48.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img49.jpg)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img28.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img29.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img30.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img31.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img32.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img33.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img34.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img35.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img36.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img37.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img38.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img39.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img40.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img41.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img42.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img43.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img44.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img45.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img46.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img47.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img48.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img49.webp)
 
 {{< /photoswipe >}}
 
@@ -93,12 +93,12 @@ Kada je u pitanju radno mesto vozača, radi se o unapređenoj verziji Cockpit Co
 
 {{< photoswipe >}}
 
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img22.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img23.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img24.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img25.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img26.jpg)
-![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img27.jpg)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img22.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img23.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img24.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img25.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img26.webp)
+![Setra S531DT Oktopod](/images/blog/nova-setra-s531dt-oktopod/img27.webp)
 
 {{< /photoswipe >}}
 

@@ -3,12 +3,12 @@ title: "Električni Solarisi za Novi Sad‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌
 date: 2022-03-31T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/solaris-djenova-background.jpg"
+bg_image: "images/backgrounds/blog/solaris-djenova-background.webp"
 # meta description
 description : "Novi Sad, Evropska prestonica kulture, postaće prvi grad u Srbiji čije će građane prevoziti električni Solaris autobusi."
 # post thumbnail
-image: "images/blog/elektricni-solarisi-za-novi-sad/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/elektricni-solarisi-za-novi-sad/img1.jpg"
+image: "images/blog/elektricni-solarisi-za-novi-sad/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/elektricni-solarisi-za-novi-sad/img1.webp"
 # post author
 author: "Luka Kalinić"
 # taxonomy
@@ -20,10 +20,7 @@ pageUrl: "blog/elektricni-solarisi-za-novi-sad"
 type: "post"
 ---
 
-Predstavnici kompanije *Solaris Bus & Coach* i gradskog prevoznika *JGSP Novi Sad* potpisali su ugovor za isporuku 10 električnih autobusa ***Solaris Urbino 12*** kao i 
-izgradnju propratne infrastrukture ukupne vrednosti preko 6 miliona evra. Završetak isporuke vozila sa nultom emisijom očekuje se početkom 2023. godine.
-
-![Potpisivanje ugovora](/images/blog/elektricni-solarisi-za-novi-sad/img2.jpg "Potpisivanje ugovora")
+Predstavnici kompanije *Solaris Bus & Coach* i gradskog prevoznika *JGSP Novi Sad* potpisali su ugovor za isporuku 10 električnih autobusa ***Solaris Urbino 12*** kao i izgradnju propratne infrastrukture ukupne vrednosti preko 6 miliona evra. Završetak isporuke vozila sa nultom emisijom očekuje se početkom 2023. godine.
 
 Smešten na obalama reke Dunav, Novi Sad je drugi po veličini grad u Srbiji i ujedno prvi grad u Srbiji na čijim ulicama će saobraćati *Solaris* električni autobusi. *JGSP Novi Sad* potpisao je ugovor sa Solarisom za isporuku 10 električnih autobusa ***Solaris Urbino 12***. Ugovor uključuje i izgradnju propratne infrastrukture, tj. pet priključnih i tri stanice za punjenje putem pantografa. Vozila će biti isporučena Srbiji u roku od 13 meseci od dana potpisivanja ugovora vrednog 6,2 miliona evra.
 
@@ -31,7 +28,12 @@ Ulaganja u vozila javnog gradskog prevoza sa nultom i niskom emisijom štetnih g
 
 Vozila će posedovati *Solaris High Pover* baterije kapaciteta 90kWh, koje će se puniti koristeći *plug-in* utičnice i pantografske punjače. Glatku vožnju u vozilima dugim 12 metara obezbediće motor sa vazdušnim hlađenjem snage 160kW.
 
-![Elektricni Solaris Urbino za Novi Sad](/images/blog/elektricni-solarisi-za-novi-sad/img3.jpg "Elektricni Solaris Urbino za Novi Sad")
+{{< photoswipe >}}
+
+![Potpisivanje ugovora](/images/blog/elektricni-solarisi-za-novi-sad/img2.webp "Potpisivanje ugovora")
+![Elektricni Solaris Urbino za Novi Sad](/images/blog/elektricni-solarisi-za-novi-sad/img3.webp "Elektricni Solaris Urbino za Novi Sad")
+
+{{< /photoswipe >}}
 
 Štaviše, prevoznik je preduzeo korake kako bi obezbedio najviši nivo udobnosti i sigurnosti za svoje putnike. Osim klimatizacije i sistema video nadzora ugrađenog unutra vozila koji su deo standardne opreme, ovi niskopodni autobusi moći će da se pohvale i najsavremenijim sistemom ***MirrorEye***. Ovaj sistem sastoji se od kamera, koje predstavljaju zamenu za bočne retrovizore, koje proširuju vidno polje vozača i poboljšavaju vidljivost pri jakom suncu, kao i tokom kiše ili nakon sumraka. Dakle, sistem značajno doprinosi poboljšanju bezbednosti na putevima.
 

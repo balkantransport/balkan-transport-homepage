@@ -3,12 +3,12 @@ title: "Scania Irizar i6s 15 HDH - novost u voznom parku Severtransa"
 date: 2025-11-16T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor-background.jpg"
+bg_image: "images/backgrounds/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor-background.webp"
 # meta description
 description : "Kraj godine donosi mnogo radosti, tako i u Sombor stiže najnovija verzija modela Scania Irizar i6s u najdužoj verziji od 15 metara."
 # post thumbnail
-image: "images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.jpg"
+image: "images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -25,9 +25,9 @@ Radi se o najsavremenijem turističkom autobusu koji pruža izuzetne performanse
 
 {{< photoswipe >}}
 
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img2.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img3.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img4.jpg)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img2.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img3.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img4.webp)
 
 {{< /photoswipe >}}
 
@@ -35,11 +35,11 @@ Ovaj luksuzni autobus, pokreće nova generacija Scania motora, i to 13-litarski 
 
 {{< photoswipe >}}
 
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img5.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img6.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img7.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img8.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img9.jpg)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img5.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img6.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img7.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img8.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img9.webp)
 
 {{< /photoswipe >}}
 
@@ -47,9 +47,9 @@ Pored navedenog, vozilo je opremljeno sa najnovijom generacijom digitalne instru
 
 {{< photoswipe >}}
 
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img10.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img11.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img12.jpg)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img10.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img11.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img12.webp)
 
 {{< /photoswipe >}}
 
@@ -59,12 +59,12 @@ Vozilo je opremljeno linijom Sedišta I6s Plus, proizvođača _Sunviauto_ koji o
 
 {{< photoswipe >}}
 
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img13.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img14.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img15.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img16.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img17.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img18.jpg)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img13.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img14.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img15.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img16.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img17.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img18.webp)
 
 {{< /photoswipe >}}
 
@@ -72,13 +72,13 @@ Prisutan je i niz sigurnosnih sistema, kao što su sistemi za praćenje traka, s
 
 {{< photoswipe >}}
 
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img19.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img20.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img21.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img22.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img23.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img24.jpg)
-![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img25.jpg)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img19.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img20.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img21.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img22.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img23.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img24.webp)
+![Scania Irizar i6s 15 HDH Severtrans](/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img25.webp)
 
 {{< /photoswipe >}}
 
