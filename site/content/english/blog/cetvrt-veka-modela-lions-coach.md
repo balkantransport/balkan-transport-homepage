@@ -2,21 +2,15 @@
 title: "Četvrt veka modela Lion’s Coach kompanije MAN"
 date: 2021-11-10T00:00:00+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/blog/cetvrt-veka-Lions-Coach-background.webp"
-# meta description
 description : "Kompanija MAN sa ponosom obeležava 25 uspešnih godina svog modela Lion’s Coach. Razvojni put ovog modela bio je izuzetno progresivan i temeljan. Nešto što je ovaj model činilo prepoznatljivim jesu tehnička rešenja sigurnosti i bezbednosti, koja su uvek bila na prvom mestu, ali i dizajn, koji se uz male korekcije temeljio na istoj čak osnovi deceniju i po."
-# post thumbnail
 image: "images/blog/cetvrt-veka-modela-lions-coach/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/cetvrt-veka-modela-lions-coach/img1.webp"
-# post author
 author: "Igor Nikolić"
-# taxonomy
 categories: ["Autobusi"]
 tags: ["MAN"]
 withVideo: "false"
 pageUrl: "blog/cetvrt-veka-modela-lions-coach"
-# type
 type: "post"
 ---
 

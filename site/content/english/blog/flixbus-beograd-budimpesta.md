@@ -2,21 +2,15 @@
 title: "Krenula Flixbus linija iz Beograda za Budimpeštu"
 date: 2019-10-03T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Nakon linija ka Hrvatskoj i Sloveniji, Flixbus mreža od 03.10.2019. godine povezuje Srbiju i sa Mađarskom."
-# post thumbnail
 image: "images/blog/flixbus-beograd-budimpesta/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/flixbus-beograd-budimpesta/img1.webp"
-# post author
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Prevoznici", "Putnički saobraćaj", "Turizam"]
 tags: ["fudeks", "setra", "flixbus", "turizam", "javni prevoz", "prevoz putnika"]
 withVideo: "false"
 pageUrl: "blog/flixbus-beograd-budimpesta"
-# type
 type: "post"
 ---
 

@@ -2,20 +2,15 @@
 title: "Drug sa druma - mala grupa velikih ljudi"
 date: 2023-01-04T00:00:00+06:00
 draft: false
-# meta description
 description : "Humanitarna organizacija pod nazivom **Drug sa druma**"
-# post thumbnail
 image: "images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/drug-sa-druma-mala-grupa-velikih-ljudi/img1.webp"
-# post author
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Vozači"]
 tags: ["Kamioni", "Humanitarna organizcija"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/zp_yeRhuy2A"
 pageUrl: "blog/drug-sa-druma-mala-grupa-velikih-ljudi"
-# type
 type: "post"
 ---
 

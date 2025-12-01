@@ -2,21 +2,15 @@
 title: "Počelo je izdavanje sertifikata i kvalifikacionih kartica"
 date: 2019-02-01T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Agencija za bezbednost saobraćaja Republike Srbije, u okviru poslova poverenih Zakonom o bezbednosti saobraćaja na putevima 31. januara 2019. godine otpočela je proces sertifikacije profesionalnih vozača."
-# post thumbnail
-image: "images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.jpg"
-# post author
+image: "images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.webp"
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Vozači"]
 tags: ["profesionalni vozači", "agencija za bezbednost saobraćaja", "licenca"]
 withVideo: "false"
 pageUrl: "blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica"
-# type
 type: "post"
 ---
 
@@ -34,8 +28,7 @@ Sertifikat o stručnoj kompetentnosti i kvalifikacionu karticu **mora imati svak
 
 * \* Dokaze o izvršenim uplatama **[primer uplatnica](http://www.abs.gov.rs/admin/upload/documents/20190130130935-primeri-uplatnica.pdf)**.
 
-
-##### Spisak ekspozitura u kojima se može podneti zahtev:
+#### Spisak ekspozitura u kojima se može podneti zahtev
 
 1. **\* Beograd, AMSS – Agencija, Ruzveltova 16, 011/2423-741**
 

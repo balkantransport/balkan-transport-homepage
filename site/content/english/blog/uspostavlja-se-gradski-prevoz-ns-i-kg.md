@@ -2,21 +2,15 @@
 title: "Uspostavlja se gradski prevoz u Novom Sadu i Kragujevcu"
 date: 2020-05-03T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Od ponedeljka 04.05.2020. ponovo se uspostavljaju linije gradskog prevoza u Novom Sadu i Kragujevcu, uspostavljaju se i prvi polasci na međugradskim linijama u Srbiji."
-# post thumbnail
-image: "images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.jpg"
-# post author
+image: "images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.webp"
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Gradski prevoz"]
 tags: ["covid19", "gradski prevoz", "gradski prevoz novi sad", "gsp kragujevac", "gsp subotica", "gsp užice", "međugradski prevoz", "javni prevoz"]
 withVideo: "false"
 pageUrl: "blog/uspostavlja-se-gradski-prevoz-ns-i-kg"
-# type
 type: "post"
 ---
 
@@ -31,20 +25,24 @@ od 21:00 do 22:59 časova
 U periodima od **09:00 do 12:59**, od **17:00 do 20:59**, od **23:00 do 05:00** časova prevoz se neće obavljati.
 Linije **17** i **20** ne saobraćaju od **4. maja** do **ponovnog otvaranja tržnih centara**.
 
-![JGSP “Novi Sad”](/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img2.jpg "JGSP “Novi Sad”")
+{{< photoswipe >}}
+
+![JGSP “Novi Sad”](/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img2.webp "JGSP “Novi Sad”")
+
+{{< /photoswipe >}}
 
 Prevoz će biti organizovan u skladu sa “Instrukcijama za organizovanje javnog gradskog, prigradskog i lokalnog prevoza u primeni mera prevencije, sprečavanja širenja i smanjenja rizika bolesti COVID-19“ Vlade Republike Srbije br. 53-3455/2020-1 od 28.04.2020.\
 Mole se korisnici usluga JGSP-a, da se pridržavaju mera koje su određene instrukcijama Vlade Republike Srbije.
 
-#### LINIJE 6, 11A, 11B – PRIVREMENA IZMENA TRASE OD 04.05.
+### LINIJE 6, 11A, 11B – PRIVREMENA IZMENA TRASE OD 04.05.
 
 U skladu sa rešenjem Gradske uprave za saobraćaj i puteve (broj:IV-34-8511/19-4) **određuje se privremena izmena trase autobuskih linija broj 6, 11A i 11B zbog radova na rekonstrukciji Ulice Marka Miljanova u Novom Sadu**. Izmenjen režim saobraćajnih linija na snazi je 4. maja do 31. avgusta 2020. godine. Autobusi menjaju trasu kretanja na sledeći način:
 
-###### LINIJA BROJ 6 (OBA SMERA)
+#### LINIJA BROJ 6 (OBA SMERA)
 
 Od raskrsnice Ulice Marka Miljanova i Beogradskog keja autobusi saobraćaju Beogradskim kejom do raskrsnice sa Ulicom Bajči Žilinskog , te se ispred objekta „Danubiusa“ okreću i izdržavaju vreme do narednog polaska.
 
-###### LINIJE BROJ 11A i 11B (OBA SMERA)
+#### LINIJE BROJ 11A i 11B (OBA SMERA)
 
 **Linija 11A**: Autobusi sa Beogradskog keja skreću levo na Trg neznanog junaka, desno na Bulevar Mihajla Pupina, nastavljaju Uspenskom ulicom, Ulicom Jovana Subotića, Temerinskom ulicom, skreću levo u Ulicu Jovana Cvijića odakle saobraćaju redovnom trasom kretanja.\
 **Linija 11B**: Od raskrsnice ulica Jovana Cvijića i Temerinske autobusi skrećju desno u Temerinsku ulicu, nastavljaju ulicama Jovana Subotića, Uspenska, Bulevar Mihajla Pupina, skreću desno na Trg Neznanog junaka, desno na Kej žrtava racije odakle saobraćaju redovnom trasom kretanja.\
@@ -58,7 +56,11 @@ U slučaju promena u režimu prevoza, korisnici usluga biće blagovremeno obave�
 
 U skladu sa merama koje je donela Vlada Republike Srbije od ponedeljka 04. maja 2020.godine počinje sa radom gradski i prigradski prevoz na teritoriji Grada Kragujevca.
 
-![Gradski prevoz u Kragujevcu](/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img3.jpg "Gradski prevoz u Kragujevcu")
+{{< photoswipe >}}
+
+![Gradski prevoz u Kragujevcu](/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img3.webp "Gradski prevoz u Kragujevcu")
+
+{{< /photoswipe >}}
 
 Prevoz mogu koristiti isključivo zaposlena lica uz obaveznu upotrebu zaštitne maske i rukavica prilikom ulaska u vozila i u toku vožnje. Korisnicima bez maske i rukavica neće biti dozvoljen ulazak u vozila JTP. Svi zaposleni moraju imati dopunjene e-KG kartice koje će čekirati prilikom ulaska u vozila JTP.
 
@@ -80,4 +82,3 @@ Međugradski saobraćaj uspostavlja se delimično od ponedeljka 04.05.2020. godi
 Pre nego što krenete na put, informišite se direktno kod prevoznika sa kojim bi trebalo da putujete, nadamo se normalizaciji međugradskog prevoza od sledeće nedelje.
 
 **Izvor: JGSP NS; KGBus, direkcijaue**
-

@@ -2,21 +2,15 @@
 title: "Novi Higer autobusi na ulicama Beograda"
 date: 2019-10-23T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Od juče je u saobraćaju trideset autobusa kineskog proizvođača “Higer”. Prvih 30 od ukupno 174 autobusa, raspodeljena su u tri saobraćajna pogona preduzeća “GSP Beograd."
-# post thumbnail
-image: "images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.jpg"
-# post author
+image: "images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.webp"
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["javni prevoz", "beograd", "gradski prevoz", "gradski autobus", "gsp beograd", "higer"]
 withVideo: "false"
 pageUrl: "blog/novi-higer-autobusi-na-ulicama-beograda"
-# type
 type: "post"
 ---
 
@@ -30,13 +24,19 @@ GSP Beograd se zbog ove situacije, našao u velikom problemu, budući da je otpo
 
 Od utorka 22.10.2019. godine, u saobraćaju su nova vozila kineskog proizvođača “Higer” , prvi kontigent od 30 vozila raspoređen je u tri pogona, deset autobusa je raspoređeno u pogon Zemun (od garažnog broja 3360 do 3369), pogonu Karaburma (od garažnog broja 3370 do 3379) i u pogonu Kosmaj (garažni brojevi od 3380 do 3389). U saobraćaju su izlazili svi autobusi osim jednog, on je oštećen prilikom dovoženja, te će u saobraćaj izaći po završetku procedura sa osiguranjem.
 
-![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img2.jpg "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
 
 Preostalih 144 autobusa, prema planu dostavljenom od strane kompanije Higer, trebalo bi da u nekoliko kotigenata pristižu sve do kraja novembra. Nakon 70 autobusa turskog “BMC-a”, ovi autobusi značajno popravljaju stanje u najvećem operateru u Srbiji, preduzeće GSP Beograd gotovo 10 godina nije ulagalo u solo vozila (ako zanemarimo 10 autobusa na GAS)
 
 Sa isporukom preostalih autobusa iz fabrike “Higer” doće se do cifre od 244 autobusa u 2019. godini za GSP Beograd, čime bi trebalo značajno da se poboljša usluga ovog operatera u prestonici Srbije.
 
-![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.jpg "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
+{{< photoswipe >}}
+
+![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img2.webp "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
+![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.webp "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
+![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img3.webp "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
+![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img4.webp "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
+
+{{< /photoswipe >}}
 
 ### O Higeru...
 
@@ -44,10 +44,6 @@ Higer autobusi nisu novost za Beograd, kao i putnike koji koriste javni gradski 
 
 Ipak, naše nove autobuse, pokreće dizel motor, već smo pomenuli nova Euro 6 step D norma, proizvođača **Cummins ISLe, motor je zapremine 8.9 litara i isporučuje 300 konjskih snaga** i u kombinaciji je sa Voith automatskim četvorostepnim menjačem. Higer autobusi stigli su opremljeni sa klima uređajima, rampom za lakši ulazak osoba sa invaliditetom, kao i sa integrisanim sistemom za obaveštavanje putnika i naplatu karata.
 Za razliku od instrument table u BMC autobusima, Higer je stigao sa “standardizovanom” instrument tablom, proizvođača “Actia” koja je već viđena kao rešenje kod većih evropskih proizvođača autobusa, kao što su Iveco, Solaris…
-
-![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img3.jpg "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
-
-![Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)](/images/blog/novi-higer-autobusi-na-ulicama-beograda/img4.jpg "Higer KLQ6129GQ2 – GSP Beograd (Foto: Aleksandar Marković – Balkan Transport)")
 
 Prema prvim utiscima, radi se o nešto ozbiljnijim vozilima u odnosu na prethodno pristigle proizvođača “BMC”, završna obrada je na malo većem nivou, dizajnerski su nešto neobičniji u odnosu na modele evropskih proizvođača, preostaje nam da vidimo kako će se pokazati u eksploataciji, na ulicama prestonice Srbije.
 

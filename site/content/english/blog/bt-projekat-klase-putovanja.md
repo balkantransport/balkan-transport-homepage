@@ -2,22 +2,16 @@
 title: "Balkan Transport projekat: Klase putovanja"
 date: 2022-07-16T00:00:00+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/partners/presto-future-background.webp"
-# meta description
 description : "U skladu sa predstojećim jubilejom, 10 godina od osnivanja Balkan Transport portala, jedna od novosti koju smo pripremili jesu klase putovanja za turističke autobuse."
-# post thumbnail
 image: "images/blog/bt-projekat-klase-putovanja/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/bt-projekat-klase-putovanja/img1.webp"
-# post author
 author: "Igor Nikolić"
-# taxonomy
 categories: ["Autobusi", "Turizam"]
 tags: ["QR code", "presto", "turistički autobusi"]
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/HwAzcuTXCXA"
 pageUrl: "blog/bt-projekat-klase-putovanja"
-# type
 type: "post"
 ---
 

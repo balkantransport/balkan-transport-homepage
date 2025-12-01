@@ -2,21 +2,15 @@
 title: "Svetska premijera - Setra MultiClass 500 LE"
 date: 2023-04-25T00:00:00+06:00
 draft: false
-# page title background image
-bg_image: "images/backgrounds/blog/setra-s515LE-background.jpg"
-# meta description
+bg_image: "images/backgrounds/blog/setra-s515LE-background.webp"
 description : "Pre nekoliko dana kroz razne medije prošlo je nekoliko slika prototipa koji je razvijao Daimler. Tajna je konačno otkrivena, predstavljena je nova Setra S 515 LE."
-# post thumbnail
-image: "images/blog/svetska-premijera-setra-multiclass-500-LE/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/svetska-premijera-setra-multiclass-500-LE/img1.jpg"
-# post author
+image: "images/blog/svetska-premijera-setra-multiclass-500-LE/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/svetska-premijera-setra-multiclass-500-LE/img1.webp"
 author: "Luka Kalinić"
-# taxonomy
 categories: ["Autobusi"]
 tags: ["setra"]
 withVideo: "false"
 pageUrl: "blog/svetska-premijera-setra-multiclass-500-LE"
-# type
 type: "post"
 ---
 
@@ -24,21 +18,23 @@ Ubrzo nakon premijere redizajnirane generacije fascinantnih Setrinih *ComfortCla
 
 Nova **MultiClass 500 LE** serija nudi posebno širok spektar od četiri modela. Kao *Low-Entry (LE)*, kvartet kombinuje dva sveta: niski pod i udobna putovanja. Konzistentno dizajniran sa niskim podom do neposredno ispred zadnje osovine, impresionira brzim i lakim ulaskom i izlaskom na prednjem kraju. Ispred zadnje osovine tri ravne stepenice vode do zadnjeg kraja. Sa tehnologijom koja se uveliko koristi u turističkim autobusima poput pogona i šasije, ova klasa postavlja standarde udobnosti čak i na dugim putovanjima.
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img9.jpg "Svetska premijera - Setra S 515 LE")
-
 Asortiman **MultiClass 500 LE** autobusa uključuje gradske autobuse dužine od 10,51 do 14,52 metara sa dve i tri osovine. Oni pokrivaju operacije od saobraćaja na periferijama gradova do međugradskog saobraćaja između udaljenih i retko naseljenih regiona. Nova generacija autobusa se tako dokazala u klasičnom redovnom i školskom prevozu.
 
 ### Jedinstven dizajn: kultni izgled
 
-Setra predstavlja ujedno fascinantan i dugotrajan dizajn – čak i sa funkcionalnim niskim ulazom. Spolja, nova *MultiClass 500 LE* serija je namerno podeljena na dva dela vozila. Oba segmenta su povezana širokim vertikalnim profilom. Jasna podela putničkog prostora ublažava spoljašnji uticaj novih međugradskih autobusa.
-
-Zbog tamnih ivica, zaobljenih A-stubova na prednjoj strani i ugaonih profila istog oblika pozadi, uobičajena ugaonost je rastopljena u meke i tečne oblike. Čini se da krov lebdi iznad karoserije međugradskog autobusa. Rezultat je jedinstven, prozračan I veoma elegantan dizajn.
-
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img2.jpg "Svetska premijera - Setra S 515 LE")
+Setra predstavlja ujedno fascinantan i dugotrajan dizajn – čak i sa funkcionalnim niskim ulazom. Spolja, nova *MultiClass 500 LE* serija je namerno podeljena na dva dela vozila. Oba segmenta su povezana širokim vertikalnim profilom. Jasna podela putničkog prostora ublažava spoljašnji uticaj novih međugradskih autobusa. Zbog tamnih ivica, zaobljenih A-stubova na prednjoj strani i ugaonih profila istog oblika pozadi, uobičajena ugaonost je rastopljena u meke i tečne oblike. Čini se da krov lebdi iznad karoserije međugradskog autobusa. Rezultat je jedinstven, prozračan I veoma elegantan dizajn.
 
 Na prednjoj strani, *MultiClass 500 LE* usvaja novo lice porodice koje je Setra predstavila sa trenutnim turističkim autobusima. Sa leve i desne strane iznad prednjih točkova, element tipičan za brend ukazuje na poreklo nove *MultiClass 500 LE* – to je prava Setra. O tome svedoči i natpis marke na zadnjem delu, koji je takođe prepoznatljivog oblika.
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img3.jpg "Svetska premijera - Setra S 515 LE")
+{{< photoswipe >}}
+
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img2.webp "Svetska premijera - Setra S 515 LE")
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img3.webp "Svetska premijera - Setra S 515 LE")
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img9.webp "Svetska premijera - Setra S 515 LE")
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img8.webp "Svetska premijera - Setra S 515 LE")
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img7.webp "Svetska premijera - Setra S 515 LE")
+
+{{< /photoswipe >}}
 
 ### Svestrano: putnički prostor, kokpit, sistemi za pomoć pri vožnji
 
@@ -48,15 +44,22 @@ U zavisnosti od odgovarajuće pozicije vrata i varijante samih vrata, kompanije
 
 Prednji deo sa potpuno niskim podom, platforme sa leve, desne ili obe strane u smeru kretanja – za novu Setru *MultiClass 500 LE* ne postoje skoro nikakve granice kada je u pitanju dizajn putničkog prostora. Unutrašnjost je funkcionalna i prijatna, od visokih ili srednje visokih staklenih pregradnih zidova do poda u različitim dekorima, glatkih zidnih obloga sa dekorativnom folijom ili ručno rađene površine u svetlim I tamnim nijansama. Raspored sedenja je podjednako raznolik, od rasporeda prilagođenog za gradske rute pa sve do rasporeda prilagođenog ekskurzijama.
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img4.jpg "Svetska premijera - Setra S 515 LE")
+{{< photoswipe >}}
+
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img4.webp "Svetska premijera - Setra S 515 LE")
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img5.webp "Svetska premijera - Setra S 515 LE")
+
+{{< /photoswipe >}}
 
 Grejanje, ventilacija i klimatizacija Setra *MultiClass 500 LE* su dizajnirani da ispune sve zahteve. Ako se želi klimatizacija, prva faza proširenja je na klimatizovanom radnom mestu vozača. Ako je kontrola temperature u putničkom prostoru dovoljna u regionima sa blagom klimom, postoji nova verzija klima uređaja pod nazivom EvoCool light Basic koji se sastoji od dva krovna modula. Klasični krovni sistem klimatizacije EvoCool Basic je posebno moćan. Ventilacioni otvori i svetla za čitanje mogu se ugraditi kao posebna oprema u kombinaciji sa krovnim klima uređajem.
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img5.jpg "Svetska premijera - Setra S 515 LE")
-
 Radno mesto vozača je jednako raznoliko kao i putnički prostor. Postoje tri varijante koje možete izabrati: Cockpit City (grad) u skladu sa specifikacijama VDV (Udruženje nemačkih transportnih kompanija) i Cockpit Basic City (grad/međugradski) ili Cockpit Basic (međugradski) na nivou autobusa.
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img6.jpg "Svetska premijera - Setra S 515 LE")
+{{< photoswipe >}}
+
+![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img6.webp "Svetska premijera - Setra S 515 LE")
+
+{{< /photoswipe >}}
 
 Bez obzira na kokpit, nova *MultiClass 500 LE* olakšava posao vozaču. Počevši od standardnih senzorom za kišu pa sve do elektronske parking kočnice, koja je takođe deo standardne opreme. Opcioni 360° sistem kamera nudi savršenu vidljivost prilikom manevrisanja na uskim mestima. Ovaj sistem omogućava da se vide pešaci, biciklisti i prepreke koje je inače teško ili praktično nemoguće uočiti. Osvetljenje prostora za vožnju unazad je dostupno kao dodatna oprema koja je deo podrške neophodne za manevrisanje vozilom.
 
@@ -76,17 +79,11 @@ Pogon Setra *MultiClass 500 LE* je zasnovan na dobro dokazanim i ekonomičnim ko
 
 *MultiClass 500 LE* postaje još ekonomičniji sa OM 936 motorom ukombinovanog sa opcionim hibridnim modulom. Električni motor između motora i menjača radi kao generator kada se kreće ili koči i proizvodi električnu energiju sa nultom potrošnjom goriva. Generator je se sastoji iz dva modula I smešten je na krovu autobusa. U stresnim situacijama, kao što je pri polasku iz stanice na primer, elektromotor od 14 kW svojom energijom podržava motor sa unutrašnjim sagorevanjem. Samim tim je I potrošnja goriva manja.
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img8.jpg "Svetska premijera - Setra S 515 LE")
-
 ### Kontinuirano povećanje: program će biti gotov za nekoliko meseci
 
 Kao i prethodna serija, nova Setra *MultiClass 500 LE* se takođe proizvodi u fabrici Daimler Buses u Hosdereu kod Istanbula u evropskom delu Turske. Početak proizvodnje klasičnih dvoosovinskih autobusa dužine oko 12 i 13 metara planirana je za jesen 2023. godine. Očekuje se da će proizvodnja kompaktnih S 510 LE i troosovinskih S 518 LE modela uslediti početkom 2024. (PM Daimler /SV).
 
-![Svetska premijera - Setra S 515 LE](/images/blog/svetska-premijera-setra-multiclass-500-LE/img7.jpg "Svetska premijera - Setra S 515 LE")
-
----
-
 **Izvor:**\
-**[Passione autobus](https://www.facebook.com/marcodecicco82?mibextid=LQQJ4d)**, 
-**[www.derbuskurier.de](http://derbuskurier.de/)**, 
+**[Passione autobus](https://www.facebook.com/marcodecicco82?mibextid=LQQJ4d)**,
+**[www.derbuskurier.de](http://derbuskurier.de/)**,
 **[media.daimlertruck.com](https://media.daimlertruck.com)**

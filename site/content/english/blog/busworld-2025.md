@@ -2,21 +2,15 @@
 title: "Busworld 2025 sajam od 4. do 9. oktobra u Briselu."
 date: 2025-10-01T00:00:00+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/blog/busworld-background.webp"
-# meta description
 description : "Busworld je sajam na kojem će biti predstavljeni proizvođači autobusa, kao i izlagači iz prateće industrije. Ove godine sajam se održava u Briselu, u periodu od 4. do 9. oktobra 2025. godine."
-# post thumbnail
 image: "images/blog/busworld-2025/img1.webp"
 metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/img1.webp"
-# post author
 author: "Luka Kalinić"
-# taxonomy
 categories: ["Autobusi"]
 tags: ["sajam", "busworld", "scania", "Mercedes benz", "solaris"]
 withVideo: "false"
 pageUrl: "blog/busworld-2025"
-# type
 type: "post"
 ---
 

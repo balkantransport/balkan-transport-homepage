@@ -2,21 +2,15 @@
 title: "Uspostavlja se putnički saobraćaj"
 date: 2020-04-26T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Prema najavama nadležnih službi, delimično uspostavljanje međugradskog saobraćaja najavljeno je za ponedeljak 27. april, uspostavljanje gradskog prevoza očekuje se posle 4. maja 2020. godine."
-# post thumbnail
-image: "images/blog/uspostavlja-se-putnicki-saobracaj/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-putnicki-saobracaj/img1.jpg"
-# post author
+image: "images/blog/uspostavlja-se-putnicki-saobracaj/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-putnicki-saobracaj/img1.webp"
 author: "Dušan Beraja"
-# taxonomy
 categories: ["Putnički saobraćaj"]
 tags: ["covid19", "gradski prevoz", "javni prevoz", "turizam", "prevoz putnika"]
 withVideo: "false"
 pageUrl: "blog/uspostavlja-se-putnicki-saobracaj"
-# type
 type: "post"
 ---
 
@@ -26,7 +20,11 @@ Virus “Covid 19” (Korona virus) pojavio se u Srbiji početkom meseca marta, 
 
 Srbija je zemlja u kojoj su uvedene jedne od najrestriktivnijih mera u borbi sa ovim virusom, zabrana kretanja, policijski čas koji se u poslednjih nekoliko nedelja produžava sa prvobitnih 12 sati na mere zabrane kretanja i do 80h, ove mere odluka su Vlade kao i dela stručnjaka koji se bore sa pandemijom u Srbiji. Prevoz je ukinut širom Evrope, autobusi su parkirani, radnici raspušteni i svuda se čeka “zeleno svetlo” i normalizacija prevoza.
 
-![CAF](/images/blog/uspostavlja-se-putnicki-saobracaj/img2.jpg "CAF")
+{{< photoswipe >}}
+
+![CAF](/images/blog/uspostavlja-se-putnicki-saobracaj/img2.webp "CAF")
+
+{{< /photoswipe >}}
 
 Gotovo mesec dana je prošlo od ukidanja gradskog, međugradskog i međunarodnog prevoza putnika, u poslednjih desetak dana nekoliko puta nadležni organi u Republici Srbiji licitirali su sa datumom ponovnog uspostavljanja međugradskog prevoza na teritoriji Srbije. Prvobitno bio je to 6.maj, kasnije se provukla informacija da će to biti u periodu od 4. do 11. maja, da bi najnovija informacija glasila da se međugradski prevoz uspostavlja od 27. aprila.
 
@@ -44,7 +42,11 @@ Uspostavljanje međugradskog prevoza podrazumeva više desetina ljudi u istom za
 
 Ukoliko se držimo mera socijalne distance, na dva sedišta može sedeti samo po jedan putnik, dakle u prosečnom autobusu od 50 sedećih mesta, može boraviti 25 ljudi? Kako će se to odraziti na već uništen sistem prevoza i uništena poslovanja mnogih prevoznika? Kako će se to odraziti na zdravlje voznog osoblja? Sve su to pitanja koja se postavljaju pre nego što bar pokušamo da se vratimo u normalu.
 
-![Mere zaštite u inostranstvu – gradski prevoz](/images/blog/uspostavlja-se-putnicki-saobracaj/img3.jpg "Mere zaštite u inostranstvu – gradski prevoz")
+{{< photoswipe >}}
+
+![Mere zaštite u inostranstvu – gradski prevoz](/images/blog/uspostavlja-se-putnicki-saobracaj/img3.webp "Mere zaštite u inostranstvu – gradski prevoz")
+
+{{< /photoswipe >}}
 
 Ono što je sasvim izvesno, dezinfekcija će biti nešto što će biti prioritet, nakon svake grupe putnika, biće potrebno detaljno dezinfikovati autobuse, potrebno će biti da svi putnici nose zaštitne maske, rukavice, međutim, šta u koliko to ne bude tako? Da li će vozač moći da odbije da prevozi putnika bez zaštitne maske, da li će putnik biti bezbedan ukoliko se vozilo posle svake vožnje ne dezinfikuje? Samo su neka od pitanja koja se nameću.
 
@@ -58,7 +60,11 @@ I pored apela države da se radnici ne otpuštaju, prema pisanju naših pratilac
 
 Država se uključila i svim pravnim licima koji ispunjavaju kriterijume, isplaćivaće u naredna tri meseca minimalni dohodak za svakog zaposlenog, ali za one firme koje nisu otpuštali zaposlene, čime će ovom sektoru značajno olakšati ovaj težak period. Ipak, to je kap u moru, mart i april su meseci tokom kojih je velki broj organizovanih putovanja, što agencijskih aranžmana, što đačkih ekskurzija, kao i polazaka u sopstvenoj organizaciji, ovog proleća prevoznici su ostali bez svih tih prihoda. Pored toga, naravno, linijski prevoz nije funkcionisao više od mesec dana, a pravo je pitanje kada će se i samo stanje sa linijskim prevozom normalizovati.
 
-![Vozni parkovi mnogih prevoznika čekaju okončanje epidemiološke situacije](/images/blog/uspostavlja-se-putnicki-saobracaj/img4.jpg "Vozni parkovi mnogih prevoznika čekaju okončanje epidemiološke situacije")
+{{< photoswipe >}}
+
+![Vozni parkovi mnogih prevoznika čekaju okončanje epidemiološke situacije](/images/blog/uspostavlja-se-putnicki-saobracaj/img4.webp "Vozni parkovi mnogih prevoznika čekaju okončanje epidemiološke situacije")
+
+{{< /photoswipe >}}
 
 Pandemija virusa “Covid 19” javila se u Kini, krajem 2019. godine, sam virus se ubrzo pojavio i u Evropi, prvi koji si u privredi osetili posledice upravo su bili zaposleni u saobraćaju i turizmu. Situacija je postajala sve gora, broj zaraženih je vrtoglavo rastao, informacija o samom virusu i tačan način obolevanja i danas nije potpuno precizno otkriven. I danas, posle gotovo pola godine od pojavljivanja samog virusa dosta informacija o samom virusu su posledica nagađanja i neproverenih informacija. Vrtoglavi rast obolelih borba sa vremenom, pripremanje za borbu sa nepoznatim protivnikom, prouzrokovalo je i niz neracionalnih odluka širom Evrope.
 
@@ -66,7 +72,11 @@ Pored saobraćaja, među najugroženijim granama privrede je sektor turizma, sas
 
 Saobraćaj je do sada pretrpeo štetu visine preko 150 miliona eura u Srbiji, prema prvim procenama nadležnih ministarstava, a ta cifra će u narednom periodu biti i značajno veća. Turizam, nažalost, preti da premaši i te gubitke. Aranžmani od marta do juna nisu realizovani, pravo je pitanje da li će se steći mogućnosti da se realizuju i aranžmani u julu mesecu, agencije su veliki deo uplaćenog novca odavno prosledile stranim partnerima, te se sada nalaze u problemu i agencije i putnici.
 
-![Da li će turističke agencije uspeti da preguraju ovu krizu?](/images/blog/uspostavlja-se-putnicki-saobracaj/img5.jpg "Da li će turističke agencije uspeti da preguraju ovu krizu?")
+{{< photoswipe >}}
+
+![Da li će turističke agencije uspeti da preguraju ovu krizu?](/images/blog/uspostavlja-se-putnicki-saobracaj/img5.webp "Da li će turističke agencije uspeti da preguraju ovu krizu?")
+
+{{< /photoswipe >}}
 
 Svi putnici su očekivali povrat novca, no, to barem ne za sada neće biti moguće. Sve zemlje kojima je turizam jedna od primarnih grana traže altenativne metode, agencije ne mogu da povrate uloženi novac, te se sada nalaze između dve vatre, putnici zahtevaju povrat sredstava, a ino partneri ne žele novac da vrate. Kompromisno rešenje koje se pominje su vrednosni vaučeri koji će važiti do kraja 2021. godine, svaki putnik će dobiti vaučer u vrednosti uplaćenog novca i nije nužno da ga iskoristi za isti aranžman.
 
