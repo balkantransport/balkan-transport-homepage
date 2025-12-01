@@ -3,12 +3,12 @@ title: "GSP Beograd nabavlja 100 autobusa na gas marke BMC"
 date: 2021-11-07T00:00:00+06:00
 draft: false
 # page title background image
-bg_image: "images/backgrounds/blog/gsp-background.jpg"
+bg_image: "images/backgrounds/blog/gsp-background.webp"
 # meta description
 description : "Grad Beograd je krajem prethodnog meseca na ponovljenom procesu tendera za nabavku 100 vozila sa pogonom na gas odabrao ponudu zastupnika proizvođača BMC u Srbiji, kompanije M.P.N. iz Beograda i S-Leasing kuće."
 # post thumbnail
-image: "images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.jpg"
-metaImage: "https://www.balkantransport.net/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.jpg"
+image: "images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.webp"
+metaImage: "https://www.balkantransport.net/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.webp"
 # post author
 author: "Dušan Beraja"
 # taxonomy
@@ -36,7 +36,11 @@ U odnosu na već viđene primerke, opciona je ugradnja nadzornih kamera (za ulaz
 
 Ovaj model je već prisutan u Novom Sadu, M.P.N. je u junu 2020. isporučio 20 BMC Procity 18 CNG gradskom prevozniku JGSP Novi Sad, da bi početkom aprila 2021. godine isporučio još 5 zglobnih autobusa na gas, uz 24 solo autobusa tipa BMC Procity 12 CNG, time je broj autobusa ovog proizvođača porastao na 49 u voznom parku prevoznika JGSP Novi Sad.
 
-![BMC CNG NS](/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img2.jpg "NBMC CNG NS")
+{{< photoswipe >}}
+
+![BMC CNG NS](/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img2.webp "BMC CNG NS")
+
+{{< /photoswipe >}}
 
 Nabavkom 100 zglobnih autobusa u Beogradu, uz već postojećih 70, kao I nekoliko voznih jedinica kod privatnih prevoznika, porodica BMC u Srbiji postaće izuzetno velika.
 
