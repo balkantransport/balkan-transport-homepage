@@ -44,7 +44,7 @@ link = "plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/icons/apple-touch-icon-120x120.png"
 # Meta data
 description = "Sve o aktuelnostima iz sveta saobraćaja, transporta i turizma."
 author = "Balkan Transport"
