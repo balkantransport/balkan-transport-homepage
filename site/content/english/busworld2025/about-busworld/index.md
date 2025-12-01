@@ -5,6 +5,7 @@ date: "2025-10-19T00:00:00+06:00"
 draft: false
 bg_image: "images/busworld2025/busworld-background.webp"
 metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/img1.webp"
+image: "https://www.balkantransport.net/images/blog/busworld-2025/img1.webp"
 description : "Busworld je najveći i najstariji međunarodni sajam autobusa i prateće industrije na svetu. Ovaj događaj okuplja vodeće proizvođače, dobavljače delova, operatere javnog prevoza i stručnjake iz celog sveta, koji zajedno predstavljaju najnovije tehnologije, modele i inovacije u oblasti autobuske mobilnosti."
 partners:
   - image : "images/busworld2025/ayats.webp"
