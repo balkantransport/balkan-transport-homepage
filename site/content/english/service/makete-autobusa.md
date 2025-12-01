@@ -7,7 +7,7 @@ bg_image: "images/backgrounds/page-title.webp"
 # meta description
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
 # course thumbnail
-image: "images/courses/nasl-makete.webp"
+image: "images/service/nasl-makete.webp"
 # taxonomy
 category: ""
 # teacher
