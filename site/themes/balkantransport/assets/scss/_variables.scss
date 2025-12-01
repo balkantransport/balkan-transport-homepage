@@ -8,7 +8,6 @@ $text-color-dark: #1e1e4b;
 $body-color: #fff;
 $border-color: #ededf1;
 $black: #000;
-$white: #fff;
 $light: #f8f9fe;
 $gray: #f8f8f8;
 
@@ -16,3 +15,10 @@ $gray: #f8f8f8;
 $primary-font: 'Poppins', sans-serif;
 $secondary-font: 'Poppins', 'futura-bold';
 $icon-font: 'themify';
+
+//Button Variables
+$primary: #1a2fa3;     // glavna boja
+$primary-dark: #16227a;
+$primary-light: rgba(26, 47, 163, 0.12);
+$white: #ffffff;
+$ease-premium: cubic-bezier(0.19, 1, 0.22, 1); // savršeno uglađena animacija

@@ -1,18 +1,24 @@
-<div class="card height-100 p-0 border-primary rounded-0 hover-shadow space-around-card">
+<article class="card border-primary rounded-0 hover-shadow height-100 p-0">
+  
+  <!-- Featured image -->
   <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+
   <div class="card-body">
-    
+
+    <!-- Title -->
     <h4 class="card-title">
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h4>
 
+    <!-- Short summary -->
     <p class="card-text mb-4">
       {{ .Summary | truncate 100 }}
     </p>
 
-    <a href="{{ .Permalink }}" class="btn btn-primary btn-sm service-btn">
+    <!-- Learn more button -->
+    <a href="{{ .Permalink }}" class="btn btn-card-solid-premium">
       {{ i18n "learn_more" }}
     </a>
 
   </div>
-</div>
+</article>
