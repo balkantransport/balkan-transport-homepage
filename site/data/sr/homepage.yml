@@ -157,19 +157,19 @@ funfacts:
   funfact_item:
     # funfact item loop
     - name : "godina sa vama"
-      count : "9"
+      count : "13"
 
     # funfact item loop
     - name : "pratilaca na Instagramu"
-      count : "2000"
+      count : "5000"
 
     # funfact item loop
     - name : "pratilaca na Facebook-u"
-      count : "13000"
+      count : "20000"
 
     # funfact item loop
     - name : "maksimalan doseg objave"
-      count : "100000"
+      count : "250000"
 
 funfactsvdl:
   enable : true
