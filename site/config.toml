@@ -1,5 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
+defaultContentLanguage = "sr"
+defaultContentLanguageInSubdir = false
 title = "Balkan Transport"
 theme = "balkantransport"
 # post pagination
