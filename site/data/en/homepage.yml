@@ -2,6 +2,7 @@
 slider:
   enable : true
   bg_image : "images/banner/banner.webp"
+  image : "https://www.balkantransport.net/images/icons/logo_black.svg"
   slider_item:
     # slider item loop
     - title : "Travel on bus way \n #travelonbusway"
