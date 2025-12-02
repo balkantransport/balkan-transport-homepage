@@ -1,11 +1,8 @@
-[build.environment]
-  HUGO_VERSION = "0.121.0"
-  HUGO_EXTENDED = "true"
-  NODE_VERSION = "18"
-
 [build]
   command = "npm run build"
   publish = "site/public"
 
-[context.deploy-preview]
-  command = "npm run build"
+[build.environment]
+  HUGO_VERSION = "0.121.0"
+  HUGO_EXTENDED = "true"
+  NODE_VERSION = "18"

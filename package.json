@@ -4,8 +4,5 @@
   "scripts": {
     "dev": "hugo server -s site --disableFastRender",
     "build": "hugo -s site --gc --minify"
-  },
-  "devDependencies": {
-    "hugo-extended": "0.121.0"
   }
 }
