@@ -1,10 +1,11 @@
 [build.environment]
-  YARN_VERSION = "1.12.1"
-  NPM_VERSION = "6.4.1"
+  HUGO_VERSION = "0.121.0"
+  HUGO_EXTENDED = "true"
+  NODE_VERSION = "18"
 
 [build]
-  command = "yarn build"
-  publish = "dist"
+  command = "npm run build"
+  publish = "site/public"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "npm run build"
