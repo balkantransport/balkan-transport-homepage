@@ -22,10 +22,12 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon-180x180.png">
 
   <!-- ===================================================== -->
-  <!-- SEO & OG TAGS                                         -->
+  <!-- SEO / OPEN GRAPH / TWITTER CARD                       -->
   <!-- ===================================================== -->
   <title>{{ .Title }}</title>
+
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
+
   <link rel="canonical" href="{{ .Permalink }}">
 
   <meta property="og:site_name" content="Balkan Transport">
@@ -41,28 +43,25 @@
   <meta name="twitter:image" content="{{ .Params.image | absURL }}">
 
   <!-- ===================================================== -->
-  <!-- LAZY-LOAD GOOGLE ANALYTICS (GA4)                      -->
+  <!-- LAZY-LOAD GOOGLE ANALYTICS (GA4) — NON BLOCKING       -->
   <!-- ===================================================== -->
   <script>
-  window.addEventListener("DOMContentLoaded", () => {
-      const g = document.createElement("script");
-      g.src = "https://www.googletagmanager.com/gtag/js?id=G-WVWTWP21VK";
-      g.async = true;
-      document.head.appendChild(g);
+  window.addEventListener("DOMContentLoaded", function () {
+      const ga = document.createElement("script");
+      ga.src = "https://www.googletagmanager.com/gtag/js?id=G-WVWTWP21VK";
+      ga.async = true;
+      document.head.appendChild(ga);
 
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag(){ dataLayer.push(arguments); }
+
       gtag('js', new Date());
       gtag('config', 'G-WVWTWP21VK');
   });
   </script>
 
   <!-- ===================================================== -->
-  <!-- REMOVE PHOTOSWIPE FROM HEAD → BIĆE U FOOTERU          -->
-  <!-- ===================================================== -->
-
-  <!-- ===================================================== -->
-  <!-- Multilingual SEO                                      -->
+  <!-- MULTILINGUAL SEO                                      -->
   <!-- ===================================================== -->
   {{ if .IsTranslated }}
     {{ range .Page.AllTranslations }}
@@ -71,18 +70,32 @@
   {{ end }}
 
   <!-- ===================================================== -->
-  <!-- PLUGINS CSS                                           -->
+  <!-- CSS BUNDLE (PLUGINS)                                  -->
   <!-- ===================================================== -->
-  {{ range site.Params.plugins.css }}
-    <link rel="stylesheet" href="{{ .link | absURL }}">
-  {{ end }}
+  {{ $bootstrap := resources.Get "plugins/bootstrap/bootstrap.min.css" }}
+  {{ $slick     := resources.Get "plugins/slick/slick.css" }}
+  {{ $venobox   := resources.Get "plugins/venobox/venobox.css" }}
+  {{ $animate   := resources.Get "plugins/animate/animate.css" }}
+  {{ $icons     := resources.Get "plugins/themify-icons/themify-icons.css" }}
+
+  {{ $cssBundle := slice $bootstrap $slick $venobox $animate $icons
+      | resources.Concat "css/plugins-bundle.css"
+      | minify
+      | fingerprint
+  }}
+
+  <link rel="stylesheet" 
+        href="{{ $cssBundle.Permalink }}" 
+        integrity="{{ $cssBundle.Data.Integrity }}" 
+        media="all">
 
   <!-- ===================================================== -->
-  <!-- MAIN CSS (OPTIMIZED)                                  -->
+  <!-- MAIN CSS                                              -->
   <!-- ===================================================== -->
   {{ $styles := resources.Get "scss/main.scss" | toCSS | fingerprint "sha512" }}
-  <link rel="preload" href="{{ $styles.Permalink }}" as="style">
-  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+  <link rel="stylesheet" 
+        href="{{ $styles.Permalink }}" 
+        integrity="{{ $styles.Data.Integrity }}">
 
   {{ hugo.Generator }}
 </head>

@@ -1,65 +1,92 @@
 <!DOCTYPE html>
 <html lang="{{ with site.LanguageCode }}{{ . }}{{ else }}sr{{ end }}">
-{{- partial "head.html" . -}}
+{{ partial "head.html" . }}
 
 <body>
-    <!-- Google Tag Manager (noscript) -->
+
+    <!-- ===================================================== -->
+    <!-- GOOGLE TAG MANAGER (NOSCRIPT FALLBACK)                -->
+    <!-- ===================================================== -->
     <noscript>
         <iframe 
             src="https://www.googletagmanager.com/ns.html?id=GTM-WP5HNSV"
-            height="0" width="0" 
+            height="0" width="0"
             style="display:none;visibility:hidden">
         </iframe>
     </noscript>
 
-    <!-- Lazy-load Google Tag Manager -->
+    <!-- ===================================================== -->
+    <!-- LAZY-LOAD GOOGLE TAG MANAGER JS                      -->
+    <!-- ===================================================== -->
     <script>
     window.addEventListener("DOMContentLoaded", function () {
-        var gtm = document.createElement("script");
+        const gtm = document.createElement("script");
         gtm.src = "https://www.googletagmanager.com/gtm.js?id=GTM-WP5HNSV";
         gtm.defer = true;
         document.head.appendChild(gtm);
     });
     </script>
-    <!-- End Google Tag Manager -->
 
-    <!-- Lazy-load Facebook SDK -->
+    <!-- ===================================================== -->
+    <!-- LAZY-LOAD FACEBOOK SDK                               -->
+    <!-- ===================================================== -->
     <div id="fb-root"></div>
     <script>
     window.addEventListener("load", function () {
-        var js, fjs = document.getElementsByTagName("script")[0];
         if (document.getElementById("facebook-jssdk")) return;
 
-        js = document.createElement("script");
+        const js = document.createElement("script");
         js.id = "facebook-jssdk";
         js.async = true;
         js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+
+        const fjs = document.getElementsByTagName("script")[0];
         fjs.parentNode.insertBefore(js, fjs);
     });
     </script>
-    <!-- End Facebook SDK -->
 
+    <!-- ===================================================== -->
+    <!-- PRELOADER                                             -->
+    <!-- ===================================================== -->
     {{ partial "preloader.html" . }}
+
+    <!-- ===================================================== -->
+    <!-- HEADER                                                -->
+    <!-- ===================================================== -->
     {{ partial "header.html" . }}
 
+    <!-- ===================================================== -->
+    <!-- PAGE HEADER (EXCEPT HOME)                             -->
+    <!-- ===================================================== -->
     {{ if not .IsHome }}
         {{ partial "page-header.html" . }}
     {{ end }}
 
+    <!-- ===================================================== -->
+    <!-- MAIN PAGE CONTENT                                     -->
+    <!-- ===================================================== -->
     {{ block "main" . }}{{ end }}
 
+    <!-- ===================================================== -->
+    <!-- FOOTER (INCLUDES ALL JS BUNDLES AND PRELOADER LOGIC)  -->
+    <!-- ===================================================== -->
     {{ partial "footer.html" . }}
 
-    <!-- CONDITIONAL PHOTOSWIPE INCLUDE -->
+    <!-- ===================================================== -->
+    <!-- CONDITIONAL PHOTOSWIPE (POSTS / PROJECTS / BW2025)    -->
+    <!-- ===================================================== -->
     {{ if or 
         (eq .Section "post")
         (eq .Section "projects")
         (eq .Section "busworld2025")
+        (eq .Type "service")
     }}
         {{ partial "photoswipe.html" . }}
     {{ end }}
 
-    <!-- Main scripts block -->
+    <!-- ===================================================== -->
+    <!-- SCRIPT BLOCK FOR PAGE-SPECIFIC JS                     -->
+    <!-- ===================================================== -->
     {{ block "scripts" . }}{{ end }}
 
 </body>

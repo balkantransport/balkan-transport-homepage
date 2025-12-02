@@ -1,6 +1,5 @@
-<!-- footer -->
 <footer>
-  <!-- newsletter -->
+  <!-- Newsletter -->
   {{ if site.Params.subscription.enable }}
   {{ with site.Params.subscription }}
   <div class="newsletter">
@@ -10,8 +9,15 @@
           <h3 class="text-white mb-4">{{ i18n "subscribe_newsletter" }}</h3>
           <form action="{{ .mailchimp_form_action }}" method="post" target="_blank">
             <div class="input-wrapper">
-              <input type="email" class="form-control border-0" placeholder="{{ i18n "enter_email" }}" name="newsletter">
-              <button type="submit" class="btn btn-card-solid-premium">{{ i18n "join" }}</button>
+              <input 
+                type="email" 
+                class="form-control border-0" 
+                placeholder="{{ i18n "enter_email" }}" 
+                name="newsletter"
+              >
+              <button type="submit" class="btn btn-card-solid-premium">
+                {{ i18n "join" }}
+              </button>
 
               <!-- Honeypot -->
               <div style="position:absolute; left:-5000px;" aria-hidden="true">
@@ -26,10 +32,12 @@
   {{ end }}
   {{ end }}
 
-  <!-- footer content -->
+  <!-- Footer content -->
   <div class="footer bg-footer section border-bottom">
     <div class="container">
       <div class="row">
+
+        <!-- Logo + info -->
         <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
           <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}">
             <img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}">
@@ -41,24 +49,26 @@
           </ul>
         </div>
 
-        <!-- company -->
+        <!-- Company -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "company" }}</h4>
           <ul class="list-unstyled">
             {{ range site.Menus.main }}
               {{ if not .HasChildren }}
-              <li class="mb-3"><a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+                <li class="mb-3">
+                  <a class="text-color" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                </li>
               {{ end }}
             {{ end }}
           </ul>
         </div>
 
-        <!-- actual -->
+        <!-- Recent posts -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "actual" }}</h4>
           <ul class="list-unstyled">
             {{ range first 3 (where site.RegularPages "Type" "post") }}
-            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
+              <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>
@@ -68,17 +78,22 @@
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "our_projects" }}</h4>
           <ul class="list-unstyled">
             {{ range first 3 (where site.RegularPages "Type" "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu") }}
-            <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
+              <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
           </ul>
         </div>
 
-        <!-- partners -->
+        <!-- Partners -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "partners" }}</h4>
           <ul class="list-unstyled">
             <li class="mb-3">
-              <a class="text-color" href="https://www.balkantransport.net/partners/presto/" rel="noopener noreferrer">
+              <a 
+                class="text-color" 
+                href="https://www.balkantransport.net/partners/presto/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
                 Presto Beograd
               </a>
             </li>
@@ -89,7 +104,7 @@
     </div>
   </div>
 
-  <!-- copyright -->
+  <!-- Copyright -->
   <div class="copyright py-4 bg-footer">
     <div class="container">
       <div class="row">
@@ -99,11 +114,16 @@
         <div class="col-md-5 text-md-right text-center">
           <ul class="list-inline">
             {{ range site.Params.social }}
-            <li class="list-inline-item">
-              <a class="d-inline-block p-2" href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer">
-                <i class="{{ .icon }} text-primary-white"></i>
-              </a>
-            </li>
+              <li class="list-inline-item">
+                <a 
+                  class="d-inline-block p-2" 
+                  href="{{ .link | safeURL }}" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                >
+                  <i class="{{ .icon }} text-primary-white"></i>
+                </a>
+              </li>
             {{ end }}
           </ul>
         </div>
@@ -112,71 +132,65 @@
   </div>
 </footer>
 
-<!-- ========================================================== -->
-<!-- LAZY LOAD — GOOGLE MAPS API (UČITAVA SE SAMO KAD JE POTREBAN) -->
-<!-- ========================================================== -->
+<!-- GOOGLE MAPS — LAZY -->
 {{ with site.Params.map.gmap_api }}
 <script>
 window.addEventListener("load", () => {
-    const s = document.createElement("script");
-    s.src = "{{ . | safeURL }}";
-    s.defer = true;
-    document.body.appendChild(s);
+  const s = document.createElement("script");
+  s.src = "{{ . }}";
+  s.defer = true;
+  document.body.appendChild(s);
 });
 </script>
 {{ end }}
 
-<!-- ========================================================== -->
-<!-- JS PLUGINS (SA DEFER)                                     -->
-<!-- ========================================================== -->
-{{ range site.Params.plugins.js }}
-<script src="{{ .link | absURL }}" defer></script>
-{{ end }}
+<!-- PLUGIN BUNDLE -->
+{{ $jquery     := resources.Get "plugins/jquery/jquery.min.js" }}
+{{ $bootstrap  := resources.Get "plugins/bootstrap/bootstrap.min.js" }}
+{{ $slick      := resources.Get "plugins/slick/slick.min.js" }}
+{{ $venobox    := resources.Get "plugins/venobox/venobox.min.js" }}
+{{ $filterizr  := resources.Get "plugins/filterizr/jquery.filterizr.min.js" }}
 
-<!-- ========================================================== -->
-<!-- MAIN SCRIPT (DEFER)                                       -->
-<!-- ========================================================== -->
-{{ $script := resources.Get "js/script.js" | minify }}
-<script src="{{ $script.Permalink }}" defer></script>
-
-<!-- ========================================================== -->
-<!-- COOKIE SCRIPT — LAZY LOAD                                 -->
-<!-- ========================================================== -->
-{{ if site.Params.cookies.enable }}
-<script>
-window.addEventListener("load", () => {
-    const s = document.createElement("script");
-    s.src = "https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js";
-    s.onload = () => {
-        const cookieBox = document.getElementById("js-cookie-box");
-        const cookieButton = document.getElementById("js-cookie-button");
-
-        if (!Cookies.get("cookie-box")) {
-            cookieBox.classList.remove("cookie-box-hide");
-            cookieButton.onclick = () => {
-                Cookies.set("cookie-box", true, { expires: {{ site.Params.cookies.expire_days }} });
-                cookieBox.classList.add("cookie-box-hide");
-            };
-        }
-    };
-    document.body.appendChild(s);
-});
-</script>
-
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-    Ovaj sajt koristi kolačiće. Nastavkom korišćenja ove web stranice, pristajete na njihovu upotrebu.
-    <span id="js-cookie-button" class="btn btn-card-light-premium">Prihvatam</span>
-</div>
-{{ end }}
-
-<!-- ========================================================== -->
-<!-- CONDITIONAL PHOTOSWIPE (SADA OPTIMALNO)                   -->
-<!-- ========================================================== -->
-{{ if or 
-    (eq .Section "blog")
-    (eq .Section "projects")
-    (eq .Section "busworld2025")
-    (eq .Type "service")
+{{ $bundle := slice $jquery $bootstrap $slick $venobox $filterizr 
+    | resources.Concat "js/plugins-bundle.js" 
+    | minify 
 }}
-    {{ partial "photoswipe.html" . }}
+<script src="{{ $bundle.Permalink }}" defer></script>
+
+<!-- CUSTOM JS BUNDLES -->
+{{ $core := resources.Get "js/entry/core-entry.js" | js.Build | minify }}
+<script src="{{ $core.Permalink }}" defer></script>
+
+{{ if .IsHome }}
+  {{ $home := resources.Get "js/entry/home-entry.js" | js.Build | minify }}
+  <script src="{{ $home.Permalink }}" defer></script>
 {{ end }}
+
+{{ if or (eq .Section "blog") (eq .Section "projects") (eq .Section "busworld2025") (eq .Type "service") }}
+  {{ $gallery := resources.Get "js/entry/gallery-entry.js" | js.Build | minify }}
+  <script src="{{ $gallery.Permalink }}" defer></script>
+{{ end }}
+
+{{ if or (eq .Section "busworld2025") (eq .Section "projects") (eq .Section "about") }}
+  {{ $funfacts := resources.Get "js/entry/funfacts-entry.js" | js.Build | minify }}
+  <script src="{{ $funfacts.Permalink }}" defer></script>
+{{ end }}
+
+
+<!-- PHOTOSWIPE CONDITIONAL -->
+{{ if or (eq .Section "blog") (eq .Section "projects") (eq .Section "busworld2025") (eq .Type "service") }}
+  {{ partial "photoswipe.html" . }}
+{{ end }}
+
+<!-- PRELOADER (MUST BE LAST SCRIPT) -->
+<script>
+window.addEventListener("load", function () {
+  var preloader = document.querySelector(".preloader");
+  if (preloader) {
+    preloader.classList.add("hide");
+    setTimeout(function () {
+      preloader.remove();
+    }, 400);
+  }
+});
+</script>
