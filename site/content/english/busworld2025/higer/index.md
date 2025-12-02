@@ -2,8 +2,7 @@
 title: Higer
 draft: false
 bg_image: "images/busworld2025/higer/higer-background.webp"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/higer/img1.webp"
-image: "images/busworld2025/higer/img1.webp"
+image: "https://www.balkantransport.net/images/busworld2025/higer/img1.webp"
 description : "Higer je jedan od vodećih kineskih proizvođača autobusa i midibuseva, osnovan 1998. godine. Kompanija poseduje veliku proizvodnu bazu u okviru koje se nalaze i istraživački i razvojni centri, posvećeni razvoju novih generacija vozila i naprednih tehnologija."
 type: "busworld2025/post"
 ---

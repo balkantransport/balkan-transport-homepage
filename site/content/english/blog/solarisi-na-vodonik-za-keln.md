@@ -4,8 +4,7 @@ date: 2022-06-05T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/solaris-keln-background.webp"
 description : "Nemački javni prevoznik *RVK* naručio je 20 Solaris Urbino 12 autobusa sa pogonom na vodonik. Nakon završene isporuke, ulicama Kelna putnike će prevoziti 35 Solaris autobusa na vodonik. Ugovor takođe predviđa opciju naručivanja dodatnih 20 vozila istog tipa."
-image: "images/blog/solarisi-na-vodonik-za-keln/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/solarisi-na-vodonik-za-keln/img1.webp"
+image: "https://www.balkantransport.net/images/blog/solarisi-na-vodonik-za-keln/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]

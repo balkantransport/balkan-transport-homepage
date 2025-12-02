@@ -4,8 +4,7 @@ date: 2019-06-21T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Beogradska Autobuska Stanica (BAS) doživeće nove promene, posle premeštanja parkinga autobusa, od nedelje dobija i nove dolazne perone i novu perionicu."
-image: "images/blog/novi-dolazni-peroni-na-bas/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/novi-dolazni-peroni-na-bas/img1.webp"
+image: "https://www.balkantransport.net/images/blog/novi-dolazni-peroni-na-bas/img1.webp"
 author: "Dušan Beraja"
 categories: ["Putnički saobraćaj"]
 tags: ["BAS Beograd", "beograd"]

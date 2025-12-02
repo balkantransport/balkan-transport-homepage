@@ -2,25 +2,15 @@
 title: "Izrada relacijskih tabli ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌  "
 date: 2019-07-08T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Izrađujemo dizajn za relacijske table i destinacijske table za autobuske kompanije i turističke agencije."
-# course thumbnail
-image: "images/service/nasl-rel_table.webp"
-# taxonomy
+image: "https://www.balkantransport.net/images/service/nasl-rel_table.webp"
 category: ""
-# teacher
 teacher: ""
-# duration
 duration : ""
-# weekly
 weekly : ""
-# course fee
 fee : "Po dogovoru"
-# apply url
 apply_url : "contact"
-# type
 type: "service"
 ---
 

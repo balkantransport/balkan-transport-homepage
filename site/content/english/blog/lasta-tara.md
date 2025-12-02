@@ -4,8 +4,7 @@ date: 2022-01-20T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/lasta-background.webp"
 description : "Nakon Kopaonika, u saradnji sa kompanijom Lasta vodimo vas na Taru, najlepšu planinu u našoj zemlji po mišljenju mnogih."
-image: "images/blog/lasta-tara/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/lasta-tara/img1.webp"
+image: "https://www.balkantransport.net/images/blog/lasta-tara/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "tara"]

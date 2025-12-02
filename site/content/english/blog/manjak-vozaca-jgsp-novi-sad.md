@@ -4,8 +4,7 @@ date: 2021-10-21T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/jgsp-ns-background.webp"
 description : "GSP ima problema da obezbedi dovoljan broj vozača autobusa kako bi se ispoštovao red vožnje, jer je nikad veći broj njih na bolovanju zbog zaražavanja korona virusom ili izolacije, saznaje 021.rs."
-image: "images/blog/manjak-vozaca-jgsp-novi-sad/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/manjak-vozaca-jgsp-novi-sad/img1.webp"
+image: "https://www.balkantransport.net/images/blog/manjak-vozaca-jgsp-novi-sad/img1.webp"
 author: "Igor Nikolić"
 categories: ["Gradski prevoz"]
 tags: ["Gradski prevoz novi sad"]

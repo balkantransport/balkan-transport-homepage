@@ -4,8 +4,7 @@ date: 2020-10-12T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Tokom prethodnog meseca bili smo gosti firme L&M Kostić Tours iz Beograda, porodične firme sa velikim ambicijama i rezultatima iza sebe u prethodnom periodu."
-image: "images/blog/l&m-kostic-tours/post-2_1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/l&m-kostic-tours/post-2_1.webp"
+image: "https://www.balkantransport.net/images/blog/l&m-kostic-tours/post-2_1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "iznajmljivanje autobusa", "l&m kostić tours", "lavli travel", "neoplan", "setra", "turizam", "van hool"]

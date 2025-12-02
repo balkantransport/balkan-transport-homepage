@@ -2,8 +2,7 @@
 title: Beulas
 draft: false
 bg_image: "images/busworld2025/beulas/beulas-background.webp"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/beulas/img1.webp"
-image: "images/busworld2025/beulas/img1.webp"
+image: "https://www.balkantransport.net/images/busworld2025/beulas/img1.webp"
 description : "Beulas je španska fabrika autobusa sa sedištem u Gironi, osnovana davne 1934. godine."
 type: "busworld2025/post"
 ---

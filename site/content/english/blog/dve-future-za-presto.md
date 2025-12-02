@@ -4,8 +4,7 @@ date: 2022-07-03T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/partners/presto-future-background.webp"
 description : "Kompanija Presto d.o.o. sa sedištem u Beogradu, kupila je dva solo autobusa marke VDL, sa oznakom Futura FHD2 129-370. Radi se o autobusima proizvedenim 2017. godine, sa motorima koji ispunjavaju Euro 6 normu."
-image: "images/blog/dve-future-za-presto/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/dve-future-za-presto/img1.webp"
+image: "https://www.balkantransport.net/images/blog/dve-future-za-presto/img1.webp"
 author: "Igor Nikolić"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["vdl", "presto", "futura"]

@@ -1,11 +1,8 @@
 ---
 title: "O nama"
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title-o-nama.webp"
-# about image
-image: "images/icons/logo_black.svg"
-# meta description
+image: "https://www.balkantransport.net/images/icons/logo_black.svg"
 description : "Svojim aktivnostima konstantno utičemo na uslove odvijanja prevoza putnika, a pod sloganom #travelonbusway aktivno promovišemo i popularizujemo prevoz putnika autobusima."
 ---
 

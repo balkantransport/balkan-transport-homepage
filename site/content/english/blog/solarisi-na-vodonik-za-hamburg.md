@@ -4,8 +4,7 @@ date: 2023-03-26T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/solaris-keln-background.webp"
 description : "Gradski prevoznik *Hamburger Hochbahn* naručio je 5 autobusa na vodonik Solaris Urbino 12. Ova vozila sa nultom emisijom će izaći na ulice Hamburga već drugog kvartala 2024. godine"
-image: "images/blog/solarisi-na-vodonik-za-hamburg/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/solarisi-na-vodonik-za-hamburg/img1.webp"
+image: "https://www.balkantransport.net/images/blog/solarisi-na-vodonik-za-hamburg/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]

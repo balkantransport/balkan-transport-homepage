@@ -4,8 +4,7 @@ date: 2019-10-03T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Nakon linija ka Hrvatskoj i Sloveniji, Flixbus mreža od 03.10.2019. godine povezuje Srbiju i sa Mađarskom."
-image: "images/blog/flixbus-beograd-budimpesta/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/flixbus-beograd-budimpesta/img1.webp"
+image: "https://www.balkantransport.net/images/blog/flixbus-beograd-budimpesta/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Putnički saobraćaj", "Turizam"]
 tags: ["fudeks", "setra", "flixbus", "turizam", "javni prevoz", "prevoz putnika"]

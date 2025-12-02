@@ -5,7 +5,7 @@ draft: false
 # page title background image
 bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
 # about image
-image: "images/partners/presto/vozilo2/img1.webp"
+image: "https://www.balkantransport.net/images/partners/presto/vozilo2/img1.webp"
 seatConfig: "images/partners/presto/vozilo2/seatConfig.webp"
 vehicleStats: "images/partners/presto/vozilo2/stats.webp"
 plates: "(BG 2395-DH)"

@@ -4,8 +4,7 @@ date: 2020-03-08T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Aktivne izmene na linijama 6, 7, 9, 12…"
-image: "images/blog/delimicno-ukidanje-tramvajskog-saobracaja/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/delimicno-ukidanje-tramvajskog-saobracaja/img1.webp"
+image: "https://www.balkantransport.net/images/blog/delimicno-ukidanje-tramvajskog-saobracaja/img1.webp"
 author: "Igor Nikolić"
 categories: ["Gradski prevoz"]
 tags: ["javni prevoz", "beograd", "izmene na linijama"]

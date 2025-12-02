@@ -2,25 +2,15 @@
 title: "Makete autobusa ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌  ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌"
 date: 2019-07-07T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
-# course thumbnail
-image: "images/service/nasl-makete.webp"
-# taxonomy
+image: "https://www.balkantransport.net/images/service/nasl-makete.webp"
 category: ""
-# teacher
 teacher: ""
-# duration
 duration : ""
-# weekly
 weekly : ""
-# course fee
 fee : "Po dogovoru"
-# apply url
 apply_url : "contact"
-# type
 type: "service"
 ---
 

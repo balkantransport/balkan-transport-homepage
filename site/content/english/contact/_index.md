@@ -1,9 +1,8 @@
 ---
 title: "Kontakt"
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
+image: "https://www.balkantransport.net/images/icons/logo_black.svg"
 description : "Bilo da imate pitanje, predlog, sugestiju ili neku informaciju, stojimo vam na raspolaganju."
 ---
 

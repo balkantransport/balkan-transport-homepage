@@ -4,8 +4,7 @@ date: 2021-09-25T18:50:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/ecs2021-neoplan-background.webp"
 description : "Predstavnik Neoplana je sada već legendarni model *Cityliner*, radi se o troosovinskom autobusu, koji je na testu došao u *Platinum* izvedbi, u čast 50 godina od nastanka prvog modela Citylinera iz fabrike Neoplan."
-image: "images/blog/ecs2021-neoplan-cityliner/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/ecs2021-neoplan-cityliner/img1.webp"
+image: "https://www.balkantransport.net/images/blog/ecs2021-neoplan-cityliner/img1.webp"
 author: "Igor Nikolić"
 categories: ["Autobusi"]
 tags: ["neoplan", "coach euro test 2021"]

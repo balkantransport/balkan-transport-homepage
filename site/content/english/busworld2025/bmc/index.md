@@ -2,8 +2,7 @@
 title: BMC
 draft: false
 bg_image: "images/busworld2025/bmc/bmc-background.webp"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/bmc/img1.webp"
-image: "images/busworld2025/bmc/img1.webp"
+image: "https://www.balkantransport.net/images/busworld2025/bmc/img1.webp"
 description : "BMC Otomotiv je renomirani turski proizvođač komercijalnih vozila, poznat po širokom asortimanu putničkih i gradskih autobusa. U ponudi imaju modele različitih dužina – 8,5 m, 9 m, 10 m, 12 m, 14 m i 18 m, dostupne u solo i zglobnoj konfiguraciji."
 type: "busworld2025/post"
 ---

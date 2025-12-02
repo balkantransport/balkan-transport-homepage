@@ -4,8 +4,7 @@ date: 2023-03-05T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/solaris-sardinija-background.webp"
 description : "Solaris će isporučiti 100 hibridnih autobusa Urbino 12 u Kaljari, prestonicu Sardinije. Vozila će biti isporučena Sardiniju 2024. godine"
-image: "images/blog/solarisi-urbino12-hibrid-za-sardiniju/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/solarisi-urbino12-hibrid-za-sardiniju/img1.webp"
+image: "https://www.balkantransport.net/images/blog/solarisi-urbino12-hibrid-za-sardiniju/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]

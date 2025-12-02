@@ -5,7 +5,7 @@ date: "2019-11-30T00:00:00+06:00"
 draft: false
 bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img3.webp"
 description : "VDL Grupa je osnovana 1953. godine u Ajndhovenu u Holandiji. U sklopu VDL Grupe poslovale su podružnice koje su imale najveći vid autonomije i samostalnosti u poslovanju."
-image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1-test.webp"
+image: "https://www.balkantransport.net/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1-test.webp"
 partners:
   - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo1.webp"
     partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/presto"

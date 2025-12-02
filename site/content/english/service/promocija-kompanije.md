@@ -2,25 +2,15 @@
 title: "Promocija kompanije ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌  "
 date: 2019-07-11T15:27:17+06:00
 draft: false
-# page title background image
 bg_image: "images/backgrounds/service/promocija-kompanije-background.webp"
-# meta description
 description : "U skladu sa individualnim zahtevima, istorijat i priču vaše kompanije predstavljamo kroz foto i video materijal."
-# course thumbnail
-image: "images/service/nasl-promocia-kompanije.webp"
-# taxonomy
+image: "https://www.balkantransport.net/images/service/nasl-promocia-kompanije.webp"
 category: ""
-# teacher
 teacher: ""
-# duration
 duration : ""
-# weekly
 weekly : ""
-# course fee
 fee : "Po dogovoru"
-# apply url
 apply_url : "contact"
-# type
 type: "service"
 ---
 

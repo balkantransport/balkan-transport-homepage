@@ -2,8 +2,7 @@
 title: Castrosua
 draft: false
 bg_image: "images/busworld2025/castrosua/castrosua-background.webp"
-metaImage: "https://www.balkantransport.net/images/blog/busworld-2025/castrosua/img1.webp"
-image: "images/busworld2025/castrosua/img1.webp"
+image: "https://www.balkantransport.net/images/busworld2025/castrosua/img1.webp"
 description : "Castrosua Group, poznati španski karoserista i proizvođač autobusa, iskoristio je Busworld Europe 2025 da predstavi niz novih modela i tehnologija, sa snažnim fokusom na elektrifikaciju i održivost."
 type: "busworld2025/post"
 ---
