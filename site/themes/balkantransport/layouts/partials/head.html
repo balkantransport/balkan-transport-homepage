@@ -3,23 +3,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- ===================================================== -->
-  <!-- FAVICONS                                             -->
+  <!-- FAVICONS                                              -->
   <!-- ===================================================== -->
-
-  <!-- Main multi-resolution favicon -->
   <link rel="icon" type="image/x-icon" href="/images/icons/favicon.ico">
-
-  <!-- Optional PNG favicons (pomažu modernim browserima) -->
   <link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="48x48" href="/images/icons/favicon-48x48.png">
   <link rel="icon" type="image/png" sizes="64x64" href="/images/icons/favicon-64x64.png">
   <link rel="icon" type="image/png" sizes="128x128" href="/images/icons/favicon-128x128.png">
 
-  <!-- ===================================================== -->
-  <!-- APPLE TOUCH ICONS                                     -->
-  <!-- ===================================================== -->
-
+  <!-- Apple Touch Icons -->
   <link rel="apple-touch-icon" sizes="57x57" href="/images/icons/apple-touch-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/images/icons/apple-touch-icon-72x72.png">
   <link rel="apple-touch-icon" sizes="114x114" href="/images/icons/apple-touch-icon-114x114.png">
@@ -29,76 +22,67 @@
   <link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon-180x180.png">
 
   <!-- ===================================================== -->
-  <!-- SEO BASE                                              -->
+  <!-- SEO & OG TAGS                                         -->
   <!-- ===================================================== -->
   <title>{{ .Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
   <link rel="canonical" href="{{ .Permalink }}">
 
-  <!-- Open Graph / Social share -->
   <meta property="og:site_name" content="Balkan Transport">
-  <meta property="og:title" content="{{ .Params.title }}">
+  <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:type" content="{{ if eq .Type "blog" }}article{{ else }}website{{ end }}">
+  <meta property="og:type" content="website">
   <meta property="og:image" content="{{ .Params.image | absURL }}">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="630">
 
-  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ .Params.title }}">
+  <meta name="twitter:title" content="{{ .Title }}">
   <meta name="twitter:description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
   <meta name="twitter:image" content="{{ .Params.image | absURL }}">
-  <meta name="twitter:url" content="{{ .Permalink }}">
 
-  
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  {{ "<!-- Google Analytics -->" | safeHTML }}
-
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WVWTWP21VK"></script>
+  <!-- ===================================================== -->
+  <!-- LAZY-LOAD GOOGLE ANALYTICS (GA4)                      -->
+  <!-- ===================================================== -->
   <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  window.addEventListener("DOMContentLoaded", () => {
+      const g = document.createElement("script");
+      g.src = "https://www.googletagmanager.com/gtag/js?id=G-WVWTWP21VK";
+      g.async = true;
+      document.head.appendChild(g);
 
-    gtag('config', 'G-WVWTWP21VK', { cookie_flags: 'SameSite=None;Secure' });
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-WVWTWP21VK');
+  });
   </script>
 
-  <!-- Google Tag Manager -->
-  <script>
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-WP5HNSV');
-  </script>
-  <!-- End Google Tag Manager -->
+  <!-- ===================================================== -->
+  <!-- REMOVE PHOTOSWIPE FROM HEAD → BIĆE U FOOTERU          -->
+  <!-- ===================================================== -->
 
-  {{ if or 
-      (eq .Section "blog") 
-      (eq .Section "projects") 
-      (eq .Section "busworld2025")
-  }}
-      {{ partial "photoswipe.html" . }}
-  {{ end }}
-
-
-  {{ hugo.Generator }}
-    {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
-  
+  <!-- ===================================================== -->
+  <!-- Multilingual SEO                                      -->
+  <!-- ===================================================== -->
   {{ if .IsTranslated }}
     {{ range .Page.AllTranslations }}
       <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
     {{ end }}
   {{ end }}
 
-  {{ "<!-- plugins -->" | safeHTML }}
+  <!-- ===================================================== -->
+  <!-- PLUGINS CSS                                           -->
+  <!-- ===================================================== -->
   {{ range site.Params.plugins.css }}
     <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
 
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  <!-- ===================================================== -->
+  <!-- MAIN CSS (OPTIMIZED)                                  -->
+  <!-- ===================================================== -->
   {{ $styles := resources.Get "scss/main.scss" | toCSS | fingerprint "sha512" }}
-    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+  <link rel="preload" href="{{ $styles.Permalink }}" as="style">
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+
+  {{ hugo.Generator }}
 </head>

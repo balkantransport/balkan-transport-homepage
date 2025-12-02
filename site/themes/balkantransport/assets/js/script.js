@@ -1,107 +1,152 @@
 (function ($) {
   'use strict';
 
-  // Preloader js    
+  /* -----------------------------------------
+   *  PRELOADER
+   * ----------------------------------------- */
   $(window).on('load', function () {
     $('.preloader').fadeOut(100);
   });
 
-  // Sticky Menu
-  $(window).scroll(function () {
-    var height = $('.top-header').innerHeight();
-    if ($('header').offset().top > 10) {
-      $('.top-header').addClass('hide');
-      $('.navigation').addClass('nav-bg');
-      $('.navigation').css('margin-top','-'+height+'px');
+
+  /* -----------------------------------------
+   *  STICKY MENU (OPTIMIZED)
+   *  – Dodata throttling zaštita
+   * ----------------------------------------- */
+  let lastScrollTop = 0;
+  const topHeader = $('.top-header');
+  const navigation = $('.navigation');
+
+  $(window).on('scroll', function () {
+    const st = window.scrollY;
+
+    // Izbegava bespotrebno “treperenje”
+    if (Math.abs(st - lastScrollTop) < 5) return;
+
+    if (st > 10) {
+      topHeader.addClass('hide');
+      navigation.addClass('nav-bg');
+      navigation.css('margin-top', `-${topHeader.innerHeight()}px`);
     } else {
-      $('.top-header').removeClass('hide');
-      $('.navigation').removeClass('nav-bg');
-      $('.navigation').css('margin-top','-'+0+'px');
+      topHeader.removeClass('hide');
+      navigation.removeClass('nav-bg');
+      navigation.css('margin-top', '0px');
     }
+
+    lastScrollTop = st;
   });
 
-  
 
-  // Background-images
+  /* -----------------------------------------
+   *  BACKGROUND IMAGES
+   * ----------------------------------------- */
   $('[data-background]').each(function () {
-    $(this).css({
-      'background-image': 'url(' + $(this).data('background') + ')'
+    $(this).css('background-image', 'url(' + $(this).data('background') + ')');
+  });
+
+
+  /* -----------------------------------------
+   *  HERO SLIDER – pokreće se samo ako postoji
+   * ----------------------------------------- */
+  const heroSlider = $('.hero-slider');
+  if (heroSlider.length > 0 && $.fn.slick) {
+
+    heroSlider.slick({
+      autoplay: true,
+      autoplaySpeed: 7500,
+      pauseOnFocus: false,
+      pauseOnHover: false,
+      infinite: true,
+      arrows: true,
+      fade: true,
+      prevArrow: '<button type="button" class="prevArrow"><i class="ti-angle-left"></i></button>',
+      nextArrow: '<button type="button" class="nextArrow"><i class="ti-angle-right"></i></button>',
+      dots: true
     });
-  });
 
-  //Hero Slider
-  $('.hero-slider').slick({
-    autoplay: true,
-    autoplaySpeed: 7500,
-    pauseOnFocus: false,
-    pauseOnHover: false,
-    infinite: true,
-    arrows: true,
-    fade: true,
-    prevArrow: '<button type=\'button\' class=\'prevArrow\'><i class=\'ti-angle-left\'></i></button>',
-    nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
-    dots: true
-  });
-  $('.hero-slider').slickAnimation();
-
-  // venobox popup
-  $(document).ready(function () {
-    $('.venobox').venobox();
-  });
-
-  // filter
-  $(document).ready(function () {
-    var containerEl = document.querySelector('.filtr-container');
-    var filterizd;
-    if (containerEl) {
-      filterizd = $('.filtr-container').filterizr({});
+    // Slick animation plugin — pokreće se samo ako postoji
+    if ($.fn.slickAnimation) {
+      heroSlider.slickAnimation();
     }
-    //Active changer
+  }
+
+
+  /* -----------------------------------------
+   *  VENOBOX POPUP — samo ako ima .venobox
+   * ----------------------------------------- */
+  if ($('.venobox').length > 0 && $.fn.venobox) {
+    $('.venobox').venobox();
+  }
+
+
+  /* -----------------------------------------
+   *  FILTERIZR — pokreće se samo ako postoji
+   * ----------------------------------------- */
+  const filterContainer = $('.filtr-container');
+
+  if (filterContainer.length > 0 && $.fn.filterizr) {
+    filterContainer.filterizr({});
+
+    // Active class switching
     $('.filter-controls li').on('click', function () {
       $('.filter-controls li').removeClass('active');
       $(this).addClass('active');
     });
-  });
+  }
 
-  //  Count Up
-  function counter() {
-    var oTop;
-    if ($('.count').length !== 0) {
-      oTop = $('.count').offset().top - window.innerHeight;
-    }
-    if ($(window).scrollTop() > oTop) {
-      $('.count').each(function () {
-        var $this = $(this),
-          countTo = $this.attr('data-count');
-        $({
-          countNum: $this.text()
-        }).animate({
-          countNum: countTo
-        }, {
-          duration: 1000,
-          easing: 'swing',
-          step: function () {
-            $this.text(Math.floor(this.countNum));
-          },
-          complete: function () {
-            $this.text(this.countNum);
+
+  /* -----------------------------------------
+   *  COUNTER (OPTIMIZOVAN)
+   *  – radi samo jedan scroll listener
+   *  – proverava da li su counter elementi na ekranu
+   * ----------------------------------------- */
+  const counters = $('.count');
+  let counterTriggered = false; // sprečava višestruko pokretanje
+
+  function runCounter() {
+    if (counterTriggered || counters.length === 0) return;
+
+    const offsetTop = counters.first().offset().top;
+    if (window.scrollY + window.innerHeight >= offsetTop - 50) {
+      counterTriggered = true;
+
+      counters.each(function () {
+        const el = $(this);
+        const target = parseInt(el.data('count'), 10);
+
+        $({ val: parseInt(el.text(), 10) }).animate(
+          { val: target },
+          {
+            duration: 1000,
+            easing: 'swing',
+            step: function () {
+              el.text(Math.floor(this.val));
+            },
+            complete: function () {
+              el.text(target);
+            }
           }
-        });
+        );
       });
     }
   }
-  $(window).on('scroll', function () {
-    counter();
-  });
 
-  // Animation
-  $(document).ready(function () {
-    $('.has-animation').each(function (index) {
-      $(this).delay($(this).data('delay')).queue(function () {
-        $(this).addClass('animate-in');
-      });
+  $(window).on('scroll', runCounter);
+
+
+  /* -----------------------------------------
+   *  ON-SCROLL ANIMATIONS
+   * ----------------------------------------- */
+  const animatedEls = $('.has-animation');
+  if (animatedEls.length > 0) {
+    animatedEls.each(function () {
+      const element = $(this);
+      const delay = element.data('delay') || 0;
+
+      setTimeout(() => {
+        element.addClass('animate-in');
+      }, delay);
     });
-  });
-
+  }
 
 })(jQuery);
