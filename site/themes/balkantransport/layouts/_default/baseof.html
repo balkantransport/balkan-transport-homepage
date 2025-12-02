@@ -26,27 +26,6 @@
 	</script>
 	<!-- End Load Facebook SDK for JavaScript -->
 
-	<!-- PhotoSwipe CSS -->
-	<link rel="stylesheet" href="https://unpkg.com/photoswipe@5/dist/photoswipe.css">
-
-	<!-- PhotoSwipe Lightbox INIT -->
-	<script type="module">
-		import PhotoSwipeLightbox from 'https://unpkg.com/photoswipe@5/dist/photoswipe-lightbox.esm.js';
-		import PhotoSwipe from 'https://unpkg.com/photoswipe@5/dist/photoswipe.esm.js';
-
-		const lightbox = new PhotoSwipeLightbox({
-			gallery: '.pswp-wrapper',
-			children: '.pswp-item',
-			pswpModule: PhotoSwipe,
-			wheelToZoom: true,
-			zoom: true,
-			maxZoomPixelRatio: 4,
-			initialZoomLevel: 'fit',
-			secondaryZoomLevel: 2,
-		});
-		lightbox.init();
-	</script>
-
 	{{- partial "preloader.html" . -}}
 	{{- partial "header.html" . -}}
 	{{ if not .IsHome }}
