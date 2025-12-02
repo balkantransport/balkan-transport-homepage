@@ -44,7 +44,7 @@ slider:
       button:
         enable : true
         label : "Više"
-        link : "project/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"
+        link : "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"
 
     # slider item loop
     - title : "Promocija autobuskog saobraćaja i kompanija"
