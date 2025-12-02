@@ -75,6 +75,15 @@
   </script>
   <!-- End Google Tag Manager -->
 
+  {{ if or 
+      (eq .Section "blog") 
+      (eq .Section "projects") 
+      (eq .Section "busworld2025")
+  }}
+      {{ partial "photoswipe.html" . }}
+  {{ end }}
+
+
   {{ hugo.Generator }}
     {{ "<!-- multilingual SEO optimizations -->" | safeHTML }}
   
