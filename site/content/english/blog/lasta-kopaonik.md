@@ -4,8 +4,7 @@ date: 2021-12-30T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/lasta-background.webp"
 description : "Ekipa portala Balkan Transport imala je tu čast da među prvima u sezoni 2021/2022. putuje na Kopaonik u organizaciji kompanije “Lasta” iz Beograda."
-image: "images/blog/lasta-kopaonik/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/lasta-kopaonik/img1.webp"
+image: "https://www.balkantransport.net/images/blog/lasta-kopaonik/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Turizam"]
 tags: ["lasta", "kopaonik"]

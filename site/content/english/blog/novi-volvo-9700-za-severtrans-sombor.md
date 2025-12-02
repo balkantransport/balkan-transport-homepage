@@ -4,8 +4,7 @@ date: 2022-12-26T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/volvo-9700-severtrans-background.webp"
 description : "Direktno iz fabrike u Švedskoj u Sombor je stigao potpuno novi Volvo 9700 poslednje generacije."
-image: "images/blog/novi-volvo-9700-za-severtrans-sombor/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/novi-volvo-9700-za-severtrans-sombor/img1.webp"
+image: "https://www.balkantransport.net/images/blog/novi-volvo-9700-za-severtrans-sombor/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Severtrans", "Volvo"]

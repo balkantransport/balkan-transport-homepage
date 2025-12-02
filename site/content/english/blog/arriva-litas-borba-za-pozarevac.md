@@ -4,8 +4,7 @@ date: 2020-09-01T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Arriva Litas od 01.09.2020. nakon 75 godina službe gradu Požarevcu, odlukom skuštine grada Požarevca više neće saobraćati na gradskim i prigradskim linijama u Požarevcu, ipak sam tender podigao je mnogo prašine i ostavio mnogo neodgovorenih pitanja."
-image: "images/blog/arriva-litas-borba-za-pozarevac/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/arriva-litas-borba-za-pozarevac/img1.webp"
+image: "https://www.balkantransport.net/images/blog/arriva-litas-borba-za-pozarevac/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija"]

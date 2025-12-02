@@ -4,8 +4,7 @@ date: 2022-11-20T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/mercedes-intouro-arriva-slovenia-background.webp"
 description : "Arriva Slovenia postala je ponosni vlasnik 65 Mercedes-Benz Intouro autobusa nove generacije. Najveća investicija u međugradske autobuse u Sloveniji predstavlja kupovina ukupno 65 autobusa marke Mercedes Benz Intouro."
-image: "images/blog/novi-mb-intouro-za-arrivu-slovenia/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/novi-mb-intouro-za-arrivu-slovenia/img1.webp"
+image: "https://www.balkantransport.net/images/blog/novi-mb-intouro-za-arrivu-slovenia/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Arriva", "Slovenija", "Mercedes Benz"]

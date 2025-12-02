@@ -4,8 +4,7 @@ date: 2021-11-07T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/gsp-background.webp"
 description : "Grad Beograd je krajem prethodnog meseca na ponovljenom procesu tendera za nabavku 100 vozila sa pogonom na gas odabrao ponudu zastupnika proizvođača BMC u Srbiji, kompanije M.P.N. iz Beograda i S-Leasing kuće."
-image: "images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.webp"
+image: "https://www.balkantransport.net/images/blog/gsp-beograd-nabavlja-zglobne-autobuse-BMC-CNG/img1.webp"
 author: "Dušan Beraja"
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["GPS Beograd", "BMC", "Beograd"]

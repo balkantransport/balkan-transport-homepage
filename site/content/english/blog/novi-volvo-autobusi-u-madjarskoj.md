@@ -4,8 +4,7 @@ date: 2021-09-19T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Volánbusz, najveći autoprevoznik u Mađarskoj, izabrao je Volvo kao partnera za isporuku 50 novih autobusa Volvo 8900 LE nakon tendera na kojem je učestvovalo nekoliko potencijalnih partnera. Isporuka je zakazana za četvrti kvartal 2021. godine"
-image: "images/blog/novi-volvo-autobusi-u-madjarskoj/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/novi-volvo-autobusi-u-madjarskoj/img1.webp"
+image: "https://www.balkantransport.net/images/blog/novi-volvo-autobusi-u-madjarskoj/img1.webp"
 author: "Luka Kalinić"
 categories: ["Prevoznici"]
 tags: ["volvo"]

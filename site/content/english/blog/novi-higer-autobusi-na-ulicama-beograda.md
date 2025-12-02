@@ -4,8 +4,7 @@ date: 2019-10-23T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Od juče je u saobraćaju trideset autobusa kineskog proizvođača “Higer”. Prvih 30 od ukupno 174 autobusa, raspodeljena su u tri saobraćajna pogona preduzeća “GSP Beograd."
-image: "images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.webp"
+image: "https://www.balkantransport.net/images/blog/novi-higer-autobusi-na-ulicama-beograda/img1.webp"
 author: "Dušan Beraja"
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["javni prevoz", "beograd", "gradski prevoz", "gradski autobus", "gsp beograd", "higer"]

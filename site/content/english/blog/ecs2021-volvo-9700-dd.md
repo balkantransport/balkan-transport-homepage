@@ -4,8 +4,7 @@ date: 2021-09-26T09:30:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/ecs2021-volvo-background.webp"
 description : "Prošlo je oko 9 meseci od zvaničnog pojavljivanja prvog autobusa na sprat iz fabrike Volvo, početkom 2021. godine Volvo je javnosti predstavio Volvo 9700DD. Pre zvaničnog predstavljanja za tržište Evrope, nekolicina autobusa je svoje mesto našla na tržištu Švedske i Finske, kao neka vrsta test modela."
-image: "images/blog/ecs2021-volvo-9700-dd/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/ecs2021-volvo-9700-dd/img1.webp"
+image: "https://www.balkantransport.net/images/blog/ecs2021-volvo-9700-dd/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["volvo", "coach euro test 2021"]

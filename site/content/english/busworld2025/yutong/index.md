@@ -2,8 +2,7 @@
 title: Yutong
 draft: false
 bg_image: "images/busworld2025/yutong/yutong-background.webp"
-metaImage: "https://www.balkantransport.net/images/busworld-2025/yutong/img1.webp"
-image: "images/busworld2025/yutong/img1.webp"
+image: "https://www.balkantransport.net/images/busworld2025/yutong/img1.webp"
 description : "Yutong Bus Co., Ltd. je kineski proizvođač sa sedištem u Zhengzhou-u, i jedan od najvećih svetskih proizvođača autobusa, posebno u segmentu električnih vozila. Do danas je kompanija isporučila više od 110.000 autobusa u 60 zemalja sveta, dok je samo tokom 2024. godine prodato preko 46.000 vozila."
 type: "busworld2025/post"
 ---

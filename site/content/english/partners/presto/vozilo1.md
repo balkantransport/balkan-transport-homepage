@@ -3,7 +3,7 @@ title: "VDL Futura FHD2 120-370‌‌"
 description : "(BG 2384-UG)"
 draft: false
 bg_image: "images/events/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
-image: "images/partners/presto/vozilo1/img1.webp"
+image: "https://www.balkantransport.net/images/partners/presto/vozilo1/img1.webp"
 seatConfig: "images/partners/presto/vozilo1/seatConfig.webp"
 vehicleStats: "images/partners/presto/vozilo1/stats.webp"
 plates: "(BG 2384-UG)"

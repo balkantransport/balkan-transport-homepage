@@ -4,8 +4,7 @@ date: 2022-11-26T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/van-hool-new-gen-background.webp"
 description : "Prateći uspeh T8, T9 I TX generacije turističkih autobusa, Van Hool je sredinom oktobra javnosti predstavio novu “T” generaciju."
-image: "images/blog/nova-generacija-van-hoola/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/nova-generacija-van-hoola/img1.webp"
+image: "https://www.balkantransport.net/images/blog/nova-generacija-van-hoola/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["Van Hool"]

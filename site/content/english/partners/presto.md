@@ -3,7 +3,7 @@ title: "Presto Beograd"
 # page title background image
 bg_image: "images/backgrounds/partners/presto-future-background.webp"
 # about image
-image: "images/partners/presto/img1.webp"
+image: "https://www.balkantransport.net/images/partners/presto/img1.webp"
 
 kontakt: "images/partners/presto/kontakt.webp"
 # meta description

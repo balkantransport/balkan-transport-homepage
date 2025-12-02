@@ -4,8 +4,7 @@ date: 2023-06-11T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/blog/neoplan-tourliner-za-kk-partizan-background.webp"
 description : "Povratnička sezona u Evroligu donela je mnogo toga dobrog košarkaškom klubu Partizan iz Beograda, kako na igračkom, tako i na marketinškom planu."
-image: "images/blog/novi-neoplan-tourliner-za-kk-partizan/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/novi-neoplan-tourliner-za-kk-partizan/img1.webp"
+image: "https://www.balkantransport.net/images/blog/novi-neoplan-tourliner-za-kk-partizan/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi"]
 tags: ["Neoplan", "Sejari DOO"]

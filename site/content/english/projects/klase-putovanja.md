@@ -1,16 +1,10 @@
 ---
 title: "Klase putovanja"
-# Schedule page publish date
 publishDate: "2022-07-17T00:00:00+06:00"
-# post save as draft
 draft: false
-# page title background image
 bg_image: "images/backgrounds/page-title.webp"
-# meta description
 description : "U cilju unapređenja, popularizacije, omasovljenja i standardizacije autobuskog prevoza putnika, Balkan Transport definiše tri osnovne klase putovanja za turistička vozila."
-# Event image
-image: "images/projects/klase-putovanja/img1.webp"
-# type
+image: "https://www.balkantransport.net/images/projects/klase-putovanja/img1.webp"
 withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/HwAzcuTXCXA"
 type: "projects/klase-putovanja"

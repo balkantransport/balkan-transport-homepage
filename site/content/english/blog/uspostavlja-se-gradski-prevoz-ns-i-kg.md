@@ -4,8 +4,7 @@ date: 2020-05-03T15:27:17+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Od ponedeljka 04.05.2020. ponovo se uspostavljaju linije gradskog prevoza u Novom Sadu i Kragujevcu, uspostavljaju se i prvi polasci na međugradskim linijama u Srbiji."
-image: "images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.webp"
+image: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-ns-i-kg/img1.webp"
 author: "Dušan Beraja"
 categories: ["Gradski prevoz"]
 tags: ["covid19", "gradski prevoz", "gradski prevoz novi sad", "gsp kragujevac", "gsp subotica", "gsp užice", "međugradski prevoz", "javni prevoz"]

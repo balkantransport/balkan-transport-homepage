@@ -4,8 +4,7 @@ date: 2021-09-25T00:00:00+06:00
 draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Najmanji učesnik ovog takmičenja, pomalo iznenađujuće za mnoge koji prate ovo takmičenje, Setra se pojavila na ovom takmičenju sa najkraćim modelom iz ComfortClass-e serije 500."
-image: "images/blog/ecs2021-setra-s511hd/img1.webp"
-metaImage: "https://www.balkantransport.net/images/blog/ecs2021-setra-s511hd/img1.webp"
+image: "https://www.balkantransport.net/images/blog/ecs2021-setra-s511hd/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["setra", "coach euro test 2021"]

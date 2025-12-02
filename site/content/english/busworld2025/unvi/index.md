@@ -2,8 +2,7 @@
 title: Unvi
 draft: false
 bg_image: "images/busworld2025/unvi/unvi-background.webp"
-metaImage: "https://www.balkantransport.net/images/busworld-2025/unvi/img1.webp"
-image: "images/busworld2025/unvi/img1.webp"
+image: "https://www.balkantransport.net/images/busworld2025/unvi/img1.webp"
 description : "UNVI je renomirani španski proizvođač autobusa i karoserija, koji posluje kao deo grupe Pérez Rumbao. Kompanija kombinuje tradiciju i naprednu tehnologiju, sa godišnjim kapacitetom proizvodnje od oko 400 vozila. Zapošljava više od stotinu stručnjaka koji rade na razvoju električnih autobusa, turističkih modela, double-deckera, minibusova i specijalizovanih karoserija."
 type: "busworld2025/post"
 ---
