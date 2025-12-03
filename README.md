@@ -81,12 +81,17 @@ Build izlazi u direktorijum: site/public/
 
 Netlify koristi sledeći netlify.toml:
 
+```yaml
 [build]
   command = "npm run build"
   publish = "site/public"
+```
 
 npm run build pokreće:
+
+```sh
   hugo -s site --gc --minify
+```
 
 ## 🧩 JavaScript Bundling
 
