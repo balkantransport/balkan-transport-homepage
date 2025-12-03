@@ -240,5 +240,4 @@ Irizar je predstavio novu verziju **Irizar i8**, najluksuznijeg turističkog aut
 
 ---
 
-Irizar je na Busworld 2025 jasno pokazao pravac u kojem se kreće — **električni autobusi, napredna energetika, efikasnost, aerodinamika i dug životni vek**.  
-Sa novim modelima **Irizar ie**, **Irizar i3**, **Irizar i6s** i **Irizar i8**, španski proizvođač potvrđuje svoju poziciju jednog od lidera globalne autobuske industrije.
+Irizar je na Busworld 2025 jasno pokazao pravac u kojem se kreće — **električni autobusi, napredna energetika, efikasnost, aerodinamika i dug životni vek**. Sa novim modelima **Irizar ie**, **Irizar i3**, **Irizar i6s** i **Irizar i8**, španski proizvođač potvrđuje svoju poziciju jednog od lidera globalne autobuske industrije.
