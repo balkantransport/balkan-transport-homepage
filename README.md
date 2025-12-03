@@ -1,39 +1,102 @@
-# Balkan Transport homepage
+# Balkan Transport — Zvanična Web Prezentacija
 
-## Getting started
+Ovo je modernizovana verzija prethodnog Hugo projekta sa potpunim čišćenjem,
+optimizacijom performansi i uklanjanjem zastarelih tehnologija poput Webpack-a.
+Sajt koristi **Hugo Extended**, moderni **ESBuild**, modularni JavaScript i SCSS.
 
-### Local Development
+---
 
+## 🚀 Tehnologije
 
-- Install required packages
-  ```bash
-  yarn install
-  ```
-- Start dev servers
-  ```bash
-  yarn start
-  ```
-  - If `yarn` isn't installed, you can install it with
-    ```bash
-    npm i -g yarn
-    ```
-### Building
+- **Hugo Extended** (v0.121+)
+- **ESBuild** za JS bundling
+- **Hugo Pipes** za SCSS kompilaciju i minifikaciju
+- **Modularni JS entry fajlovi**
+- **Netlify** deploy
 
-- Run build command
-  ```
-  yarn build
-  ```
+---
 
-## CSS
+## 📁 Struktura projekta
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+site/
+├── assets/
+│ ├── js/ # JS entrypoints (core, home, gallery, funfacts…)
+│ ├── scss/ # Glavni SCSS i partials
+│ └── plugins/ # jQuery, Slick, Venobox, Filterizr…
+│
+├── content/
+│ ├── blog/
+│ ├── projects/
+│ └── about.md
+│
+├── static/
+│ ├── images/ # Slike sajta
+│ └── fonts/ # Themify i custom fontovi
+│
+├── layouts/ # Custom partials i page layout-i
+└── themes/
+└── balkantransport/
+├── layouts/
+├── static/
+└── theme.toml
 
-## SVG
+---
 
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
+## ▶️ Lokalni razvoj
 
-```
-<svg width="16px" height="16px" class="db">
-  <use xlink:href="#SVG-ID"></use>
-</svg>
-```
+Pokreni komandu:
+
+```sh
+cd site
+hugo server --disableFastRender
+
+Sajt će biti dostupan na: http://localhost:1313
+
+## 🛠️ Produkcioni build
+
+cd site
+hugo --gc --minify
+
+Build izlazi u direktorijum: site/public/
+
+## 🌐 Deploy na Netlify
+
+Netlify koristi sledeći netlify.toml:
+
+[build]
+  command = "npm run build"
+  publish = "site/public"
+
+npm run build pokreće:
+  hugo -s site --gc --minify
+
+## 🧩 JavaScript Bundling
+
+JS je organizovan modularno i bundluje se preko Hugo ESBuild-a.
+Entry fajlovi:
+* core-entry.js — globalno (header, navbar, preloader…)
+* home-entry.js — slider, animacije za home
+* gallery-entry.js — Photoswipe inicijalizacija
+* funfacts-entry.js — animirani brojači
+* Dodatne skripte po potrebi (helpers / utils)
+
+Hugo automatski:
+* bundluje
+* minimizuje
+* fingerprintuje
+
+## 🎨 SCSS Bundling
+
+Glavni fajl:
+  site/assets/scss/main.scss
+
+Hugo Pipes radi:
+* kompajliranje SCSS → CSS
+* minifikaciju
+* fingerprint
+
+Kao rezultat dobija se optimalan CSS bundle.
+
+## 📜 Licenca
+
+MIT License
