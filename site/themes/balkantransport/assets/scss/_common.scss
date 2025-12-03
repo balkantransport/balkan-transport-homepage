@@ -379,91 +379,120 @@ textarea.form-control{
   }
 }
 
-
 .content {
+
+  /* === Global === */
+  line-height: 1.65;
+  font-size: 16px;
+
+  p {
+    margin-bottom: 0.8rem;
+  }
+
   img {
-    margin-bottom: 0;
+    border-radius: 6px;
+    display: block;
   }
 
   a {
     text-decoration: underline;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  /* === Headings === */
+  h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px;
+    font-weight: 700;
+    line-height: 1.3;
   }
 
+  h2 {
+    margin-bottom: 0.8rem;
+  }
+
+  h3 {
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  /* === Ordered lists === */
   ol {
     padding-left: 20px;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
   }
 
+  /* === Unordered lists === */
   ul {
     padding-left: 0;
 
     li {
       position: relative;
-      padding-left: 20px;
-      margin-bottom: 10px;
-      list-style-type: none;
+      padding-left: 22px;
+      margin-bottom: 0.6rem;
+      list-style: none;
 
       &::before {
-        position: absolute;
         content: "\e65d";
-        font-family: $icon-font;
-        font-size: 14px;
+        position: absolute;
         left: 0;
-        top: 1px;
+        top: 2px;
+        font-family: $icon-font;
+        font-size: 16px;
         color: $primary-color;
-        transition: .3s ease;
       }
     }
   }
 
+  /* === Child UL in UL — veći razmak === */
+  ul ul,
+  ol ul,
+  ul ol,
+  ol ol {
+    margin-top: 0.4rem;    // povećan razmak
+    margin-bottom: 0.4rem; // da se vizuelno izdvoji
+  }
+
+  /* === TABLE === */
   table {
-    text-align: left;
     width: 100%;
-    max-width: 100%;
-    margin-bottom: 1rem;
+    margin: 1.5rem 0;
     border: 1px solid #dee2e6;
 
-    th,
-    td {
+    th, td {
       padding: .75rem;
-      vertical-align: top;
-      border: 1px solid #dee2e6
+      border: 1px solid #dee2e6;
     }
 
     thead {
-      background: darken($color: $light, $amount: 2);
+      background: darken($light, 2);
     }
 
     tbody {
       background: $light;
-
-      td {
-        text-align: left !important;
-      }
     }
   }
 
-
+  /* === BLOCKQUOTE === */
   blockquote {
+    border-left: 4px solid $primary-color;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+
     p {
-      margin-bottom: 0;
-      color: $text-color;
+      margin: 0;
       font-style: italic !important;
+      color: $text-color;
     }
   }
 
-
+  /* === Code blocks === */
   pre {
     padding: 10px 20px;
     background: $light;
+    border-radius: 8px;
+    margin: 1.2rem 0;
   }
 }
 
@@ -476,12 +505,6 @@ textarea.form-control{
 .height-100 {
   height: 100%;
 }
-
-// .space-around-card {
-//   display: flex;
-//   flex-direction: column;
-//   justify-content: space-around;
-// }
 
 @media (min-width: 480px) {
   .space-around-card > img {

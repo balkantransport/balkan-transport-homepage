@@ -1,14 +1,16 @@
-.pswp-wrapper { 
-  margin: 0; 
-  padding: 0; 
+/* Wrapper oko cele galerije */
+.pswp-wrapper {
+  margin: 1.5rem 0;  // smanjeno po tvojoj slici
+  padding: 0;
 }
 
-/* HERO */
+/* === HERO === */
 .pswp-hero {
   display: block;
   width: 100%;
   overflow: hidden;
   border-radius: 22px;
+  margin-bottom: 0.8rem; // manji gap
 }
 
 .pswp-hero-img {
@@ -18,23 +20,22 @@
   border-radius: 22px;
 }
 
-/* Thumbs container */
+/* === THUMBNAIL TRAKA === */
 .pswp-thumbs {
   display: flex;
-  gap: 12px;
+  gap: 10px;
   overflow-x: auto;
   white-space: nowrap;
-  padding: 10px 0;
+  padding: 8px 0;
+  margin-bottom: 1rem;  // manji gap ka tekstu
   scrollbar-width: thin;
-  margin-bottom: 20px;
 }
 
 .pswp-thumbs.no-scroll {
   justify-content: center;
-  margin-bottom: 20px;
 }
 
-/* Single thumb */
+/* === Pojedinačni thumbnail === */
 .pswp-thumb-item {
   width: 120px;
   height: 90px;
@@ -42,13 +43,15 @@
   overflow: hidden;
   flex: 0 0 auto;
   cursor: pointer;
-  transition: border-color .25s ease, transform .25s ease;
+  background: #fafafa;
+  transition: border-color .25s, transform .25s;
 }
 
 .pswp-thumb-img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;   // VRACENO da se vidi puna slika, kao pre
+  object-position: center;
   transition: transform .25s;
 }
 
@@ -56,9 +59,9 @@
   transform: scale(1.05);
 }
 
-/* Active (selected) thumbnail */
+/* === Active thumbnail === */
 .pswp-thumb-item.active {
-  border: 3px solid #007bff; /* promeni boju ako želiš */
+  border: 3px solid $primary-color;
   padding: 2px;
   border-radius: 14px;
 }
