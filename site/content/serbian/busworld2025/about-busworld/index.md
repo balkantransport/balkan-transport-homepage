@@ -19,6 +19,9 @@ partners:
   - image : "images/busworld2025/castrosua.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/castrosua"
 
+  - image : "images/busworld2025/irizar.webp"
+    partnerUrl : "https://www.balkantransport.net/busworld2025/irizar"
+
   - image : "images/busworld2025/golden-dragon.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/golden-dragon"
 

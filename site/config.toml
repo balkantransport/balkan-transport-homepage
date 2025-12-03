@@ -153,6 +153,11 @@ hasChildren = true
 
   [[Languages.sr.menu.main]]
   parent = "Busworld 2025"
+  name = "Irizar"
+  url = "busworld2025/irizar/"
+
+  [[Languages.sr.menu.main]]
+  parent = "Busworld 2025"
   name = "Beulas"
   url = "busworld2025/beulas/"
 
