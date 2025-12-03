@@ -1,5 +1,9 @@
 # Balkan Transport — Zvanična Web Prezentacija
 
+[![Build](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/build.yml/badge.svg)](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/build.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17f73295-83da-4f87-84a1-9c18302b5d5e/deploy-status)](https://app.netlify.com/projects/balkantransport/deploys)
+[![Semantic PR](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/semantic-pr.yml/badge.svg)](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/semantic-pr.yml)
+
 Ovo je modernizovana verzija prethodnog Hugo projekta sa potpunim čišćenjem,
 optimizacijom performansi i uklanjanjem zastarelih tehnologija poput Webpack-a.
 Sajt koristi **Hugo Extended**, moderni **ESBuild**, modularni JavaScript i SCSS.
@@ -49,13 +53,16 @@ Pokreni komandu:
 ```sh
 cd site
 hugo server --disableFastRender
+```
 
 Sajt će biti dostupan na: http://localhost:1313
 
 ## 🛠️ Produkcioni build
 
+```sh
 cd site
 hugo --gc --minify
+```
 
 Build izlazi u direktorijum: site/public/
 
@@ -74,16 +81,18 @@ npm run build pokreće:
 
 JS je organizovan modularno i bundluje se preko Hugo ESBuild-a.
 Entry fajlovi:
-* core-entry.js — globalno (header, navbar, preloader…)
-* home-entry.js — slider, animacije za home
-* gallery-entry.js — Photoswipe inicijalizacija
-* funfacts-entry.js — animirani brojači
-* Dodatne skripte po potrebi (helpers / utils)
+
+- core-entry.js — globalno (header, navbar, preloader…)
+- home-entry.js — slider, animacije za home
+- gallery-entry.js — Photoswipe inicijalizacija
+- funfacts-entry.js — animirani brojači
+- Dodatne skripte po potrebi (helpers / utils)
 
 Hugo automatski:
-* bundluje
-* minimizuje
-* fingerprintuje
+
+- bundluje
+- minimizuje
+- fingerprintuje
 
 ## 🎨 SCSS Bundling
 
@@ -91,9 +100,10 @@ Glavni fajl:
   site/assets/scss/main.scss
 
 Hugo Pipes radi:
-* kompajliranje SCSS → CSS
-* minifikaciju
-* fingerprint
+
+- kompajliranje SCSS → CSS
+- minifikaciju
+- fingerprint
 
 Kao rezultat dobija se optimalan CSS bundle.
 
