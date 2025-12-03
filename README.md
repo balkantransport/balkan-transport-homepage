@@ -2,7 +2,6 @@
 
 [![Build](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/build.yml/badge.svg)](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/build.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/17f73295-83da-4f87-84a1-9c18302b5d5e/deploy-status)](https://app.netlify.com/projects/balkantransport/deploys)
-[![Semantic PR](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/semantic-pr.yml/badge.svg)](https://github.com/lukakalinic/balkan-transport-homepage/actions/workflows/semantic-pr.yml)
 
 Ovo je modernizovana verzija prethodnog Hugo projekta sa potpunim čišćenjem,
 optimizacijom performansi i uklanjanjem zastarelih tehnologija poput Webpack-a.
@@ -22,6 +21,7 @@ Sajt koristi **Hugo Extended**, moderni **ESBuild**, modularni JavaScript i SCSS
 
 ## 📁 Struktura projekta
 
+```txt
 site/
 ├── assets/
 │ ├── js/ # JS entrypoints (core, home, gallery, funfacts…)
@@ -43,8 +43,19 @@ site/
 ├── layouts/
 ├── static/
 └── theme.toml
+```
 
 ---
+
+## 🔎 Pull Request Workflow
+
+Svaki PR mora da prođe:
+
+- ✔ Hugo Build (CI test)
+- ✔ Netlify Deploy Preview
+- ✔ Code review
+
+Uspešan PR pokazuje 2 zelena badge-a u PR-u.
 
 ## ▶️ Lokalni razvoj
 
