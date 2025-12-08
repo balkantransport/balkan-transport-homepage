@@ -27,7 +27,6 @@
   <title>{{ .Title }}</title>
 
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Balkan Transport – Travel on bus way{{ end }}">
-
   <link rel="canonical" href="{{ .Permalink }}">
 
   <meta property="og:site_name" content="Balkan Transport">
@@ -70,7 +69,7 @@
   {{ end }}
 
   <!-- ===================================================== -->
-  <!-- CSS BUNDLE (PLUGINS)                                  -->
+  <!-- CSS BUNDLE (PLUGINS) — ASYNC PRELOAD                  -->
   <!-- ===================================================== -->
   {{ $bootstrap := resources.Get "plugins/bootstrap/bootstrap.min.css" }}
   {{ $slick     := resources.Get "plugins/slick/slick.css" }}
@@ -84,17 +83,26 @@
       | fingerprint
   }}
 
-  <link rel="stylesheet" 
-        href="{{ $cssBundle.Permalink }}" 
-        integrity="{{ $cssBundle.Data.Integrity }}" 
-        media="all">
+  <!-- PRELOAD async load -->
+  <link rel="preload"
+        href="{{ $cssBundle.Permalink }}"
+        as="style"
+        integrity="{{ $cssBundle.Data.Integrity }}"
+        onload="this.rel='stylesheet'">
+
+  <noscript>
+    <link rel="stylesheet"
+          href="{{ $cssBundle.Permalink }}"
+          integrity="{{ $cssBundle.Data.Integrity }}">
+  </noscript>
 
   <!-- ===================================================== -->
-  <!-- MAIN CSS                                              -->
+  <!-- MAIN CSS — BLOCKING FOR PERFECT LAYOUT STABILITY      -->
   <!-- ===================================================== -->
   {{ $styles := resources.Get "scss/main.scss" | toCSS | fingerprint "sha512" }}
-  <link rel="stylesheet" 
-        href="{{ $styles.Permalink }}" 
+
+  <link rel="stylesheet"
+        href="{{ $styles.Permalink }}"
         integrity="{{ $styles.Data.Integrity }}">
 
   {{ hugo.Generator }}
