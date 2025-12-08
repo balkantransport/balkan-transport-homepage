@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://www.balkantransport.net/"
 defaultContentLanguage = "sr"
 defaultContentLanguageInSubdir = false
 title = "Balkan Transport"
