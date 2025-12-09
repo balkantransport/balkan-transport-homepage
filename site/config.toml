@@ -12,8 +12,6 @@ summaryLength = "10"
 [services]
   [services.disqus]
     shortname = "balkantransport" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
 
 ############################# Plugins ##############################
 
@@ -21,6 +19,9 @@ disableLanguages = [] # desable language from here
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 
+############################ Outputs ##################################
+[outputs]
+home = ["HTML", "RSS", "JSON"]
 
 #################### default parameters ################################
 [params]
