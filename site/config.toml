@@ -21,7 +21,7 @@ link = "plugins/google-map/gmap.js"
 
 ############################ Outputs ##################################
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS"]
 
 #################### default parameters ################################
 [params]
