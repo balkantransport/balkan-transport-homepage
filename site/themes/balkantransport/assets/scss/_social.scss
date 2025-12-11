@@ -1,0 +1,34 @@
+/* ===============================
+   PREMIUM SOCIAL ICON SET
+   =============================== */
+
+/* Base sizes */
+.top-header .list-inline-item i {
+    font-size: 20px;
+    opacity: 0.8;
+    transition: transform .25s ease, opacity .25s ease;
+}
+.copyright .list-inline-item i {
+    font-size: 24px;
+    opacity: 0.8;
+    transition: transform .25s ease, opacity .25s ease, text-shadow .25s ease;
+}
+
+/* Premium hover (Apple minimal) */
+.top-header .list-inline-item i:hover,
+.copyright .list-inline-item i:hover {
+    transform: scale(1.18);
+    opacity: 1;
+}
+
+/* Luxury glow only in footer */
+.copyright .list-inline-item i:hover {
+    text-shadow: 0 0 6px rgba(255,255,255,0.6),
+                 0 0 12px rgba(255,255,255,0.4);
+}
+
+/* Better spacing */
+.top-header .list-inline-item a,
+.copyright .list-inline-item a {
+    padding: 6px 10px !important;
+}
