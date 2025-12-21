@@ -171,7 +171,7 @@ window.addEventListener("load", () => {
   <script src="{{ $gallery.Permalink }}" defer></script>
 {{ end }}
 
-{{ if or (eq .Section "busworld2025") (eq .Section "projects") (eq .Section "about") }}
+{{ if or (eq .Section "busworld2025") (eq .Section "projects") (eq .Section "about") (eq .Section "partners") }}
   {{ $funfacts := resources.Get "js/entry/funfacts-entry.js" | js.Build | minify }}
   <script src="{{ $funfacts.Permalink }}" defer></script>
 {{ end }}
