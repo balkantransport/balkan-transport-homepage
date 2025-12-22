@@ -1,481 +1,435 @@
-/* =========================
-   NAVIGATION / HEADER 
-   ========================= */
-
-/* ---------- TOP HEADER ---------- */
+/* ========================= NAVIGATION / HEADER ========================= */
+/* ---------- TOP HEADER (Beli deo) ---------- */
+/* FIX: max-height collapse (bez paddinga na .top-header) */
 .top-header {
-  font-size: 12px;
-  transition: transform .2s ease;
-  transform-origin: top;
-  font-weight: 600;
-
-  &.hide {
-    transform: scaleY(0);
-    transform-origin: top;
-  }
+	font-size: 12px;
+	font-weight: 600;
+	border-bottom: 0 !important;
+	margin: 0 !important;
+	overflow: hidden;
+	max-height: 220px;
+	/* dovoljno da uhvati realnu visinu */
+	transition: max-height .22s ease;
 }
 
-/* ---------- NAV WRAPPER ---------- */
+/* kada je sakriven */
+.top-header.hide {
+	max-height: 0 !important;
+}
+
+/* ---------- NAV WRAPPER (tamno plavi deo uvek kao desktop) ---------- */
 .navigation {
-  /* transparent + plavo (fix stop order) */
-  background: linear-gradient(
-    90deg,
-    transparent 0%,
-    transparent 40%,
-    $primary-color 40%,
-    $primary-color 100%
-  );
-
-  transition: .2s ease;
-  position: relative;
-  overflow: visible; /* dropdown must not be clipped */
+	background: $secondary-color  !important;
+	transition: .2s ease;
+	position: relative;
+	overflow: visible;
+	margin-top: 0 !important;
 }
 
-/* Desktop header background (as theme) */
-@media (min-width: 992px) {
-  .navigation {
-    background: $secondary-color;
-  }
+/* FIX 1px "virenje" (prefarba 2px iznad navigacije) */
+.navigation::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: -2px;
+	width: 100%;
+	height: 2px;
+	background: $secondary-color;
+	pointer-events: none;
 }
 
 /* ---------- LOGO (no white bg) ---------- */
 .navbar-brand {
-  position: relative;
-  z-index: 20;
-  padding: 8px 0;
+	position: relative;
+	z-index: 20;
+	padding: 8px 0;
 }
 
 .navbar-brand img {
-  display: block;
-  max-height: 64px;
-  width: auto;
-  opacity: 1 !important;
-  filter: drop-shadow(0 2px 8px rgba(0,0,0,.55));
+	display: block;
+	max-height: 64px;
+	width: auto;
+	opacity: 1 !important;
+	filter: drop-shadow(0 2px 8px rgba(0, 0, 0, .55));
 }
 
 /* ---------- NAV LIST BG ---------- */
 .navbar-collapse {
-  @media (min-width: 992px) {
-    background: $secondary-color;
-  }
+	@media (min-width: 1200px) {
+		background: $secondary-color;
+	}
 }
 
 .navbar-nav {
-  padding-left: 0;
-  background: $primary-color;
+	padding-left: 0;
 
-  @media (min-width: 992px) {
-    padding-left: 0;
-    background: $secondary-color;
-    flex-wrap: wrap;          /* prevents overflow on zoom */
-    justify-content: flex-end;
-  }
+	@media (min-width: 1200px) {
+		padding-left: 0;
+		background: $secondary-color;
+		flex-wrap: wrap;
+		/* prevents overflow on zoom */
+		justify-content: flex-end;
+	}
 }
 
 .nav-bg {
-  background-color: $secondary-color;
+	background-color: $secondary-color;
 }
 
 /* ---------- NAV ITEMS ---------- */
 .nav-item {
-  margin: 0 8px;
-  position: relative;
+	margin: 0 8px;
+	position: relative;
 
-  .nav-link {
-    text-transform: uppercase;
-    font-weight: 600;
-    white-space: nowrap;
-  }
+	.nav-link {
+		text-transform: uppercase;
+		font-weight: 600;
+		white-space: nowrap;
+	}
 
-  &::before {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 6px;
-    width: 100%;
-    content: "";
-    background: $white;
-    transform: scaleY(0);
-    transform-origin: top;
-    transition: transform .3s ease;
-  }
+	&::before {
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		height: 6px;
+		width: 100%;
+		content: "";
+		background: $white;
+		transform: scaleY(0);
+		transform-origin: top;
+		transition: transform .3s ease;
+	}
 
-  &:hover,
-  &.active {
-    &::before {
-      transform: scaleY(1);
-      transform-origin: bottom;
-    }
-  }
+	&:hover,
+	&.active {
+		&::before {
+			transform: scaleY(1);
+			transform-origin: bottom;
+		}
+	}
 }
 
 /* ---------- COLORS ---------- */
 .navbar-dark .navbar-nav .nav-link {
-  color: $white;
+	color: $white;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link:focus {
-  color: $white;
+	color: $white;
 }
 
-.navbar-dark .navbar-nav .active > .nav-link,
+.navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
-.navbar-dark .navbar-nav .show > .nav-link {
-  color: $white;
+.navbar-dark .navbar-nav .show>.nav-link {
+	color: $white;
 }
 
-/* ---------- LINK PADDING ---------- */
-.navbar-expand-lg .navbar-nav .nav-link {
-  padding: 16px 14px;
+/* ---------- LINK PADDING (xl) ---------- */
+.navbar-expand-xl .navbar-nav .nav-link {
+	padding: 16px 14px;
 
-  @media (min-width: 992px) {
-    padding: 16px 14px;
-  }
+	@media (min-width: 1200px) {
+		padding: 16px 14px;
+	}
 }
 
-/* ---------- STICKY ---------- */
+/* ---------- STICKY ---------- sticky klasa na tamnom delu mora ostati tamna */
 .sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 10;
-  background: $white;
-  box-shadow: 0 2px 5px #0000000d;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 10;
+	background: $secondary-color;
+	box-shadow: 0 2px 5px #0000000d;
 }
 
-/* =====================================================
-   DROPDOWN
-   - Desktop: readable (NOT transparent)
-   - Mobile: click dropdown inside overlay
-   ===================================================== */
+/* ===================================================== HAMBURGER BUTTON – PREMIUM HOVER ANIM ===================================================== */
+.navbar-toggler {
+	border: 1px solid rgba(255, 255, 255, .18);
+	background: rgba(255, 255, 255, .04);
+	transition: transform .22s ease, box-shadow .22s ease, background-color .22s ease, border-color .22s ease;
+
+	&:hover,
+	&:focus {
+		outline: none;
+		transform: translateY(-1px) scale(1.03);
+		border-color: rgba(255, 255, 255, .30);
+		background: rgba(255, 255, 255, .08);
+		box-shadow: 0 14px 28px rgba(0, 0, 0, .25);
+	}
+
+	&:active {
+		transform: translateY(0) scale(.99);
+		box-shadow: 0 8px 18px rgba(0, 0, 0, .20);
+	}
+}
+
+/* ===================================================== DROPDOWN - Desktop: readable (NOT transparent) - Mobile: click dropdown inside overlay ===================================================== */
 .navbar {
-  .dropdown {
-    /* Desktop hover open */
-    @media (min-width: 992px) {
-      &:hover {
-        .dropdown-menu {
-          visibility: visible;
-          opacity: 1;
-          pointer-events: auto;
-        }
-      }
-    }
+	.dropdown {
 
-    &-menu {
-      padding: 12px 14px;
-      border-radius: 10px;
+		/* Desktop hover open */
+		@media (min-width: 1200px) {
+			&:hover {
+				.dropdown-menu {
+					visibility: visible;
+					opacity: 1;
+					pointer-events: auto;
+				}
+			}
+		}
 
-      /* Desktop: NOT transparent */
-      background: rgba(18, 26, 55, 0.96);
-      box-shadow: 0 16px 34px rgba(0,0,0,.25);
-      border: 1px solid rgba(255,255,255,.08);
+		&-menu {
+			padding: 12px 14px;
+			border-radius: 10px;
+			background: rgba(18, 26, 55, 0.96);
+			box-shadow: 0 16px 34px rgba(0, 0, 0, .25);
+			border: 1px solid rgba(255, 255, 255, .08);
+			top: 96px;
+			display: block;
+			visibility: hidden;
+			transition: .3s ease;
+			opacity: 0;
+			transform: translateY(14px);
+			pointer-events: none;
 
-      /* theme positioning behavior (desktop override below) */
-      top: 96px;
+			/* MOBILE */
+			@media (max-width: 1199.98px) {
+				position: static !important;
+				top: auto !important;
+				display: none;
+				visibility: visible;
+				opacity: 1;
+				transform: none;
+				background: rgba(255, 255, 255, 0.06);
+				border: 0;
+				box-shadow: none;
+				border-radius: 0;
+				padding: 6px 0;
+				pointer-events: auto;
+			}
 
-      display: block;
-      visibility: hidden;
-      transition: .3s ease;
-      opacity: 0;
-      transform: translateY(14px);
-      pointer-events: none;
+			&.show {
+				visibility: visible;
+				opacity: 1;
+				transform: translateY(0);
+				pointer-events: auto;
 
-      /* MOBILE: stack dropdown */
-      @media (max-width: 991.98px) {
-        position: static !important;
-        top: auto !important;
+				@media (max-width: 1199.98px) {
+					display: block;
+				}
+			}
+		}
 
-        display: none; /* closed by default */
-        visibility: visible;
-        opacity: 1;
-        transform: none;
+		&-item {
+			padding: .35rem .5rem;
+			position: relative;
+			color: $white;
+			transition: .2s ease;
+			text-transform: capitalize;
+			font-family: $primary-font;
 
-        /* keep it subtle inside overlay */
-        background: rgba(255, 255, 255, 0.06);
-        border: 0;
-        box-shadow: none;
-        border-radius: 0;
-        padding: 6px 0;
+			&:not(:last-child) {
+				margin-bottom: 6px;
+			}
 
-        pointer-events: auto;
-      }
+			&:hover {
+				color: $white;
+				background: rgba(255, 255, 255, .10);
+			}
 
-      &.show {
-        visibility: visible;
-        opacity: 1;
-        transform: translateY(0);
-        pointer-events: auto;
+			@media (max-width: 1199.98px) {
+				text-align: left;
+				color: $white;
+				padding: 10px 18px;
 
-        @media (max-width: 991.98px) {
-          display: block;
-        }
-      }
-    }
-
-    &-item {
-      padding: .35rem .5rem;
-      position: relative;
-
-      /* Desktop dropdown text: white */
-      color: $white;
-      transition: .2s ease;
-      text-transform: capitalize;
-      font-family: $primary-font;
-
-      &:not(:last-child) {
-        margin-bottom: 6px;
-      }
-
-      &:hover {
-        color: $white;
-        background: rgba(255,255,255,.10);
-      }
-
-      @media (max-width: 991.98px) {
-        text-align: left;
-        color: $white;
-        padding: 10px 18px;
-
-        &:not(:last-child) {
-          margin-bottom: 0;
-        }
-      }
-    }
-  }
+				&:not(:last-child) {
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
 }
 
-/* =====================================================
-   DESKTOP DROPDOWN FIX:
-   - dropdown closer (below link)
-   - centered under the nav item
-   - no hover gap (clickable)
-   ===================================================== */
-@media (min-width: 992px) {
+/* ===================================================== DESKTOP DROPDOWN FIX ===================================================== */
+@media (min-width: 1200px) {
+	.navbar .dropdown {
+		position: relative;
+	}
 
-  /* parent must be relative */
-  .navbar .dropdown {
-    position: relative;
-  }
+	.navbar .dropdown-menu {
+		top: 100% !important;
+		left: 50% !important;
+		right: auto !important;
+		margin-top: 10px;
+		transform: translate(-50%, 8px);
+	}
 
-  /* centered dropdown under the item */
-  .navbar .dropdown-menu {
-    top: 100% !important;               /* instead of 96px */
-    left: 50% !important;
-    right: auto !important;
-    margin-top: 10px;
-    transform: translate(-50%, 8px);    /* centered + small drop */
-  }
+	.navbar .dropdown::after {
+		content: "";
+		position: absolute;
+		left: 0;
+		right: 0;
+		top: 100%;
+		height: 14px;
+	}
 
-  /* hover buffer: prevents closing while moving mouse */
-  .navbar .dropdown::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 100%;
-    height: 14px;
-  }
-
-  .navbar .dropdown:hover .dropdown-menu,
-  .navbar .dropdown-menu.show {
-    visibility: visible !important;
-    opacity: 1 !important;
-    pointer-events: auto !important;
-    transform: translate(-50%, 0) !important;
-  }
+	.navbar .dropdown:hover .dropdown-menu,
+	.navbar .dropdown-menu.show {
+		visibility: visible !important;
+		opacity: 1 !important;
+		pointer-events: auto !important;
+		transform: translate(-50%, 0) !important;
+	}
 }
 
-/* =====================================================
-   MOBILE MENU OVERLAY (transparent, shows page behind)
-   - Collapse becomes fixed overlay under the header
-   ===================================================== */
-@media (max-width: 991.98px) {
+/* ===================================================== MOBILE MENU OVERLAY ===================================================== */
+@media (max-width: 1199.98px) {
+	.navbar-toggler {
+		padding: .25rem .45rem;
+	}
 
-  /* smaller hamburger */
-  .navbar-toggler {
-    padding: .25rem .45rem;
-  }
-  .navbar-toggler-icon {
-    width: 1.15em;
-    height: 1.15em;
-  }
+	.navbar-toggler-icon {
+		width: 1.15em;
+		height: 1.15em;
+	}
 
-  /* remove side margins so list aligns */
-  .nav-item {
-    margin: 0;
-  }
+	.nav-item {
+		margin: 0;
+	}
 
-  /* separators */
-  .nav-item + .nav-item {
-    border-top: 1px solid rgba(255, 255, 255, 0.08);
-  }
+	.nav-item+.nav-item {
+		border-top: 1px solid rgba(255, 255, 255, 0.08);
+	}
 
-  /* kill underline animation on mobile */
-  .nav-item::before {
-    display: none;
-  }
+	.nav-item::before {
+		display: none;
+	}
 
-  /* compact link spacing */
-  .navbar-expand-lg .navbar-nav .nav-link {
-    padding: 14px 16px !important;
-    font-size: 15px;
-    letter-spacing: .02em;
-  }
+	.navbar-expand-xl .navbar-nav .nav-link {
+		padding: 14px 16px !important;
+		font-size: 15px;
+		letter-spacing: .02em;
+	}
 
-  /*
-    The key: make the opened menu independent from header background.
-    We turn the collapse into a fixed overlay, so as you scroll,
-    you see the page content behind it.
-  */
-  #navigation.navbar-collapse {
-    position: fixed;
-    left: 12px;
-    right: 12px;
+	#navigation.navbar-collapse {
+		position: fixed;
+		left: 12px;
+		right: 12px;
+		top: 92px;
+		z-index: 9999;
+		border-radius: 12px;
+		overflow: hidden;
+		box-shadow: 0 16px 34px rgba(0, 0, 0, .25);
+		background: rgba(18, 26, 55, 0.72);
+		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
+		max-height: calc(100vh - 120px);
+		overflow-y: auto;
+	}
 
-    /* below the whole header (top header + nav) */
-    top: 92px;
+	#navigation.navbar-collapse.collapse:not(.show) {
+		display: none;
+	}
 
-    z-index: 9999;
-
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 16px 34px rgba(0,0,0,.25);
-
-    /* transparent glass */
-    background: rgba(18, 26, 55, 0.72);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-
-    /* limit height + internal scroll */
-    max-height: calc(100vh - 120px);
-    overflow-y: auto;
-  }
-
-  /* when collapsed (not shown) keep bootstrap behavior */
-  #navigation.navbar-collapse.collapse:not(.show) {
-    display: none;
-  }
-
-  /* nav list should not paint its own solid bg */
-  .navbar-nav {
-    background: transparent;
-    padding: 6px 0;
-  }
+	.navbar-nav {
+		background: transparent;
+		padding: 6px 0;
+	}
 }
 
-/* =====================================================
-   MOBILE MENU – CENTERED OVERLAY (COMPACT)
-   + arrow alignment via flex
-   + max-height (not huge)
-   ===================================================== */
-@media (max-width: 991.98px) {
+/* ===================================================== MOBILE MENU – CENTERED OVERLAY (COMPACT) ===================================================== */
+@media (max-width: 1199.98px) {
+	#navigation.navbar-collapse {
+		left: 50% !important;
+		right: auto !important;
+		transform: translateX(-50%);
+		width: 78vw;
+		max-width: 420px;
+		max-height: 72vh;
+		overflow-y: auto;
+		padding-top: 6px;
+		padding-bottom: 6px;
+	}
 
-  /* centriraj overlay i suzi ga (bez min()) */
-  #navigation.navbar-collapse {
-    left: 50% !important;
-    right: auto !important;
-    transform: translateX(-50%);
-    width: 78vw;
-    max-width: 420px;
-  }
+	.navbar-nav {
+		align-items: stretch !important;
+	}
 
-  .navbar-nav {
-    align-items: stretch !important;
-  }
+	.nav-item {
+		text-align: left !important;
+		width: 100%;
+	}
 
-  .nav-item {
-    text-align: left !important;
-    width: 100%;
-  }
+	.navbar-expand-xl .navbar-nav .nav-link {
+		text-align: left !important;
+		padding-right: 16px !important;
+		padding-left: 16px !important;
+	}
 
-  .navbar-expand-lg .navbar-nav .nav-link {
-    text-align: left !important;
-    padding-right: 16px !important;
-    padding-left: 16px !important;
-  }
+	.nav-link.dropdown-toggle {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 12px;
+	}
 
-  .nav-link.dropdown-toggle {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-  }
+	.nav-link.dropdown-toggle::after {
+		margin-left: 12px;
+		margin-right: 0 !important;
+		float: none !important;
+		position: relative;
+		top: 0;
+	}
 
-  .nav-link.dropdown-toggle::after {
-    margin-left: 12px;
-    margin-right: 0 !important;
-    float: none !important;
-    position: relative;
-    top: 0;
-  }
+	.navbar .dropdown-item {
+		text-align: left !important;
+		padding-left: 20px !important;
+		padding-right: 16px !important;
+	}
 
-  .navbar .dropdown-item {
-    text-align: left !important;
-    padding-left: 20px !important;
-    padding-right: 16px !important;
-  }
+	#navigation.navbar-collapse::-webkit-scrollbar {
+		width: 6px;
+	}
 
-  /* limit visine mobile overlay menija */
-  #navigation.navbar-collapse {
-    max-height: 72vh;
-    overflow-y: auto;
-    padding-top: 6px;
-    padding-bottom: 6px;
-  }
+	#navigation.navbar-collapse::-webkit-scrollbar-track {
+		background: transparent;
+	}
 
-  /* lepši scrollbar (opciono) */
-  #navigation.navbar-collapse::-webkit-scrollbar {
-    width: 6px;
-  }
+	#navigation.navbar-collapse::-webkit-scrollbar-thumb {
+		background: rgba(255, 255, 255, 0.25);
+		border-radius: 6px;
+	}
 
-  #navigation.navbar-collapse::-webkit-scrollbar-track {
-    background: transparent;
-  }
-
-  #navigation.navbar-collapse::-webkit-scrollbar-thumb {
-    background: rgba(255, 255, 255, 0.25);
-    border-radius: 6px;
-  }
-
-  #navigation.navbar-collapse::-webkit-scrollbar-thumb:hover {
-    background: rgba(255, 255, 255, 0.4);
-  }
+	#navigation.navbar-collapse::-webkit-scrollbar-thumb:hover {
+		background: rgba(255, 255, 255, 0.4);
+	}
 }
 
-/* =====================================================
-   MOBILE DROPDOWN POLISH:
-   - Remove "empty first row" look
-   - Force equal width (no last item wider)
-   - Hide non-anchor junk nodes in dropdown-menu
-   ===================================================== */
-@media (max-width: 991.98px) {
+/* ===================================================== MOBILE DROPDOWN POLISH ===================================================== */
+@media (max-width: 1199.98px) {
+	.navbar .dropdown-menu {
+		margin: 0 !important;
+		padding: 0 !important;
+		width: 100% !important;
+		box-sizing: border-box;
+	}
 
-  /* remove extra spacing that can look like a blank item */
-  .navbar .dropdown-menu {
-    margin: 0 !important;
-    padding: 0 !important;
-    width: 100% !important;
-    box-sizing: border-box;
-  }
+	.navbar .dropdown-menu .dropdown-item {
+		display: block;
+		width: 100% !important;
+		box-sizing: border-box;
+		margin: 0 !important;
+		padding: 12px 16px !important;
+	}
 
-  /* ensure every item is full width and consistent */
-  .navbar .dropdown-menu .dropdown-item {
-    display: block;
-    width: 100% !important;
-    box-sizing: border-box;
-    margin: 0 !important;
-    padding: 12px 16px !important;
-  }
+	.navbar .dropdown-menu .dropdown-item:empty {
+		display: none !important;
+	}
 
-  /* hide empty items (if any) */
-  .navbar .dropdown-menu .dropdown-item:empty {
-    display: none !important;
-  }
-
-  /* if anything other than <a.dropdown-item> ends up in dropdown-menu, hide it */
-  .navbar .dropdown-menu > :not(a.dropdown-item) {
-    display: none !important;
-  }
+	.navbar .dropdown-menu> :not(a.dropdown-item) {
+		display: none !important;
+	}
 }
