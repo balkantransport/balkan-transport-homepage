@@ -7,22 +7,29 @@
 
     const sliderEl = $slider.get(0);
 
+    function focusSliderWrapper() {
+      if (!sliderEl || typeof sliderEl.focus !== 'function') return;
+
+      // Ensure focusable without affecting tab order
+      if (!sliderEl.hasAttribute('tabindex')) sliderEl.setAttribute('tabindex', '-1');
+
+      try { sliderEl.focus({ preventScroll: true }); }
+      catch (e) { try { sliderEl.focus(); } catch (e2) {} }
+    }
+
     // 1) If focus is inside a slide that becomes aria-hidden, blur it (or move focus to slider)
     function blurIfInsideHiddenSlide() {
       const active = document.activeElement;
       if (!active) return;
 
+      // Only if focus is somewhere inside this slider
       if (sliderEl && sliderEl.contains(active)) {
         const hiddenAncestor = active.closest('[aria-hidden="true"]');
-        if (hiddenAncestor && sliderEl.contains(hiddenAncestor)) {
-          // remove focus from hidden content
-          try { active.blur(); } catch (e) {}
 
-          // fallback: focus slider wrapper (won't scroll)
-          if (typeof sliderEl.focus === 'function') {
-            if (sliderEl.tabIndex < 0) sliderEl.tabIndex = -1;
-            try { sliderEl.focus({ preventScroll: true }); } catch (e) { sliderEl.focus(); }
-          }
+        // If focused element is inside a hidden slide -> blur + move focus
+        if (hiddenAncestor && sliderEl.contains(hiddenAncestor)) {
+          try { active.blur(); } catch (e) {}
+          focusSliderWrapper();
         }
       }
     }
@@ -39,13 +46,32 @@
         );
 
         if (isHidden) {
-          // prevent tab focus in hidden slide
-          $focusables.attr('tabindex', '-1');
-        } else {
-          // restore (remove -1) for active slide elements
+          // prevent tab focus in hidden slide (preserve original tabindex)
           $focusables.each(function () {
             const $el = $(this);
-            if ($el.attr('tabindex') === '-1') $el.removeAttr('tabindex');
+
+            if ($el.attr('data-orig-tabindex') === undefined) {
+              const orig = $el.attr('tabindex');
+              $el.attr('data-orig-tabindex', orig !== undefined ? orig : '');
+            }
+
+            $el.attr('tabindex', '-1');
+          });
+        } else {
+          // restore original tabindex for active/visible slides
+          $focusables.each(function () {
+            const $el = $(this);
+            const orig = $el.attr('data-orig-tabindex');
+
+            if (orig !== undefined) {
+              if (orig === '') $el.removeAttr('tabindex');
+              else $el.attr('tabindex', orig);
+
+              $el.removeAttr('data-orig-tabindex');
+            } else {
+              // If element was forced to -1 earlier but no orig stored (edge case)
+              if ($el.attr('tabindex') === '-1') $el.removeAttr('tabindex');
+            }
           });
         }
       });
@@ -70,15 +96,19 @@
       if ($parentSlide.length && $parentSlide.attr('aria-hidden') === 'true') {
         const $active = $slider.find('.slick-slide.slick-current');
         const $firstFocusable = $active
-          .find('a, button, input, select, textarea, [tabindex]')
+          .find('a, button, input, select, textarea, [tabindex]:not([tabindex="-1"])')
           .first();
 
-        if ($firstFocusable.length) $firstFocusable.trigger('focus');
-        else $target.trigger('blur');
+        if ($firstFocusable.length) {
+          $firstFocusable.trigger('focus');
+        } else {
+          try { e.target.blur(); } catch (err) {}
+          focusSliderWrapper();
+        }
       }
     });
 
-    // if slick already initialized
+    // In case slick is already initialized, attempt initial sync
     setSlideFocusability();
     blurIfInsideHiddenSlide();
   }
@@ -87,10 +117,8 @@
   const heroSlider = $('.hero-slider');
   if (heroSlider.length > 0 && $.fn.slick) {
 
-    // hook pre/posle init-a
-    heroSlider.on('init', function () {
-      patchSlickA11y(heroSlider);
-    });
+    // IMPORTANT: patch BEFORE init so handlers exist in time
+    patchSlickA11y(heroSlider);
 
     heroSlider.slick({
       autoplay: true,
