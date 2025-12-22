@@ -66,7 +66,7 @@
 
 <!-- blog -->
 {{ if $data.homepage.blog.enable }}
-<section class="section">
+<section class="section section-blog">
   <div class="container wide-container">
     <div class="row">
       <div class="col-12">
@@ -75,7 +75,7 @@
     </div>
     <div class="row justify-content-center">
       {{ range first 4 (where site.RegularPages "Type" "post")}}
-      <article class="col-lg-3 col-sm-6 mb-5">
+      <article class="col-lg-3 col-sm-6 mb-4">
         {{ .Render "post" }}
       </article>
       {{ end }}
@@ -88,11 +88,14 @@
 <!-- about us -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
-<section class="section">
+<section class="section section-about">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
-        <h1 class="section-title">{{ .title | markdownify }}</h1>
+        <h1 class="section-title">
+          {{ .title | markdownify }}
+          <span class="hashtag">#travelonbusway</span>
+        </h1>
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}

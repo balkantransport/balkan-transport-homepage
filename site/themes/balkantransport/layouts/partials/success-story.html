@@ -1,20 +1,33 @@
 {{ $data := index site.Data site.Language.Lang }}
 
 {{ with $data.homepage.success_story }}
-<section class="section bg-cover" data-background="{{ .bg_image | absURL }}">
+<section class="section success-story-section bg-cover" data-background="{{ .bg_image | absURL }}">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-6 col-sm-4 position-relative success-video">
-        <!-- <a class="play-btn venobox" href="{{ .video_link | safeURL }}" data-vbtype="video">
-          <i class="ti-control-play"></i>
-        </a> -->
-      </div>
-      <div class="col-lg-6 col-sm-8">
-        <div class="bg-white p-5">
-          <h2 class="section-title">{{ .title | markdownify }}</h2>
-          <p>{{ .content | markdownify }}</p>
+    <div class="row align-items-center success-story-row">
+
+      <!-- VIDEO -->
+       <div class="col-lg-6 col-sm-4 position-relative success-video success-video-col">
+        <div class="video-embed video-visible">
+          <iframe
+            src="{{ .video_link | safeURL }}"
+            title="YouTube video player"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            referrerpolicy="strict-origin-when-cross-origin">
+          </iframe>
         </div>
       </div>
+
+      <!-- TEXT -->
+      <div class="col-lg-6 col-sm-8 success-story-text-col">
+        <div class="success-story-card">
+          <h2 class="section-title mb-4">{{ .title | markdownify }}</h2>
+          <div class="success-story-text">
+            {{ .content | markdownify }}
+          </div>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>
