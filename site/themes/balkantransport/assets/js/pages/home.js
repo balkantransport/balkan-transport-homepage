@@ -138,6 +138,64 @@
     }
   }
 
+  // =========================
+  // VIDEO (YouTube/Vimeo) – click to load iframe responsively
+  // Expects HTML:
+  // <div class="video-embed" data-video="https://www.youtube.com/watch?v=...">
+  //   <button class="video-play" type="button" aria-label="Pusti video">...</button>
+  // </div>
+  // =========================
+
+  function getYouTubeId(url) {
+    const m = String(url).match(
+      /(?:youtube\.com\/(?:watch\?v=|embed\/|shorts\/)|youtu\.be\/)([A-Za-z0-9_-]{6,})/
+    );
+    return m ? m[1] : null;
+  }
+
+  function getVimeoId(url) {
+    const m = String(url).match(/vimeo\.com\/(\d+)/);
+    return m ? m[1] : null;
+  }
+
+  function normalizeVideoUrl(url) {
+    if (!url) return '';
+
+    // YouTube
+    if (url.includes('youtube.com') || url.includes('youtu.be')) {
+      const id = getYouTubeId(url);
+      if (!id) return url;
+      return `https://www.youtube.com/embed/${id}?autoplay=1&rel=0`;
+    }
+
+    // Vimeo
+    if (url.includes('vimeo.com')) {
+      const id = getVimeoId(url);
+      if (!id) return url;
+      return `https://player.vimeo.com/video/${id}?autoplay=1`;
+    }
+
+    // already embed/custom
+    return url;
+  }
+
+  $(document).on('click', '.video-embed', function () {
+    const $wrap = $(this).closest('.video-embed');
+    const rawUrl = $wrap.data('video');
+    const src = normalizeVideoUrl(rawUrl);
+
+    if (!src) return;
+
+    const iframe = document.createElement('iframe');
+    iframe.src = src;
+    iframe.title = 'Video player';
+    iframe.allow = 'autoplay; fullscreen; picture-in-picture';
+    iframe.allowFullscreen = true;
+    iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+
+    $wrap.empty().append(iframe);
+  });
+
   // FILTERIZR
   const filterContainer = $('.filtr-container');
   if (filterContainer.length > 0 && $.fn.filterizr) {

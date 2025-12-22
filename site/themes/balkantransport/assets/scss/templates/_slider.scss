@@ -6,7 +6,7 @@
   overflow: hidden; /* seče sve što viri */
   
   /* Desktop / default */
-  padding: 170px 0 70px; /* top mora biti dovoljno da ne uđe ispod header-a */
+  padding: 200px 0 70px; /* top mora biti dovoljno da ne uđe ispod header-a */
 }
 
 /* 2) Slick: najčešći uzrok horizontal scroll-a */
@@ -71,7 +71,7 @@
 /* Tablet / manji laptop */
 @media (max-width: 991px) {
   .hero-section {
-    padding: 190px 0 65px; /* header je viši -> više top paddinga */
+    padding: 230px 0 65px; /* header je viši -> više top paddinga */
   }
 }
 
