@@ -7,8 +7,12 @@
   gap: 10px;
 
   padding-left: 0;
+  padding-block: 12px;          /* PROSTOR za senke gore/dole */
   margin: 20px 0 28px;          /* bolji ritam (manje praznine) */
   list-style: none;
+
+  overflow: visible;            /* da se senke ne seku */
+  isolation: isolate;           /* stabilnije senke u kompleksnim layoutima */
 }
 
 .pagination.pagination-default .page-item {
@@ -30,16 +34,23 @@
   color: #1a1f36;
   text-decoration: none;
 
-  box-shadow: 0 2px 10px rgba(0,0,0,.08);
+  box-shadow: 0 8px 22px rgba(0,0,0,.10); /* malo punija senka da deluje “klikabilno” */
   transition: transform .08s ease, box-shadow .18s ease, background .18s ease, border-color .18s ease;
   cursor: pointer;
+
+  outline: none;
 }
 
 .pagination.pagination-default .page-link:hover {
   background: rgba(31, 58, 147, 0.06);
   transform: translateY(-1px);
-  box-shadow: 0 10px 24px rgba(0,0,0,.12);
+  box-shadow: 0 14px 34px rgba(0,0,0,.14);
   border-color: rgba(31,58,147,.45);
+}
+
+.pagination.pagination-default .page-link:focus-visible {
+  box-shadow: 0 0 0 4px rgba(31, 58, 147, 0.18), 0 14px 34px rgba(0,0,0,.14);
+  border-color: rgba(31,58,147,.55);
 }
 
 .pagination.pagination-default .page-item.active .page-link,
@@ -47,7 +58,7 @@
   background: linear-gradient(180deg, #2b3ea8, #1f3a93);
   border-color: #1f3a93;
   color: #fff;
-  box-shadow: 0 12px 26px rgba(31,58,147,.28);
+  box-shadow: 0 16px 38px rgba(31,58,147,.30);
   font-weight: 600;
 }
 
@@ -57,14 +68,19 @@
   box-shadow: none;
 }
 
+/* (Često wrapper seče senke) - bezbedan override */
+.col-12.mt-4 {
+  overflow: visible;
+}
+
 /* Mobile: max 5 elemenata, bez scroll-a, bez lomljenja */
 @media (max-width: 480px) {
   .pagination.pagination-default {
     flex-wrap: nowrap;          /* 1 red */
-    overflow: hidden;           /* NEMA scroll-a */
+    overflow: visible;          /* BITNO: da senke ne budu sasečene */
     gap: 8px;
 
-    padding: 0;
+    padding-block: 10px;        /* prostor za shadow */
     margin: 16px 0 22px;
   }
 
@@ -80,18 +96,15 @@
   }
 
   /* 2) ...pa prikaži samo: Prev, 1, 2, 3, Next (max 5) */
-  /* Prev (obično je 2. item jer 1. zna da bude "First") */
   .pagination.pagination-default .page-item:nth-child(2),
-  /* Page 1, 2, 3 */
   .pagination.pagination-default .page-item:nth-child(3),
   .pagination.pagination-default .page-item:nth-child(4),
   .pagination.pagination-default .page-item:nth-child(5),
-  /* Next (obično pretposlednji; last je "Last") */
   .pagination.pagination-default .page-item:nth-last-child(2) {
     display: block;
   }
 
-  /* Ako želiš da na mobile-u NEMA first/last (<< / >>), ostaje samo prev/next + 1/2/3 */
+  /* Na mobile-u sakrij First/Last (<< / >>) */
   .pagination.pagination-default .page-item:first-child,
   .pagination.pagination-default .page-item:last-child {
     display: none;
