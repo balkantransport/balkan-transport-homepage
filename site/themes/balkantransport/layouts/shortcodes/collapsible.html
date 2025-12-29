@@ -1,0 +1,15 @@
+{{- $title := .Get "title" | default "Section" -}}
+{{- $openParam := .Get "open" | default "false" -}}
+{{- $class := .Get "class" | default "" -}}
+
+{{- $open := false -}}
+{{- if or (eq $openParam true) (eq $openParam "true") (eq $openParam "1") -}}
+  {{- $open = true -}}
+{{- end -}}
+
+{{ partial "collapsible.html" (dict
+  "title" $title
+  "open" $open
+  "class" $class
+  "content" (.Inner | markdownify)
+) }}

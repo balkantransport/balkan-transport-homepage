@@ -1,0 +1,103 @@
+.bt-collapsible {
+  background: #fff;
+  border: 1px solid rgba(31, 58, 147, 0.14);
+  border-radius: 14px;
+  box-shadow: 0 1px 10px rgba(0,0,0,.05);
+  overflow: hidden;
+  margin-bottom: 16px;
+}
+
+.bt-collapsible:hover {
+  border-color: rgba(31, 58, 147, 0.22);
+  box-shadow: 0 2px 16px rgba(0,0,0,.06);
+}
+
+.bt-collapsible__summary {
+  list-style: none;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 14px 16px;
+  gap: 12px;
+
+  color: #1f3a93;
+  font-weight: 700;
+  letter-spacing: .15px;
+
+  background: linear-gradient(to bottom, rgba(31,58,147,.04), rgba(31,58,147,0));
+  border: 2px solid transparent;
+
+  user-select: none;
+}
+
+.bt-collapsible__summary::-webkit-details-marker { display: none; }
+
+.bt-collapsible__summary:focus-visible {
+  outline: none;
+  border-color: rgba(31, 58, 147, 0.30);
+  box-shadow: 0 0 0 4px rgba(31, 58, 147, 0.10);
+  border-radius: 12px;
+}
+
+.bt-collapsible__title {
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.bt-collapsible__chev {
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  background: rgba(31, 58, 147, 0.08);
+  position: relative;
+  flex: 0 0 auto;
+  transition: background .18s ease, transform .18s ease;
+}
+
+.bt-collapsible__summary:hover .bt-collapsible__chev {
+  background: rgba(31, 58, 147, 0.12);
+}
+
+.bt-collapsible__chev::before,
+.bt-collapsible__chev::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 12px;
+  height: 2px;
+  background: rgba(31, 58, 147, 0.78);
+  transform: translate(-50%, -50%);
+  border-radius: 2px;
+}
+
+.bt-collapsible__chev::after {
+  transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.bt-collapsible[open] .bt-collapsible__chev::after {
+  transform: translate(-50%, -50%) rotate(0deg);
+}
+
+.bt-collapsible[open] .bt-collapsible__chev {
+  transform: rotate(180deg);
+}
+
+.bt-collapsible__content {
+  padding: 8px 16px 14px 16px;
+  border-top: 1px solid rgba(31, 58, 147, 0.10);
+}
+
+.bt-collapsible__content p {
+  margin: 0 0 10px 0;
+}
+
+.bt-collapsible__content > *:last-child { margin-bottom: 0; }
+
+@media (max-width: 575.98px) {
+  .bt-collapsible__summary { padding: 12px 14px; }
+  .bt-collapsible__title { font-size: 17px; }
+}

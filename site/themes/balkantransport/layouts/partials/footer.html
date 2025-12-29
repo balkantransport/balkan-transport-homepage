@@ -178,7 +178,7 @@ window.addEventListener("load", () => {
 
 
 <!-- PHOTOSWIPE CONDITIONAL -->
-{{ if or (eq .Section "blog") (eq .Section "projects") (eq .Section "busworld2025") (eq .Type "service") }}
+{{ if or (eq .Section "blog") (eq .Section "projects") (eq .Section "busworld2025") (eq .Type "service")  (eq .Section "partners") }}
   {{ partial "photoswipe.html" . }}
 {{ end }}
 
