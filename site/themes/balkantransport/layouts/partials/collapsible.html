@@ -1,0 +1,15 @@
+{{- $title := .title | default "Section" -}}
+{{- $open  := .open  | default false -}}
+{{- $class := .class | default "" -}}
+{{- $content := .content | default "" -}}
+
+<details class="bt-collapsible {{ $class }}" {{ if $open }}open{{ end }}>
+  <summary class="bt-collapsible__summary">
+    <span class="bt-collapsible__title">{{ $title }}</span>
+    <span class="bt-collapsible__chev" aria-hidden="true"></span>
+  </summary>
+
+  <div class="bt-collapsible__content">
+    {{ $content }}
+  </div>
+</details>

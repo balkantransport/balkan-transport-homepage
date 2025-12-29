@@ -2,22 +2,18 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-<!-- event single -->
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-12">
         <h2 class="section-title">{{ .Title }}</h2>
       </div>
-      <!-- event image -->
       <div class="col-12">
         <img style="object-fit: cover;" src="/images/blog/busworld-2025/img1.webp" alt="{{ .Title }}" class="img-fluid">
       </div>
     </div>
-    <!-- event info -->
     <div class="row align-items-center mb-5">
     </div>
-    <!-- event details -->
     <div class="row">
       <div class="col-12 mb-20 content">
         {{ .Content }}
@@ -29,7 +25,6 @@
   <section class="section-sm bg-primary mb-40">
     <div class="container">
       <div class="row">
-        <!-- funfacts item -->
         {{ range .funfact_item }}
         <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <div class="text-center">
@@ -108,47 +103,22 @@
     <hr>
   </div>
   <div class="container">
-    <!-- event partners -->
     <div class="row">
       <div class="col-12">
         <h2>Ovogodišnji učesnici</h2>
         <h6 class="mb-4">(Klik na logo za više detalja)</h6>
       </div>
-      <!-- partners -->
       {{ range .Params.Partners }}
       <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
         <div class="media hover-shadow mb-10" style="justify-content: center">
           <a href="{{ .partnerUrl}}">
             {{ with .image }}<img class="mr-3" src="{{ . | relURL }}" alt="speaker">{{ end }}
           </a>
-         
-          <!-- <div class="media-body">
-            <h4 class="mt-0">{{ .name }}</h4>
-            {{ .designation }}
-          </div> -->
         </div>
       </div>
       {{ end }}
     </div>
   </div>
 </section>
-<!-- /event single -->
-
-<script>
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-  
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("collapsible-active");
-      var content = this.nextElementSibling;
-      if (content.style.display === "block") {
-        content.style.display = "none";
-      } else {
-        content.style.display = "block";
-      }
-    });
-  }
-  </script>
 
 {{ end }}
