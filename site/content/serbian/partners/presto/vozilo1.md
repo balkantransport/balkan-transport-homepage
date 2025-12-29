@@ -35,8 +35,6 @@ symbols:
 type: "partners/presto/vozilo"
 ---
 
----
-
 ## O vozilu
 
 Ovaj primerak je prvi pripremljen i pušten u saobraćaj, radi se o modelu koji poseduje automatski menjač, sa 12 stepeni prenosa i oznakom ZF Traxon. Opremljen je sa 57 komercijalnih sedišta, na 12.9m dugačkoj šasiji, visine 3.7m. Međuosovinsko rastojanje kod ovog modela je 6.1m, potrebno m je oko 22m za okretanje, u fabričkoj izvedbi dolazi sa prtljažnikom kapaciteta 11.5 kubnih metara.
@@ -60,18 +58,13 @@ Vozilo je opremljeno krevetom za vozača, frižiderom, toaletom, USB priključci
 
 {{< /photoswipe >}}
 
----
-
-## Podaci o vozilu i konfiguracija sedišta
-
-{{< photoswipe >}}
+## Podaci o vozilu
 
 ![VDL Futura FHD2 120-370‌‌ podaci o vozilu](/images/partners/presto/vozilo1/stats.webp "VDL Futura FHD2 120-370‌‌ podaci o vozilu")
+
+## Konfiguracija sedišta
+
 ![VDL Futura FHD2 120-370‌‌ konfiguracija sedišta](/images/partners/presto/vozilo1/seatConfig.webp "VDL Futura FHD2 120-370‌‌ konfiguracija sedišta")
-
-{{< /photoswipe >}}
-
----
 
 ## Kontakt
 

@@ -527,7 +527,7 @@ section > .container .col-12 img {
 
 section > .container .vehicle-icons-flex img {
   align-self: center; 
-  padding: 0 10px; 
+  padding: 10px 10px; 
   width: unset;
 }
 
@@ -624,3 +624,19 @@ section > .container .vehicle-icons-flex img {
   }
 }
 
+.vehicle-page .content h2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.vehicle-page .content h2::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: rgba(0,0,0,.15);
+}
+
+.vehicle-page .content h2 {
+  margin-top: 50px;
+}
