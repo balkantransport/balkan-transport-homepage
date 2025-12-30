@@ -16,3 +16,9 @@ Kompanija Presto na našem tržištu posluje od 2001. godine. Sami počeci rada 
 Zahvaljujući svojoj odgovornosti, poslovnosti i rezultatima, Presto postaje jedan od omiljenih saputnika najmlađih putnika prilikom putovanja na ekskurzije, i jedan od lidera kada je u pitanju vanlinijski prevoz dece.
 
 Kompanija Presto danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao. Pored gradskog prevoza u Beogradu i vanlinijskog prevoza, kompanija održava i redovne linije, na taj način spaja Beograd sa Pirotom i Dimitrovgradom, kao i Pirot i Zlatibor.
+
+{{< funfacts data="homepage.funfactspresto" >}}
+
+Turistički deo voznog parka kompanije **Presto** u najvećoj meri se temelji na vozilima **VDL Bus & Coach** grupe. Nakon dugogodišnjeg iskustva sa VDL Berkhof modelima, pred letnju sezonu 2022. u vozni park ovog preduzeća stižu prvi primerci veoma nagrađivanog modela **VDL Futura**. Reč je o dva primerka koji su značajno unapredili vozni park kompanije i učvrstili njenu lidersku poziciju.
+
+Presto D.O.O. iz Beograda dugogodišnji je partner našeg tima. Želje za unapređenjem, usavršavanjem, popularizacijom i omasovljenjem prevoza putnika autobusima zajednički su interes menadžmenta kompanije i našeg tima, zbog čega već dug period realizujemo uspešnu saradnju.
