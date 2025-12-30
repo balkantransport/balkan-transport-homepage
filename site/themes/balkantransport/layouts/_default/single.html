@@ -32,15 +32,24 @@
           <!-- blog contect -->
           <div class="col-12">
             {{ .Content }}
-            {{ if (eq .Params.withVideo "false") }}
-              <hr class="mb-20">
-            {{end}}
           </div>
 
-          {{ if (eq .Params.withVideo "true") }}
+          {{ with .Params.videoUrl }}
             <hr class="mb-40">
-            <iframe class="border-bottom border-top border-color pt-4 pb-4 mb-20" width="760" height="500" src="{{ .Params.videoUrl }}" title="{{ .Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-          {{end}}
+
+            <div class="bt-news-video mb-20">
+              <iframe
+                class="bt-video-iframe"
+                src="{{ . | safeURL }}"
+                title="{{ $.Params.title }}"
+                loading="lazy"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                referrerpolicy="strict-origin-when-cross-origin">
+              </iframe>
+            </div>
+          {{ end }}
+
 
           <!-- comments -->
           {{ if .Site.Config.Services.Disqus.Shortname }}
