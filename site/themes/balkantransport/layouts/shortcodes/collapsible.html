@@ -7,9 +7,12 @@
   {{- $open = true -}}
 {{- end -}}
 
-{{ partial "collapsible.html" (dict
+{{- /* Render markdown + shortcodes iznutra, ali bez indent/whitespace problema */ -}}
+{{- $content := .InnerDeindent | .Page.RenderString (dict "display" "block") -}}
+
+{{- partial "collapsible.html" (dict
   "title" $title
   "open" $open
   "class" $class
-  "content" (.Inner | markdownify)
-) }}
+  "content" $content
+) -}}

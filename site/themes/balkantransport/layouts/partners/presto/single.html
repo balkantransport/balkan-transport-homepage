@@ -21,30 +21,11 @@
       </div>
     </div>
   </div>
-
   {{ if $data.homepage.funfactspresto.enable }}
-  {{ with $data.homepage.funfactspresto }}
-  <section class="section-sm bg-primary mb-40">
-    <div class="container">
-      <div class="row">
-        <!-- funfacts item -->
-        {{ range .funfact_item }}
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <div class="text-center">
-            <h5 class="text-white">{{ .above }}</h5>
-            <div class="row" style="justify-content: center;">
-              <h1 class="count text-white" data-count="{{ .count }}">0</h1><h1 class="text-white">{{ .exponent }}</h1>
-            </div>
-            <h5 class="text-white">{{ .under }}</h5>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
+    {{ with $data.homepage.funfactspresto }}
+      {{ partial "funfacts.html" (dict "items" .funfact_item) }}
+    {{ end }}
   {{ end }}
-  {{ end }}
-
   <!-- Pasusi ispod counter-a -->
   <div class="container">
     <div class="row" style="justify-content: center;">

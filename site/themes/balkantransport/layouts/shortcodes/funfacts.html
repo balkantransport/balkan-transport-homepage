@@ -1,0 +1,36 @@
+{{/* Shortcode: funfacts (multilingual safe) */}}
+
+{{- $key := .Get "data" -}}
+{{- if not $key -}}
+  {{ errorf "funfacts shortcode: missing param 'data'. Example: {{< funfacts data=\"homepage.funfactsvdl\" >}}" }}
+{{- end -}}
+
+{{- $parts := split $key "." -}}
+
+{{/* BITNO: krećemo iz site.Data.<lang> */}}
+{{- $cfg := index site.Data site.Language.Lang -}}
+
+{{- range $parts -}}
+  {{- if $cfg -}}
+    {{- $cfg = index $cfg . -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Ako ne nađe podatke, izbaci grešku da ne “ćuti” */}}
+{{- if not $cfg -}}
+  {{ errorf "funfacts shortcode: data key not found for lang=%q: %q" site.Language.Lang $key }}
+{{- end -}}
+
+{{- if and (isset $cfg "enable") (not $cfg.enable) -}}
+  {{- /* enable=false => ne prikazuj */ -}}
+{{- else -}}
+  {{- $items := index $cfg "funfact_item" -}}
+  {{- partial "funfacts.html" (dict
+      "items" $items
+      "sectionClass" (.Get "class")
+      "containerClass" (.Get "containerClass")
+      "rowClass" (.Get "rowClass")
+      "colClass" (.Get "colClass")
+    )
+  -}}
+{{- end -}}
