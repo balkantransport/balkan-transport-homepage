@@ -119,15 +119,15 @@ copyright = "Copyright &copy; 2021 Balkan Transport"
 [[Languages.sr.menu.main]]
 name = "Vesti"
 url = "blog"
-weight = 2
+weight = 1
 
 [[Languages.sr.menu.main]]
 name = "Usluge"
 url = "service"
-weight = 3
+weight = 2
 
 [[Languages.sr.menu.main]]
-weight = 4
+weight = 3
 name = "Partneri"
 hasChildren = true  
 
@@ -137,7 +137,7 @@ hasChildren = true
   url = "partners/presto/"
 
 [[Languages.sr.menu.main]]
-weight = 5
+weight = 4
 name = "Busworld 2025"
 hasChildren = true  
 
@@ -198,7 +198,7 @@ hasChildren = true
   url = "busworld2025/higer/"
 
 [[Languages.sr.menu.main]]
-weight = 6
+weight = 5
 name = "Projekti"
 hasChildren = true  
 
@@ -215,12 +215,12 @@ hasChildren = true
 [[Languages.sr.menu.main]]
 name = "O nama"
 url = "about"
-weight = 7
+weight = 6
 
 [[Languages.sr.menu.main]]
 name = "Kontakt"
 url = "contact"
-weight = 8
+weight = 7
 
 # footer menu
 

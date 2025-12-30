@@ -6,9 +6,6 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ .Title }}</h2>
-      </div>
-      <div class="col-12">
         <img style="object-fit: cover;" src="/images/blog/busworld-2025/img1.webp" alt="{{ .Title }}" class="img-fluid">
       </div>
     </div>
@@ -20,72 +17,7 @@
       </div>
     </div>
   </div>
-  {{ if $data.homepage.funfactsbusworld2025.enable }}
-    {{ with $data.homepage.funfactsbusworld2025 }}
-      {{ partial "funfacts.html" (dict "items" .funfact_item) }}
-    {{ end }}
-  {{ end }}
-  <div class="container">
-    <div class="row mb-30" style="justify-content: center;">
-      <div class="col-12 content">
-        <p>Na Busworldu se tradicionalno dodeljuju prestižne nagrade u okviru takmičenja koje ocenjuje stručni žiri. Vozila se biraju i ocenjuju u više kategorija, na osnovu tehničkih karakteristika, bezbednosti, udobnosti, ekoloških performansi i dizajna.</p>
-        <h3>🌟 Glavne nagrade:</h3>
-        <p>
-          <ul>
-            <li>
-              <strong>Grand Award Bus</strong> - <em>Yutong U15</em><br>
-              <p>Najbolji autobus u svim kriterijumima: tehničkim, bezbednosnim, udobnosnim, ekološkim i dizajnerskim.</p>
-            </li>
-            <li>
-              <strong>Grand Award Coach</strong> - <em>Yutong T14E</em><br>
-              <p>Najbolji turistički autobus u svim kriterijumima.</p>
-            </li>
-          </ul>
-        </p>
-
-        <h3>🏅 Label of Excellence nagrade:</h3>
-        <p>
-          <ul>          
-            <li>
-              <strong>Safety (Bus)</strong> - <em>Yutong U15</em><br>
-              <p>Vozilo sa najnaprednijim bezbednosnim sistemima po oceni žirija.</p>
-            </li>
-            <li>
-              <strong>Ecology (Bus)</strong> - <em>Yutong IC12E</em><br>
-              <p>Autobus prepoznat po izuzetnim ekološkim karakteristikama, uključujući nisku emisiju štetnih gasova i visoku energetsku efikasnost.</p>
-            </li>
-            <li>
-              <strong>Comfort (Bus)</strong> - <em>Mercedes-Benz eCitaro</em><br>
-              <p>Najveći nivo komfora u svojoj klasi.</p>
-            </li>
-            <li>
-              <strong>Safety (Coach)</strong> - <em>Setra S515HD</em><br>
-              <span>Turistički autobus sa najboljim bezbednosnim sistemima.</p>
-            </li>
-            <li>
-              <strong>Ecology (Coach)</strong> - <em>Yutong IC12E</em><br>
-              <p>Vozilo koje se istaklo po energetskoj efikasnosti i minimalnom uticaju na životnu sredinu.</p>
-            </li>
-            <li>
-              <strong>Comfort (Coach)</strong> - <em>Setra S515HD</em><br>
-              <p>Najudobniji turistički autobus po oceni žirija.</p>
-            </li>
-          </ul>
-        </p>
-
-        <h3>🚀 Posebna nagrada:</h3>
-        <p>
-          <ul>
-            <li>
-              <strong>Driveline Technology</strong> - <em>Scania Irizar i6s Efficient PHEV</em><br>
-              <p>Nagrada za inovativnu tehnologiju pogona i unapređene performanse hibridnih sistema.</p>
-            </li>
-          </ul>
-        </p>
-      </div>
-    </div>
-    <hr>
-  </div>
+  
   <div class="container">
     <div class="row">
       <div class="col-12">

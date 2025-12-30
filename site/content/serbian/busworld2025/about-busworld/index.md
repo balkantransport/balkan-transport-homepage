@@ -48,3 +48,42 @@ Sajam je za posetioce bio otvoren od subote, 4. oktobra, do četvrtka, 9. oktobr
 
 Ovogodišnje izdanje Busworlda bilo je najveće u njegovoj istoriji, sa snažnim fokusom na električne, vodonične i međugradske „zero-emission“ modele.
 Sajam je još jednom potvrdio svoju ulogu vodeće globalne platforme za razmenu znanja, tehnologija i ideja koje oblikuju budućnost održivog prevoza.
+
+{{< funfacts data="homepage.funfactsbusworld2025" >}}
+
+Na Busworldu se tradicionalno dodeljuju prestižne nagrade u okviru takmičenja koje ocenjuje stručni žiri. Vozila se biraju i ocenjuju u više kategorija, na osnovu tehničkih karakteristika, bezbednosti, udobnosti, ekoloških performansi i dizajna.
+
+### 🌟 Glavne nagrade
+
+- **Grand Award Bus** explains *Yutong U15*  
+  Najbolji autobus u svim kriterijumima: tehničkim, bezbednosnim, udobnosnim, ekološkim i dizajnerskim.
+
+- **Grand Award Coach** — *Yutong T14E*  
+  Najbolji turistički autobus u svim kriterijumima.
+
+### 🏅 Label of Excellence nagrade
+
+- **Safety (Bus)** — *Yutong U15*  
+  Vozilo sa najnaprednijim bezbednosnim sistemima po oceni žirija.
+
+- **Ecology (Bus)** — *Yutong IC12E*  
+  Autobus prepoznat po izuzetnim ekološkim karakteristikama, uključujući nisku emisiju štetnih gasova i visoku energetsku efikasnost.
+
+- **Comfort (Bus)** — *Mercedes-Benz eCitaro*  
+  Najveći nivo komfora u svojoj klasi.
+
+- **Safety (Coach)** — *Setra S515HD*  
+  Turistički autobus sa najboljim bezbednosnim sistemima.
+
+- **Ecology (Coach)** — *Yutong IC12E*  
+  Vozilo koje se istaklo po energetskoj efikasnosti i minimalnom uticaju na životnu sredinu.
+
+- **Comfort (Coach)** — *Setra S515HD*  
+  Najudobniji turistički autobus po oceni žirija.
+
+### 🚀 Posebna nagrada
+
+- **Driveline Technology** — *Scania Irizar i6s Efficient PHEV*  
+  Nagrada za inovativnu tehnologiju pogona i unapređene performanse hibridnih sistema.
+
+---
