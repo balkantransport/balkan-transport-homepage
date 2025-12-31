@@ -77,11 +77,17 @@
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
           <h4 class="text-white mb-5 text-uppercase">{{ i18n "our_projects" }}</h4>
           <ul class="list-unstyled">
-            {{ range first 3 (where site.RegularPages "Type" "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu") }}
-              <li class="mb-3"><a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ range sort (where site.RegularPages "Type" "in" (slice
+              "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"
+              "projects/klase-putovanja"
+            )) "Date" "desc" }}
+              <li class="mb-3">
+                <a class="text-color" href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
             {{ end }}
           </ul>
         </div>
+
 
         <!-- Partners -->
         <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
