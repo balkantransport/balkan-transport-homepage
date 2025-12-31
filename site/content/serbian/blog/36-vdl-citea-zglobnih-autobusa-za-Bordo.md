@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/36-vdl-citea-zglobnih-autobu
 author: "Luka Kalinić"
 categories: ["Autobusi"]
 tags: ["vdl", "gradski prevoz"]
-withVideo: "false"
 pageUrl: "blog/36-vdl-citea-zglobnih-autobusa-za-Bordo"
 type: "post"
 ---

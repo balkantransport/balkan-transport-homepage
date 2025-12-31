@@ -1,14 +1,12 @@
 ---
 title: "Setra S517HDH - kraljica modernog doba"
 date: 2021-10-25T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/s517hdh-background.webp"
 description : "Setra S517HDH je predstavljena u jesen 2013. godine, ovaj autobus je predstavljen kao deo TopClass ponude nemačke Setre"
 image: "https://www.balkantransport.net/images/blog/setra-s517hdh-kraljica-modernog-doba/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["setra", "Turistički autobusi"]
-withVideo: "false"
 pageUrl: "blog/setra-s517hdh-kraljica-modernog-doba"
 type: "post"
 ---

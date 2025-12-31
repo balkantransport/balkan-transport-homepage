@@ -1,14 +1,12 @@
 ---
 title: "TURIZAM U DOBA KORONE: prevoznici, vodiči…"
 date: 2020-05-11T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Epidemija virusa Covid 19 uzrokovala je velike gubitke u sektoru saobraćaja i turizma, kako posle epidemije korona virusa?"
 image: "https://www.balkantransport.net/images/blog/turizam-u-doba-korone/img1.webp"
 author: "Dušan Beraja"
 categories: ["Turizam", "Putnički saobraćaj"]
 tags: ["autoprevoznici", "covid19", "turizam"]
-withVideo: "false"
 pageUrl: "blog/turizam-u-doba-korone"
 type: "post"
 ---

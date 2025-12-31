@@ -1,14 +1,12 @@
 ---
 title: "Leskovac Kanisu poverava linije gradskog i prigradskog prevoza"
 date: 2023-10-07T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/kanis_leskovac-background.webp"
 description : "Kako nezvanično saznaje portal [resetka.rs](https://www.resetka.rs/), novi partner u gradskom i prigradskom saobraćaju grada Leskovca je “Kanis” DOO, a ugovor se sa njima zaključuje na 20 godina uz veliki broj povlašćenih kategorija putnika koje neće plaćati gradski i prigradski prevoz."
 image: "https://www.balkantransport.net/images/blog/leskovac-kanisu-poverava-linije-gradskog-i-prigradskog-prevoza/img1.webp"
 author: "Luka Kalinić"
 categories: ["Gradski prevoz", "Prevoznici", "Putnički saobraćaj"]
 tags: ["kanis", "autoprevoznici", "gradski prevoz", "javni prevoz", "prevoz putnika", "Leskovac"]
-withVideo: "false"
 pageUrl: "blog/leskovac-kanisu-poverava-linije-gradskog-i-prigradskog-prevoza"
 type: "post"
 ---

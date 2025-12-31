@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/cetvrt-veka-modela-lions-coa
 author: "Igor Nikolić"
 categories: ["Autobusi"]
 tags: ["MAN"]
-withVideo: "false"
 pageUrl: "blog/cetvrt-veka-modela-lions-coach"
 type: "post"
 ---

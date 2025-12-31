@@ -1,14 +1,12 @@
 ---
 title: "Dva Isuzu Cityporta za Bamiron"
 date: 2020-03-26T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Nakon kupovine dva Isuzu Cityporta krajem januara, autoprevoznik “Bamiron” iz Beograda ponosni je vlasnik još dva autobusa istog proizvođača."
 image: "https://www.balkantransport.net/images/blog/dva-isuzu-cityporta-za-bamiron/img1.webp"
 author: "Dušan Beraja"
 categories: ["Gradski prevoz", "Autobusi", "Prevoznici"]
 tags: ["bamiron", "gradski prevoz", "sejari doo", "autoprevoznici", "isuzu", "javni prevoz", "gradski autobus"]
-withVideo: "false"
 pageUrl: "blog/dva-isuzu-cityporta-za-bamiron"
 type: "post"
 ---

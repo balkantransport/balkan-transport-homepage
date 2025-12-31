@@ -1,14 +1,12 @@
 ---
 title: "Nova Setra S516HD/2 za Brišnik Bus Tomislavgrad"
 date: 2023-02-05T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/setra-s516-background.webp"
 description : "Kompanija Brišnik Bus iz Tomislavgrada krajem prošlog meseca postala je vlasnik nove Setre S516HD/2."
 image: "https://www.balkantransport.net/images/blog/nova-setra-s516hd2-za-brisnik-bus-tomislavgrad/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Setra"]
-withVideo: "false"
 pageUrl: "blog/nova-setra-s516hd2-za-brisnik-bus-tomislavgrad"
 type: "post"
 ---

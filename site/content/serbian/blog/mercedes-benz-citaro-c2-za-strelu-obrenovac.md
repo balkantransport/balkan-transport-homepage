@@ -1,14 +1,12 @@
 ---
 title: "Deset Mercedes Benz Citara C2 za Strelu iz Obrenovca"
 date: 2024-08-12T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/citaro-c2-strela-obrenovac-background.webp"
 description : "Prvi primerci modela Citara C2 u Srbiji, nosiće u narednom periodu obeležja kompanije Strela iz Obrenovca, te će se u narednom periodu aktivirati na linijama koje održava ovaj prevoznik."
 image: "https://www.balkantransport.net/images/blog/mercedes-benz-citaro-c2-za-strelu-obrenovac/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["mercedes-benz", "autoprevoznici", "Strela obrenovac", "gradski prevoz Beograd", "javni prevoz", "prevoz putnika", "Beograd", "star import"]
-withVideo: "false"
 pageUrl: "blog/mercedes-benz-citaro-c2-za-strelu-obrenovac"
 type: "post"
 ---

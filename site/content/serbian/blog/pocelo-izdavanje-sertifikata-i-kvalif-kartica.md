@@ -1,14 +1,12 @@
 ---
 title: "Počelo je izdavanje sertifikata i kvalifikacionih kartica"
 date: 2019-02-01T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Agencija za bezbednost saobraćaja Republike Srbije, u okviru poslova poverenih Zakonom o bezbednosti saobraćaja na putevima 31. januara 2019. godine otpočela je proces sertifikacije profesionalnih vozača."
 image: "https://www.balkantransport.net/images/blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica/img1.webp"
 author: "Dušan Beraja"
 categories: ["Vozači"]
 tags: ["profesionalni vozači", "agencija za bezbednost saobraćaja", "licenca"]
-withVideo: "false"
 pageUrl: "blog/pocelo-izdavanje-sertifikata-i-kvalif-kartica"
 type: "post"
 ---

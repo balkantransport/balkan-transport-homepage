@@ -1,14 +1,12 @@
 ---
 title: "Sa Fudeksom do Beča i Skoplja za 1 euro!"
 date: 2019-02-10T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Kompanija “Fudeks” iz Beograda tokom februara meseca nudi mogućnost putovanja do Beča i Skoplja za samo 1 euro!"
 image: "https://www.balkantransport.net/images/blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro/img1.webp"
 author: "Dušan Beraja"
 categories: ["Turizam", "Prevoznici"]
 tags: ["fudeks"]
-withVideo: "false"
 pageUrl: "blog/sa-fudeksom-do-beca-i-skoplja-za-1-euro"
 type: "post"
 ---

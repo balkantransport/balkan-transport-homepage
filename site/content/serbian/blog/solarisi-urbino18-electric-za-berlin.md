@@ -1,14 +1,12 @@
 ---
 title: "270 električnih Solaris autobusa za Berlinski BVG"
 date: 2025-07-01T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/solaris-dortmund-background.webp"
 description : "Berliner Verkehrsbetriebe (BVG) je u okviru postojećeg okvirnog sporazuma naručio još zglobnih električnih autobusa marke Solaris. "
 image: "https://www.balkantransport.net/images/blog/solarisi-urbino18-electric-za-berlin/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]
-withVideo: "false"
 pageUrl: "blog/solarisi-urbino18-electric-za-berlin"
 type: "post"
 ---

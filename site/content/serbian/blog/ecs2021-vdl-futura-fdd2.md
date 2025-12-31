@@ -1,14 +1,12 @@
 ---
 title: "Coach Euro Test 2021: VDL Futura FDD2"
 date: 2021-09-26T09:30:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/ecs2021-vdl-background.webp"
 description : "Pre 6 godina, predstavljen je model Futura FDD2, razvijen od solo verzije Future koja je u tom period doživela veliku popularnost u Evropi."
 image: "https://www.balkantransport.net/images/blog/ecs2021-vdl-futura-fdd2/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["vdl", "coach euro test 2021"]
-withVideo: "false"
 pageUrl: "blog/ecs2021-vdl-futura-fdd2"
 type: "post"
 ---

@@ -1,14 +1,12 @@
 ---
 title: "Novi Neoplan Tourliner za KK Partizan"
 date: 2023-06-11T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/neoplan-tourliner-za-kk-partizan-background.webp"
 description : "Povratnička sezona u Evroligu donela je mnogo toga dobrog košarkaškom klubu Partizan iz Beograda, kako na igračkom, tako i na marketinškom planu."
 image: "https://www.balkantransport.net/images/blog/novi-neoplan-tourliner-za-kk-partizan/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi"]
 tags: ["Neoplan", "Sejari DOO"]
-withVideo: "false"
 pageUrl: "blog/novi-neoplan-tourliner-za-kk-partizan"
 type: "post"
 ---

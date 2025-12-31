@@ -1,14 +1,12 @@
 ---
 title: "Prag postaje prestonica dvozglobnih trolejbusa!"
 date: 2022-02-21T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/solaris-trollino24-background.webp"
 description : "Prag postaje prestonica dvozglobnih trolejbusa! Dvadeset Solaris Trollino 24 trolejbusa za gradskog prevoznika DPP (Dopravní podnik)."
 image: "https://www.balkantransport.net/images/blog/prag-prestonica-dvozglobnih-trolejbusa/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris"]
-withVideo: "false"
 pageUrl: "blog/prag-prestonica-dvozglobnih-trolejbusa"
 type: "post"
 ---

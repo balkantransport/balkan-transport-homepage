@@ -1,14 +1,12 @@
 ---
 title: "Još 50 Solaris Urbino CNG autobusa za Talin"
 date: 2022-01-30T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/solaris-talin-tlt.webp"
 description : "Talin proširuje porudžbinu – još 50 autobusa Solaris Urbino CNG autobusa pridružiće se floti u glavnom gradu Estonije!"
 image: "https://www.balkantransport.net/images/blog/urbino-cng-za-prestonicu-estonije/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi", "Gradski prevoz"]
 tags: ["solaris", "cng"]
-withVideo: "false"
 pageUrl: "blog/urbino-cng-za-prestonicu-estonije"
 type: "post"
 ---

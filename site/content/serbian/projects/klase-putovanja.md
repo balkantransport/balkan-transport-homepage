@@ -4,7 +4,6 @@ publishDate: "2022-07-17T00:00:00+06:00"
 bg_image: "images/backgrounds/page-title.webp"
 description : "U cilju unapređenja, popularizacije, omasovljenja i standardizacije autobuskog prevoza putnika, Balkan Transport definiše tri osnovne klase putovanja za turistička vozila."
 image: "https://www.balkantransport.net/images/projects/klase-putovanja/img1.webp"
-withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/HwAzcuTXCXA"
 type: "projects/klase-putovanja"
 ---

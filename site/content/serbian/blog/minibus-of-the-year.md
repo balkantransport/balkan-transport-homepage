@@ -1,14 +1,12 @@
 ---
 title: "Mercedes Benz Sprinter City 75 - Minibus of the Year 2019"
 date: 2019-04-13T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Članovi “International Bus of the Year” žirija na Minibus Euro Testu u Madridu su Mercedesu Sprinter City 75 dodelili titulu “Minibus of the Year 2019”."
 image: "https://www.balkantransport.net/images/blog/minibus-of-the-year/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["iveco", "mercedes benz", "man", "minibus"]
-withVideo: "false"
 pageUrl: "blog/minibus-of-the-year"
 type: "post"
 ---

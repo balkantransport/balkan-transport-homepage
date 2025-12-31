@@ -1,14 +1,12 @@
 ---
 title: "Uspostavlja se putnički saobraćaj"
 date: 2020-04-26T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Prema najavama nadležnih službi, delimično uspostavljanje međugradskog saobraćaja najavljeno je za ponedeljak 27. april, uspostavljanje gradskog prevoza očekuje se posle 4. maja 2020. godine."
 image: "https://www.balkantransport.net/images/blog/uspostavlja-se-putnicki-saobracaj/img1.webp"
 author: "Dušan Beraja"
 categories: ["Putnički saobraćaj"]
 tags: ["covid19", "gradski prevoz", "javni prevoz", "turizam", "prevoz putnika"]
-withVideo: "false"
 pageUrl: "blog/uspostavlja-se-putnicki-saobracaj"
 type: "post"
 ---

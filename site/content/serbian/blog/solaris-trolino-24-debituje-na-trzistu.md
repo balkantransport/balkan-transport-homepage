@@ -1,14 +1,12 @@
 ---
 title: "Solaris Trolino 24 debituje na tržištu"
 date: 2021-11-12T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/solaris-trollino24-background.webp"
 description : "*Solaris Bus & Coach* isporučiće 16 vozila *Solaris Trollino 24* slovačkom operateru *Dopravný Podnik Bratislava*. U pitanju su prvi Solaris trolejbusi dužine preko 24 metra koji su izašli na tržište. Pojaviće se na ulicama Bratislave za manje od dve godine a vrednost ugovora iznosi blizu 17 miliona evra."
 image: "https://www.balkantransport.net/images/blog/solaris-trolino-24-debituje-na-trzistu/img1.webp"
 author: "Luka Kalinić"
 categories: ["Gradski prevoz", "Autobusi"]
 tags: ["Solaris"]
-withVideo: "false"
 pageUrl: "blog/solaris-trolino-24-debituje-na-trzistu"
 type: "post"
 ---
