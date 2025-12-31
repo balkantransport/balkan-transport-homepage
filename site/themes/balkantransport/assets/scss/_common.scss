@@ -121,6 +121,11 @@ a h4{
   &-title {
     margin-bottom: 30px;
   }
+
+  &-about {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
 }
 
 .bg-cover {
@@ -577,28 +582,19 @@ section > .container .vehicle-icons-flex img {
   padding-bottom: 40px;
 }
 
-/* =========================================================
-   NEWS/POST VIDEO (YouTube) — radi sa tvojim HTML-om:
-   .bt-news-video > iframe.bt-video-iframe
-   - Mobile/tablet: full width
-   - Desktop: sužen ali velik
-========================================================= */
-
-/* wrapper */
 .section-news .bt-news-video {
   position: relative;
   width: 100%;
   max-width: 100%;
   height: 0;
-  padding-top: 56.25%; /* 16:9 */
+  padding-top: 56.25%;
   overflow: hidden;
   border-radius: 18px;
   background: #000;
   box-shadow: 0 6px 18px rgba(0,0,0,.10);
-  margin: 0 auto; /* centriraj */
+  margin: 0 auto;
 }
 
-/* Iframe fill */
 .section-news .bt-news-video > iframe.bt-video-iframe {
   position: absolute;
   inset: 0;
@@ -608,7 +604,6 @@ section > .container .vehicle-icons-flex img {
   display: block;
 }
 
-/* Desktop: malo sužen ali velik */
 @media (min-width: 992px) {
   .section-news .bt-news-video {
     width: 92%;
@@ -616,10 +611,13 @@ section > .container .vehicle-icons-flex img {
   }
 }
 
-/* Mobile: NEMOJ full-bleed — ubaci “gutter” da bude u kontejneru */
 @media (max-width: 575.98px) {
   .section-news .bt-news-video {
-    width: calc(100% - 24px); /* 12px levo + 12px desno */
+    width: calc(100% - 24px);
     border-radius: 14px;
   }
+}
+
+.section-about .funfacts-full {
+  margin-bottom: 0px;
 }

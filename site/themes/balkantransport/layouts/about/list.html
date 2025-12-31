@@ -3,7 +3,7 @@
 {{ $data := index site.Data site.Language.Lang }}
 
 <!-- about -->
-<section class="section">
+<section class="section-about">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -16,18 +16,6 @@
   </div>
 </section>
 <!-- /about -->
-
-<!-- funfacts -->
-{{ if $data.homepage.funfacts.enable }}
-  {{ with $data.homepage.funfacts }}
-    {{ $items := slice }}
-    {{ range .funfact_item }}
-      {{ $items = $items | append (merge . (dict "above" (i18n "over"))) }}
-    {{ end }}
-    {{ partial "funfacts.html" (dict "items" $items) }}
-  {{ end }}
-{{ end }}
-<!-- /funfacts -->
 
 <!-- success story -->
 {{ partial "success-story.html" . }}

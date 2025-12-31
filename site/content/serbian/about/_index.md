@@ -16,3 +16,5 @@ Od 2019. godine, Balkan Transport prerasta u kompaniju koja kao svoju osnovnu de
 Danas, Balkan Transport čine tri aktivna člana. Reč je o trojici entuzijasta koji uslugu prevoza putnika vide znatno kompleksnije i sa dosta mogućnosti za napretkom u odnosu na to kakva je ona danas. Svojim stavovima i delovanjem, aktivno učestvuju u izgradnji imidža autobuskog prevoza na našem tržištu. 
 
 Osnovni cilj Balkan Transporta je konstantno unapređenje i standardizacija, a kao rezultat toga i omasovljenje prevoza putnika autobusima. 
+
+{{< funfacts data="homepage.funfacts" >}}
