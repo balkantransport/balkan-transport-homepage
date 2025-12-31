@@ -1,14 +1,12 @@
 ---
 title: "Tri Scania autobusa za Severtrans Sombor"
 date: 2022-11-05T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/scania-irizar-background.webp"
 description : "Kompanija Severtrans Sombor AD novi je vlasnik tri moderna Scania Irizar autobusa, radi se o jednom Irizar i6s u dvoosovinkoj izvedbi, dva troosovinska autobusa Irizar i6s, kao i prvi Irizar i8 u Srbiji."
 image: "https://www.balkantransport.net/images/blog/tri-scania-autobusa-za-severtrans-sombor/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Severtrans", "Scania"]
-withVideo: "false"
 pageUrl: "blog/tri-scania-autobusa-za-severtrans-sombor"
 type: "post"
 ---

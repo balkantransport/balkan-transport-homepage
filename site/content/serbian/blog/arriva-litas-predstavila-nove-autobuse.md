@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/arriva-litas-predstavila-nov
 author: "Dušan Beraja"
 categories: ["Autobusi", "Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija", "mercedes-benz", "Turistički autobusi"]
-withVideo: "false"
 pageUrl: "blog/arriva-litas-predstavila-nove-autobuse"
 type: "post"
 ---

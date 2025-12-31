@@ -1,14 +1,12 @@
 ---
 title: "Svetska premijera - Setra MultiClass 500 LE"
 date: 2023-04-25T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/setra-s515LE-background.webp"
 description : "Pre nekoliko dana kroz razne medije prošlo je nekoliko slika prototipa koji je razvijao Daimler. Tajna je konačno otkrivena, predstavljena je nova Setra S 515 LE."
 image: "https://www.balkantransport.net/images/blog/svetska-premijera-setra-multiclass-500-LE/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi"]
 tags: ["setra"]
-withVideo: "false"
 pageUrl: "blog/svetska-premijera-setra-multiclass-500-LE"
 type: "post"
 ---

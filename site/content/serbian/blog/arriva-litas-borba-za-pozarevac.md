@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/arriva-litas-borba-za-pozare
 author: "Dušan Beraja"
 categories: ["Prevoznici"]
 tags: ["arriva litas", "Arriva Litas Požarevac", "arriva Srbija"]
-withVideo: "false"
 pageUrl: "blog/arriva-litas-borba-za-pozarevac"
 type: "post"
 ---

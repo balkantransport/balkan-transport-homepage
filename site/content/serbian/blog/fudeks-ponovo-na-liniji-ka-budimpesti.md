@@ -1,14 +1,12 @@
 ---
 title: "Fudeks ponovo na liniji ka Budimpešti"
 date: 2021-10-27T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/fudeks-budimpesta-background.webp"
 description : "Nakon obustave uzrokovane epidemijom virusa Covid 19, marta 2020. godine, Fudeks u kooperaciji sa Flixbusom ponovo saobraća na liniji Beograd – Novi Sad – Budimpešta od 28.10.2021."
 image: "https://www.balkantransport.net/images/blog/fudeks-ponovo-na-liniji-ka-budimpesti/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Turizam"]
 tags: ["fudeks", "setra", "flixbus", "turizam", "javni prevoz", "prevoz putnika"]
-withVideo: "false"
 pageUrl: "blog/fudeks-ponovo-na-liniji-ka-budimpesti"
 type: "post"
 ---

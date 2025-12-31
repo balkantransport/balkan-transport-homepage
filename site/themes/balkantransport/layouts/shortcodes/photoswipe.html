@@ -10,10 +10,13 @@
   {{ $src := replaceRE `.*src="([^"]+)".*` `$1` $first }}
   {{ $alt := replaceRE `.*alt="([^"]*)".*` `$1` $first }}
 
-  <a href="{{ $src }}" class="pswp-hero">
+  {{/* HERO mora biti .pswp-item da bi PhotoSwipe radio i kad nema thumbs */}}
+  <a href="{{ $src }}" class="pswp-hero pswp-item" data-pswp-open="0">
     <img src="{{ $src }}" alt="{{ $alt }}" class="pswp-hero-img">
   </a>
 
+  {{/* THUMBS samo ako ima vise od 1 slike */}}
+  {{ if gt (len $imgs) 1 }}
   <div class="pswp-thumbs">
     {{ range $index, $img := $imgs }}
       {{ $src := replaceRE `.*src="([^"]+)".*` `$1` $img }}
@@ -26,6 +29,7 @@
       </a>
     {{ end }}
   </div>
+  {{ end }}
 
 </div>
 
@@ -40,52 +44,65 @@
       const heroLink = gallery.querySelector(".pswp-hero");
       const thumbs = gallery.querySelectorAll(".pswp-thumb-item");
 
-      // ===========================================
+      // ==========================
+      // Ako thumbs NE postoje (samo 1 slika):
+      // - PhotoSwipe ce raditi jer je heroLink .pswp-item
+      // - nema potrebe za dodatnom logikom
+      // ==========================
+      if (!thumbs || thumbs.length === 0) {
+        return;
+      }
+
+      // ==========================
       // 1) Thumbnail klik menja HERO i selektuje thumbnail
-      // ===========================================
+      // ==========================
       thumbs.forEach(thumb => {
         thumb.addEventListener("click", e => {
           e.preventDefault();
 
           const newSrc = thumb.getAttribute("href");
           hero.src = newSrc;
+          heroLink.href = newSrc; // bitno: heroLink uvek vodi na trenutnu sliku
 
           // Aktivna klasa (selected)
           thumbs.forEach(t => t.classList.remove("active"));
           thumb.classList.add("active");
+
+          // bitno: da PhotoSwipe uvek otvori odgovarajucu sliku (indeks)
+          heroLink.dataset.pswpOpen = thumb.dataset.pswpOpen || "0";
         });
       });
 
       // Inicijalno selektovan prvi thumbnail
-      if (thumbs.length > 0) {
-        thumbs[0].classList.add("active");
-      }
+      thumbs[0].classList.add("active");
+      heroLink.href = thumbs[0].getAttribute("href");
+      heroLink.dataset.pswpOpen = thumbs[0].dataset.pswpOpen || "0";
 
-      // ===========================================
-      // 2) Klik na HERO otvara PhotoSwipe na TAČNOJ slici
-      // ===========================================
+      // ==========================
+      // 2) Klik na HERO otvara PhotoSwipe na TACNOJ slici
+      // (simuliramo klik na odgovarajuci thumb jer je on .pswp-item i ima indeks)
+      // ==========================
       heroLink.addEventListener("click", e => {
         e.preventDefault();
 
         const currentSrc = hero.getAttribute("src");
-
-        // Pronađi thumbnail koji odgovara trenutnom HERO
-        const match = Array.from(thumbs).find(
-          t => t.getAttribute("href") === currentSrc
-        );
+        const match = Array.from(thumbs).find(t => t.getAttribute("href") === currentSrc);
 
         if (match) {
           thumbs.forEach(t => t.classList.remove("active"));
           match.classList.add("active");
-          match.click();
+          match.click(); // PhotoSwipe hvata .pswp-item klik
+        } else {
+          // fallback: ako iz nekog razloga nema match-a, otvori prvu
+          thumbs[0].click();
         }
       });
 
     });
 
-    // ===========================================
+    // ==========================
     // 3) Centriranje thumbnailova ako nema overflow-a
-    // ===========================================
+    // ==========================
     const checkOverflow = () => {
       document.querySelectorAll(".pswp-thumbs").forEach(el => {
         if (el.scrollWidth > el.clientWidth) {
@@ -99,9 +116,10 @@
     checkOverflow();
     window.addEventListener("resize", checkOverflow);
 
-    // ===========================================
-    // 4) Učitavanje realnih dimenzija za PhotoSwipe (zoom fix)
-    // ===========================================
+    // ==========================
+    // 4) Ucitavanje realnih dimenzija za PhotoSwipe (zoom fix)
+    // (sad radi i za hero jer je i on .pswp-item)
+    // ==========================
     document.querySelectorAll(".pswp-item").forEach(item => {
       const img = new Image();
       img.src = item.getAttribute("href");

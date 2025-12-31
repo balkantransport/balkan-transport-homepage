@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/delimicno-ukidanje-tramvajsk
 author: "Igor Nikolić"
 categories: ["Gradski prevoz"]
 tags: ["javni prevoz", "beograd", "izmene na linijama"]
-withVideo: "false"
 pageUrl: "blog/delimicno-ukidanje-tramvajskog-saobracaja"
 type: "post"
 ---

@@ -1,14 +1,12 @@
 ---
 title: "Svetska premijera: Mercedes Benz Tourrider"
 date: 2022-03-20T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/mercedes-tourrider-background.webp"
 description : "Tourrider je, po navodima iz Nemačke, posebno skrojen za Severnu Ameriku, i ovo je jedino tržište gde će on biti u zvaničnoj ponudi."
 image: "https://www.balkantransport.net/images/blog/mercedes-benz-tourrider/img1.webp"
 author: "Igor Nikolić"
 categories: ["Autobusi"]
 tags: ["Mercedes benz", "Turistički autobusi"]
-withVideo: "false"
 pageUrl: "blog/mercedes-benz-tourrider"
 type: "post"
 ---

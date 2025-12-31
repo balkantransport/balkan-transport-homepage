@@ -1,14 +1,12 @@
 ---
 title: "Stravičan sudar kamiona i autobusa, četvoro poginulih"
 date: 2019-04-30T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "U jutarnjim časovima na putu između Kuršumlije i Prokuplja, kod mesta Barlovo, došlo je do čeonog sudara između autobusa firme “Niš Ekspres” i kamiona sa prikolicom."
 image: "https://www.balkantransport.net/images/blog/stravican-sudar-autobusa-i-kamiona/img1.webp"
 author: "Dušan Beraja"
 categories: ["Putnički saobraćaj"]
 tags: ["Gradski prevoz niš", "Niš Ekspres", "sudar"]
-withVideo: "false"
 pageUrl: "blog/stravican-sudar-autobusa-i-kamiona"
 type: "post"
 ---

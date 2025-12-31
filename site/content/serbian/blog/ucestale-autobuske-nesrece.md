@@ -1,14 +1,12 @@
 ---
 title: "Zašto su autobuske nesreće sve učestalije leti?"
 date: 2022-08-21T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/autobuske-nesrece-background.webp"
 description : "Od početka leta svedočili smo dešavanju nekoliko saobraćajnih nezgoda u kojima su učesnici bili autobusi, uključujući i one sa najtežim posledicama. Nažalost, ovo leto nije izuzetak, a situacija je slična godinama unazad."
 image: "https://www.balkantransport.net/images/blog/ucestale-autobuske-nesrece/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Vozači"]
 tags: ["Profesionalni vozači", "Prevoz putnika", "Srbija", "Saobraćajna nesreća"]
-withVideo: "false"
 pageUrl: "blog/ucestale-autobuske-nesrece"
 type: "post"
 ---

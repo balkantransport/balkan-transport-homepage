@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/busworld-2025/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi"]
 tags: ["sajam", "busworld", "scania", "Mercedes benz", "solaris"]
-withVideo: "false"
 pageUrl: "blog/busworld-2025"
 type: "post"
 ---

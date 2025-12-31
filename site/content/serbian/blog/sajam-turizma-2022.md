@@ -1,14 +1,12 @@
 ---
 title: "43. Međunarodni sajam turizma"
 date: 2022-03-23T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/fudeks-budimpesta-background.webp"
 description: "Nedelju dana pred početak najveće turističke smotre u zemlji i regionu, **43. Međunarodnog beogradskog sajma turizma**, na Beogradskom sajmu održana je konferencija za medije na kojoj su najavljeni učesnici i program manifestacije."
 image: "https://www.balkantransport.net/images/blog/sajam-turizma-2022/img1.webp"
 author: "Luka Kalinić"
 categories: ["Turizam"]
 tags: ["Srbija", "Turizam", "Sajam"]
-withVideo: "false"
 pageUrl: "blog/sajam-turizma-2022"
 type: "post"
 ---

@@ -1,14 +1,12 @@
 ---
 title: "Uspostavlja se gradski prevoz u Beogradu i Nišu"
 date: 2020-05-08T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Od petka 08.05.2020. ponovo se uspostavlja gradski prevoz na teritoriji grada Beograda i grada Niša."
 image: "https://www.balkantransport.net/images/blog/uspostavlja-se-gradski-prevoz-bg-i-ni/post-3_1.webp"
 author: "Dušan Beraja"
 categories: ["Gradski prevoz"]
 tags: ["covid19", "gradski prevoz", "gradski prevoz niš", "gsp beograd", "javni prevoz"]
-withVideo: "false"
 pageUrl: "blog/uspostavlja-se-gradski-prevoz-bg-i-ni"
 type: "post"
 ---

@@ -1,14 +1,12 @@
 ---
 title: "Setra S517HDH je novi član voznog parka L&M Kostić Tours-a iz Beograda"
 date: 2025-11-05T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/l&m-kostic-tours-setra-s517hdh-background.webp"
 description : "Krajem oktobra sa radom je krenulo najnovije pojačanje u voznom parku prevoznika L&M Kostić Tours iz Beograda – Setra S517HDH."
 image: "https://www.balkantransport.net/images/blog/l&m-kostic-tours-setra-s517hdh/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "iznajmljivanje autobusa", "l&m kostić tours", "lavli travel", "setra", "turizam"]
-withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/FbnJfkg8Wkc"
 pageUrl: "blog/l&m-kostic-tours-setra-s517hdh"
 type: "post"

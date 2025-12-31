@@ -1,14 +1,12 @@
 ---
 title: "Talačka kriza u Nemačkoj u autobusu Laste"
 date: 2021-09-21T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Na autoputu A9 između *Hilpolteseina* i *Gredinga* došlo je do potpune obustave saobraćaja zbog talačke krize u autobusu Laste iz Beograda."
 image: "https://www.balkantransport.net/images/blog/talacka-kriza-u-nemackoj-lasta/img1.webp"
 author: "Dušan Beraja"
 categories: ["Prevoznici"]
 tags: ["Lasta", "Turistički autobusi"]
-withVideo: "false"
 pageUrl: "blog/talacka-kriza-u-nemackoj-lasta"
 type: "post"
 ---

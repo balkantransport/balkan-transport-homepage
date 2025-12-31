@@ -1,14 +1,12 @@
 ---
 title: "Predstavljeni novi Volvo 9700 i 9900"
 date: 2019-01-17T15:27:17+06:00
-draft: false
 bg_image: "images/backgrounds/page-title.webp"
 description : "Danas su u Austriji prezentovani novi modeli Volvo autobusa, modeli 9700 i 9900."
 image: "https://www.balkantransport.net/images/blog/predstavljeni-novi-volvo-9700-i-9900/img1.webp"
 author: "Dušan Beraja"
 categories: ["Autobusi"]
 tags: ["volvo"]
-withVideo: "false"
 pageUrl: "blog/predstavljeni-novi-volvo-9700-i-9900"
 type: "post"
 ---

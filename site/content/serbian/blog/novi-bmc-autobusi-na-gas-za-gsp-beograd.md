@@ -1,14 +1,12 @@
 ---
 title: "GSP Beograd bogatiji za 100 novih autobusa na gas"
 date: 2022-11-23T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/gsp-background-2.webp"
 description : "Sto novih zglobnih autobusa s pogonom na komprimovani prirodni gas (CNG) BMC Procity 18 CNG pušteno je u saobraćaj u Beogradu."
 image: "https://www.balkantransport.net/images/blog/novi-bmc-autobusi-na-gas-za-gsp-beograd/img1.webp"
 author: "Luka Kalinić"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["GSP", "Beograd", "BMC"]
-withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/wPyC4P4ywZM"
 pageUrl: "blog/novi-bmc-autobusi-na-gas-za-gsp-beograd"
 type: "post"

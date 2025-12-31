@@ -8,7 +8,6 @@ image: "https://www.balkantransport.net/images/blog/bt-projekat-klase-putovanja/
 author: "Igor Nikolić"
 categories: ["Autobusi", "Turizam"]
 tags: ["QR code", "presto", "turistički autobusi"]
-withVideo: "true"
 videoUrl: "https://www.youtube.com/embed/HwAzcuTXCXA"
 pageUrl: "blog/bt-projekat-klase-putovanja"
 type: "post"

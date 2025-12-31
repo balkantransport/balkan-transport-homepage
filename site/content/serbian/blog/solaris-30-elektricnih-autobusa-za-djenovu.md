@@ -1,14 +1,12 @@
 ---
 title: "Solaris: 30 električnih autobusa za Đenovu"
 date: 2021-10-11T00:00:00+06:00
-draft: false
 bg_image: "images/backgrounds/blog/solaris-djenova-background.webp"
 description : "Solaris je neprikosnoveni lider u prodaji električnih autobusa u Italiji. Poslednjih dana, proizvođač je postigao još jedan uspeh u ovom segmentu, pobedivši na tenderu za isporuku čak 30 e-autobusa AMT-u u Đenovi. Priobalni grad želi da zameni svoju flotu električnim autobusima do 2025. Vrednost novog govora premašuje 15 miliona evra."
 image: "https://www.balkantransport.net/images/blog/solaris-30-elektricnih-autobusa-za-djenovu/img1.webp"
 author: "Luka Kalinić"
 categories: ["Autobusi"]
 tags: ["solaris"]
-withVideo: "false"
 pageUrl: "blog/solaris-30-elektricnih-autobusa-za-djenovu"
 type: "post"
 ---
