@@ -40,15 +40,34 @@
         <h6 class="mb-4">(Klik na logo za više detalja)</h6>
       </div>
       <!-- partners -->
-      {{ range .Params.Partners }}
-      <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
-        <div class="media hover-shadow mb-10" style="justify-content: center">
-          <a href="{{ .partnerUrl}}">
-            {{ with .image }}<img class="mr-3" src="{{ . | relURL }}" alt="speaker">{{ end }}
-          </a>
+      {{ range .Params.partners }}
+        {{ $p := . }}
+
+        <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+          <div class="media hover-shadow mb-10" style="justify-content: center">
+
+            {{ with $p.page }}
+              {{ with site.GetPage (printf "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/%s" .) }}
+                <a href="{{ .RelPermalink }}">
+                  {{ with $p.image }}
+                    <img class="mr-3" src="{{ . | relURL }}" alt="partner">
+                  {{ end }}
+                </a>
+              {{ else }}
+                {{ with $p.image }}
+                  <img class="mr-3" src="{{ . | relURL }}" alt="partner">
+                {{ end }}
+              {{ end }}
+            {{ else }}
+              {{ with $p.image }}
+                <img class="mr-3" src="{{ . | relURL }}" alt="partner">
+              {{ end }}
+            {{ end }}
+
+          </div>
         </div>
-      </div>
       {{ end }}
+
     </div>
   </div>
 </section>

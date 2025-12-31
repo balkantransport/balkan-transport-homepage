@@ -6,28 +6,28 @@ bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img3.webp"
 description : "VDL Grupa je osnovana 1953. godine u Ajndhovenu u Holandiji. U sklopu VDL Grupe poslovale su podružnice koje su imale najveći vid autonomije i samostalnosti u poslovanju."
 image: "https://www.balkantransport.net/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1.webp"
 partners:
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo1.webp"
-    partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/presto"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo1.webp"
+    page: "presto"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo2.webp"
-    partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/janjusevic"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo2.webp"
+    page: "janjusevic"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo3.webp"
-    partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/lastra"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo3.webp"
+    page: "lastra"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo4.webp"
-    partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/severtrans"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo4.webp"
+    page: "severtrans"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo5.webp"
-    partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/autokodeks"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo5.webp"
+    page: "autokodeks"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo6.webp"
-    partnerUrl: "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/md-touristic-international"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo6.webp"
+    page: "md-touristic-international"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo7.webp"
-    partnerUrl : "https://www.balkantransport.net/projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/lasta"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo7.webp"
+    page: "lasta"
 
-  - image : "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo8.webp"
+  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo8.webp"
 
 # type
 type: "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"

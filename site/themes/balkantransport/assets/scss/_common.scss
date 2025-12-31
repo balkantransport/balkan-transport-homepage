@@ -621,3 +621,33 @@ section > .container .vehicle-icons-flex img {
 .section-about .funfacts-full {
   margin-bottom: 0px;
 }
+
+.event-single-content h3,
+.event-single-content h4 {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 1rem;
+
+  flex-wrap: nowrap;
+}
+
+.event-single-content h3 .heading-text,
+.event-single-content h4 .heading-text {
+  min-width: 0;
+  white-space: normal;
+  flex: 0 1 auto;
+}
+
+.event-single-content h3::after,
+.event-single-content h4::after {
+  content: "";
+  flex: 1 1 auto;
+  min-width: 60px;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.event-single-content h3::after {
+  height: 2px;
+}
