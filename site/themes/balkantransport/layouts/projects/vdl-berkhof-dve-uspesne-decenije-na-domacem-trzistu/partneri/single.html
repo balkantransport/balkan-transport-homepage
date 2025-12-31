@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-20">
+        <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-12 mb-20 content event-single-content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row mb-30" style="justify-content: center;">
+      <div class="col-12">
+        <div class="video-embed">
+          <iframe
+            src="{{ .Params.videoUrl }}"
+            title="{{ .Params.title }}"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            referrerpolicy="strict-origin-when-cross-origin">
+          </iframe>
+        </div>
+      </div>
+    </div>
+
+    <hr class="mb-30">
+
+    {{ if .Site.Config.Services.Disqus.Shortname }}
+      <div class="row">
+        <div class="col-12">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}
