@@ -27,3 +27,7 @@
 .ti-twitter-alt:before { content: "\e74c"; }
 .ti-instagram:before { content: "\e73d"; }
 .ti-youtube:before { content: "\e728"; }
+.ti-user:before { content:"\e602"; }
+.ti-calendar:before { content: "\e6b6";}
+.ti-tag:before { content: "\e608";}
+.ti-wallet:before { content: "\e6cd"; }

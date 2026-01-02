@@ -10,23 +10,39 @@
             <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
           </div>
           <div class="col-12">
-            <ul class="list-inline">
-              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "posted_by" }}
-                  :</span><a
-                  href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
+            <ul class="bt-post-meta">
+              <!-- AUTHOR -->
+              <li class="bt-post-meta__item bt-post-meta__item--author">
+                <i class="ti-user bt-post-meta__icon"></i>
+                <span class="bt-post-meta__label">{{ i18n "posted_by" }}:</span>
+                <a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">
+                  {{ .Params.Author | title }}
+                </a>
+              </li>
 
-              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "date" }}
-                  :</span>{{ .PublishDate.Format "02 Jan, 2006" }}</li>
+              <!-- DATE -->
+              <li class="bt-post-meta__item bt-post-meta__item--date">
+                <i class="ti-calendar bt-post-meta__icon"></i>
+                <span class="bt-post-meta__label">{{ i18n "date" }}:</span>
+                <span>{{ .PublishDate.Format "02 Jan, 2006" }}</span>
+              </li>
 
-              <li class="list-inline-item mr-4 mb-3 mb-md-0 text-light"><span class="font-weight-bold mr-2">{{ i18n "category" }}
-                  :</span>{{ range $index, $elements:= .Params.Categories }}<a
-                  href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"> {{ if ne $index 0 }}, {{ end }}
-                  {{ . | title }}</a> {{ end}}</li>
-
+              <!-- CATEGORY (UVEK POSEBAN RED) -->
+              <li class="bt-post-meta__item bt-post-meta__item--category">
+                <i class="ti-tag bt-post-meta__icon"></i>
+                <span class="bt-post-meta__label">{{ i18n "category" }}:</span>
+                <span class="bt-post-meta__value">
+                  {{ range $index, $elements:= .Params.Categories -}}
+                    <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">
+                      {{ if ne $index 0 }}, {{ end }}{{ . | title }}
+                    </a>
+                  {{- end }}
+                </span>
+              </li>
             </ul>
           </div>
           <!-- border -->
-          <div class="col-12 my-4">
+          <div class="col-12 my-3">
             <div class="border-bottom"></div>
           </div>
           <!-- blog contect -->
@@ -35,9 +51,7 @@
           </div>
 
           {{ with .Params.videoUrl }}
-            <hr class="mb-40">
-
-            <div class="bt-news-video mb-20">
+            <div class="bt-news-video mb-10">
               <iframe
                 class="bt-video-iframe"
                 src="{{ . | safeURL }}"
@@ -47,6 +61,9 @@
                 allowfullscreen
                 referrerpolicy="strict-origin-when-cross-origin">
               </iframe>
+            </div>
+            <div class="col-12">
+              <hr class="mb-30">
             </div>
           {{ end }}
 

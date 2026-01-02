@@ -118,12 +118,12 @@ copyright = "Copyright &copy; 2021 Balkan Transport"
 # main menu
 [[Languages.sr.menu.main]]
 name = "Vesti"
-url = "blog"
+url = "vesti"
 weight = 1
 
 [[Languages.sr.menu.main]]
 name = "Usluge"
-url = "service"
+url = "usluge"
 weight = 2
 
 [[Languages.sr.menu.main]]
@@ -134,7 +134,7 @@ hasChildren = true
   [[Languages.sr.menu.main]]
   parent = "Partneri"
   name = "Presto"
-  url = "partners/presto/"
+  url = "partneri/presto/"
 
 [[Languages.sr.menu.main]]
 weight = 4
@@ -205,21 +205,21 @@ hasChildren = true
   [[Languages.sr.menu.main]]
   parent = "Projekti"
   name = "VDL Berkhof: Dve uspešne decenije"
-  url = "projects/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/"
+  url = "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/"
 
   [[Languages.sr.menu.main]]
   parent = "Projekti"
   name = "Klase putovanja"
-  url = "projects/klase-putovanja/"
+  url = "projekti/klase-putovanja/"
 
 [[Languages.sr.menu.main]]
 name = "O nama"
-url = "about"
+url = "o-nama"
 weight = 6
 
 [[Languages.sr.menu.main]]
 name = "Kontakt"
-url = "contact"
+url = "kontakt"
 weight = 7
 
 # footer menu

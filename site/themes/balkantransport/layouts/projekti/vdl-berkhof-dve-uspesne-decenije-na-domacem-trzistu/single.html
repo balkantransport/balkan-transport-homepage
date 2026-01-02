@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+<!-- event single -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-20">
+        <img src="{{ .Params.image | relURL }}" alt="blog-thumb" class="img-fluid w-100">
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 mb-20 content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>  
+  <div class="container">
+    <div class="row mb-30" style="justify-content: center;">
+      <div class="col-12">
+        <div class="video-embed">
+          <iframe
+            src="https://www.youtube.com/embed/qmjRD4dal3I"
+            title="VDL Berkhof: #7 SP Lasta ad Beograd"
+            loading="lazy"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+            referrerpolicy="strict-origin-when-cross-origin">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <!-- event partners -->
+    <div class="row">
+      <div class="col-12">
+        <h2>{{ i18n "proud_partners"}}</h2>
+        <h6 class="mb-4">(Klik na logo za više detalja)</h6>
+      </div>
+      <!-- partners -->
+      {{ range .Params.partners }}
+        {{ $p := . }}
+
+        <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+          <div class="media hover-shadow mb-10" style="justify-content: center">
+
+            {{ with $p.page }}
+              {{ with site.GetPage (printf "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/%s" .) }}
+                <a href="{{ .RelPermalink }}">
+                  {{ with $p.image }}
+                    <img class="mr-3" src="{{ . | relURL }}" alt="partner">
+                  {{ end }}
+                </a>
+              {{ else }}
+                {{ with $p.image }}
+                  <img class="mr-3" src="{{ . | relURL }}" alt="partner">
+                {{ end }}
+              {{ end }}
+            {{ else }}
+              {{ with $p.image }}
+                <img class="mr-3" src="{{ . | relURL }}" alt="partner">
+              {{ end }}
+            {{ end }}
+
+          </div>
+        </div>
+      {{ end }}
+
+    </div>
+  </div>
+</section>
+{{ end }}
