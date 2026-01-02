@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<!-- services -->
+<section class="section-service">
+  <div class="container">
+    <!-- services list -->
+    <div class="row justify-content-center">
+      <!-- service item -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "service" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /services list -->
+  </div>
+</section>
+<!-- /services -->
+
+{{ end }}

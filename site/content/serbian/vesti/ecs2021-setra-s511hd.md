@@ -1,0 +1,51 @@
+---
+title: "Coach Euro Test 2021: Setra S 511 HD"
+date: 2021-09-25T00:00:00+06:00
+bg_image: "images/backgrounds/page-title.webp"
+description : "Najmanji učesnik ovog takmičenja, pomalo iznenađujuće za mnoge koji prate ovo takmičenje, Setra se pojavila na ovom takmičenju sa najkraćim modelom iz ComfortClass-e serije 500."
+image: "https://www.balkantransport.net/images/blog/ecs2021-setra-s511hd/img1.webp"
+author: "Dušan Beraja"
+categories: ["Autobusi"]
+tags: ["setra", "coach euro test 2021"]
+pageUrl: "blog/ecs2021-setra-s511hd"
+type: "post"
+---
+ 
+Predstavnik jednog od najpoznatijeg proizvođača autobusa na izboru *"Coach Euro 2021"* je dakle, **Setra S511HD**, dužine od "svega" 10.5m. Ovaj model pokreće agregat proizvođača *"Mercedes"* OM470 sa 290 kW (394 konjske snage). Radi se o linijskom motoru koji je na ovom modelu uparen sa automatskim menjačem, proizvođača "Mercedes-Benz", model GO250 (PowerShift) sa 8 brzina.
+
+Obzirom na dužinu, raspolaže neobično "velikim" brojem sedišta za putnike i može ih biti do 43. Model na takmičenju bio je opremljen sa 34 sedišta, tipa *Setra Voyage Ambassador*, sa luksuznim zaglavljem, kao i vezenim logom Setre na samom sedištu.
+
+{{< photoswipe >}}
+
+![Setra S511HD eksterijer 1](/images/blog/ecs2021-setra-s511hd/img8.webp "Setra S511HD eksterijer 1")
+![Setra S511HD eksterijer 2](/images/blog/ecs2021-setra-s511hd/img9.webp "Setra S511HD eksterijer 2")
+
+{{< /photoswipe >}}
+
+Kao i svaki model iz ComfortClass serije 500, i ovaj model raspolaže raznim bezbednosnim sistemima koji su asistencija vozaču, ESP (*Electronic Stability Program*), ASR (*anti-slip control*), BAS (*Brake Assist*), SPA (*Lane Assist*), AICC (*autonomous intelligent cruise control*), ABA 4 (*Active Brake Assist*), PPC (*Predictive Powertrain Control*), SGA (*Side Guard Assist*), ELC (*electronic level control*)….
+
+{{< photoswipe >}}
+
+![Setra S511HD vozačev prostor](/images/blog/ecs2021-setra-s511hd/img5.webp "Setra S511HD vozačev prostor")
+![Setra S511HD vozačev prostor](/images/blog/ecs2021-setra-s511hd/img6.webp "Setra S511HD vozačev prostor")
+
+{{< /photoswipe >}}
+
+Osim toga, opremljen je audio/video opremom - 19 inčni monitori omogućiće putnicima uživanje tokom putovanja u nekom od filmova. Za prijatnu atmosferu pobrinuće se led osvetljenje u samom vozilu. Vozilo je takođe opremljeno led farovima, senzorima za kišu, maglu, kamerama za vožnju unazad, kao i panoramskom kamerom za pregled situacije oko vozila.
+
+{{< photoswipe >}}
+
+![Setra S511HD enterijer 1](/images/blog/ecs2021-setra-s511hd/img2.webp "Setra S511HD enterijer 1")
+![Setra S511HD enterijer 2](/images/blog/ecs2021-setra-s511hd/img3.webp "Setra S511HD enterijer 2")
+![Setra S511HD enterijer 3](/images/blog/ecs2021-setra-s511hd/img4.webp "Setra S511HD enterijer 3")
+![Setra S511HD svetlosne grupe](/images/blog/ecs2021-setra-s511hd/img7.webp "Setra S511HD svetlosne grupe")
+
+{{< /photoswipe >}}
+
+Ono što su želeli da istaknu, jeste širok spektar primene ovog vozila, pre svega zahvaljujući velikom izboru dodatne opreme I raznih izvedbi (rasporeda sedenja, paketa opreme, dodataka u vozilu) koji omogućava promenu u gotovo svakoj situaciji. Od VIP varijante autobusa za transfere, preko sjajnog rešenja za manje grupe, panoramske ture kroz grad, ali i za daleki put koji uključuje obilaske ne tako pristupačnih lokaliteta, zbog svoje dužine, kao I zbog primetno manjeg mesta koje je neophodno za okretanje ovog autobusa.
+
+Setra S511HD prilagođava se svim zadacima I izvršava ih na najvećem nivou, ipak, ono što je barem za tržište Balkana bolna tačka, nabavna cena ovakvog jednog autobusa nimalo ne zaostaje za "većim" (tačnije, dužim) primercima iz Serije 500, luksuz I komfor u ovom slučaju imaju I lepu cenu, te zbog toga, nažalost, nećemo puno ovakvih modela videti kod naših prevoznika.
+
+**Izvor: [www.bussmagasinet.no](https://bussmagasinet.no/)**
+
+---
