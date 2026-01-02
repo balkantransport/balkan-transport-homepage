@@ -10,23 +10,17 @@
           {{ $paginator := .Paginate ( where .Data.Pages "Type" "post") }}
           {{ range $paginator.Pages }}
           <div class="col-sm-6 mb-5">
-            <article
-              class="card height-100 rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
+            <article class="card height-100 rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
               <img class="card-img-top rounded-0" src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
               <div class="card-body">
-                <!-- post meta -->
-                <ul class="list-inline mb-3">
-                  <!-- post date -->
-                  <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i>
-                    {{ .PublishDate.Format "02 Jan, 2006" }}</li>
-                  <!-- author -->
-                  <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
-                      href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a>
-                  </li>
-                </ul>
-                <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+                {{ partial "card-meta.html" . }}
+                <h4 class="card-title">
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h4>
                 <p class="card-text">{{ .Summary | truncate 100 }}</p>
-                <a href="{{ .Permalink }}" class="btn btn-card-solid-premium">{{ i18n "read_more" }}</a>
+                <a href="{{ .Permalink }}" class="btn btn-card-solid-premium">
+                  {{ i18n "read_more" }}
+                </a>
               </div>
             </article>
           </div>

@@ -70,7 +70,13 @@
   <div class="container wide-container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ $data.homepage.blog.title }}</h2>
+        <div class="d-flex align-items-center section-title justify-content-between">
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.blog.title }}</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div>
+            <a href="{{ `vesti` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
+          </div>
+        </div>
       </div>
     </div>
     <div class="row justify-content-center">
@@ -125,7 +131,7 @@
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.course.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{ `service` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
+            <a href="{{ `usluge` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
@@ -133,7 +139,7 @@
     <!-- services list -->
     <div class="row justify-content-center">
       <!-- service item -->
-      {{ range first 4 (where site.RegularPages "Type" "service")}}
+      {{ range first 4 (where site.RegularPages "Type" "usluge")}}
       <div class="col-lg-3 col-sm-6 mb-5">
         {{ .Render "service" }}
       </div>
@@ -143,7 +149,7 @@
     <!-- mobile see all button -->
     <div class="row">
       <div class="col-12 text-center">
-        <a href="{{ `service` | relLangURL }}" class="btn btn-card-solid-premium d-sm-none d-inline-block">{{ i18n "see_all" }}</a>
+        <a href="{{ `usluge` | relLangURL }}" class="btn btn-card-solid-premium d-sm-none d-inline-block">{{ i18n "see_all" }}</a>
       </div>
     </div>
   </div>

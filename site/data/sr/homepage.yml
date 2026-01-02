@@ -130,7 +130,7 @@ cta:
   button:
     enable : true
     label : "PIŠITE NAM"
-    link : "contact"
+    link : "kontakt"
 
 
 ######################## Success story #############################
