@@ -60,12 +60,24 @@ Vozilo je opremljeno krevetom za vozača, frižiderom, toaletom, USB priključci
 
 ## Podaci o vozilu
 
+{{< photoswipe >}}
+
 ![VDL Futura FHD2 120-370‌‌ podaci o vozilu](/images/partners/presto/vozilo1/stats.webp "VDL Futura FHD2 120-370‌‌ podaci o vozilu")
+
+{{< /photoswipe >}}
 
 ## Konfiguracija sedišta
 
+{{< photoswipe >}}
+
 ![VDL Futura FHD2 120-370‌‌ konfiguracija sedišta](/images/partners/presto/vozilo1/seatConfig.webp "VDL Futura FHD2 120-370‌‌ konfiguracija sedišta")
+
+{{< /photoswipe >}}
 
 ## Kontakt
 
+{{< photoswipe >}}
+
 ![VDL Futura FHD2 120-370‌‌ kontakt](/images/partners/presto/vozilo1/kontakt.webp "VDL Futura FHD2 120-370‌‌ kontakt")
+
+{{< /photoswipe >}}

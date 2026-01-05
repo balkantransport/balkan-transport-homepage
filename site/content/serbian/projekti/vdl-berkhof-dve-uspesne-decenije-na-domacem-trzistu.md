@@ -54,19 +54,19 @@ Kada je reč o tržištu, osnovu kompletne ponude za kupce predstavljao je model
 
 {{< funfacts data="homepage.funfactsvdl" >}}
 
-### Prva generacija
+## Prva generacija
 
 Prvu generaciju odlikuje zakošena prednja stena sa kockastim prednjim i pravugaonim zadnjim farovima u jednoj celini. U serijskoj proizvodnji je bila od 1999 do 2003. godine. Zbog perioda u kom su se proizvodili, preteče i prve primerke ovih modela bilo je moguće naći sa motorima Euro 0, a poslednje i do Euro 3 norme. Na našem tržištu iz prve generacije nema velikog broja aktivnih primeraka. Radi se o Axaialima 70 i tek ponekom primerku Axiala 50.
 
-### Druga generacija
+## Druga generacija
 
 Druga generacija bila je takođe prepoznatljiva po zakošenoj prednjoj steni ali po okruglim farovima. Zadnju stenu odlikovala je pravugaona svetlosna grupa u uspravnom položaju u dva dela, sa reflektujućim nastavcima koji su neretko posmatrani kao jedna celina. Modeli druge generacije su najzastupljeniji na našem tržištu. Proizvodili su se od 2003. do 2011. godine. Euro norma motora ispunjavala je klase 3, 4 i 5. Iz ove generacije na našem tržištu imamo i predstavnike troosovinskih i deker izvedbi ali i modela Axial 50.
 
-### Treća generacija
+## Treća generacija
 
 Uz nova tehnička dostignuća i napretke, sa ravnom prednjom stenom i potpuno identičnom svetlosnom grupom spreda i pozadi, 2011. godine predstavljena je 3. generacija VDL Berkhof Axial modela. Proizvodio se do 2013. godine. Svi primerci su proizvedeni sa Euro 5 normom motora. Za period od 2 godine nije napravljen veliki broj ovih modela, posebno jer se VDL grupacija okrenula usavršavanju novog modela tipa Futura. Axial 50 treće generacije je prava retkost, na našem tržištu još uvek nemamo predstavnika, a u ovoj generaciji, izostavljena je deker izvedba.
 
-### VDL Berkhof na domaćem tržištu
+## VDL Berkhof na domaćem tržištu
 
 Na današnji dan pre tačno dve decenije, 22. decembra 2001. godine oko 12h u našu zemlju stigao je prvi primerak VDL Berkhof Axiala. Reč je o 10 novi Axiala 70 i jednom deker primerku Axial 100 za kompaniju Lasta iz Beograda.
 
@@ -80,33 +80,33 @@ Prilikom realizacije našeg projekta, imali smo tu čast da naiđemo na razumeva
 
 U nastavku pročitajte kako je izgledao početak VDL Berkhofa kako na našem tržištu tako i u kompaniji Lasta.
 
-#### Kako je došlo do saradnje sa VDL-om, tj. tadašnjim Berkhofom?
+### Kako je došlo do saradnje sa VDL-om, tj. tadašnjim Berkhofom?
 
 Sama situacija u kompaniji te 2001. godine nije bila sjajna za a uz to nama su autobusi bili preko potrebni. Došla je ponuda od VDL-a, preko Zorana Radovanovića, tada firma MTA Beograd, nakon čega smo otišli u Ajndhoven. Dobili smo ponudu za nekih 10 solo autobusa Axial 70 i jedan dabldeker autobus Axial 100. Čini mi se da je cena tada bila nekih 387.000 maraka po komadu za Axial 70 i 640.000 maraka za dabldeker. To je bila konačna cena posle pregovora. Mi smo tu stvar potvrdili, Dobili smo i adekvatnu mogućnost finansiranja, nakon čega smo krenuli u realizaciju. To su bili prvi novi autobusi koji su ušli u Lastu te 2001. godine. Onda je 2002. i sledećih godina došlo do značajnog obnavljanja voznog parka turističkim autobusima. Tada su motori bili Euro 0 i Euro 1, kasnije su bili i složeniji, Euro 2, Euro 3, Euro 4. Došlo je do kupovine i nekih drugih modela tipa Mistral iz ćerka fabrike Berkhofa, iz Belgije, okoline Antverpena. Zatim bilo je tu i Axiala 50, pogotovo posle nekih akcija VDL-a na srpskom tržištu, gde su želeli da proizvode Axial 50 u Ikarbusu ili u Neobusu, pa su nam dali jako dobre ponude za te autobuse. Nije ih bilo mnogo, ali bilo ih je u ponudi, a tu je naravno bio i model Axial 100. Saradnja sa VDL-om je trajala sve dok sam ja bio na mestu direktora Laste do 2014. godine. Kada je reč o brojkama bilo je nekih 210-212 novih autobusa plus 100 polovnih, i to iz neke dobre ture. Radilo se o vozilima turističke organizacije Kontiki iz Holandije gde su bili autobusi stari 2-4 godine, a imali otprilike 180.000 - 250.000 km. Usledila je i tehnička podrška od VDL-a, zatim smo napravili servis, ne samo za nas nego i za kompletnu jugoistočnu Evropu. Radili smo servisiranje i održavanje i nekih DAF-ovih kamiona koji su prolazili pored naše garaže.
 
-#### Da li je pored VDL-ove ponude bilo još neke, i zašto ste se odlučili baš za VDL Berkhofe?
+### Da li je pored VDL-ove ponude bilo još neke, i zašto ste se odlučili baš za VDL Berkhofe?
 
 Da, bilo je ponuda. Bilo je ponuda Mercedesa, MAN-a bilo je mnogih poznatih svetskih firmi koje su konkurisale i tražile mogućnost za prodaju autobusa. Međutim, ovde je bilo par značajnih stvari. Prvo, VDL je bila jedina kompanija koja je htela da da buy-back garanciju Banka Austrija kredit alnštat lizingu, što je bila veoma bitna stvar da bi se lizing uopšte mogao dobiti, druga stvar cena je bila značajno niža, možda i 15% u odnosu na Mercedes, Setru i MAN, treba napomenuti da su se tada svi ti autobusi, za razliku od kasnijeg vremena proizvodili u Nemačkoj, i da su imali osnovnu inicijalnu cenu neuporedivo veću nego što je to sada. U Ulmu se proizvodila Setra, u Salzgiteru MAN, Mercedes takođe u Nemačkoj i definitivno to su bile evropske cene rada i evropske cene tih autobusa. VDL je tada tražio svoju mogućnost na srpskom tržištu, i ponudio tu saradnju. Može se reći da je Lasta u prethodnom periodu, negde 1997. godine imala neku saradnju sa holanđanima, kupila je nekih 8 Smit autobusa, dobrih turističkih autobusa. Imali smo pozitivne parametre u potrošnji DAF-ovih motora i šasija i u kvalitetu izrade. Tako da je analiza tada pokazivala da možemo očekivati pozitivne trendove u poslovanju ako kupimo te autobuse. Mi smo gledali i pratili šta ti autobusi rade, i kako se ponašaju, kakva je cena održavanja po kilometru… Što je kasnije i pokazalo tržište, to su bili dobri autobusi, u tom momentu smo napravili dobar izbor.
 
-#### Kakvi su utisci bili kada su vozila stigla, šta su rekli putnici a šta konkurencija?
+### Kakvi su utisci bili kada su vozila stigla, šta su rekli putnici a šta konkurencija?
 
 Nismo mnogo razmišljali o konkurenciji. Pre svega zato što celo srpsko tržište u tom momentu nije imalo ideju za obnavljanjem voznog parka. Mi smo prvi krenuli sa tom idejom. Naravno, naišli smo na izuzetno odobravanje putnika, obzirom da smo nastupili sa novom, belom bojom i čistim, urednim, novim, pouzdanim i bezbednim autobusima. To je tada praktično novi početak i renesansa saobraćajnog preduzeća Lasta i neko novo nametanje na tržištu, veoma pozitivno i kvalitetno, i to je tako trajalo dugi niz godina, i definitivno Lasta je vratila poverenje u svoj brend i tada je postala sponzor mnogih kulturnih događaja, mnogih manifestacija, i definitivno se nametala kvalitetom, sigurnošću i bezbednošću na putu.
 
-#### Kako su se sama vozila pokazala?
+### Kako su se sama vozila pokazala?
 
 Mislim da su vozila ispunila sva očekivanja. Apsolutno je bilo zadovoljstvo kada posle nekog vremena dobijete veći broj novih vozila. Ta vozila su bila zaista dosta dobra, kvalitetna i nije bilo problema u eksploataciji. Kada dobijete servis, kada nema problema u eksploataciji i kada sve radite onako kako treba, jednostavno zadovoljstvo je i vozača i mehaničara. Tehničke karakteristike ovih vozila bile su u skladu sa evropskim standardima, zbog čega smo se mi jako dobro nametnuli na tržištu Evrope i međunarodnih linija, počev od linija za Francusku (Monpelje, Lion i Pariz), Antverpen, Roterdam, Geteborgu, preko 17 gradova u Nemačkoj (Berlin, Štutgart, Frankfurt…) . Počeli smo da vozimo za Italiju sa novim vozilima, sa kvalitetom i dobrim odnosom prema putnicima i to je naravno rezultiralo zadovoljstvom. Ova vozila su predstavljala definitivno i neki novi period na putevima Evrope. Kada se nastupi sa novim, pouzdanim i kvalitetnim vozilima, tada se jednostavno stiče ugled u okviru saobraćajne struke. Ovo je bio dobar način da Lasta nametne svoj brend i zauzme dobru poziciju na tržištu transportnih usluga.
 
-#### U kojim sve izvedbama je bilo vozila?
+### U kojim sve izvedbama je bilo vozila?
 
 U početku smo nabavljali vozila od 12 m. Kasnije je došlo do promene, autobusi su i dalje bili na dve osovine, ali od 12.9 m. Kapacitet je na počeku je bio 49+1+1, nakon toga 53+1+1, zatim su došli i autobusi sa 3 osovine, takođe je bilo i dabldekera, Axiala 100, kapaciteta 83 mesta sa kabinom za pušenje. Sve je bilo u skladu sa evropskim standardima i u skladu sa politikom kompanije da ponudimo određeni kvalitet, a da ne smanjujemo komfor putnika time što ćemo dodati 2 ili 4 sedišta po autobusu. Mislim da je to značajno doprinelo, pošto su tu bila putovanja i od 24h za Pariz, 15 ili 20 sati za neke druge destinacije na jugu Francuske, 18 sati za Nemačku. Moralo se voditi računa da taj kvalitet koji se ponudi putnicima bude na jednom određenom nivou. Da biste ponudili kvalitet morate ponuditi udobnost sedenja, koja dolazi sa razmakom između sedišta.
 
-#### Kako je hronološki izgledala obnova voznog parka?
+### Kako je hronološki izgledala obnova voznog parka?
 
 U procesu obnove voznog parka, 2001. godine kupili smo 10 Axiala 70 i jednog Axiala 100. 2002. godine bilo je oko 20ak vozila u najvećoj meri Axial 100, 2003. bilo je 10ak Mistrala. U periodu od 2004. pa na dalje, uglavnom se radilo o sličnim izvedbama Axiala 70 na DAF-ovoj šasiji od 12.9 m. Bilo je samo malo varijacija kada se radi u materijalu sedišta, da li su bila u štofu, štofu u kombinaciji sa kožom, ili sama koža. To je zavisilo i od nekih naših potreba. Velikih odstupanja nije bilo zbog homogenizacije voznog parka i po pitanju pojednostavljenja samog procesa održavanja. U periodu od 2008. do 2013-14. pojavio se veliki broj polovnih autobusa koje smo kupovali u izvanrednom tehničkom stanju od turističke organizacije Kontiki koja je poslovala na holandskom tržištu. To su bili autobusi koji su stari od 2 do 4 godine sa vrlo malom kilometražom, dobri autobusi sa izvanredno dobrim tehničkim knjižicama. Shodno tome našli su svoje mesto na linijama kako u domaćem, tako i u međunarodnom linijskom i vanlinijskom prevozu. Saradnja sa MTA kompanijom, kasnije VDL Bus & Coach Srbija je uvek bila dobra, VDL se uvek trudio da nemamo problema u snabdevanju i da imamo rezervnih delova na lageru. Mi smo imali i svoj lager koji je bio kontrolisan od VDL-a, kako bismo mogli da održavamo naša vozila na adekvatan način. U slučajevima problema u otklanjanju kvarova, mogli smo koristiti redovnu liniju za Antverpen, Amsterdam i Roterdam, gde su vozila mogla u pauzi da svrate u fabriku da urade brzi servis ili neku intervenciju.
 
 {{< /collapsible >}}
 
-### VDL Berkhof sa blizu 4 milona kilometara
+## VDL Berkhof sa blizu 4 milona kilometara
 
 Prilikom realizacije našeg projekta, imali smo mogućnosti upoznati se sa jednim primerkom koji iza sebe ima neverovatnih 3.800.000 km! Reč je o jednom od 8 VDL Berkhof Axiala kompanije Severtrans, koji su novi u ovu kompaniju stigli 2004. godine. Pomenuto vozilo dugi niz godina saobraćalo je na međunarodnim linijama ka Nemačkoj i imalo je svoju redovnu tročlanu posadu. Zasluge što ovo vozilo posle 17 godina i gotovo 4.000.000 kilometara izgleda ovako, svakako pripadaju posadi. Važno je istaći da je ovaj Axial očuvaniji i od nekih mnogo mlađih primeraka. Enterijer vozila je još uvek u fabričkom izdanju, sa svim stočićima, pikslama i držačima za noge na mestu i u funkciji. U vozilu se i danas nalaze prvi motor i menjač, koji do sada nisu pravili nikakvih krupnijih problema.
 
