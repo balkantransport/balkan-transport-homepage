@@ -82,6 +82,28 @@ export function initCloseMenuOnOutsideClick() {
   });
 }
 
+export function initEmailLinks() {
+  const nodes = document.querySelectorAll("a.js-email");
+  if (!nodes.length) return;
+
+  nodes.forEach((a) => {
+    const user = a.getAttribute("data-email-user");
+    const domain = a.getAttribute("data-email-domain");
+    if (!user || !domain) return;
+
+    const email = `${user}@${domain}`;
+
+    const textNode = a.querySelector(".js-email-text");
+    if (textNode) {
+      textNode.textContent = email;
+    } else {
+      a.textContent = email;
+    }
+
+    a.href = `mailto:${email}`;
+  });
+}
+
 export function initGlobal() {
   if (__globalInited) return;
   __globalInited = true;
@@ -89,6 +111,7 @@ export function initGlobal() {
   initStickyNavigation();
   initDataBackground();
   initCloseMenuOnOutsideClick();
+  initEmailLinks();
 }
 
 initGlobal();

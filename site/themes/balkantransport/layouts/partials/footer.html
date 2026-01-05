@@ -43,9 +43,13 @@
             <img class="img-fluid mb-4" src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}">
           </a>
           <ul class="list-unstyled">
-            <li class="mb-4">{{ site.Params.address | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.email | markdownify }}</li>
-            <li class="mb-4">{{ site.Params.mobile | markdownify }}</li>
+            <!-- <li class="mb-4">{{ site.Params.address | markdownify }}</li> -->
+            <li class="mb-4">
+              <a class="js-email" data-email-user="{{ site.Params.emailUser }}" data-email-domain="{{ site.Params.emailDomain }}">
+                <span class="js-email-text"></span>
+              </a>
+            </li>
+            <!-- <li class="mb-4">{{ site.Params.mobile | markdownify }}</li> -->
           </ul>
         </div>
 
@@ -111,13 +115,11 @@
   </div>
 
   <!-- Copyright -->
-  <div class="copyright py-4 bg-footer">
+  <div class="copyright bg-footer">
     <div class="container">
       <div class="row">
+        
         <div class="col-md-7 text-md-left text-center">
-          <p class="mb-3 mb-md-0">{{ site.Params.copyright | markdownify }}</p>
-        </div>
-        <div class="col-md-5 text-md-right text-center">
           <ul class="list-inline">
             {{ range site.Params.social }}
               <li class="list-inline-item">
@@ -132,6 +134,9 @@
               </li>
             {{ end }}
           </ul>
+        </div>
+        <div class="col-md-5 text-md-right text-center">
+          <p class="">{{ .Site.Copyright | markdownify }}</p>
         </div>
       </div>
     </div>

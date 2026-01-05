@@ -38,16 +38,16 @@
   translation: Apply now
 
 - id: posted_by
-  translation: Posted by
+  translation: Autor
 
 - id: date
-  translation: Date
+  translation: Datum
 
 - id: time
   translation: time
 
 - id: category
-  translation: Category
+  translation: Kategorija
 
 - id: related_course
   translation: Related Course
