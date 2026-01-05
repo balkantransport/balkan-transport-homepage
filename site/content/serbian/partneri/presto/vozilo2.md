@@ -74,4 +74,8 @@ Takođe, radi se o modernom turističkom autobusu pogodnom za sve vrste putovanj
 
 ## Kontakt
 
+{{< photoswipe >}}
+
 ![VDL Futura FHD2 120-370‌‌ kontakt](/images/partners/presto/vozilo2/kontakt.webp "VDL Futura FHD2 120-370‌‌ kontakt")
+
+{{< /photoswipe >}}

@@ -1,14 +1,23 @@
 <!-- page title -->
-<section class="page-title-section overlay" style="background-image: url('{{ .Params.Bg_image | relURL}}'),url('{{`images/backgrounds/page-title.webp`| relURL}}'); background-position: top center; background-size: cover;" >
+<section
+  class="page-title-section overlay"
+  style="
+    background-image: url('{{ .Params.Bg_image | relURL}}'), url('{{ `images/backgrounds/page-title.webp` | relURL }}');
+    background-position: {{ .Params.bg_position | default "50% 50%" }};
+  "
+>
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        <ul class="list-inline custom-breadcrumb">
-          <!-- <li class="list-inline-item h2"><a class="text-primary-white font-secondary" href="{{ site.BaseURL | absLangURL }}">{{ site.Params.home }}</a></li>
-          <li class="list-inline-item h5"><i class="ti-angle-right text-white"></i></li> -->
-          <li class="list-inline-item text-white h3 font-secondary">{{ .Title }}</li>
-        </ul>
-        <p class="text-lighten">{{ .Params.Description | markdownify }}</p>
+        <h1 class="page-title text-white h3 font-secondary">
+          {{ .Title }}
+        </h1>
+
+        {{ with .Params.Description }}
+          <p class="text-lighten page-title-desc">
+            {{ . | markdownify }}
+          </p>
+        {{ end }}
       </div>
     </div>
   </div>

@@ -53,7 +53,7 @@ Sajam je još jednom potvrdio svoju ulogu vodeće globalne platforme za razmenu 
 
 Na Busworldu se tradicionalno dodeljuju prestižne nagrade u okviru takmičenja koje ocenjuje stručni žiri. Vozila se biraju i ocenjuju u više kategorija, na osnovu tehničkih karakteristika, bezbednosti, udobnosti, ekoloških performansi i dizajna.
 
-### 🌟 Glavne nagrade
+## 🌟 Glavne nagrade
 
 - **Grand Award Bus** explains *Yutong U15*  
   Najbolji autobus u svim kriterijumima: tehničkim, bezbednosnim, udobnosnim, ekološkim i dizajnerskim.
@@ -61,7 +61,7 @@ Na Busworldu se tradicionalno dodeljuju prestižne nagrade u okviru takmičenja 
 - **Grand Award Coach** — *Yutong T14E*  
   Najbolji turistički autobus u svim kriterijumima.
 
-### 🏅 Label of Excellence nagrade
+## 🏅 Label of Excellence nagrade
 
 - **Safety (Bus)** — *Yutong U15*  
   Vozilo sa najnaprednijim bezbednosnim sistemima po oceni žirija.
@@ -81,7 +81,7 @@ Na Busworldu se tradicionalno dodeljuju prestižne nagrade u okviru takmičenja 
 - **Comfort (Coach)** — *Setra S515HD*  
   Najudobniji turistički autobus po oceni žirija.
 
-### 🚀 Posebna nagrada
+## 🚀 Posebna nagrada
 
 - **Driveline Technology** — *Scania Irizar i6s Efficient PHEV*  
   Nagrada za inovativnu tehnologiju pogona i unapređene performanse hibridnih sistema.
