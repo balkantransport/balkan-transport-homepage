@@ -250,26 +250,20 @@ a h4{
   font-size: 36px;
 }
 
-
-
-/* PAGE HEADER / HERO */
 section.page-title-section {
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
 
-  /* da tekst ne ide pod nav */
   padding: 190px 0 80px !important;
   min-height: 320px !important;
 }
 
-/* PLAVI overlay (kao ranije) */
 section.page-title-section.overlay::before {
   content: "";
   position: absolute;
   inset: 0;
 
-  /* plavi/navy gradient umesto crnog */
   background: linear-gradient(
     180deg,
     rgba(10, 18, 60, 0.55) 0%,
@@ -279,7 +273,6 @@ section.page-title-section.overlay::before {
   pointer-events: none;
 }
 
-/* dodatna “plava senka”/depth pri dnu (opcioni, ali baš daje taj premium look) */
 section.page-title-section::after {
   content: "";
   position: absolute;
@@ -288,7 +281,6 @@ section.page-title-section::after {
   pointer-events: none;
 }
 
-/* sadržaj iznad overlay-a */
 section.page-title-section > .container {
   position: relative;
   z-index: 2;
@@ -304,57 +296,30 @@ section.page-title-section .page-title-desc {
   max-width: 60ch;
 }
 
-/* SIGURAN FIX: H1 da se vidi na mobilnom */
 @media (max-width: 768px) {
   section.page-title-section {
     padding-top: 170px !important;
     padding-bottom: 44px !important;
-    min-height: 0 !important;
   }
 
-  /* forsiraj da H1 bude vidljiv i ne pregaze ga rules iz teme */
   section.page-title-section .page-title {
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-
-    /* da ne bude ogroman i da stane */
     font-size: 32px !important;
-    line-height: 1.15 !important;
-    margin: 0 0 10px 0 !important;
+    line-height: 1.15;
+    margin-bottom: 10px;
   }
 
-  /* opis je kod tebe dug i gura layout, pa ga malo “stisni” */
   section.page-title-section .page-title-desc {
     font-size: 16px;
     line-height: 1.55;
-    margin: 0 !important;
-
-    /* opcionalno: na baš malom da ne pojede hero */
-    display: -webkit-box;
-    -webkit-line-clamp: 3;     /* pokaži 3 linije */
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    margin: 0;
   }
 }
 
 @media (max-width: 480px) {
-  section.page-title-section {
-    padding-top: 170px !important;
-    padding-bottom: 40px !important;
-  }
-
   section.page-title-section .page-title {
     font-size: 28px !important;
   }
-
-  section.page-title-section .page-title-desc {
-    -webkit-line-clamp: 2;     /* još kraće na baš malom */
-  }
 }
-
-
-
 
 .custom-breadcrumb {
   li {
@@ -445,7 +410,6 @@ textarea.form-control{
 }
 
 .content {
-  /* === Global === */
   line-height: 1.65;
   font-size: 16px;
 
@@ -458,7 +422,6 @@ textarea.form-control{
 
   a { text-decoration: underline; }
 
-  /* === Headings === */
   h1, h2, h3, h4, h5, h6 {
     margin-bottom: 10px;
     font-weight: 700;
@@ -472,14 +435,12 @@ textarea.form-control{
     margin-bottom: 0.8rem;
   }
 
-  /* === Ordered lists === */
   ol {
     padding-left: 20px;
 
     li { margin-bottom: 0.5rem; }
   }
 
-  /* === Unordered lists === */
   ul {
     padding-left: 0;
 
