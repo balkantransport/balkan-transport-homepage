@@ -72,9 +72,9 @@
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.blog.title }}</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div class="border-top w-100 border-primary"></div>
           <div>
-            <a href="{{ `vesti` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
+            <a href="{{ `vesti` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
@@ -123,15 +123,15 @@
 
 <!-- services -->
 {{ if $data.homepage.course.enable }}
-<section class="section-sm">
+<section class="section section-services">
   <div class="container wide-container">
     <div class="row">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.course.title }}</h2>
-          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div class="border-top w-100 border-primary"></div>
           <div>
-            <a href="{{ `usluge` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3 d-none d-sm-block">{{ i18n "see_all" }}</a>
+            <a href="{{ `usluge` | relLangURL }}" class="btn btn-card-light-premium ml-sm-3">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
@@ -146,12 +146,6 @@
       {{ end }}
     </div>
     <!-- /services list -->
-    <!-- mobile see all button -->
-    <div class="row">
-      <div class="col-12 text-center">
-        <a href="{{ `usluge` | relLangURL }}" class="btn btn-card-solid-premium d-sm-none d-inline-block">{{ i18n "see_all" }}</a>
-      </div>
-    </div>
   </div>
 </section>
 {{ end }}

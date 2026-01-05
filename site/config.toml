@@ -30,9 +30,10 @@ logo = "images/icons/apple-touch-icon-120x120.png"
 description = "Sve o aktuelnostima iz sveta saobraćaja, transporta i turizma."
 author = "Balkan Transport"
 # contact info
-# address = "Neka adresa 123/45" - Ovo cemo vratiti u buducnosti kao i google maps
+# address = "Beograd, Srbija"
 # mobile = "+381631341765"
-email = "balkantransportdoo@gmail.com"
+emailUser = "balkantransportdoo"
+emailDomain = "gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -109,7 +110,7 @@ languageName = "Srb"
 languageCode = "sr"
 contentDir = "content/serbian"
 # copyright
-copyright = "Copyright &copy; 2021 Balkan Transport"
+copyright = "Copyright &copy; 2026 Balkan Transport"
 
 
 

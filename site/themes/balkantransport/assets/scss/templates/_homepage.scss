@@ -60,11 +60,16 @@
 
 .section.section-blog {
   padding-top: 60px;
-  padding-bottom: 20px;
+  padding-bottom: 25px;
+}
+
+.section.section-services {
+  padding-top: 30px;
+  padding-bottom: 0px;
 }
 
 .section.section-about {
-  padding-top: 20px;
+  padding-top: 0px;
   padding-bottom: 40px;
 }
 
@@ -340,6 +345,8 @@
 }
 
 .bg-footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
   background-color: $secondary-color2;
 }
 
@@ -349,6 +356,8 @@
 }
 
 .footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
   border-color: #494a43 !important;
   color: #8996a7;
 
@@ -365,6 +374,7 @@
 .copyright p {
   color: #8996a7;
   text-transform: capitalize;
+  margin-bottom: 0px;
 }
 
 /* /footer */
