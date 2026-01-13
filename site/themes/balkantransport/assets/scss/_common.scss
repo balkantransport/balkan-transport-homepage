@@ -1034,3 +1034,15 @@ section > .container .vehicle-icons-flex img {
     display: inline-flex !important;
   }
 }
+
+.not-found-section {
+  min-height: 300px;
+}
+
+.not-found-section .content h3 {
+  margin-top: 0px;
+}
+
+.not-found-section .content a {
+  text-decoration: none;
+}
