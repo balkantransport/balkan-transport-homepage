@@ -1024,3 +1024,13 @@ section > .container .vehicle-icons-flex img {
   font-size: 13px;
   opacity: .8;
 }
+
+.is-mobile-only {
+  display: none !important;
+}
+
+@media (max-width: 991px) {
+  .is-mobile-only {
+    display: inline-flex !important;
+  }
+}
