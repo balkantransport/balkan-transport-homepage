@@ -24,7 +24,6 @@ Značajan deo autobusa koji će biti isporučeni biće **potpuno električni**, 
 
 {{< photoswipe >}}
 
-![Deutsche Bahn MAN](/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img1.webp)
 ![Deutsche Bahn MAN](/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img2.webp)
 ![Deutsche Bahn MAN](/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img3.webp)
 ![Deutsche Bahn MAN](/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img4.webp)
