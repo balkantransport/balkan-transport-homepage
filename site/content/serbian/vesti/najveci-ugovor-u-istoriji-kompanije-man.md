@@ -3,7 +3,8 @@ title: "Deutsche Bahn zaključio okvirni sporazum za više od 3.000 autobusa"
 date: 2026-01-12T00:00:00+06:00
 bg_image: "images/backgrounds/blog/najveci-ugovor-u-istoriji-kompanije-man-background.webp"
 description : "Najveći ugovor za autobuse u istoriji kompanije: MAN i Deutsche Bahn potpisali okvirni sporazum za više od 3.000 autobusa."
-image: "https://www.balkantransport.net/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img1.webp"
+image: "/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img1.webp"
+metaImage: "/images/blog/najveci-ugovor-u-istoriji-kompanije-man/img2.jpg"
 author: "Luka Kalinić"
 categories: ["Gradski prevoz", "Prevoznici", "Autobusi"]
 tags: ["Gradski autobus", "Gradski prevoz", "Man"]
