@@ -967,3 +967,60 @@ section > .container .vehicle-icons-flex img {
     justify-self: end;
   }
 }
+
+.bt-share {
+  margin: 0 0 22px 0;
+}
+
+.bt-share--bottom {
+  border-bottom: 1px solid rgba(0,0,0,.12);
+  padding: 0 0 14px 0;
+}
+
+.bt-share__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.bt-share__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.bt-share__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 10px;
+  text-decoration: none;
+  background: #fff;
+  cursor: pointer;
+  line-height: 1;
+  font-size: 14px;
+}
+
+.bt-share__btn:hover {
+  border-color: rgba(0,0,0,.28);
+}
+
+.bt-share__svg {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bt-share__svg svg {
+  display: block;
+}
+
+.bt-share__hint {
+  margin-top: 10px;
+  font-size: 13px;
+  opacity: .8;
+}

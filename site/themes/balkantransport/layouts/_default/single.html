@@ -67,6 +67,9 @@
             </div>
           {{ end }}
 
+          <div class="col-12 content">
+            {{ partial "share-bottom.html" . }}
+          </div>
 
           <!-- comments -->
           {{ if .Site.Config.Services.Disqus.Shortname }}

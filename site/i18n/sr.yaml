@@ -129,3 +129,21 @@
 
 - id: partners
   translation: Partneri
+
+- id: share
+  translation: Podeli
+
+- id: share_system 
+  translation: Podeli
+
+- id: copy_link
+  translation: Kopiraj link
+
+- id: copied
+  translation: Kopirano!
+
+- id: copied_hint
+  translation: Link je kopiran u clipboard.
+
+- id: copy_failed
+  translation: Ne mogu da kopiram link u ovom browseru.
