@@ -51,20 +51,20 @@
           </div>
 
           {{ with .Params.videoUrl }}
-            <div class="bt-news-video mb-10">
-              <iframe
-                class="bt-video-iframe"
-                src="{{ . | safeURL }}"
-                title="{{ $.Params.title }}"
-                loading="lazy"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen
-                referrerpolicy="strict-origin-when-cross-origin">
-              </iframe>
-            </div>
-            <div class="col-12">
-              <hr class="mb-30">
-            </div>
+          <div class="bt-news-video mb-10">
+            <iframe
+              class="bt-video-iframe"
+              src="{{ . | safeURL }}"
+              title="{{ $.Params.title }}"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              referrerpolicy="strict-origin-when-cross-origin">
+            </iframe>
+          </div>
+          <div class="col-12">
+            <hr>
+          </div>
           {{ end }}
 
           <div class="col-12 content">
