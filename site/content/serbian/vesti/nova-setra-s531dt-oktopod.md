@@ -3,7 +3,8 @@ title: "Nova Setra S531DT isporučena agenciji Oktopod Travel"
 date: 2025-11-26T00:00:00+06:00
 bg_image: "images/backgrounds/blog/nova-setra-s531dt-oktopod-background.webp"
 description : "Oktopod Travel je sredinom novembra postao vlasnik nove Setre S531DT, koja je sada dvanaesti član voznog parka Oktopod Travela."
-image: "https://www.balkantransport.net/images/blog/nova-setra-s531dt-oktopod/img1.webp"
+image: "/images/blog/nova-setra-s531dt-oktopod/img1.webp"
+metaImage: "/images/blog/nova-setra-s531dt-oktopod/img1.jpg"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "Iznajmljivanje autobusa", "oktopod", "setra"]
