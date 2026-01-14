@@ -3,7 +3,8 @@ title: "IVECO CROSSWAY autobusi za LEGO zaposlene u Mađarskoj"
 date: 2026-01-09T00:00:00+06:00
 bg_image: "images/backgrounds/blog/lego-iveco-crossway-autobusi-madjarska-background.webp"
 description : "U Mađarskoj, flota od **15 IVECO CROSSWAY autobusa**, dekorisanih u prepoznatljivim bojama brenda **LEGO®**, svakodnevno saobraća ulicama grada **Njiređhaza (Nyíregyháza)**, prevozeći gotovo **2.000 zaposlenih** između njihovih domova i radnih mesta."
-image: "https://www.balkantransport.net/images/blog/lego-iveco-crossway-autobusi-madjarska/img1.webp"
+image: "/images/blog/lego-iveco-crossway-autobusi-madjarska/img1.webp"
+metaImage: "/images/blog/lego-iveco-crossway-autobusi-madjarska/img1.jpg"
 author: "Luka Kalinić"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Iznajmljivanje autobusa", "iveco"]

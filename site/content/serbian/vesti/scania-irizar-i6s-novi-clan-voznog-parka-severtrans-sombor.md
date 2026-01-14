@@ -3,7 +3,8 @@ title: "Scania Irizar i6s 15 HDH - novost u voznom parku Severtransa"
 date: 2025-11-16T00:00:00+06:00
 bg_image: "images/backgrounds/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor-background.webp"
 description : "Kraj godine donosi mnogo radosti, tako i u Sombor stiže najnovija verzija modela Scania Irizar i6s u najdužoj verziji od 15 metara."
-image: "https://www.balkantransport.net/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.webp"
+image: "/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.webp"
+metaImage: "/images/blog/scania-irizar-i6s-novi-clan-voznog-parka-severtrans-sombor/img1.jpg"
 author: "Dušan Beraja"
 categories: ["Prevoznici", "Autobusi"]
 tags: ["Turistički autobusi", "iznajmljivanje autobusa", "severtrans", "scania", "irizar"]
