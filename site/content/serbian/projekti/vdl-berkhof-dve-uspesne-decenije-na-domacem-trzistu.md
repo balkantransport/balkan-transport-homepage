@@ -2,33 +2,33 @@
 title: "VDL Berkhof: Dve uspešne decenije na domaćem tržištu"
 publishDate: "2019-11-30T00:00:00+06:00"
 date: "2019-11-30T00:00:00+06:00"
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img3.webp"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img3.webp"
 description : "VDL Grupa je osnovana 1953. godine u Ajndhovenu u Holandiji. U sklopu VDL Grupe poslovale su podružnice koje su imale najveći vid autonomije i samostalnosti u poslovanju."
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1.jpg"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img1.jpg"
 partners:
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo1.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo1.webp"
     page: "presto"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo2.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo2.webp"
     page: "janjusevic"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo3.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo3.webp"
     page: "lastra"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo4.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo4.webp"
     page: "severtrans"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo5.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo5.webp"
     page: "autokodeks"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo6.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo6.webp"
     page: "md-touristic-international"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo7.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo7.webp"
     page: "lasta"
 
-  - image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo8.webp"
+  - image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/logo8.webp"
 
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu"
 ---
@@ -115,16 +115,16 @@ Vozilo pokreće Euro 3 DAF agregat sa 380 KS i može smestiti 49 putnika i 2 čl
 
 {{< photoswipe >}}
 
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img9.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img10.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img11.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img12.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img13.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img14.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img15.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img16.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img17.webp "VDL Berkhof Severtrans")
-![VDL Berkhof Severtrans](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img18.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img9.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img10.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img11.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img12.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img13.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img14.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img15.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img16.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img17.webp "VDL Berkhof Severtrans")
+![VDL Berkhof Severtrans](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/img18.webp "VDL Berkhof Severtrans")
 
 {{< /photoswipe >}}
 

@@ -1,8 +1,8 @@
 ---
 title: Lastra Lazarevac
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/lastra-background.webp"
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img1.jpg"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/lastra-background.webp"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img1.jpg"
 description : "Kompanija Lastra jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/rutX648PJN0"
@@ -32,9 +32,9 @@ Vozilo pokreće Euro 3 agregat od 380 KS. Uzevši u obzir godište i pređenu ki
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija, 12 m (Beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img2.webp "VDL Berkhof Axial 70, II generacija, 12 m (Beli)")
-![VDL Berkhof Axial 70, II generacija, 12 m (Beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img7.webp "VDL Berkhof Axial 70, II generacija, 12 m (Beli)")
-![VDL Berkhof Axial 70, II generacija, 12 m (Beli)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img5.webp "VDL Berkhof Axial 70, II generacija, 12 m (Beli)")
+![VDL Berkhof Axial 70, II generacija, 12 m (Beli)](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img2.webp "VDL Berkhof Axial 70, II generacija, 12 m (Beli)")
+![VDL Berkhof Axial 70, II generacija, 12 m (Beli)](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img7.webp "VDL Berkhof Axial 70, II generacija, 12 m (Beli)")
+![VDL Berkhof Axial 70, II generacija, 12 m (Beli)](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img5.webp "VDL Berkhof Axial 70, II generacija, 12 m (Beli)")
 
 {{< /photoswipe >}}
 
@@ -46,10 +46,10 @@ Vozilo može smestiti 53 putnika sa 2 člana posade. Takođe se radi o turistič
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img6.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img3.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img4.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img8.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img6.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img3.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img4.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img8.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
 
 {{< /photoswipe >}}
 
@@ -61,9 +61,9 @@ Sa ostalih aspekata, ovaj primerak je sličan prvom predstavniku kompanije Lastr
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija, 12 m (Plavi)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img9.webp "VDL Berkhof Axial 70, II generacija, 12 m (Plavi)")
-![VDL Berkhof Axial 70, II generacija, 12 m (Plavi)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img10.webp "VDL Berkhof Axial 70, II generacija, 12 m (Plavi)")
-![VDL Berkhof Axial 70, II generacija, 12 m (Plavi)](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img11.webp "VDL Berkhof Axial 70, II generacija, 12 m (Plavi)")
+![VDL Berkhof Axial 70, II generacija, 12 m (Plavi)](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img9.webp "VDL Berkhof Axial 70, II generacija, 12 m (Plavi)")
+![VDL Berkhof Axial 70, II generacija, 12 m (Plavi)](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img10.webp "VDL Berkhof Axial 70, II generacija, 12 m (Plavi)")
+![VDL Berkhof Axial 70, II generacija, 12 m (Plavi)](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img11.webp "VDL Berkhof Axial 70, II generacija, 12 m (Plavi)")
 
 {{< /photoswipe >}}
 
@@ -71,14 +71,14 @@ Sa ostalih aspekata, ovaj primerak je sličan prvom predstavniku kompanije Lastr
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img12.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img13.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img14.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img15.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img16.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img17.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img18.webp "VDL Berkhof Axial 70")
-![VDL Berkhof Axial 70, II generacija](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img19.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img12.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img13.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img14.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img15.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img16.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img17.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img18.webp "VDL Berkhof Axial 70")
+![VDL Berkhof Axial 70, II generacija](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lastra/img19.webp "VDL Berkhof Axial 70")
 
 {{< /photoswipe >}}
 

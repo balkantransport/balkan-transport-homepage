@@ -1,8 +1,8 @@
 ---
 title: Janjušević Priboj
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/janjusevic-background.webp"
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img1.jpg"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/janjusevic-background.webp"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img1.jpg"
 description : "Kompanija Autoprevoz Janjušević jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/0WOI3zL_sbg"
@@ -28,15 +28,15 @@ Vozilo poseduje 2 LCD TV-a, toalet, USB i utičnice od 220V. Pokreće ga Euro 5 
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img2.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img3.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img4.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img5.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img6.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img7.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img8.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img9.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img10.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img2.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img3.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img4.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img5.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img6.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img7.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img8.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img9.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img10.webp "VDL Berkhof Axial 70, III generacija, 12 m")
 
 {{< /photoswipe >}}
 
@@ -50,15 +50,15 @@ Vozilo pokreće Euro 5 agregat sa 390 KS. I pored toga što ima 8 punih godina, 
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img11.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img12.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img13.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img14.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img15.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img16.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img17.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img18.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
-![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img19.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img11.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img12.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img13.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img14.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img15.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img16.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img17.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img18.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
+![VDL Berkhof Axial 70, III generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/janjusevic/img19.webp "VDL Berkhof Axial 70, III generacija, 12.9 m")
 
 {{< /photoswipe >}}
 
