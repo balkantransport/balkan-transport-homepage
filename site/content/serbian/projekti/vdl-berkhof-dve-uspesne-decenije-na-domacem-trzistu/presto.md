@@ -1,8 +1,8 @@
 ---
 title: Presto Beograd
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img1.jpg"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/presto-background.webp"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img1.jpg"
 description : "Kompanija Presto jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/l8Atme64l4k"
@@ -28,15 +28,15 @@ U ovom VDL Berkhofu se nalazi 51 Kielovo sedište za putnike, sa pojasevima na t
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img2.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img3.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img4.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img5.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img6.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img7.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img8.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img9.webp "VDL Berkhof Axial 70, III generacija, 12 m")
-![VDL Berkhof Axial 70, III generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img10.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img2.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img3.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img4.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img5.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img6.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img7.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img8.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img9.webp "VDL Berkhof Axial 70, III generacija, 12 m")
+![VDL Berkhof Axial 70, III generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img10.webp "VDL Berkhof Axial 70, III generacija, 12 m")
 
 {{< /photoswipe >}}
 
@@ -50,15 +50,15 @@ Ukoliko zanemarimo dekere, troosovinske izvedbe modela Axial su retke kod nas.
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img11.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img12.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img13.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img14.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img15.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img16.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img17.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img18.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img19.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img11.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img12.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img13.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img14.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img15.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img16.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img17.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img18.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/presto/img19.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
 
 {{< /photoswipe >}}
 

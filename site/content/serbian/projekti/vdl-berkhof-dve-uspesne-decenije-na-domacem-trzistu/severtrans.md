@@ -1,8 +1,8 @@
 ---
 title: Severtrans Sombor
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/severtrans-background.webp"
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img1.jpg"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/severtrans-background.webp"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img1.jpg"
 description : "Kompanija Severtrans jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/S5k5CLk96SI"
@@ -30,9 +30,9 @@ Kada je reč o motoru, radi se o Dafovom Euro 3 motoru sa 380 KS.
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img2.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img3.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
-![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img4.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img2.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img3.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
+![VDL Berkhof Axial 70, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img4.webp "VDL Berkhof Axial 70, II generacija, 12.9 m")
 
 {{< /photoswipe >}}
 
@@ -44,9 +44,9 @@ U opremu vozila se ubrajaju 3 LCD monitora, utičnice, audio oprema, toalet i kr
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img5.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img6.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
-![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img7.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img5.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img6.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
+![VDL Berkhof Axial 70, II generacija, 14.1 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img7.webp "VDL Berkhof Axial 70, II generacija, 14.1 m")
 
 {{< /photoswipe >}}
 
@@ -62,10 +62,10 @@ Kada je reč o opremi, vozilo ima 4 LCD monitora, audio opremu, toalet, kuhinju,
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 100](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img8.webp "VDL Berkhof Axial 100")
-![VDL Berkhof Axial 100](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img9.webp "VDL Berkhof Axial 100")
-![VDL Berkhof Axial 100](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img11.webp "VDL Berkhof Axial 100")
-![VDL Berkhof Axial 100](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img10.webp "VDL Berkhof Axial 100")
+![VDL Berkhof Axial 100](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img8.webp "VDL Berkhof Axial 100")
+![VDL Berkhof Axial 100](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img9.webp "VDL Berkhof Axial 100")
+![VDL Berkhof Axial 100](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img11.webp "VDL Berkhof Axial 100")
+![VDL Berkhof Axial 100](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img10.webp "VDL Berkhof Axial 100")
 
 {{< /photoswipe >}}
 
@@ -73,14 +73,14 @@ Kada je reč o opremi, vozilo ima 4 LCD monitora, audio opremu, toalet, kuhinju,
 
 {{< photoswipe >}}
 
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img12.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img13.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img14.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img15.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img16.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img17.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img18.webp "VDL Berkhof")
-![VDL Berkhof](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img19.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img12.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img13.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img14.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img15.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img16.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img17.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img18.webp "VDL Berkhof")
+![VDL Berkhof](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/severtrans/img19.webp "VDL Berkhof")
 
 {{< /photoswipe >}}
 

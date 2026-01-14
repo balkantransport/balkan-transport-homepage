@@ -1,8 +1,8 @@
 ---
 title: Lasta Beograd
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/lasta-background.webp"
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.jpg"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/lasta-background.webp"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.jpg"
 description : "Kompanija Lasta jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/YimWIhJvBj4"
@@ -30,10 +30,10 @@ Ovo je jedan od retkih VDL Berkhof Axiala prve generacije na našim putevima.
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img2.webp "VDL Berkhof Axial 70, I generacija, 12 m")
-![VDL Berkhof Axial 70, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img3.webp "VDL Berkhof Axial 70, I generacija, 12 m")
-![VDL Berkhof Axial 70, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img4.webp "VDL Berkhof Axial 70, I generacija, 12 m")
-![VDL Berkhof Axial 70, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img5.webp "VDL Berkhof Axial 70, I generacija, 12 m")
+![VDL Berkhof Axial 70, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img2.webp "VDL Berkhof Axial 70, I generacija, 12 m")
+![VDL Berkhof Axial 70, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img3.webp "VDL Berkhof Axial 70, I generacija, 12 m")
+![VDL Berkhof Axial 70, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img4.webp "VDL Berkhof Axial 70, I generacija, 12 m")
+![VDL Berkhof Axial 70, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img5.webp "VDL Berkhof Axial 70, I generacija, 12 m")
 
 {{< /photoswipe >}}
 
@@ -51,11 +51,11 @@ Prvenstveno u vozilima se ugrađuju CRT televizori, nešto većih dimenzija, dok
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, 2007.](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img6.webp "VDL Berkhof Axial 70, 2007.")
-![VDL Berkhof Axial 70, 2007.](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img7.webp "VDL Berkhof Axial 70, 2007.")
-![VDL Berkhof Axial 70, 2007.](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img8.webp "VDL Berkhof Axial 70, 2007.")
-![VDL Berkhof Axial 70, 2007.](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img9.webp "VDL Berkhof Axial 70, 2007.")
-![VDL Berkhof Axial 70, 2007.](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img10.webp "VDL Berkhof Axial 70, 2007.")
+![VDL Berkhof Axial 70, 2007.](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img6.webp "VDL Berkhof Axial 70, 2007.")
+![VDL Berkhof Axial 70, 2007.](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img7.webp "VDL Berkhof Axial 70, 2007.")
+![VDL Berkhof Axial 70, 2007.](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img8.webp "VDL Berkhof Axial 70, 2007.")
+![VDL Berkhof Axial 70, 2007.](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img9.webp "VDL Berkhof Axial 70, 2007.")
+![VDL Berkhof Axial 70, 2007.](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img10.webp "VDL Berkhof Axial 70, 2007.")
 
 {{< /photoswipe >}}
 
@@ -63,13 +63,13 @@ Prvenstveno u vozilima se ugrađuju CRT televizori, nešto većih dimenzija, dok
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img11.webp "VDL Berkhof Axial 70, 2011. \#9186")
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img12.webp "VDL Berkhof Axial 70, 2011. \#9186")
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img13.webp "VDL Berkhof Axial 70, 2011. \#9186")
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img14.webp "VDL Berkhof Axial 70, 2011. \#9186")
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img15.webp "VDL Berkhof Axial 70, 2011. \#9186")
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img16.webp "VDL Berkhof Axial 70, 2011. \#9186")
-![VDL Berkhof Axial 70, 2011. \#9186](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img17.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img11.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img12.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img13.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img14.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img15.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img16.webp "VDL Berkhof Axial 70, 2011. \#9186")
+![VDL Berkhof Axial 70, 2011. \#9186](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img17.webp "VDL Berkhof Axial 70, 2011. \#9186")
 
 {{< /photoswipe >}}
 
@@ -77,12 +77,12 @@ Prvenstveno u vozilima se ugrađuju CRT televizori, nešto većih dimenzija, dok
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70, 2011. \#9182](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img18.webp "VDL Berkhof Axial 70, 2011. \#9182")
-![VDL Berkhof Axial 70, 2011. \#9182](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img19.webp "VDL Berkhof Axial 70, 2011. \#9182")
-![VDL Berkhof Axial 70, 2011. \#9182](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img20.webp "VDL Berkhof Axial 70, 2011. \#9182")
-![VDL Berkhof Axial 70, 2011. \#9182](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img21.webp "VDL Berkhof Axial 70, 2011. \#9182")
-![VDL Berkhof Axial 70, 2011. \#9182](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img22.webp "VDL Berkhof Axial 70, 2011. \#9182")
-![VDL Berkhof Axial 70, 2011. \#9182](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img23.webp "VDL Berkhof Axial 70, 2011. \#9182")
+![VDL Berkhof Axial 70, 2011. \#9182](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img18.webp "VDL Berkhof Axial 70, 2011. \#9182")
+![VDL Berkhof Axial 70, 2011. \#9182](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img19.webp "VDL Berkhof Axial 70, 2011. \#9182")
+![VDL Berkhof Axial 70, 2011. \#9182](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img20.webp "VDL Berkhof Axial 70, 2011. \#9182")
+![VDL Berkhof Axial 70, 2011. \#9182](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img21.webp "VDL Berkhof Axial 70, 2011. \#9182")
+![VDL Berkhof Axial 70, 2011. \#9182](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img22.webp "VDL Berkhof Axial 70, 2011. \#9182")
+![VDL Berkhof Axial 70, 2011. \#9182](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img23.webp "VDL Berkhof Axial 70, 2011. \#9182")
 
 {{< /photoswipe >}}
 
@@ -96,16 +96,16 @@ Vozilo poseduje veliki toalet i kuhinju na kraju vozila. Kuhinja je izuzetno opr
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img24.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img25.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img26.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img27.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img28.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img29.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img30.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img31.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img32.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
-![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img33.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img24.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img25.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img26.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img27.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img28.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img29.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img30.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img31.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img32.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
+![VDL Berkhof Axial 70 VIP, I generacija, 12 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img33.webp "VDL Berkhof Axial 70 VIP, I generacija, 12 m")
 
 {{< /photoswipe >}}
 
@@ -115,16 +115,16 @@ Ovaj VIP Axial je proizveden 2004. godine i pokreće ga Euro 3 motor sa 380 KS. 
 
 {{< photoswipe >}}
 
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img34.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img35.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img36.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img37.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img38.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img39.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img40.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img41.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img42.webp "VDL Berkhof Lasta")
-![VDL Berkhof Lasta](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img43.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img34.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img35.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img36.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img37.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img38.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img39.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img40.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img41.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img42.webp "VDL Berkhof Lasta")
+![VDL Berkhof Lasta](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img43.webp "VDL Berkhof Lasta")
 
 {{< /photoswipe >}}
 

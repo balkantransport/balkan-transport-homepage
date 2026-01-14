@@ -1,8 +1,8 @@
 ---
 title: MD Touristic International Beograd
-bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/md-touristic-international-background.webp"
-image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.webp"
-metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.jpg"
+bg_image: "images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/md-touristic-international-background.webp"
+image: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.webp"
+metaImage: "/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.jpg"
 description : "Kompanija MD Touristic International jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/a6K87Sjeq1U"
@@ -26,16 +26,16 @@ Model koji učestvuje u našem projektu proizveden je 2005. godine, ima 57 Vogel
 
 {{< photoswipe >}}
 
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img2.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img3.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img4.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img5.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img6.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img7.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img8.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img9.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img10.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
-![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img11.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img2.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img3.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img4.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img5.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img6.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img7.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img8.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img9.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img10.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
+![VDL Berkhof Axial 50, II generacija, 12.9 m](/images/projekti/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img11.webp "VDL Berkhof Axial 50, II generacija, 12.9 m")
 
 {{< /photoswipe >}}
 
