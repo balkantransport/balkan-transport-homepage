@@ -17,6 +17,10 @@
 
 <div class="bt-share bt-share--bottom" data-share-url="{{ $url }}" data-share-title="{{ $title }}">
   <div class="bt-share__inner">
+    <div class="bt-share__meta">
+      <span class="bt-share__meta-icon" aria-hidden="true">🔗</span>
+      <span class="bt-share__meta-label">{{ i18n "share" | default "Podeli" }}</span>
+    </div>
 
     <div class="bt-share__actions">
       <!-- Facebook -->

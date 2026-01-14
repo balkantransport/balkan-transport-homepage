@@ -980,15 +980,25 @@ section > .container .vehicle-icons-flex img {
 .bt-share__inner {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   gap: 12px;
   flex-wrap: wrap;
 }
 
+.bt-share__meta{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  flex:0 0 auto;
+}
+
 .bt-share__actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  margin-left:auto;
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  justify-content:flex-end;
+  flex:1 1 420px;
+  min-width:0;
 }
 
 .bt-share__btn {
@@ -1020,6 +1030,7 @@ section > .container .vehicle-icons-flex img {
 }
 
 .bt-share__hint {
+  text-align: right;
   margin-top: 10px;
   font-size: 13px;
   opacity: .8;
@@ -1032,6 +1043,22 @@ section > .container .vehicle-icons-flex img {
 @media (max-width: 991px) {
   .is-mobile-only {
     display: inline-flex !important;
+  }
+
+  .bt-share__meta{
+    flex: 0 0 100%;
+    width: 100%;
+  }
+
+  .bt-share__actions{
+    margin-left: 0;
+    justify-content: flex-start;
+    flex: 0 0 100%;
+    width: 100%;
+  }
+
+  .bt-share__hint {
+    text-align: left;
   }
 }
 
