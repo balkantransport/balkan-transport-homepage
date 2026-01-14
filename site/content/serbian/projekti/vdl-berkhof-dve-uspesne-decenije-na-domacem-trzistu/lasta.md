@@ -1,7 +1,8 @@
 ---
 title: Lasta Beograd
 bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/lasta-background.webp"
-image: "https://www.balkantransport.net/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.webp"
+image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.webp"
+metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/lasta/img1.jpg"
 description : "Kompanija Lasta jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/YimWIhJvBj4"

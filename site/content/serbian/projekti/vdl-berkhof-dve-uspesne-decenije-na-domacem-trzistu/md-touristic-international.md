@@ -1,7 +1,8 @@
 ---
 title: MD Touristic International Beograd
 bg_image: "images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/md-touristic-international-background.webp"
-image: "https://www.balkantransport.net/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.webp"
+image: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.webp"
+metaImage: "/images/projects/vdl_berkhof_dve_uspesne_decenije_u_Srbiji/md-touristic-international/img1.jpg"
 description : "Kompanija MD Touristic International jedan je od 7 ponosnih partnera koji učestvuju u projektu VDL Berkhof: Dve uspešne decenije na domaćem tržištu, u realizaciji Balkan Transporta u saradnji sa VDL Bus & Coach Serbia."
 type: "projekti/vdl-berkhof-dve-uspesne-decenije-na-domacem-trzistu/partneri"
 videoUrl: "https://www.youtube.com/embed/a6K87Sjeq1U"
