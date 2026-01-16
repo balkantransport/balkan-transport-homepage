@@ -13,7 +13,7 @@ pageUrl: "blog/novi-citaro-g-za-arriva-budimpestu"
 type: "post"
 ---
 
-Od 5. januara putnici na dvojnim budimpeštanskim linijama 110 i 112 mogu da putuju potpuno novim zglobnim autobusima. Sa početkom nove školske godine 2026, na ovim linijama uvedena je promena vozila — umesto solo autobusa, od danas isključivo saobraćaju novi Mercedes-Benz Citaro G zglobni autobusi u režiji ArrivaBus-a. :contentReference[oaicite:0]{index=0}
+Od 5. januara putnici na budimpeštanskim linijama 110 i 112 mogu da putuju potpuno novim zglobnim autobusima. Sa početkom nove školske godine 2026, na ovim linijama uvedena je promena vozila — umesto solo autobusa, od danas isključivo saobraćaju novi Mercedes-Benz Citaro G zglobni autobusi u režiji ArrivaBus-a.
 
 {{< photoswipe >}}
 
