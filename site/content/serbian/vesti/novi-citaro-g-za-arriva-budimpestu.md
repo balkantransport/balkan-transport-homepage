@@ -4,7 +4,7 @@ date: 2026-01-16T00:00:00+06:00
 bg_image: "images/backgrounds/blog/novi-citaro-g-za-arriva-budimpestu-background.webp"
 description : "ArrivaBus je od 5. januara 2026. uveo nove Mercedes-Benz Citaro G zglobne autobuse na linijama 110 i 112 u Budimpešti, čime je kapacitet prevoza povećan za više od 40%."
 image: "/images/blog/novi-citaro-g-za-arriva-budimpestu/img1.webp"
-metaImage: "/images/blog/novi-citaro-g-za-arriva-budimpestu/img2.jpg"
+metaImage: "/images/blog/novi-citaro-g-za-arriva-budimpestu/img1.jpg"
 author: "Luka Kalinić"
 categories: ["Gradski prevoz", "Prevoznici", "Autobusi"]
 tags: ["Gradski autobus", "Gradski prevoz", "Mercedes benz"]
