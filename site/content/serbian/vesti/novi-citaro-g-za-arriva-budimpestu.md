@@ -29,13 +29,13 @@ Od 5. januara putnici na budimpeštanskim linijama 110 i 112 mogu da putuju potp
 
 Ova promena donosi povećanje kapaciteta i bolji nivo usluge, i deo je šireg programa podmlađivanja voznog parka u Budimpešti, u okviru kojeg stotine novih savremenih autobusa, uključujući i električne, ulazi u saobraćaj.
 
-Iako su se povremeno pojavili zglobni autobusi na ovim linijama — pre svega usled saobraćajnih poremećaja ili zamene vozila — do sada su linije redovno bile operisane samo solo autobusima. Među njima su bili i stariji Mercedes-Benz Conecto autobusi sa više od milion pređenih kilometara.
+Iako su se povremeno pojavljivali zglobni autobusi na ovim linijama — pre svega usled saobraćajnih gužvi ili zamene vozila — do sada su linije redovno bile opsluživane samo solo autobusima. Među njima su bili i stariji Mercedes-Benz Conecto autobusi sa više od milion pređenih kilometara.
 
-Jedan od razloga za ranije izbegavanje dugih autobusa bio je konfiguracija saobraćajnica na budimpeštanskom brdovitom delu grada, posebno kod krajnje stanice na Szent Orbán trgu i ulice Thomán István, gde je pre bilo teško upravljati dužim autobusima pri susretanju u uskim krivinama.
+Jedan od razloga za prethodno izbegavanje zglobnih autobusa bio je konfiguracija saobraćajnica na budimpeštanskom brdovitom delu grada, posebno kod krajnje stanice na Szent Orbán trgu i ulice Thomán István, gde je pre bilo teško upravljati dužim autobusima pri mimoilaženju u uskim krivinama.
 
 Međutim, Budimpeštanski saobraćajni centar (BKK) sada je pripremio potrebne saobraćajne i tehničke uslove da se prelazak na zglobne autobuse ostvari. Kao priprema, tokom decembra 2025. godine, na ovim linijama su već testno korišćeni noviji Mercedes-Benz Citaro G autobusi sa dodacima kao što su USB priključci za punjenje.
 
-Linije 110 i 112 povezuju budimski brdoviti teren (uključujući oblasti Némethvölgy, Mártonhegy i Orbánhegy) sa Hegyalja ulicom i dalje prema centralnim delovima grada, a zatim kroz Thököly ulicu i saobraćaju prema Zugló-u. Prema saobraćajnim planovima, nova organizacija omogućava preko 40% veću kapacitetnost vozila za putnike.
+Linije 110 i 112 povezuju budimski brdoviti teren (uključujući oblasti Némethvölgy, Mártonhegy i Orbánhegy) sa Hegyalja ulicom i dalje prema centralnim delovima grada, a zatim kroz Thököly ulicu i saobraćaju prema Zugló-u. Prema saobraćajnim planovima, nova organizacija omogućava preko 40% veći kapacitet vozila za putnike.
 
 {{< photoswipe >}}
 
@@ -51,6 +51,6 @@ Ovaj prelazak na nove autobuse deo je plana podmlađivanja voznog parka koji tra
 
 Novi autobusi nude ne samo više prostora za putnike, već i savremen sistem klimatizacije, ugrađene kamere za bezbednost putnika i vozača, kao i napredne sisteme aktivne bezbednosti, uključujući senzore za nadzor mrtvog ugla i sistem za praćenje budnosti vozača.
 
-Izvor: **[magyarbusz.info/](https://magyarbusz.info)**
+Izvor: **[magyarbusz.info](https://magyarbusz.info)**
 
 ---
