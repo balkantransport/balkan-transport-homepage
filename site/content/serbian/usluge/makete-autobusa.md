@@ -1,6 +1,6 @@
 ---
 title: "Makete autobusa ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌  ‌‌  ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌ ‌‌‌‌ ‌‌ ‌‌"
-date: 2019-07-07T15:27:17+06:00
+date: 2049-07-07T15:27:17+06:00
 bg_image: "images/backgrounds/page-title.webp"
 description : "Izrada maketa autobusa u skladu sa sopstvenim zahtevima."
 image: "https://www.balkantransport.net/images/service/nasl-makete.webp"
