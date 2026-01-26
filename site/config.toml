@@ -198,6 +198,11 @@ hasChildren = true
   name = "Higer"
   url = "busworld2025/higer/"
 
+  [[Languages.sr.menu.main]]
+  parent = "Busworld 2025"
+  name = "VDL"
+  url = "busworld2025/vdl/"
+
 [[Languages.sr.menu.main]]
 weight = 5
 name = "Projekti"

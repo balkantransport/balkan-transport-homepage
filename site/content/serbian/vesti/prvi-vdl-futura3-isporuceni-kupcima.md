@@ -41,7 +41,7 @@ U petak, **23. januara 2026.**, četiri nova **VDL Futura 3 vozila dužine 12,9 
 
 ## Nova era udobnosti i efikasnosti
 
-Novi model je rezultat višegodišnjeg razvoja i prvi put je predstavljen **na sajmu Busworld Europe u Briselu u oktobru 2025.** Treća generacija Futura postavlja novi standard u segmentu **autobusa za daleka putovanja** sa posebnim fokusom na:
+Novi model je rezultat višegodišnjeg razvoja i prvi put je predstavljen **na sajmu [Busworld Europe u Briselu u oktobru 2025.](https://www.balkantransport.net/busworld2025/vdl/)** Treća generacija Futura postavlja novi standard u segmentu **autobusa za daleka putovanja** sa posebnim fokusom na:
 
 - **poboljšanu potrošnju goriva** zahvaljujući optimizovanoj aerodinamici i smanjenoj težini vozila — do **15% uštede** u odnosu na prethodne modele
 - **niže operativne i troškove održavanja**,  
