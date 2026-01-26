@@ -34,6 +34,9 @@ partners:
   - image : "images/busworld2025/unvi.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/unvi"
 
+  - image : "images/busworld2025/vdl.webp"
+    partnerUrl : "https://www.balkantransport.net/busworld2025/vdl"
+
   - image : "images/busworld2025/yutong.webp"
     partnerUrl : "https://www.balkantransport.net/busworld2025/yutong"
 
