@@ -1,6 +1,6 @@
 ---
 title: "Prvi VDL Futura 3 autobusi isporučeni kupcima"
-date: 2027-01-26T00:00:01+06:00
+date: 2026-01-28T00:00:01+06:00
 bg_image: "images/backgrounds/blog/prvi-vdl-futura3-isporuceni-kupcima-background.webp"
 description : "VDL Bus Group je isporučio prve VDL Futura 3 autobuse kupcima — novi model donosi bolju efikasnost, udobnost i niže operativne troškove."
 image: "/images/blog/prvi-vdl-futura3-isporuceni-kupcima/img1.webp"
