@@ -33,7 +33,7 @@ symbols:
   - image: "images/partners/symbols/navigacija.webp"
     desc: "Navigacija"
 
-type: "partneri/presto/vozilo"
+type: "partners/presto/vozilo"
 ---
 
 ---

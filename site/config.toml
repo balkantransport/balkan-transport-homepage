@@ -135,7 +135,7 @@ hasChildren = true
   [[Languages.sr.menu.main]]
   parent = "Partneri"
   name = "Presto"
-  url = "partneri/presto/"
+  url = "partners/presto/"
 
 [[Languages.sr.menu.main]]
 weight = 4
