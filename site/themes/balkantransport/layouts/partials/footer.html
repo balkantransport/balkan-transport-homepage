@@ -100,7 +100,7 @@
             <li class="mb-3">
               <a 
                 class="text-color" 
-                href="https://www.balkantransport.net/partneri/presto/" 
+                href="https://www.balkantransport.net/partners/presto/" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
@@ -182,14 +182,14 @@ window.addEventListener("load", () => {
   <script src="{{ $gallery.Permalink }}" defer></script>
 {{ end }}
 
-{{ if or (eq .Section "busworld2025") (eq .Section "projekti") (eq .Section "o-nama") (eq .Section "partneri") }}
+{{ if or (eq .Section "busworld2025") (eq .Section "projekti") (eq .Section "o-nama") (eq .Section "partners") }}
   {{ $funfacts := resources.Get "js/entry/funfacts-entry.js" | js.Build | minify }}
   <script src="{{ $funfacts.Permalink }}" defer></script>
 {{ end }}
 
 
 <!-- PHOTOSWIPE CONDITIONAL -->
-{{ if or (eq .Section "vesti") (eq .Section "projekti") (eq .Section "busworld2025") (eq .Type "usluge")  (eq .Section "partneri") }}
+{{ if or (eq .Section "vesti") (eq .Section "projekti") (eq .Section "busworld2025") (eq .Type "usluge")  (eq .Section "partners") }}
   {{ partial "photoswipe.html" . }}
 {{ end }}
 

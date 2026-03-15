@@ -4,7 +4,7 @@ bg_image: "images/backgrounds/partners/presto-future-background.webp"
 image: "https://www.balkantransport.net/images/partners/presto/img1.webp"
 kontakt: "images/partners/presto/kontakt.webp"
 description : "Kompanija Presto osnovana je 2001. godine i dugogodišnji je partner našeg tima. Kompanija Presto danas predstavlja kompaniju predvođenu entuzijastima i pravim zaljubljenicima u svoj posao."
-type: "partneri/presto"
+type: "partners/presto"
 ---
 
 Kompanija Presto na našem tržištu posluje od 2001. godine. Sami počeci rada kompanije vezuju se za gradski prevoz putnika na teritoriji glavnog grada naše zemlje. Nakon devetogodišnjeg rada na linijama na teritoriji grada Beograda, u kompaniju stiže turistički minibus. Kompanija Presto na svoju prvu vanlinijsku vožnju kreće 2010. godine. Nedugo zatim, usled potrebe tržišta, u vozni park kompanije stižu prvi turistički autobusi. Od 2013. godine u voznom parku kompanije nalaze se dva turistička autobusa.
